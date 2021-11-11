@@ -1,0 +1,11 @@
+
+{{/* Simple menu based on the Lazy menu for bloggers  */}}
+
+<nav class="top_menu">
+    <ul>
+        <li><a href="/">Home</a></li>
+        {{ range .Site.Menus.main }}
+        <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+        {{ end }}    
+    </ul>
+</nav>

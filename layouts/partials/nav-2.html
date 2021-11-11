@@ -1,0 +1,15 @@
+{{/*  Previously named header-2.html - not used I think  */}}
+
+<ul>
+    {{ range .Site.Menus.regions }}
+    <li>
+        <a href="{{ .URL }}">{{ .Name }}</a>
+        <ul>
+            {{ range site.Sections }}
+            <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+                
+            {{ end }}
+        </ul>
+    </li>
+    {{ end }}    
+</ul>

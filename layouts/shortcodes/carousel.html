@@ -1,0 +1,21 @@
+{{/* This code get images in the home-page/carousel and uses folder uses the file name for the caption. It's currently set for 7? photos. If there is more or less then the carousel.scss file needs to be edited accordingly. */}}
+
+
+{{ $carousel :=  .Site.GetPage "page" "home-page" }}
+
+{{ $imageNumber := len ($carousel.Page.Resources.Match "carousel/*") }}
+
+
+
+<div class="carousel">
+    {{ range $carousel.Page.Resources.Match "carousel/*" }}
+    <figure>
+        {{- $caption := replace .Name "-" " " -}}
+        {{- $caption2 := trim $caption "/carousel" -}}
+        <img src="{{.RelPermalink}}" alt="{{ trim $caption2 ".jpg" }}">
+        <figcaption>{{ trim $caption2 ".jpg" }}</figcaption>
+    </figure>
+
+    {{- end -}}
+</div>
+

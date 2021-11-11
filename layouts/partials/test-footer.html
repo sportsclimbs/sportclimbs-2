@@ -1,0 +1,21 @@
+    <footer class="test">
+        <h2>Debug Info</h2>
+        <div class="debug-info">
+            <ul>
+                <li>Type:<br> <i>{{ .Type }}</i> </li>
+                <li>Section:<br> <i>{{ .Section }}</i> </li>
+                <li>Kind:<br> <i>{{ .Kind }}</i> </li>
+                <li>Layout:<br> {{ .Layout }} </li>
+                <li style="grid-column: span 2;">Page:<br> {{ .Page }}</li>
+
+                <li style="grid-column: span 2;">.Parent<br> <i>{{ .Parent }}</i></li>
+                <li style="grid-column: span 2;">.CurrentSection:<br> {{ .CurrentSection }}</li>
+                <li style="grid-column: span 2;">.FirstSection:<br> {{ .FirstSection }}</li>
+                <li>.Section:<br> {{ .Section }}</li>
+                <li>.Sections:<br> {{ .Sections }}</li>
+            </ul>
+            <p>The site currently has {{ len .Site.RegularPages }} regular pages of a total of {{ len .Site.Pages }} pages, built with Hugo {{ hugo.Version }}</p>
+            
+
+        </div>
+    </footer>

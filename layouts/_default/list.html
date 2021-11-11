@@ -1,0 +1,15 @@
+{{ define "main" }}
+
+<header>
+    <h1>{{ .Title }}</h1>
+    {{ partial "breadcrumbs" . }}
+</header>
+
+{{ partial "cragnav" . }}
+
+<section class="content">
+    {{ .Content }}
+    {{ partial "map" . }}
+</section>
+    
+{{ end }}

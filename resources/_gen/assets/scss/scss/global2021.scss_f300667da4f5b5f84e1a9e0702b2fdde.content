@@ -1,0 +1,569 @@
+/* File updated 22/08/19 because of closure of open font library which supplied the font sansus webissimo for h1 headings. */
+@import url(../fonts/stylesheet.css);
+/* the problem was not going up a folder level first - duh! */
+@import url(../fonts/ptsans.css);
+@import url(http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css);
+@font-face {
+  font-family: 'Sansus Webissimo Regular';
+  font-style: normal;
+  font-weight: normal;
+  src: local("Sansus Webissimo Regular"), url("../fonts/Sansus Webissimo-Regular.woff") format("woff"); }
+
+/* @import url(http://openfontlibrary.org/face/sansus-webissimo); --- used for h1 headers, openfontlibrary no longer operates --- */
+/* --- used for maps --- */
+/* =================== MAIN STYLES START HERE ================= */
+*,
+*::before,
+*::after {
+  box-sizing: border-box; }
+
+:root {
+  --bgc: #f9d570;
+  --container-bg: #f2f2e8;
+  --txt-color: #292929;
+  --heading-color: hsl(0, 54%, 42%);
+  --h3-color: #555;
+  --border-color: #ccc;
+  --img-border: #bbb; }
+
+@media screen and (prefers-color-scheme: dark) {
+  :root {
+    --bgc: #433f32;
+    --container-bg: #2c2c29bb;
+    --txt-color: #f0d176;
+    --heading-color: hsl(0, 54%, 42%);
+    --h3-color: #979797;
+    --border-color: #444;
+    --img-border: #333; } }
+
+html {
+  font-size: 20px; }
+
+body {
+  background-color: var(--bgc);
+  background-image: url(/img/layered-peaks-2.svg);
+  background-attachment: fixed;
+  background-size: cover;
+  margin: 0;
+  padding: 0;
+  color: var(--txt-color); }
+
+p,
+li,
+h2,
+h3,
+h4,
+h5,
+footer {
+  font-family: 'PT Sans', 'open_sansregular', 'segoe ui', arial, sans-serif; }
+
+p,
+li,
+footer {
+  font-weight: 300; }
+
+b {
+  font-weight: 500; }
+
+.content p,
+.content li {
+  line-height: 1.5;
+  /* font-size: 1.25rem; */ }
+
+/* ----- GRID SECTION HERE ------ */
+#container {
+  display: grid;
+  grid-template-columns: 6fr 1fr;
+  grid-template-rows: auto auto 1fr auto;
+  grid-column-gap: 30px;
+  max-width: 1500px;
+  padding: .5em rem 5em rem;
+  min-height: 100vh; }
+
+h1,
+footer,
+.top_menu {
+  grid-column: 1/-1; }
+
+nav.cragnav {
+  grid-column: 2/3;
+  grid-row: 3/4; }
+
+section.content {
+  grid-column: 1/2;
+  grid-row: 3/4;
+  display: flow-root; }
+
+.cragnav ul {
+  display: block;
+  width: 100%; }
+
+/* ------- GRID END ------- */
+#container > .left {
+  padding-left: 1rem; }
+
+#container > .right {
+  padding-right: 1rem; }
+
+.top_menu {
+  width: 100%;
+  padding: .5em 1rem;
+  border-bottom: solid 1px var(--border-color);
+  border-top: solid 1px var(--border-color);
+  margin-bottom: 1.1em;
+  margin-top: 0.5em;
+  /* this works on grid pages, non grid it forces the container down. */ }
+
+.top_menu ul {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+  grid-column-gap: 15px;
+  grid-row-gap: 1.5em;
+  justify-content: space-between;
+  font-weight: bold;
+  list-style: none;
+  padding: 0;
+  margin: 0; }
+
+.top_menu li,
+.cragnav li {
+  font-size: .9em; }
+
+header {
+  padding-left: 1rem;
+  padding-top: 30px;
+  padding-bottom: 10px; }
+
+h1 {
+  color: var(--heading-color);
+  /* text-shadow: 2px 2px var(--container-bg), 3px 3px var(--heading-color); */
+  font-family: 'Sansus Webissimo Regular', 'segoe ui', verdana, helvetica, sans-serif;
+  font-weight: 700;
+  font-size: 4rem;
+  line-height: 1;
+  display: block;
+  margin: 0; }
+
+h1 > small {
+  font-size: .5em; }
+
+h2 {
+  font-size: 2rem;
+  color: var(--heading-color);
+  margin: 2.5em 0 .5em 0; }
+
+h2:first-of-type {
+  margin-top: 0; }
+
+h3 {
+  font-size: 1.5em;
+  padding-bottom: 0;
+  border-bottom: solid 1px var(--border-color);
+  margin-bottom: .3em;
+  color: var(--h3-color); }
+
+h3 + p {
+  margin-top: 0; }
+
+h4 {
+  margin-bottom: 0;
+  font-size: 1.2em; }
+
+h4 + p {
+  margin-top: 0; }
+
+.new {
+  /* targets the rebolted lines which are in red */
+  text-transform: uppercase;
+  font-size: .72rem;
+  font-weight: normal;
+  color: #f00; }
+
+.alert {
+  margin: 3em 2.5em 2em 2.5em;
+  padding-left: .7em;
+  border-left: solid 15px;
+  clear: left; }
+
+.notopmargin {
+  margin-top: 0; }
+
+.boldcaps {
+  font-weight: bold;
+  text-transform: uppercase; }
+
+div#container {
+  background-color: var(--container-bg);
+  max-width: 1500px;
+  margin: 0 auto;
+  position: relative;
+  border-left: solid 1px var(--border-color);
+  border-right: solid 1px var(--border-color); }
+
+table {
+  /*	border-collapse: collapse;	*/
+  width: 100%;
+  border: solid 0px var(--container-bg);
+  background: var(--container-bg);
+  max-width: 1500px;
+  margin: 0 auto; }
+
+td {
+  padding: 0 1em;
+  vertical-align: top;
+  border: none;
+  background: var(--container-bg);
+  color: #000; }
+
+body > table:first-child {
+  /* Add padding to top of page/menu etc --- Only works when border-collapse is not set */
+  /* Don't think this will work as the first child is not a table but the container div */
+  padding-top: .5em; }
+
+img:not(.leaflet-marker-icon) {
+  /* Allows larger images to display bigger - up to 900px wide */
+  width: auto;
+  height: auto;
+  max-width: 800px;
+  /* background-color: #fff; --- removed because of leafletjs map markers */
+  padding: 5px;
+  /* margin-left: 1rem; ---- useful for some images only --- */
+  border: solid 1px var(--img-border);
+  border-radius: 12px;
+  box-shadow: 0 0 2px #99d; }
+
+.clear-r {
+  clear: right; }
+
+.clear-l {
+  clear: left; }
+
+.clear-b {
+  clear: both; }
+
+.float-l {
+  float: left;
+  margin: .5em 1em .5 0; }
+
+.float-r {
+  float: right; }
+
+a,
+a:link,
+a:visited {
+  display: inline-block;
+  text-decoration: none;
+  color: #2E81D3;
+  font-weight: normal;
+  padding: 0 3px;
+  border-radius: 5px;
+  transition: all .3s linear; }
+
+a:hover {
+  background: #2E81D3;
+  color: #fff; }
+
+a:hover[href*="/Photographs/"] {
+  background: none; }
+
+div[align=center] {
+  text-align: left; }
+
+/* This section is for the crag specific menus - not all crag menus will have this applied yet */
+/*.cragnav {
+	min-width: 10em;
+	max-width: 15em;
+}  */
+/* nav.cragnav {
+    width: 21%;
+    float: right;
+} */
+.cragnav {
+  margin-right: 1rem; }
+
+.cragnav ul {
+  list-style: none;
+  margin: 1em 0 3em 0;
+  padding: 0; }
+
+.cragnav > ul > li {
+  margin: 0 0 .4em 0;
+  padding: 0; }
+
+.top_menu a,
+.top_menu a:link,
+.top_menu a:visited,
+.cragnav > ul > li a,
+.cragnav > ul > li a:link,
+.cragnav > ul > li a:visited {
+  display: block;
+  padding: .4em;
+  text-align: center;
+  font-weight: bold;
+  border: solid 2px #257ECA;
+  height: 100%; }
+
+.cragnav > ul > li > a[href="#"],
+.top_menu > ul > li > a[href="#"] {
+  color: #fff;
+  background: var(--heading-color);
+  cursor: default;
+  border: solid 2px var(--heading-color); }
+
+/* ----------- BREADCRUMBS ---------------- */
+.breadcrumbs {
+  display: flex;
+  list-style-type: none;
+  margin: 1em 0 2em 0;
+  padding: 0;
+  font-size: .8em; }
+
+.breadcrumbs a::after {
+  content: ' >'; }
+
+.breadcrumbs .active a,
+.breadcrumbs .active a:hover {
+  color: var(--heading-color);
+  cursor: default;
+  background-color: transparent; }
+
+.breadcrumbs a:hover {
+  background-color: transparent;
+  color: white; }
+
+/* --------- Content ----------- */
+section.content {
+  box-sizing: border-box;
+  padding-left: 1rem;
+  /* padding: 0 1.5em 1.5em 1.5em; */ }
+
+.content > p {
+  min-width: 16em; }
+
+.photo,
+.content > p:not(.topo) > img,
+.content > h3 > img {
+  float: right;
+  margin-left: 1.2em;
+  margin-bottom: 1em;
+  display: inline-block;
+  max-width: 100%; }
+
+.content .photo {
+  margin: 1em 0 1em 1.2em;
+  max-width: 75%; }
+
+.content .photo > p,
+.topo > p {
+  margin: 0 0 .5em 9px;
+  min-width: 100%;
+  width: min-content;
+  min-width: 95%; }
+
+section.topo {
+  /* this is used on the Goddards plantation page */
+  margin-bottom: 7em; }
+
+.photo > p,
+.photo > p > em {
+  font-size: 0.9rem;
+  font-weight: normal; }
+
+figure img,
+.photo img {
+  max-width: 100%; }
+
+.content {
+  margin-bottom: 3em; }
+
+.updates a:first-child {
+  font-weight: bold; }
+
+/* the .topo class is for responsive topo images that scale with the size of the screen viewport */
+.topo {
+  margin-top: 1em;
+  width: 100%; }
+
+.topo img {
+  margin-left: 0;
+  /* margin-right: 1em; */
+  max-width: 100%; }
+
+section:after {
+  /* this is to clear any floating elements and create space between content and footer */
+  content: "";
+  display: block;
+  clear: both;
+  margin-bottom: 0; }
+
+footer {
+  clear: both;
+  border-top: solid 1px var(--border-color);
+  padding: 1em; }
+
+.bmc {
+  /* display: none; */ }
+
+.bmc {
+  display: block;
+  font-size: .9rem;
+  padding: 1em; }
+
+/* --------- MEDIA QUERIES ----------- */
+@media (max-width: 1367px) {
+  html {
+    font-size: 20px; } }
+
+@media (max-width: 1281px) {
+  html {
+    font-size: 18px; } }
+
+@media (max-width: 1025px) {
+  html {
+    font-size: 16px; }
+  .cragnav > ul {
+    font-size: 1rem; } }
+
+@media (max-width: 1000px) {
+  #container {
+    display: block;
+    /* not the preferred solution. Don't know while changing the columns won't work */
+    /* grid-template-columns: 1fr; */
+    /* grid-row-gap: 35px; */ }
+  #container > * {
+    width: 100%;
+    border-bottom: solid 25px var(--bg-color); }
+  .top_menu ul {
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 7px; }
+  nav.cragnav {
+    padding: 0 1rem;
+    /* grid-row: 3/4;  Not needed w dispaly block */
+    /* outline: fuchsia 2px solid; */
+    /* background: #ccc; */ }
+  .cragnav ul {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-column-gap: 5px;
+    justify-content: space-around;
+    font-size: 2em; }
+  .cragnav ul a {
+    height: 100%; }
+  a[href="#"] {
+    background-color: var(--red); }
+  section.content {
+    width: 100%; }
+  h1 {
+    font-size: 3rem; } }
+
+/* This section is for Ban y Gor */
+.banygor .cragnav ul:last-child {
+  display: none; }
+
+.cragnav .topmargin {
+  margin-top: 2.6em;
+  border-bottom: solid 1px var(--border-color); }
+
+.debug-info ul {
+  margin: 1em 0;
+  padding: 0;
+  list-style-type: none;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(15ch, 1fr));
+  gap: .5em;
+  font-size: 0.85em; }
+
+.debug-info li {
+  border: solid 1px var(--border-color);
+  padding: .5em; }
+
+/* The @media print is to hide menus when a page is printed out */
+@media print {
+  .top_menu {
+    display: none; }
+  .cragnav {
+    display: none; }
+  body:after {
+    display: none; }
+  footer {
+    display: none; }
+  section.content {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 0; } }
+
+/* THe next stuff is for MAPS */
+#map {
+  height: 510px;
+  max-height: 90vh;
+  font-size: 1rem;
+  margin: 4em 0;
+  padding: 5px;
+  border: solid 4px #fff;
+  border-radius: 12px;
+  box-shadow: 0px 0px 2px #99d;
+  clear: both; }
+
+#map img {
+  max-width: auto;
+  padding: 0;
+  border-radius: 0;
+  border: none;
+  box-shadow: 0 0 0; }
+
+.leaflet-popup,
+.leaflet-popup-content-wrapper {
+  margin: 0;
+  padding: 1px; }
+
+.leaflet-popup-content,
+.leaflet-popup-content b {
+  color: #257ECA;
+  font-size: 12px;
+  line-height: auto;
+  font-family: arial, sans-serif;
+  background: #fff; }
+
+.leaflet-control-attribution .leaflet-control,
+.leaflet-control-attribution a,
+.leaflet-control a {
+  font-family: arial;
+  font-size: 10px; }
+
+body.home .home-content {
+  grid-column: 1 / -1;
+  display: grid;
+  grid-template-columns: 2.5fr 350px 1fr;
+  gap: 40px;
+  padding: 1em; }
+
+body.home header {
+  grid-column: 1 / -1; }
+
+body.home img {
+  width: 100%; }
+
+body.home .home-updates ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none; }
+
+body.home .home-updates li {
+  margin-bottom: 0.5em; }
+
+body.home .bolt-fund {
+  background-color: #393934;
+  border: solid 1px #525252;
+  border-radius: 15px;
+  padding: .5em 1em; }
+
+body.home .bolt-fund p {
+  margin-top: 0; }
+
+body.home .bolt-fund form {
+  text-align: center; }
+
+body.home .intro :first-child,
+body.home .home-1 :first-child,
+body.home .home-2 :first-child {
+  margin-top: 0; }

@@ -1,0 +1,48 @@
+baseURL = "http://sportsclimbs.co.uk/"
+languageCode = "en-us"
+title = "Sport Climbs UK"
+sectionPagesMenu = "main"
+summaryLength = 4
+
+disableKinds = ['taxonomy', 'term']
+
+[params]
+testFooter = false
+
+[menu]
+
+  [[menu.regions]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = "1"
+
+  [[menu.regions]]
+    identifier = "peak"
+    name = "Peak District"
+    url = "/peak/"
+    weight = "10"
+
+  [[menu.regions]]
+  identifier = "yorkshire"
+  name = "Yorkshire"
+  url = "/yorkshire/"
+  weight = "30"
+
+  [[menu.regions]]
+  identifier = "N Wales"
+  name = "North Wales"
+  url = "/north-wales/"
+  weight = "30"
+
+  [[menu.regions]]
+  identifier = "south wales"
+  name = "South Wales"
+  url = "/south-wales/"
+  weight = "40"
+
+[markup]
+  [markup.goldmark.parser.attribute]
+  block = true
+  title = true
+

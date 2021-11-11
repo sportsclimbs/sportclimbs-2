@@ -1,0 +1,13 @@
+{{ define "main" }}
+<header>
+    <h1>{{ .Title }}</h1>
+    {{ partial "breadcrumbs" . }}
+</header>
+{{ partial "cragnav" . }}
+
+<section class="content{{ with eq .File.Ext "md" }} markdown-file{{ end }}">
+    {{ .Content }}
+    {{ partial "map" . }}
+</section>
+    
+{{ end }}

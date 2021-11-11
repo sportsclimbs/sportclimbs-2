@@ -1,0 +1,16 @@
+{{/*  This will add other areas section to crag pages above the footer.  */}}
+
+{{/*  NEEDS tweaking so that current area doesn't show up.  */}}
+
+        {{ if and (eq .Kind "page") (not .IsHome) }}            
+        <div class="debug-info other-areas">
+            <h3>Other areas in the {{ .FirstSection.Title }} region</h3>
+            <ul>
+                {{ range .FirstSection.Pages }}
+                <li>
+                    <a href="{{ .Permalink }}">{{ .Title }}</a>
+                </li>
+                {{ end }}
+            </ul>
+        </div>
+        {{ end }}

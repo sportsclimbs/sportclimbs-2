@@ -1,0 +1,58 @@
+<nav class="cragnav">
+    <ul>
+        <li>
+            {{- $thisPage := . }}
+            {{ with .CurrentSection }}
+            {{ if eq . $thisPage }}
+            <a href="#">{{ .LinkTitle }}</a>
+            {{ else }}
+            <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+            {{ end }}
+            {{ end -}}
+        </li>
+        {{- $currentPage := . }}
+        {{- range .CurrentSection.Pages -}}
+
+        {{- if eq . $currentPage }}
+        <li><a href="#">{{ .LinkTitle }}</a></li>
+        {{- else -}}
+
+        <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+        {{ end }}
+        {{ end }}
+    </ul>
+
+    <ul>
+        {{ $level := 0 }} {{/* Root of content directory. */}}
+{{- with .Parent }}
+  {{ $level = 1 }}
+  {{ with .Parent }}
+    {{ $level = 2 }}
+    {{ with .Parent }}
+      {{ $level = 3 }}
+      {{ with .Parent }}
+        {{ $level = 4 }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+{{ end -}}   
+
+        <li>
+{{- with .Parent -}}
+    {{ if eq $level 4 }}
+    <a href="{{ .Parent.RelPermalink }}">{{ .Parent.LinkTitle }}</a>
+    {{ else if eq $level 3 }}
+    <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+    {{- end -}}
+{{- end -}}
+        <li>
+            {{- $thispage := . -}}
+            {{- with .FirstSection -}}
+                {{ if ne $thispage . }}
+                <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                {{ end }}
+            {{ end }}
+        </li>
+        <li><a href="/">Home</a></li>
+    </ul>
+</nav>

@@ -1,0 +1,22 @@
+{{ define "main" }}
+
+<header> 
+    <h1>{{ .Site.Title }}</h1>
+</header>
+
+
+<main class="home-content">
+    
+    {{ $bundle := .Site.GetPage "page" "home-page" }}
+    {{ range $bundle.Resources.ByType "page"  }}
+
+    <section class="{{ .File.BaseFileName }}">
+    
+    {{ .Content }}
+    </section>
+    {{ end }}
+    
+</main>
+
+
+{{ end }}

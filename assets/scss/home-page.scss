@@ -1,0 +1,63 @@
+// this only affects the home page with the body tag below
+
+body.home {
+
+    #container {
+        display: block;
+    }
+    main {
+        // grid-column: 1 / -1;
+        display: grid;
+        grid-template-columns: 2.5fr minmax(220px, 350px) 1fr;
+        gap: 40px;
+        padding: 1em;
+    }
+
+    @media screen and (max-width: 800px) {
+        main {
+            display: block;
+        }
+        .carousel {
+            display: none;
+        }
+    }
+
+    header {
+        grid-column: 1 / -1;
+    }
+
+    img {
+        width: 100%;
+    }
+
+    .home-updates ul {
+        margin: 0;
+        padding: 0;
+        list-style-type: none;
+    }
+
+    .home-updates li {
+        margin-bottom: 0.5em;
+    }
+
+    .bolt-fund {
+        background-color: #393934;
+        border: solid 1px rgb(82, 82, 82);
+        border-radius: 15px;
+        padding: .5em 1em;
+    }
+
+    .bolt-fund p {
+        margin-top: 0;
+    }
+
+    .bolt-fund form {
+        text-align: center;
+    }
+
+    .intro :first-child,
+    .home-1 :first-child,
+    .home-2 :first-child {
+        margin-top: 0;
+    }
+}

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+{{- partial "head.html" . }}
+
+<body class="{{- if .IsHome -}}
+home
+{{- else -}}
+    {{- replace .Section " " "-" | lower }} {{ replace .Name " " "-" | lower }} {{ .Kind }}{{- end }}">
+
+
+    <div id="container">
+        
+        {{- partial "nav.html" . -}}
+        {{- block "main" . }}{{- end }}
+
+        {{/* partial "other-areas" . */}}
+
+        {{- partial "footer.html" . }}
+        {{ if .Site.Params.testFooter }}
+            {{ partial "test-footer.html" . }}
+        {{- end -}}
+    </div>
+</body>
+</html>

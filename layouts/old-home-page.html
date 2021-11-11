@@ -1,0 +1,121 @@
+{{ define "main" }}
+
+    <style>
+    .home>#container {
+        display: grid;
+        grid-template-columns: 1fr minmax(270px, 400px) 17em;
+        grid-gap: 16px;
+    }
+
+    nav.top_menu {
+        grid-column: 1/4;
+    }
+
+    h1 {
+        grid-column: 1/4;
+    }
+
+    .center p {
+        text-align: center;
+    }
+
+    .center img {
+        width: 100%;
+    }
+
+    span.date {
+        font-size: 0.9em;
+        font-style: italic;
+        color: #999;
+    }
+
+    /* Not sure what this is about */
+
+    section.updates {
+        margin-top: 2.5em;
+        height: 70vh;
+        overflow: auto;
+    }
+
+
+    .left p,
+    .center p {
+        margin: 0 0 1em 0;
+    }
+
+    .center>p>img {
+        width: 100%;
+        display: block;
+    }
+
+    .center p:first-of-type a:hover {
+        border-color: transparent;
+        background-color: transparent;
+    }
+
+
+    .boltfundbox {
+        padding: 1em 1em 0 1em;
+        margin-bottom: 2em;
+        border: 1px solid #d1d0c0;
+        border-radius: 9px;
+        background-color: #FCFCF4;
+        text-align: center;
+    }
+
+
+
+    /* ---------- MEDIA QUERIES --------------- */
+
+    @media only screen and (max-width: 999px) {
+        .home>#container {
+            display: block;
+            font-size: 2.5vmax;
+        }
+
+        .home>#container {
+            padding: 3vmax;
+        }
+
+        .top_menu {
+            padding: 0;
+        }
+
+        .top_menu ul {
+            margin-bottom: 3rem;
+            gap: 12px;
+
+        }
+
+        h1 {
+            font-size: 12vw;
+            text-align: center;
+            padding: 0 0 .5em 0;
+        }
+
+        .center p:nth-of-type(1n + 2) {
+            display: none;
+        }
+
+        .left section.updates {
+            display: none;
+        }
+    }
+
+    @media screen and (prefers-color-scheme: dark) {
+        .boltfundbox {
+            background-color: #393934;
+            border: none;
+        }
+    }
+
+    </style>
+
+
+
+
+    <section class="content">
+        {{ .Content }}
+    </section>
+
+{{ end }}
