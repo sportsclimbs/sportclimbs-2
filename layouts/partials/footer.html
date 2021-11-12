@@ -1,4 +1,5 @@
 <footer>
+    <p>Site updated on <time>{{ .Site.LastChange.Format "02 Jan 06" }}</time></p>
     <p><a href="/index.xml" title="Follow Sportclimbs via our RSS feed.">RSS</a></p>
     <ul>
         <li><a href="/">Home</a></li>
@@ -8,7 +9,7 @@
         <li><a href="/yorkshire/">Yorkshire</a></li>
         <li><a href="/contact/">Contact</a></li>
     </ul>
-    <p>NB. BMC Participation Statement: The BMC recognize that climbing, hillwalking and mountaineering are activities with a danger of personal injury or death. Participants in these activities should be aware of, and accept, these risks, and be responsible for their own actions and involvement. For further information on any of these areas contact <a href="https://www.thebmc.co.uk/">The BMC</a>.</p>
+    <p><b>BMC Participation Statement:</b> The BMC recognize that climbing, hillwalking and mountaineering are activities with a danger of personal injury or death. Participants in these activities should be aware of, and accept, these risks, and be responsible for their own actions and involvement. For further information on any of these areas contact <a href="https://www.thebmc.co.uk/">The BMC</a>.</p>
 </footer>
 
 <style>
@@ -20,5 +21,9 @@
         list-style-type: none;
         padding: 0;
         white-space: nowrap;
+    }
+    time {
+        white-space: pre;
+        font-style: italic;
     }
 </style>

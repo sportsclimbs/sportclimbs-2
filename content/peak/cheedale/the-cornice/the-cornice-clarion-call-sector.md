@@ -5,14 +5,16 @@ weight: 30
 draft: false
 placeholder: false
 css:
-- '.content p>img {display: block; margin-inline: 0; float: none; width: 100%; column-span: all;}'
-- '.content {columns: 3 300px; column-gap: 2em}'
+- '.content p:first-of-type {display: block; margin-inline: 0; column-span: all;}'
+- '.content img {width: 100%; }'
+- '.content p:nth-of-type(2) {margin-top:0}'
+- '.content {columns: 3 400px; column-gap: 2em}'
 - '.content p {break-inside: avoid}'
 ---
 
 ![The Cornice Clarion Call topo](/img/peak/cheedale/corncct.gif)
 
-**1. Clarion Call (6c+) &starf;&starf;&starf;**  
+**1. Clarion Call (6c+)** &starf;&starf;&starf;  
 Classic. Technical start and sustained above.
 
 **The Poppy Fields (7b+)**  
@@ -31,21 +33,21 @@ Another fine sustained pitch with hard moves direct at 2nd BR and 4th.
 **6. Big Zipper (7a+) &starf;**  
 Line to right. Fingery rightwards exit through bulge.
 
-**7. Bored of the Lies (7b+) &starf;&starf;**  
+**7. Bored of the Lies (7b+)** &starf;&starf;  
 An excellent wall pitch. Technical and sustained with crux right and up at top.
 
-**8. Ouijaboard (8a) &starf;&starf;**  
+**8. Ouijaboard (8a)** &starf;&starf;  
 Harder and more fingery wall to right. Harder the higher you get.
 
 **9. Four Door Dostoyevsky (8a+) &starf;&starf;** shallow curving groove with desperate technicalities above break. Sharp.
 
-**10. Powerplant (8a) &starf;&starf;&starf;**  
+**10. Powerplant (8a)** &starf;&starf;&starf;  
 The classic of its grade in the Dale. The difficulties are centred around the overlap. **Powerpant (8a)** connects *Powerplant* with *Devonshire Arms* from just the first crux on the former.
 
-**11. Devonshire Arms (8a+) &starf;&starf;&starf;**  
+**11. Devonshire Arms (8a+)** &starf;&starf;&starf;  
 The even more powerful wall to the right. Crimps, pinches provide the sequence.
 
-**12. K3 (8a+) &starf;&starf;&starf;**  
+**12. K3 (8a+)** &starf;&starf;&starf;  
 Undercutting nightmare leftwards through bulge and finally up.
 
 **12a K5 (8b)**  
@@ -57,22 +59,22 @@ Continues from *Poweplant* across *Fourdoor* to the belay of Bored.
 **13. 42 (8b+) &starf;&starf;&starf;**  
 A more direct line than *K3* after flat flake. Hardest route hereabouts.
 
-**13a 32 (8b+) &starf;&starf;**  
+**13a 32 (8b+)** &starf;&starf;  
 The bulges to the right to join R'n P.
 
-**14. R'n P (8a+) &starf;&starf;&starf;**  
+**14. R'n'P (8a+)** &starf;&starf;&starf;  
 Mean. More undercuts to the right gain the upper wall at a scoop. Easier above?
 
 **Barney Ragin' (8b+) &starf;&starf;**  
 Starts up *R'n'P* but goes R through the bulge via a slot and continues up to join and finish up *Love Amongst the Butterflies* Links the start of *R'n'P* with *Love Amongst the Butterflies*.
 
-**15. Love Amongst the Butterflies (8b) &starf;&starf;&starf;**  
+**15. Love Amongst the Butterflies (8b)** &starf;&starf;&starf;  
 The antithesis of all to the left. Technicalities in the extreme. Keep crimping.
 
-**16. Asia Shadow Player (8b) &starf;&starf;**  
+**16. Asia Shadow Player (8b)** &starf;&starf;  
 A direct finish to *Butterflies*. Hideous.
 
-**Somehow Super (8c) &starf;&starf;**  
+**Somehow Super (8c)** &starf;&starf;  
 Starts as for *Love Amongst the Butterflies* but go straight up.
 
 

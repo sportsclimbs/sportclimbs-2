@@ -1,5 +1,6 @@
 ---
 title: Ergonomic Buttress
+linktitle: Ergonomic
 draft: false
 placeholder: false
 ---

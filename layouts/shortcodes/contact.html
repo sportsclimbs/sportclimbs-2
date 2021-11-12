@@ -1,7 +1,63 @@
-<form action="post">
-<input type="text">
+<form name="contact" method="POST" data-netlify="true">
 
-<button>Send</button>
+    <label>Your Name:</label> <input type="text" name="name" />
 
+
+    <label>Your Email:</label> <input type="email" name="email" />
+
+
+    <label>Message:</label> <textarea name="message"></textarea>
+
+    <label>Add image:</label> <input type="file" name="picture" />
+
+
+    <div class="submit"><button type="submit">Send</button></div>
 
 </form>
+
+
+
+<style>
+    form {
+        width: min(100%, 650px);
+        display: grid;
+        grid-template-columns: 12ch 1fr;
+        gap: 1em;
+    }
+
+    label {
+        text-align: right;
+    }
+
+    textarea,
+    input {
+    background-color: #0003;
+    color: #fff;
+    font-family: 'Open Sans', 'courier new';
+    border: solid 1px #fff3;
+    border-radius: 6px;
+    padding: 0.5em;
+}
+    textarea {
+        height: 15em;
+    }
+
+    .submit {
+        grid-column: -2 / -1;
+    }
+    button {
+        padding: 0.25em 1.5em;
+        font-size: 1rem;
+        font-weight: 500;
+        text-transform: uppercase;
+        border: none;
+        border-radius: 6px;
+        color: #fff;
+        background-color: var(--heading-color);
+        transition: 0.4s;
+    }
+    button:hover {
+    cursor: pointer;
+    background-color: var(--link);
+}
+</style>

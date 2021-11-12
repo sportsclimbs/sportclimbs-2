@@ -57,10 +57,12 @@ Just right and above Coyote Club is a conspicuous perched block, right above rou
 
 **6. Road Runner (6a)&starf;**
 
-**7 Running for Cover (5+) &starf;&starf;**
+**7. On the Stroke of 5000 (6a+) &starf;&starf;** Gary's 5000th new route!
 
-**8 The Run Off (5+)&starf;**
+**8. Running for Cover (5+) &starf;&starf;**
 
-**9. Elmer Thud (5)**
+**9. The Run Off (5+)&starf;**
 
-**10 Lickin' Chicken(5)**
+**10. Elmer Thud (5)**
+
+**11. Lickin' Chicken(5)**

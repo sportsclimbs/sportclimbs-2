@@ -3,7 +3,7 @@ title: "What's on the Home page?"
 date: 2021-07-28T13:57:30+01:00
 weight: 3
 headless: true
-draft: true
+draft: false
 placeholder: false
 ---
 

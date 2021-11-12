@@ -1,0 +1,29 @@
+
+        <div class="peak-updates">
+            <h3>Updates</h3>
+            <ul>
+                {{ range first 25 (where .Site.Pages.ByDate.Reverse "Section" "peak") }}
+                    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a> <time>({{ .Date.Format "02.01.06" }})</time>{{ with .Params.summary }}
+                        
+                     &ndash; {{ . }}{{ end }}</li>
+                {{ end }}
+
+                
+            </ul>
+        </div>
+
+        <style>
+            .peak-updates {
+                max-width: 700px;
+                height: 22em;
+                overflow: auto;
+            }
+            .peak-updates ul {
+                list-style-type: none;
+                padding: 0;
+            }
+            .peak-updates time {
+                font-style: italic;
+                font-size: 0.8em;
+            }
+        </style>
