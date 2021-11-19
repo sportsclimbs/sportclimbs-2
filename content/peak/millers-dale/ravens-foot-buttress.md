@@ -2,8 +2,13 @@
 title: Raven’s Foot Buttress 
 linktitle: Raven’s Foot
 date: 2020-09-09T14:06:25+01:00
-summary: has a clutch of vertical wall climbs with a handful of, yet to be re-equipped routes on its left.
+summary: has a clutch of vertical wall climbs with a handful of steeper recently re-equipped routes on its left.
 draft: false
+map: [53.256408, -1.776695]
+markers:
+- [53.2549, -1.76669, Tideswell Dale<br> Cullodon]
+- [53.256408, -1.776695, Ravens Tor]
+- [53.25607, -1.7806, Ravens Foot buttress]
 placeholder: false
 ---
 

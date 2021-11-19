@@ -1,6 +1,7 @@
 ---
 title: Ergonomic Buttress
 linktitle: Ergonomic
+weight: 40
 draft: false
 placeholder: false
 ---

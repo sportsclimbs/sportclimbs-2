@@ -7,7 +7,7 @@ placeholder: false
 ---
 
 
-SportsClimbs UK is one of the oldest, online, sport climbing guides in the world and has been active online since 200?. It's still the only major online topo guide for the UK with hundreds of pages. It's a free, not for profit endeavour, and doesn't rely on commercial advertising. If you'd like to show your appreciation a donation to Gary's bolt fund is a great way to do so. If you'd like to supply new route or crag information please [get in touch](/contact/). 
+SportClimbs UK is one of the oldest, online, sport climbing guides in the world and has been online for well over a decade. It's still the only major online topo guide for the UK and currently has {{< no-of-pages >}} pages. It's a free, not for profit endeavour, and doesn't rely on commercial advertising. If you'd like to show your appreciation a donation to Gary's bolt fund is a great way to do so. If you'd like to supply new route or crag information please [get in touch](/contact/). 
 
 ## Disclaimer
 

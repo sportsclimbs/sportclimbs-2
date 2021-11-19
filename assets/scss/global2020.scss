@@ -86,6 +86,24 @@ section.content {
     grid-row: 3 / 4;
     display: flow-root;
 }
+section.columns {
+    columns: 2 350px;
+    column-gap: 2em;
+}
+section.columns p:first-of-type,
+section.columns .topo {
+    column-span: all;
+}
+section.columns p img {
+    max-width: 100%;
+}
+section.columns p:nth-of-type(2),
+section.columns .topo + p {
+    margin-top: 0;
+}
+section.columns p {
+    break-inside: avoid;
+}
 
 .cragnav ul {
     display: block;
@@ -211,37 +229,12 @@ div#container {
     border-right: solid 1px var(--border-color);
 }
 
-table {
-    /*	border-collapse: collapse;	*/
-    width: 100%;
-    border: solid 0px var(--container-bg);
-    background: var(--container-bg);
-    max-width: 1500px;
-    margin: 0 auto;
-}
-
-td {
-    padding: 0 1em;
-    vertical-align: top;
-    border: none;
-    background: var(--container-bg);
-    color: #000;
-}
-
-body>table:first-child {
-    /* Add padding to top of page/menu etc --- Only works when border-collapse is not set */
-    /* Don't think this will work as the first child is not a table but the container div */
-    padding-top: .5em;
-}
-
-img:not(.leaflet-marker-icon) {
+img {
     /* Allows larger images to display bigger - up to 900px wide */
     width: auto;
     height: auto;
-    max-width: 800px;
-    /* background-color: #fff; --- removed because of leafletjs map markers */
+    max-width: 100%;
     padding: 5px;
-    /* margin-left: 1rem; ---- useful for some images only --- */
     border: solid 1px var(--img-border);
     border-radius: 12px;
     box-shadow: 0 0 2px #99d;
@@ -416,9 +409,17 @@ section.topo {
 
 }
 
+figure {
+    float: right;
+}
+figcaption p {
+    margin: 0;
+}
+
 figure img,
 .photo img {
-    max-width: 100%;
+    width: 100%;
+    max-width: 800px;
 }
 
 .content {
@@ -455,18 +456,6 @@ footer {
     border-top: solid 1px var(--border-color);
     padding: 1em;
 }
-
-.bmc {
-    /* display: none; */
-}
-
-.bmc {
-    display: block;
-    font-size: .9rem;
-    padding: 1em;
-}
-
-
 
 /* --------- MEDIA QUERIES ----------- */
 

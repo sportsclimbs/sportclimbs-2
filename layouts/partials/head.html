@@ -3,6 +3,9 @@
     <title>{{ .Title }} | {{ .Site.Title }}</title>
     <meta name="description" content="Sports Climbs UK is a free online climbing guidebook. Regularly updated and featuring over 400 pages and 200 topos it covers both popular and less known sport climbing areas.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    {{ if .IsHome -}}
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+    {{ end -}}
     
     {{ with .Params.map }}
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />

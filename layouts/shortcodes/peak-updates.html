@@ -3,9 +3,11 @@
             <h3>Updates</h3>
             <ul>
                 {{ range first 25 (where .Site.Pages.ByDate.Reverse "Section" "peak") }}
-                    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a> <time>({{ .Date.Format "02.01.06" }})</time>{{ with .Params.summary }}
-                        
-                     &ndash; {{ . }}{{ end }}</li>
+                {{ if eq .Kind "page" }}
+                <li><a href="{{ .RelPermalink }}">{{ .Title }}</a> <time>({{ .Date.Format "02.01.06" }})</time>{{ with .Params.summary }}
+                    
+                    &ndash; {{ . }}{{ end }}</li>
+                    {{ end }}
                 {{ end }}
 
                 

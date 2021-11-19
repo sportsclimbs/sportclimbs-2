@@ -1,6 +1,8 @@
 <footer>
-    <p>Site updated on <time>{{ .Site.LastChange.Format "02 Jan 06" }}</time></p>
-    <p><a href="/index.xml" title="Follow Sportclimbs via our RSS feed.">RSS</a></p>
+    <div class="updated">Site updated on <time>{{ .Site.LastChange.Format "02 Jan 06" }}</time>
+    <p>The site now has a total of {{ len .Site.Pages }} pages, {{ len .Site.RegularPages }} of which
+        are topo pages.</p>
+    </div>
     <ul>
         <li><a href="/">Home</a></li>
         <li><a href="/peak/">Peak District</a></li>
@@ -9,21 +11,38 @@
         <li><a href="/yorkshire/">Yorkshire</a></li>
         <li><a href="/contact/">Contact</a></li>
     </ul>
-    <p><b>BMC Participation Statement:</b> The BMC recognize that climbing, hillwalking and mountaineering are activities with a danger of personal injury or death. Participants in these activities should be aware of, and accept, these risks, and be responsible for their own actions and involvement. For further information on any of these areas contact <a href="https://www.thebmc.co.uk/">The BMC</a>.</p>
+    <div class="bmc"><b>BMC Participation Statement:</b> <br><abbr title="The British Mountaineering Council">The BMC</abbr> recognize that climbing, hillwalking and mountaineering are activities with a danger of personal injury or death. Participants in these activities should be aware of, and accept, these risks, and be responsible for their own actions and involvement. For further information on any of these areas contact <a href="https://www.thebmc.co.uk/">The BMC</a>.</div>
+    <div class="rss"><a href="/index.xml" title="Follow Sportclimbs via our RSS feed.">RSS</a></div>
+    <div class="copyright">&mdash; SportClimbs.uk &copy;{{ now.Year }} &mdash;</div>
 </footer>
 
 <style>
     footer:not(.test) {
-        display: flex;
-        gap: 1em;
+        display: grid;
+        grid-template-columns: auto auto 1fr auto;
+        gap: 2em;
+        padding-top: 1.5em;
+        background-color: #2226;
+        font-size: 0.8em;
     }
     footer:not(.test) ul {
         list-style-type: none;
         padding: 0;
+        margin: 0;
         white-space: nowrap;
+    }
+    .updated {
+        max-width: 22ch;
+    }
+    .copyright {
+        grid-column: 1 / -1;
+        text-align: center;
     }
     time {
         white-space: pre;
         font-style: italic;
+    }
+    abbr {
+        cursor: help;
     }
 </style>

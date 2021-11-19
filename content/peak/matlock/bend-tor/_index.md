@@ -1,8 +1,8 @@
 ---
 title: Bend Tor 
 date: 2020-09-02T14:06:25+01:00
-draft: false
 summary: Recent developments have turned this into a fine Peak district sport crag.
+draft: false
 map: [53.134568, -1.555670]
 markers:
 - [53.134336, -1.559651, Lorry Park Quarry]

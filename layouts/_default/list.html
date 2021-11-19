@@ -1,7 +1,7 @@
 {{ define "main" }}
 
 <header>
-    <h1>{{ .Title }}</h1>
+    <h1>{{ .Title }}{{ with .Params.subtitle }}<br><small>{{ . }}</small>{{ end }}</h1>
     {{ partial "breadcrumbs" . }}
 </header>
 

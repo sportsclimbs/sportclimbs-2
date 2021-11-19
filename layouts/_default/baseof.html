@@ -20,5 +20,18 @@ home
             {{ partial "test-footer.html" . }}
         {{- end -}}
     </div>
+    {{ if .IsHome }}
+    <script>
+        if (window.netlifyIdentity) {
+          window.netlifyIdentity.on("init", user => {
+            if (!user) {
+              window.netlifyIdentity.on("login", () => {
+                document.location.href = "/admin/";
+              });
+            }
+          });
+        }
+      </script>
+    {{ end }}
 </body>
 </html>

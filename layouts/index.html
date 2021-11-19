@@ -7,16 +7,15 @@
 
 <main class="home-content">
     
-    {{ $bundle := .Site.GetPage "page" "home-page" }}
-    {{ range $bundle.Resources.ByType "page"  }}
+    {{- $bundle := .Site.GetPage "page" "home-page" -}}
+    {{- range $bundle.Resources.ByType "page"  }}
 
     <section class="{{ .File.BaseFileName }}">
-    
-    {{ .Content }}
+        {{ .Content }}
     </section>
-    {{ end }}
+    {{- end -}}
     
 </main>
 
 
-{{ end }}
+{{- end -}}
