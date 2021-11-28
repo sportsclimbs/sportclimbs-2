@@ -46,3 +46,4 @@ collections:
   - {label: "Page Title", name: "title", widget: "string"}
   - {label: "Link Title (only needed if the main title is long", name: "linktitle", widget: "string", required: false}
   - {label: "Subtitle (used if a crag has a second name)", name: "subtitle", widget: "string", required: false}
+  - {label: "Body", name: "body", widget: "markdown"}
