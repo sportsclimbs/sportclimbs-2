@@ -34,7 +34,7 @@ body.home {
 
         
     .home-updates ul {
-        height: 580px;
+        height: 530px;
         overflow: auto;
         margin: 0;
         padding: 0;
@@ -65,5 +65,9 @@ body.home {
     .home-1 :first-child,
     .home-2 :first-child {
         margin-top: 0;
+    }
+
+    p, li {
+        line-height: 1.6;
     }
 }

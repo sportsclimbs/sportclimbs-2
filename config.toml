@@ -7,6 +7,7 @@ summaryLength = 4
 disableKinds = ['taxonomy', 'term']
 
 [params]
+snow = true
 testFooter = false
 
 [menu]

@@ -273,9 +273,10 @@ a:visited {
     transition: all .3s linear;
 }
 
-a:hover {
-    background: #2E81D3
-    ;
+a:hover,
+.top_menu a.active:hover {
+    background: #2E81D3;
+    border-color: #2E81D3;
     color: #fff;
 }
 
@@ -326,6 +327,10 @@ div[align=center] {
     font-weight: bold;
     border: solid 2px #257ECA;
     height: 100%;
+}
+.top_menu a.active {
+    color: var(--heading-color);
+    border-color: var(--heading-color);
 }
 
 .cragnav>ul>li>a[href="#"],
@@ -633,4 +638,16 @@ footer {
 .leaflet-control a {
     font-family: arial;
     font-size: 10px;
+}
+
+.video {
+    clear:both;
+    margin-block: 2em;
+}
+
+.yt {
+    width: 100%;
+    max-width: 560px;
+    aspect-ratio: 16 / 9;
+    border-radius: 15px;
 }

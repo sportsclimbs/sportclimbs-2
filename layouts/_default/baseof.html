@@ -7,6 +7,9 @@ home
 {{- else -}}
     {{- replace .Section " " "-" | lower }} {{ replace .Name " " "-" | lower }} {{ .Kind }}{{- end }}">
 
+{{ if and (site.Params.snow) (.IsHome) }}
+  {{ partial "snowflakes" . }}
+{{ end }}
 
     <div id="container">
         

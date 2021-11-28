@@ -3,17 +3,46 @@ backend:
   branch: master # Branch to update (optional; defaults to master)
 display_url: https://sportclimbs.uk
 site_url: https://sportclimbs.uk
+local_backend: true
 media_folder: "static/img/uploads" # Media files will be stored in the repo under static/images/uploads
 public_folder: "/img/uploads" # The src attribute for uploaded media will begin with /images/uploads
+media_library:
+  name: cloudinary
+  config:
+    cloud_name: sportclimbs
+    api_key: 826617453858452
 publish_mode: editorial_workflow
 collections:
 - name: "peak"
   label: "Peak District"
-  folder: "peak"
+  folder: "content/peak"
+  create: false
+  editor:
+    preview: true
+  fields:
+  - {label: "Page Title", name: "title", widget: "string"}
+  - {label: "Link Title (only needed if the main title is too long for menu buttons)", name: "linktitle", widget: "string", required: false}
+  - {label: "Subtitle (used if a crag has a second name)", name: "subtitle", widget: "string", required: false}
+  - {label: "Body", name: "body", widget: "markdown"}
+
+- name: "buxton"
+  label: "Buxton, Peak District"
+  folder: "content/peak/buxton"
+  create: false
+  editor:
+    preview: true
+  fields:
+  - {label: "Page Title", name: "title", widget: "string"}
+  - {label: "Link Title (only needed if the main title is too long for menu buttons)", name: "linktitle", widget: "string", required: false}
+  - {label: "Subtitle (used if a crag has a second name)", name: "subtitle", widget: "string", required: false}
+  - {label: "Body", name: "body", widget: "markdown"}
+- name: "harpur hill"
+  label: "Harpur Hill, Buxton area"
+  folder: "content/peak/buxton/harpur-hill"
   create: true
   editor:
     preview: true
   fields:
   - {label: "Page Title", name: "title", widget: "string"}
-  - {label: "Link Title (only needed if the main title is long", name: "linktitle", widget: "string"}
-  - {label: "Subtitle (used if a crag has a second name)", name: "subtitle", widget: "string"}
+  - {label: "Link Title (only needed if the main title is long", name: "linktitle", widget: "string", required: false}
+  - {label: "Subtitle (used if a crag has a second name)", name: "subtitle", widget: "string", required: false}
