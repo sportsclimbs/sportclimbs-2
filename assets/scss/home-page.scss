@@ -32,7 +32,10 @@ body.home {
         width: 100%;
     }
 
-        
+    .home-updates {
+        margin: 1em 0 2em 0;
+    }
+
     .home-updates ul {
         height: 530px;
         overflow: auto;
@@ -67,7 +70,8 @@ body.home {
         margin-top: 0;
     }
 
-    p, li {
+    p,
+    li {
         line-height: 1.6;
     }
 }

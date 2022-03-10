@@ -1,7 +1,10 @@
 ---
-title: Main Wall
+title: Horseshoe Main Wall
+linktitle: Main Wall
 draft: false
 placeholder: false
+date: 2022-03-10T07:58:00Z
+summary: a new route has been added but the name is unknown.
 ---
 
 ![Horseshoe Main Wall lefthand](/img/peak/stoney/Horseshoe-Main-LH_BIG.jpg)
@@ -33,7 +36,7 @@ placeholder: false
 
 **13. Litany Against Fear (6c)** &starf; Now climbed direct over the bulge. A superb and technical direct finish.
 
-**Megashot (7a)** climbs the shothole L of Megalithic Man from the fourth bolt on that route and utilizing the last 2 bolts on that route too. The crux can be avoided by going further L at 6c.
+**Mega Shot (7a)** climbs the shothole L of Megalithic Man from the fourth bolt on that route and utilizing the last 2 bolts on that route too. The crux can be avoided by going further L at 6c.
 
 **14. Megalithic Man (6b+)** &starf;&starf; A fine route, bold low down finishing left and up from the 5th BR. The<b> Super Direct Finish is a fingery direct finish at 6c+ &starf;&starf;.
 
@@ -57,7 +60,9 @@ placeholder: false
 
 **22. Lost Monolith (6b+)** the long straightforward crackline and difficult final bulge.
 
-**23. Screwy Driver E1 5b** the shallow groove/wall to the right with a difficult final section.
+**22a Unknown (6a+)** The wall immediately left of Screwy Driver keeping out of the crack until forced into it near the top. Finish on the BB of Lost Monolith.
+
+**23. Screwy Driver E1 5b** the shallow groove/crack line to the right with a difficult final section.
 
 **Harvey Wallbanger (6c)** blunt rib and very hard moves direct through overlap. Using the crack out right makes it a more balanced 6b.
 

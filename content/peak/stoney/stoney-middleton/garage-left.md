@@ -1,7 +1,10 @@
 ---
-title: Garage Buttress
+title: Garage Buttress Left
+linktitle: Garage Left
+summary: new topo for the righthand side
+date: 2022-03-10T07:35:55Z
 draft: false
-placeholder: false
+weight: 10
 ---
 
 
@@ -28,7 +31,8 @@ Access to the first eight routes is gained by climbing the initial ledgy section
 
 **9. I Hate You (7a)**  &starf;&starf;  a superb pitch with a tricky lower bulge, long reach through the overlaps and technical headwall.
 
-![Garage Buttress Right](/img/peak/stoney/Garage-Right.jpg)
+![Garage Buttress Right](/img/peak/stoney/Garage-Buttress-Right.jpg)
+{.topo}
 
 **10. Turf 'em Off (6b+)** Easy lower wall right of Rippemoff to excellent steep wall.
 
