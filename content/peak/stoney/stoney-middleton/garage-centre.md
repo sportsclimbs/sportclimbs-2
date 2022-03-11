@@ -1,16 +1,15 @@
 ---
 title: "Garage Butress Centre"
 linktitle: "Garage Centre"
-summary: has a new topo with new routes.
-date: 2021-12-07T10:35:20Z
-draft: true
+summary: has a new, more detailed topo which includes a number of previously uncatalogued routes.
+date: 2022-03-11T08:19:52Z
+draft: false
 weight: 30
 ---
 
-![UUID only](https://ucarecdn.com/4fe45476-89c4-4e9d-a4a9-00b1434f24b5)
+![Garage Buttress centre](/img/peak/stoney/garage-centre.jpg)
 
-![Garage Buttress centre](https://ucarecdn.com/4fe45476-89c4-4e9d-a4a9-00b1434f24b5/garagecentre.jpg)
-
+## Lower section
 
 **1. Turf 'em Off (6b+)** Easy lower wall right of Rippemoff to excellent steep wall.
 
@@ -38,9 +37,14 @@ weight: 30
 
 **13. Ming the Merciless (8a+)**  &starf;  the first bolted line right of Little Plum
 
+**14. Smoothlands (6a)**  short lower wall warm up
+
+**15. Virgin King (7b)** &starf; A logical link up of some older routes takes the best climbing up this part of the wall. Start up *Lowerlands* or *Smoothlands* and continue up the steepening wall moving L then up to ledges. Continue up through bulges above. 30m.
 
 
+## Upper section
 
+The following routes can be climbed as extensions to lower pitches or routes in their own right.
 
 
 **27. Do You Dig It? (7c)** The lefthand extension above *Dig Deep for Victory*.
@@ -55,14 +59,6 @@ weight: 30
 
 **32. The Big Leap Forward (8a)** From the top of *Big Apple* climb up and move right under the bulge. Climb up to the break and through the bulges above.
 
+<!-- Currently unmarked on this topo. description 
+**? 19. Lover's Leap (7b+)**  &starf;  left-hand side of Little Plum Roof -->
 
-
-
----
-
-
-**? 19. Lover's Leap (7b+)**  &starf;  left-hand side of Little Plum Roof
-
-**? 21. Smoothlands (6a)**  short lower wall warm up
-
-**? 21. Lowerlands (5)**  right-hand warm up.

@@ -3,9 +3,9 @@ title: Horseshoe Main Wall
 linktitle: Main Wall
 draft: false
 placeholder: false
-date: 2022-03-10T07:58:00Z
-summary: a new route has been added but the name is unknown.
 ---
+
+Main Wall is defined sharply at the lefthand side by the obvious arete of *Pale Rider* and somewhat arbitarily by the thin crack of *Spring Awakening* on the right. It can be hard to find the routes at first. The most obvious lines are *The Leading Line*, a fracture line that runs the full height of the crag towards the left side, and the long borehole of *Shot Yer Bolt* on the right.
 
 ![Horseshoe Main Wall lefthand](/img/peak/stoney/Horseshoe-Main-LH_BIG.jpg)
 {.topo}
@@ -38,11 +38,11 @@ summary: a new route has been added but the name is unknown.
 
 **Mega Shot (7a)** climbs the shothole L of Megalithic Man from the fourth bolt on that route and utilizing the last 2 bolts on that route too. The crux can be avoided by going further L at 6c.
 
-**14. Megalithic Man (6b+)** &starf;&starf; A fine route, bold low down finishing left and up from the 5th BR. The<b> Super Direct Finish is a fingery direct finish at 6c+ &starf;&starf;.
+**14. Megalithic Man (6b+)** &starf;&starf; A fine route, bold low down finishing left and up from the 5th BR. The< **Super Direct Finish** is a fingery direct finish at 6c+ &starf;&starf;.
 
 **15. Poisonality (7a)** &starf; Effectively the direct start to An Ancient Rhythm with fine moves. 
 
-**16. An Ancient Rhythm (6c+)** &starf; A hard start leads to open climbing and a finish via the thin crack. The link pitch between this and the next route gives <b>Ancient Man E5 6a &starf; connects Rhythm with Demolition Man
+**16. An Ancient Rhythm (6c+)** &starf; A hard start leads to open climbing and a finish via the thin crack. The link pitch between this and the next route gives **Ancient Man E5 6a** &starf; connects Rhythm with Demolition Man
 
 **17. Demolition Man (7a)** &starf; A mixture of technical low down, easy middle and fluttery finish.
 
@@ -60,12 +60,10 @@ summary: a new route has been added but the name is unknown.
 
 **22. Lost Monolith (6b+)** the long straightforward crackline and difficult final bulge.
 
-**22a Unknown (6a+)** The wall immediately left of Screwy Driver keeping out of the crack until forced into it near the top. Finish on the BB of Lost Monolith.
-
 **23. Screwy Driver E1 5b** the shallow groove/crack line to the right with a difficult final section.
 
-**Harvey Wallbanger (6c)** blunt rib and very hard moves direct through overlap. Using the crack out right makes it a more balanced 6b.
+**Harvey Wallbanger (6c)** an eliminate up the wall just L of *Spring Awakening*. Climb direct through overlap at the top. Using the crack out right near the top makes it a more balanced 6b.
 
-**24. Spring Awakening E1 5b**  the straight thin crack has been subject to recent cleaning work to the right. It has affected the grade slightly but was reclimbed a couple of days after the cleaning. It has now been completely recleaned
+**24. Spring Awakening E1 5b**  the straight thin crack has been subject to recent cleaning work to the right. It has affected the grade slightly but was reclimbed a couple of days after the cleaning. It has now been completely recleaned.
 
 
