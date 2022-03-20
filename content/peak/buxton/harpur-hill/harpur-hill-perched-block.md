@@ -1,11 +1,12 @@
 ---
-title: Nidge’s Wall
+title: Perched Block Buttress
+linktitle: Perched Block
 draft: false
 placeholder: false
 ---
 
 
-This is the section of cliff between Papacy Buttress and the Dark side and is easily characterized by Nidge&rsquo;s calling card high on the cliff.
+This is the section of cliff between Papacy Buttress and the Dark side. It was formerly called Nidge's Wall here. It is easily recognized by Nidge&rsquo;s calling card high on the cliff.
 
 
 ![Nidges Wall](/img/peak/buxton/hh-nidges-wall-2.jpg)
