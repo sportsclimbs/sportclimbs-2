@@ -1,6 +1,8 @@
 ---
 title: Perched Block Buttress
 linktitle: Perched Block
+date: 2022-03-25T06:08:44Z
+summary: formerly Nidge\'s Wall has two new routes added.
 draft: false
 placeholder: false
 ---
@@ -9,42 +11,45 @@ placeholder: false
 This is the section of cliff between Papacy Buttress and the Dark side. It was formerly called Nidge's Wall here. It is easily recognized by Nidge&rsquo;s calling card high on the cliff.
 
 
-![Nidges Wall](/img/peak/buxton/hh-nidges-wall-2.jpg)
+![Nidges Wall](/img/peak/buxton/hh-perched-block-left.jpg)
 
-
+## Left side
 
 **1. What's the Paint? (5)**  
-left-hand line with hardest moves low down.
+Left-hand line with hardest moves low down.
 
 **2. Pity the Graffiti (5)**  
-pleasant long rib with steep pull through initial bulge.
+Pleasant long rib with steep pull through initial bulge.
 
-**3. Set Fred Free (6a)**  
-the left-hand line from the high platform gives pleasant climbing to a steep finale.
+**3. Nidge, Nidge, Wink, Wink (5)**
+The next line right is a recent addition (2022).
 
-**4. Wilky's Revenge (5+) &starf;**  
-the central line from the platform gives a very pleasant wall climb.
+**4. Set Fred Free (6a)**  
+The left-hand line from the high platform gives pleasant climbing to a steep finale.
 
-**5. Making Plans for Nidge (6b) &starf;**  
-takes a line through the left-hand side of the alcove and past Nidge himself.
+**5. Wilky's Revenge (5+) &starf;**  
+The central line from the platform gives a very pleasant wall climb.
 
-**6. Helzapoppin' (7a) &starf;&starf;**  
-a superb stamina exercise through the centre of the alcove. Doesn't let up.
+**6. Making Plans for Nidge (6b) &starf;**  
+Takes a line through the left-hand side of the alcove and past Nidge himself.
 
-**7. Right Said Fred (6b)**  
-climbs through the right-hand side of the roof on big holds and layaways.
+**7. Helzapoppin' (7a) &starf;&starf;**  
+A superb stamina exercise through the centre of the alcove. Doesn't let up.
 
-**8. Cotote Club (6a)**  
-takes the left-hand side of the low wall and can be used to gain routes 6 and 7.
+**8. Right Said Fred (6b)**  
+Climbs through the right-hand side of the roof on big holds and layaways.
+
+**9. Cotote Club (6a)**  
+Takes the left-hand side of the low wall and can be used to gain routes 6 and 7.
 
 
 
-## Perched Block Buttress
+## Main wall
 
 Just right and above Coyote Club is a conspicuous perched block, right above route number 3, *Fast Furry-ous*.
 
 
-![Perched Block Buttress](/img/peak/buxton/harpur-hill-perched-block-buttress.jpg)
+![Perched Block Buttress](/img/peak/buxton/hh-perched-block-main.jpg)
 
 **1. Cotote Club (6a)**
 
@@ -67,3 +72,5 @@ Just right and above Coyote Club is a conspicuous perched block, right above rou
 **10. Elmer Thud (5)**
 
 **11. Lickin' Chicken(5)**
+
+**12. Yosemite Sam (6a)**
