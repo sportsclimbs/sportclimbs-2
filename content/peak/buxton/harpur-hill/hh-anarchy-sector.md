@@ -14,7 +14,7 @@ placeholder: false
 {.topo}
 
 
-To the left are **Arteaclism (6a+)** the sharp arete, **Wallaclism (6b)** a leftwards line from grassy ledge and **Thankyou Grooves (5)** a long slim isolated groove 20m to the left again.
+To the left are **Arteaclism (6a+)** the sharp arete, **Wallaclism (6b)** a leftwards line from grassy ledge and **Thankyou Grooves (5)** &starf;&starf; a long slim isolated groove 20m to the left again. To the right of *Thankyou Grooves* is **Mercy, Merci Me (6a)** &starf;
 {.topo}
 
 **1. End of Watch (5)**

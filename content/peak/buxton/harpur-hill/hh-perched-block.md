@@ -1,7 +1,6 @@
 ---
 title: Perched Block Buttress
 linktitle: Perched Block
-date: 2022-03-25T06:08:44Z
 summary: formerly Nidge\'s Wall has two new routes added.
 draft: false
 placeholder: false

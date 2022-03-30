@@ -61,7 +61,7 @@ Right-hand of three pillars via upper crack.
 
 **14. Pigeon Couped (6b)** the thin crack, short wall and upper pillar
 
-15. Ken Dodd's Dad's Dog's Dead HVS 5b Crack to belay of Gathering Darkness
+**15. Ken Dodd's Dad's Dog's Dead (HVS 5b)** Crack to belay of Gathering Darkness
 
 **16. Gathering Darkness (6c+)** Short hard route up left side of face.
 

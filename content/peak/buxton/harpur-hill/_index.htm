@@ -1,19 +1,30 @@
 ---
 title: Harpur Hill
 draft: false
+date: 2022-03-30T20:15:43+01
+summary: The first of ongoing updates have been added with new routes and some new topos.
 placeholder: false
 ---
 
 
 
 <style>
+    .photos {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+        gap: .5em;
+        margin-top: 2em;
+    }
+    .photos img {
+        width: 100%;
+    }
     .photo img {
         margin: .2em;
         float: left;
+        width: min(372px, 100%);
     }
 
     .photo:first-of-type {
-        width: 372px;
         display: none;
     }
 
@@ -22,10 +33,15 @@ placeholder: false
     }
 
     .imagecaption {
-        max-width: 734px;
+        grid-row: 1 / 5;
         margin-top: 3.5em;
-        margin-left: .5em;
+        margin-right: 1.5em;
         text-align: right;
+    }
+    @media screen and (max-width: 1310px) {
+        .imagecaption {
+            grid-column: 1 / -1;
+        }
     }
 </style>
 
@@ -50,21 +66,18 @@ placeholder: false
             <h3>When should I go there?</h3>
             <p>The cliff faces in a westerly direction and only gets any sunshine after about 3pm. Due to its open nature it dries extremely quickly and takes little seepage which in turn makes it a very cold venue in the winter months. This is a perfect place to spend a spring or summer evening or indeed provides a welcome morning retreat in scorching summer weather.</p>
 
-            <div class="photo">
+            <div class="photos">
+                <div class="imagecaption">
+                    <p>Four views of routes at Harpur Hill all with Gary Gibson climbing. From top left and clockwise are:</p>
+                    <p>Bag of Bones (6a+), Full Frontal (6c), The Talisman (7a) and Viagra Falls (6c+)</p>
+                    <p><em>All photos by Carl Ryan</em></p>
+                </div>
                 <img src="/img/peak/buxton/bag-of-bones.jpg" width="367" height="550" title="Bag of Bones (6a+)">
                 <img src="/img/peak/buxton/Full-Frontal-GG-1.jpg" width="367" height="550" title="Full Frontal (6c)">
-            </div>
-
-            <div class="photo">
                 <img src="/img/peak/buxton/Viagra-Falls.jpg" title="Viagra Falls (6c+)" width="367" height="550">
                 <img src="/img/peak/buxton/Talisman.jpg" width="367" height="550" title="The Talisman (7a)">
             </div>
 
-            <div class="imagecaption">
-                <p>Four views of routes at Harpur Hill all with Gary Gibson climbing. From top left and clockwise are:</p>
-                <p>Bag of Bones (6a+), Full Frontal (6c), The Talisman (7a) and Viagra Falls (6c+)</p>
-                <p><em>All photos by Carl Ryan</em></p>
-            </div>
 
 
 

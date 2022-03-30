@@ -37,27 +37,32 @@ placeholder: false
 
 **13. Cabin Fever (6b)** crack, roof and short wall to shared belay
 
-**14. Fred Flintstone VS 4b &starf;** left-hand side of short wall with peculiar 'worm'feature.
+**14. Fred Flintstone (4+)** &starf; left-hand side of short wall with peculiar 'worm'feature.
 
-**15. Barney Rubble VS 4c** crack direct.
+**15. Barney Rubble (4)** crack direct.
 
-**16. Yabba Dabba Doo VS 4b** direct line via large hole.
+**16. Yabba Dabba Doo (4)** direct line via large hole.
 
-The fine compact wall to the right has five sport routes.
+The fine compact wall to the right has several instense slab routes.
 
-![Cairn slabs area topo](/img/peak/buxton/Cairn-2.jpg)
+![Cairn slabs area topo](/img/peak/buxton/hh-cairn-2.jpg)
+{.topo}
 
-**17. Breakfast at Safeways (6b+)** left-hand line via faint scoop. Straight up from ledge. 
+**17. Petit Dejeuner (4+)** left-hand line via faint scoop. Straight up from ledge. 
 
-**18. 99p Special (6a+)** thin crack from just left of toe of buttress, then rightwards. 
+**18. Breakfast at Safeways (6b+)** left-hand line via faint scoop. Straight up from ledge. 
 
-**19. Food for Sport (6a)** the arete starting from the toe of the buttress. 
+**19. 99p Special (6a+)** thin crack from just left of toe of buttress, then rightwards. 
 
-**20. Over Easy (6a+)** the right-hand side of the arete 
+**20. Food for Sport (6a)** the arete starting from the toe of the buttress.
 
-**21. Full Set (6a+)** technical face climbing on the right-hand side of the wall. Just off topo. 
+**21. Toast (5+)**
 
-**Short Sport (6b)** small face on right with 3 bolts BYGOF (6a)** the arete to its right, same bolts
+**22. Over Easy (6a+)** the right-hand side of the arete 
+
+**Full Set (6a+)** technical face climbing on the right-hand side of the wall. Just off topo. 
+
+**Short Sport (6b)** small face on right with 3 bolts and **BYGOF (6a)** takes the arete to its right using the same bolts.
 
 ![Twilight section](/img/peak/buxton/hh-twilight-1-big.jpg)
 
