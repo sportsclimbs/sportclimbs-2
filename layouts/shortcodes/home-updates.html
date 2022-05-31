@@ -1,10 +1,10 @@
 
-        <div class="home-updates">
+        <div class="updates">
             <h3>Updates</h3>
             <ul>
-            {{- range first 25 (.Site.RegularPages.ByDate.Reverse) -}}
+            {{- range first 25 (.Site.Pages.ByDate.Reverse) -}}
                 {{- if isset .Params "summary" -}}
-                <li><b><a href="{{ .RelPermalink }}">{{ .Title }}</a></b> <i>({{ .Date.Format "2/1/06" }})</i> - {{ .Summary | truncate 152 }}</li>
+                <li><b><a href="{{ .RelPermalink }}">{{ .Title }}</a></b> <time>({{ .Date.Format "2/1/06" }})</time> - {{ .Summary | truncate 152 }}</li>
                 {{- end }}
             {{ end -}}
             </ul>

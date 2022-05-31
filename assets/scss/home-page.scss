@@ -32,11 +32,11 @@ body.home {
         width: 100%;
     }
 
-    .home-updates {
+    .updates {
         margin: 1em 0 2em 0;
     }
 
-    .home-updates ul {
+    .updates ul {
         height: 530px;
         overflow: auto;
         margin: 0;
@@ -44,9 +44,18 @@ body.home {
         list-style-type: none;
     }
 
-    .home-updates li {
+    .updates li {
         margin-bottom: 0.5em;
         margin-right: 1em;
+    }
+
+    .updates b {
+        font-weight: 600;
+    }
+
+    .updates time {
+        font-size: 0.85em;
+        font-style: normal;
     }
 
     .bolt-fund {

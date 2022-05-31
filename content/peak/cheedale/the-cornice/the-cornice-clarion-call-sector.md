@@ -16,6 +16,7 @@ placeholder: false
 ---
 
 ![The Cornice Clarion Call topo](/img/peak/cheedale/corncct.gif)
+{.topo}
 
 **1. Clarion Call (6c+)** &starf;&starf;&starf;  
 Classic and perhaps the UK's first sport route. Technical start and sustained above.  

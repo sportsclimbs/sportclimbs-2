@@ -1,7 +1,8 @@
 ---
 title: "Moat Buttress"
 summary: some minor corrections
-date: 2021-11-20T18:33:45Z
+date: 2022-05-31T20:13:48+01:00
+summary: New 8a added to this popular Peak crag.
 draft: false
 placeholder: false
 ---
@@ -25,9 +26,11 @@ At the left end of the crag there are several routes that sometimes start below 
 
 **Lady of the Lake (7b) &starf;** start up Dam it but climb directly up via a bulge to the top.
 
-The next two routes climb the shallow groove.
+The next three routes climb the shallow groove.
 
 **Garderobe (7b+) &starf;&starf;** climb the groove to the overlap. Move L on undercuts and make hard moves on big sidepulls through the bulge. Make a difficult move L then up and R to the belay.
+
+**Harderobe (8a)** is the obvious direct start to *Garderobe*.
 
 **Drawbridge Down When the Levee breaks (7c) &starf;** climbs a shallow groove and bulge above. Easier for the tall.
 

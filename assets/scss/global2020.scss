@@ -435,7 +435,7 @@ figure img,
     font-weight: bold;
 }
 
-/* the .topo class is for responsive topo images that scale with the size of the screen viewport */
+/* the .topo class is for responsive topo image containers (paragraphs in markdown) that scale with the size of the screen viewport */
 
 .topo {
     margin-top: 1em;
@@ -650,4 +650,22 @@ footer {
     max-width: 560px;
     aspect-ratio: 16 / 9;
     border-radius: 15px;
+}
+
+.float-box {
+    width: 500px;
+    max-width: 100%;
+    margin-left: 1em;
+    float: right;
+    padding: 1em 1em 2em 1em;
+    background-color: #1117;
+}
+
+// markdown only files
+
+.markdown-file {
+    p br+em {
+        // display: block;
+        // margin-top: 0.25em;
+    }
 }

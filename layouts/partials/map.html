@@ -7,8 +7,7 @@
 <script>
     var map = L.map('map').setView([{{ index .Params.map 0  }}, {{ index .Params.map 1 }}], {{ with (index .Params.map 2) }}{{ . }}{{ else }}16{{ end }});
     
-    
-    
+      
     L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
         attribution: '&copy; <a href="http://openstreetmap.org/copyright">OpenStreetMap</a> contributors'
     }).addTo(map);

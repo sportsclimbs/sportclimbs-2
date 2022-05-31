@@ -1,7 +1,7 @@
 ---
 title: "Pandy Quarry (Pen Y Fron)"
 linktitle: "Pandy Quarry"
-date: 2022-03-25T06:56:04Z
+date: 2022-05-31T20:11:48+01:00
 draft: false
 summary: a new crag near Mold with with 28 routes from 5 to 6c+
 map: [53.1769,-3.1784, 14]
