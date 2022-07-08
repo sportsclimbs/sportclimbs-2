@@ -12,10 +12,7 @@ Technically climbing is not allowed though it is hoped this will change in the n
 
 ## Approach
 
-![Blackwell Halt approach map](/img/peak/buxton/blamap.gif) From the upper end of the Topley Pike upper car park, go through the little gate and follow the path to the bottom of the hill. Cross over the old railway track (Monsal Trail) down to a private carpark. Go over a footbridge to some white cottages and turn left alongside the river. Go past an old building on the right and through a short tunnel. Continue a along the path and up some stone steps into the meadow above. Follow the path leftwards to the base of the crag.
-
-at its foot (the approach into Chee Dale). Turn left and through a gate and onto the live
-    railway track. Cross this immediately and over a small rise into the quarry. The main wall and the side (Sid's) Wall are obvious.</p>
+![Blackwell Halt approach map](/img/peak/buxton/blamap.gif) From the upper end of the Topley Pike upper car park, go through the little gate and follow the path to the bottom of the hill. Cross over the old railway track (Monsal Trail) down to a private carpark. Go over a footbridge to some white cottages and turn left alongside the river. Go past a pump house on the right and through a short tunnel. Turn R then L and up some stone steps into the meadow above. Follow the path leftwards to the base of the crag.
 
 ## Conditions
 

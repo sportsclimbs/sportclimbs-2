@@ -28,7 +28,7 @@ testFooter = false
   identifier = "yorkshire"
   name = "Yorkshire"
   url = "/yorkshire/"
-  weight = "30"
+  weight = "20"
 
   [[menu.regions]]
   identifier = "N Wales"

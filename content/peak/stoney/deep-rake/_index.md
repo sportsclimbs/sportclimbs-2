@@ -11,18 +11,27 @@ placeholder: false
 ---
 
 
+![Reliquary 7a+ on Stemple Wall, Deep Rake](/img/peak/stoney/deep-rake-reliquary.jpg)  
+*The upper section of Reliquary, a popular 7a+ in the centre of Stemple Wall*
+{.topo}
 
-![the rock at Deep Rake](/img/peak/stoney/deep-rake-closeup.jpg) Deep Rake is a true 'hole in the ground'. It was previously used for lead and fluorspar mining and was rediscovered by climbers in 2018. The best lines were soon ticked off by Lucian Cottle the Lee brothers who did a great job cleaning, cementing and even bolting bits of the crag together to create a high quality sport crag.
+## General
+
+![the rock at Deep Rake](/img/peak/stoney/deep-rake-closeup.jpg) Deep Rake is a true 'hole in the ground'. It was previously used for lead and fluorspar mining and was only discovered by climbers in 2018. The best lines were soon ticked off by Lucian Cottle and the Lee brothers who did a great job cleaning, cementing and even bolting bits of the crag together to make the best of this little quarry.
 
 The climbing style is unlike other climbing in this area and more like the climbing in some of the Matlock quarries. The yellow rock varies from a rough surface veneer to the extremely smooth frictionless underlayer. 
 
+Deep Rake is often a victim of it's own success. The combination of close proximity to Sheffield, good climbing, soft grades and lots of bolts makes it a very popular venue, but with only a dozen routes on the main wall it doesn't take many people to make it feel crowded. You can get an idea of how busy it will be by noting the number of cars in the parking area before walking up to the crag.
+
 ## Aspect
 
-The main wall (Stemple Wall) faces south and goes into the shade around 3pm in the summer. Hanging wall faces north so is shady all day. The crag dries out quickly after rain. The crag gets no sun in winter though some bits can still remain dry.
+The main wall (Stemple Wall) faces south and goes into the shade by 6pm at mid-summer. Hanging wall faces north so is shady all day. The crag dries out quickly after rain. The crag gets no sun in winter and can remain damp after sufficient rain. The crag can be sheltered from breezy weather though stronger winds from the wrong direction can still make the place quite chilly.
 
 ## Approach
 
-From the Calver crossroad drive south on the B6001 to Hassop. After 1km you reach the brow of the hill where there is parking on the left side of the road at a vague cross roads. Go up the track on the opposite side of the road for about 500m until you can see the quarry across the fields on the left. Go through gates and across to some footpegs on the northeast fence post to allow you to cross without weighting the wire. This is the only parking you should use. The crag should no longer be approached from the road through Rowland since this will cause access problems.
+From the Calver crossroads drive south on the B6001 towards Hassop. After 1km you reach the brow of the hill where there is parking on the left side of the road at a vague cross roads. 
+
+Go up the track on the opposite side of the road for about 500m (10 mins) until the top of the quarry can be seen peaking out across the fields on the left. Go through gates and across to some footpegs on the northeast fence post to allow you to cross without weighting the wire. A fixed rope leads down to the base of the quarry. This is the only parking you should use. The crag should no longer be approached from the road through Rowland since this will cause access problems.
 
 
 

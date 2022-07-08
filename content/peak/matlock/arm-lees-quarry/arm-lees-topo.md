@@ -1,14 +1,13 @@
 ---
 title: "Arm Lees topo"
-draft: true
+draft: false
 placeholder: false
 ---
 
  
 There is a fixed rope to the base of the routes at Tunnel Wall.
 
-![Tunnel Wall](arm-lees-tunnel-wall.jpg)
-{.topo}
+![Tunnel Wall](../arm-lees-tunnel-wall.jpg)
 
 **1. Logbook Spraylords (6a)** &starf;  
 Good climbing up the left-hand side of the wall, feels much bigger than it is.  
@@ -22,7 +21,8 @@ Good climbing up the centre.
 More unobvious climbing up the right-hand side. Powerful start.  
 *FA Lucian Cottle.*  
 
-![Faust Wall](arm-lees-faust-wall.jpg)
+![Faust Wall](../arm-lees-faust-wall.jpg)
+{.topo}
 
 **4. Talking Monkey (7a+)** &starf;  
 The techtastic direct start to Akercocke.  

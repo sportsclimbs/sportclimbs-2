@@ -35,9 +35,9 @@ Crack to belay of Gathering Darkness
 
 **10. Half and Half (6a)** obvious cleaned line finishing via slim corner
 
-**11. Gorignak (6b)** &starf; Short corner and overlap to wall and short finishing arete.
+**11. Wild Olive (6b+)** &starf; Cleaned corner and excellent wall to rib above.
 
-**12. Wild Olives (6b+)** &starf; Cleaned corner and excellent wall to rib above.
+**12. Gorignak (6b)** &starf; Short corner and overlap to wall and short finishing arete.
 
 **13. Galaxy Quest (6a)** &starf; long crackline and narrow sharp rib.
 

@@ -9,6 +9,8 @@ draft: false
 placeholder: false
 ---
 
+The RH end of the crag is much shorter and popular with boulderers. The main difficulties are often, but not always, in the steeper first few metres. 
+
 ![Raven Tor Right](/img/peak/millers-dale/ravenstor-boot-boys.jpg)
 {.topo}
 
@@ -20,6 +22,10 @@ The bulging wall to the right of *A Little Extra* followed by the thin wall abov
 **2. Hooligan (8c)** &starf;  
 More desperate bouldering and thin face climbing to the right of *The Wild West*  
 *F.A. Steve Dunning 2003*
+
+**The Southern Hooligan (9a)** &starf;  
+A very hard boulder problem (8B+/8C) leads to an easier finish. See [video](https://www.youtube.com/watch?v=IfnkQC9k2ZU).  
+*F.A. Will Bosi 2022*
 
 **3. Boot Boys (8a+)** &starf;&starf;  
 To the right of *Hooligan* is a promient jug at 3 metres. From this a hard move on a mono leads to better pockets. Fierce pulls off an undercut and crimps above lead leftwards to better holds and the belay.  
@@ -60,6 +66,6 @@ A tricky boulder problem start is followed by a fierce pull to gain an obvious u
 A hard pull on pockets lead to an undercut and then a good hold. From here further tricky moves lead to easier climbing and the belay.  
 *F.A. Steve Lewis 1986*
 
-**Saline Drip (E? 6b)**  
+**Saline Drip (E5 6b)**  
 The smooth wall at the right end of the crag gives a hard fingery highball problem (7A).  
 *F.A. Ron Fawcett 1981*

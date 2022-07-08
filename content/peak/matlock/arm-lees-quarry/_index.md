@@ -1,9 +1,9 @@
 ---
 title: "Arm Lees Quarry"
 linktitle: "Arm Lees"
-summary: a new quarry in the Matlock area with routes from 6a to 7a+
-date: 2022-05-31T20:46:47+01:00
-draft: true
+summary: this old quarry in the Matlock area has been cleaned up, reequipped and had several new routes added with grades from 6a to 7a+
+date: 2022-07-08T12:44:08+01:00
+draft: false
 placeholder: false
 ---
 

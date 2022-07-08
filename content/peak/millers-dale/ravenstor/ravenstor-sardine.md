@@ -49,10 +49,10 @@ Follow *Missing Link* to the faint break about 6m below the top. Traverse R and 
 **9. Another Toadside Attraction (7c)** &starf; Start as for *Tin Of* but climb direct with difficulty to join *Sardine* at the original crux. Do this then move up and right to an overlap. Over this to easier climbing and a junction with *Sardine*. Finish up this.  
 *F.A. Steve Lewis 1984*
 
-**10. In Brine (8a+)** &starf; Climb the wall right of the start of *Tin Of* and up faint groove to thin moves below a small roof. Climb the wall above to finish.  
+**10. In Brine (8a+)** &starf; Climb the wall right of the start of *Tin Of* and up faint groove to thin moves below a small roof. Climb the wall above to finish. Much harder since the loss of holds. 
 *F.A. Steve Lewis 1987*
 
-**Tomato Sauce (7b+)** starts up *In Brine* but breaks out left to join Sardine midway through it's original crux. Finish up *Toadside*.
+**Tomato Sauce (7b+)** starts up *In Brine* but breaks out left to join Sardine midway through it's original crux. Finish up *Toadside*. Possibly harder since the loss of undercuts where it joins Sardine.
 *F.A. Steve Lewis 1988*
 
 **11. Obscene Gesture (7c)** &starf; The wall right again leads to a small finger jug. Two options are possible. Either direct via a mono undercut (the original way) or slightly left and up to an overlap. Easier climbing leads to the top.  
