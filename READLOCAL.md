@@ -81,10 +81,6 @@ Can we use multiple CMS's? Might be confusing?
 
 How much does it cost to add users? How much hosting cost with Netlify? How much with Cloudflare?
 
-## Change Name
-
-Could change the name to Sport Climbs .co.uk. This is more commonly used so if someone cannot remember the name this is more likely to be searched for. Could use both, at least for a couple of years
-
 
 ## Graphs with number of routes
 
@@ -123,8 +119,6 @@ The whole route could be set in a a grid box with the following elements:
 ### stars
 
 The problem is using stars in markdown files. UPDATE seems like they parse in md files anyway.
-
-could This be done using them in `::after` pseudo elements for bold ? or `p>strong::after`
 
 Can use: 
 &#9734; outline

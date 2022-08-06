@@ -1,6 +1,7 @@
 ---
 title: The Retreat
 draft: false
+columns: true
 placeholder: false
 ---
 
@@ -8,6 +9,7 @@ This sector situated in the large bay facing The Sanctuary. Drop down to The San
 
 
 ![The Retreat LH side](/img/peak/buxton/Retreat-LH.jpg)
+{.topo}
 
 **1. Clean Team (5+)** slim face with a short technical section
 
@@ -73,7 +75,7 @@ This sector situated in the large bay facing The Sanctuary. Drop down to The San
 
 
 ![The Retreat left topo](/img/peak/buxton/hh-the-retreat-left.jpg)
-{.float-l}
+{.topo}
 
 **1. Teaterist (5)**
 {.clear-b}

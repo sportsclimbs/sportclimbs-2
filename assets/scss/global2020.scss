@@ -1,4 +1,3 @@
-
 /* =================== MAIN STYLES START HERE ================= */
 
 *,
@@ -53,7 +52,8 @@ body {
     line-height: 1.6;
 }
 
-strong, b {
+strong,
+b {
     font-weight: 600;
 }
 
@@ -86,21 +86,26 @@ section.content {
     grid-row: 3 / 4;
     display: flow-root;
 }
+
 section.columns {
     columns: 2 350px;
     column-gap: 2em;
 }
+
 section.columns p:first-of-type,
 section.columns .topo {
     column-span: all;
 }
+
 section.columns p img {
     max-width: 100%;
 }
+
 section.columns p:nth-of-type(2),
-section.columns .topo + p {
+section.columns .topo+p {
     margin-top: 0;
 }
+
 section.columns p {
     break-inside: avoid;
 }
@@ -143,9 +148,9 @@ section.columns p {
 }
 
 header {
-      padding-left: 1rem;
+    padding-left: 1rem;
     padding-top: 30px;
-    padding-bottom: 10px;  
+    padding-bottom: 10px;
 }
 
 h1 {
@@ -200,6 +205,15 @@ h4+p {
     font-size: .72rem;
     font-weight: normal;
     color: #f00;
+}
+
+.rebolted::after {
+    content: ' rebolted';
+    color: red;
+    text-transform: uppercase;
+    font-size: 0.75em;
+    display: inline-block;
+    margin-left: 0.5em;
 }
 
 // Alerts - need to be added to frontmatter
@@ -328,6 +342,7 @@ div[align=center] {
     border: solid 2px #257ECA;
     height: 100%;
 }
+
 .top_menu a.active {
     color: var(--heading-color);
     border-color: var(--heading-color);
@@ -361,6 +376,7 @@ div[align=center] {
     cursor: default;
     background-color: transparent;
 }
+
 .breadcrumbs a:hover {
     background-color: transparent;
     color: white;
@@ -417,6 +433,7 @@ section.topo {
 figure {
     float: right;
 }
+
 figcaption p {
     margin: 0;
 }
@@ -555,7 +572,7 @@ footer {
     padding: 0;
     list-style-type: none;
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(15ch, 1fr) );
+    grid-template-columns: repeat(auto-fit, minmax(15ch, 1fr));
     gap: .5em;
     font-size: 0.85em;
 }
@@ -564,6 +581,7 @@ footer {
     border: solid 1px var(--border-color);
     padding: .5em;
 }
+
 .other-areas {
     grid-column: 1 / -1;
     padding-inline: 1em;
@@ -641,7 +659,7 @@ footer {
 }
 
 .video {
-    clear:both;
+    clear: both;
     margin-block: 2em;
 }
 

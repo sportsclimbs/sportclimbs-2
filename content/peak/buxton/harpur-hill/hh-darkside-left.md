@@ -2,116 +2,71 @@
 title: Dark Side Left-Hand
 linktitle: Dark Side LH
 draft: false
+columns: true
 placeholder: false
 ---
 
-
-
-![image](/img/peak/buxton/hh-dark-side-right-central.jpg)
+![Harpur Hill Dark Side LH left](/img/peak/buxton/hh-darkside-lh-left.jpg)
 {.topo}
 
-The next three routes are on the inset wall to the left.
+**It has to End Somewhere (6a)** slab trending leftwards to lower off.
 
-**13. The Invasion of the Creepazoid (6c+)**  
-Central pillar off block. Tricky and sustained. Start fallen down.
+**1. DNE (4)** pillar with a mantelshelf finale
 
-**14. Pillar of Wisdom (6b) &starf;**  
-Left-hand pillar starting at higher level. <span class="new">New belay added.</span>
+**Endamol (5)** central pillar past the spike of Beelzebub, which is solid!
 
-**15. Fool's Stuffing (6a+)**  
-Right-hand line. Tricky central section.
+**2. Will it Never End (4+)** left pillar
 
-**16. Automatic Writing (6a)**  
-Central line. Hardest above ledge.
+**Is this the End? (5)** central wall.
 
-**17. Over the Deadline (6b) &starf;**  
-The best of the three lines.
+**3. Coming to an End (6a+)** slim pillar. Pleasant though short.
 
-**18. Under the Lifeline (6b)** front face of pillar high up.
+**4. End Games HVS 5a** crackline on right wall of pillar
 
-**19. Ghost Writer (5+)** pillar using wide crack.
+**5. Rawlinson End (5)** worthwhile climbing up the wall to the shared belay
 
-**20. In Stark Contrast (6b+) &starf;**  
-black wall 20m to left and starting at higher level.
+**6. In My Darkest Hour (5)** left-hand side of face. Pleasant.
 
-**21. Graveyard Blues (6a+)**  
-arete to left. Hardest in middle. <span class="new">New belay added.</span>
+**7. Endsville (6a)** front face with tricky finish.
 
-**22. The Dark Half (6b) &starf;**  
-the fine arete at main level. <span class="new">Rebolted and new belay added.</span>
+**8. Centreville (6a+)** crack to layback flake and lower off above.
 
-**23. Stark Disbelief (6c+)**  
-easy crack, hard face and easy finish. <span class="new">Rebolted and new belay added.</span>
+**9. Preston North End (6b)** Slab to steep wall with hard moves past 3rd BR.
 
-**24. George Stark Calling (6a+) &starf;**  
-Sharp arete on right side of bay to left. Unusual. <span class="new">Rebolted and new belay added.</span> 
+**10. Darkdale (6a)** 
 
-**25. I'm a Port Vale Dribbler (6a)**  
-Slim pillar <span class="new">New belay added.</span>
+**11. Will They (5)** slim wall.
 
-**26. The Mouth Waters (6b+) &starf;**  
-Centre of fine black wall. Technical.<span class="new">Rebolted and new belay added.</span>
-
-**Hairline VS 4c &starf;**  
-Traditional straight crack, right-hand of two.
-
-**Uncreased (VS 4c)**  
-Left-hand and wider crack.
-
-**27. Ear to Ear (6a+)**  
-slim wall with tricky move at half height. Worthwhile. <span class="new">Rebolted and new belay added. Extra bolt runners</span>
-
-**28. The Parting of the Lips (5)**  
-slim wall from ledge left again. <span class="new">New belay added.</span>
+**12. People Will Talk (5+)** &starf; excellent short arete. 
 
 
-![image](/img/peak/buxton/hh-dark-side-lh.jpg)
-
-**29. People Will Talk (5) &starf;**  
-excellent short arete. <span class="new">Rebolted and new belay added. Extra bolt runners</span>
-
-**30. Will They? (5)**  
-slim wall.
-
-**31. Preston North End (6c)** Slab to steep wall with hard moves past 3rd BR.
-
-**32. Centreville (6a)**  
-crack to layback flake and lower off above.
-
-**33. Endsville (6a)**  
-front face with tricky finish 20m to left.
-
-**34. In My Darkest Hour (5)**  
-left-hand side of face. Pleasant.
+![Harpur Hill Dark Side LH left](/img/peak/buxton/hh-darkside-lh-right.jpg)
+{.topo}
 
 
-**End Games HVS 5a**  
-The crackline on right wall of pillar
 
-**Coming to an End (6a+)**  
-The slim pillar. Pleasant though short.
+**13. Parting of the Lips (5)**
 
-**Is this the End? (5)**  
-Central wall.
+**14. Ear to Ear (6a)** slim wall with tricky move at half height. Worthwhile.
 
-**Will it Never End (4+)**  
-Left pillar 
+**15. Uncreased (VS 4c)**
 
-**It has to End Somewhere (6a)**  
-Slab trending leftwards to lower off.
+**16. The Mouth Wearers (6b+)**
 
-**Endeth (5)**  
-Slim face. 
+**17. I'm a Port Vale Dribbler (6a)** Slim pillar.
 
-**Euroman Endeth (4)**  
-face on 'bobbles)
+**18. George Stark Calling (6a+)** &starf; Sharp arete on right side of bay to left. Unusual.
 
-**Ending Now (6a) &starf;**  
-The arete
+**19. Metal Back Crack (HVS 5a)**
 
-**The End is Nigh (5)**  
-Slim face and arete
+**20. Disbelief (6c+)** easy crack, hard face and easy finish.
 
-**This is the End (5+)**  
-Face with cracks 
+**21. Dark Lines (5+)**
 
+**22. The Dark Half (6b+)** &starf; the fine arete at main level.
+
+**23. Graveyard Blues (6a+)** arete to left. Hardest in middle. 
+
+**24. In Stark Contrast (6b+)** &starf; (the red line R of 22)
+
+**26. Totally Stark (6b+)** the yellow line right again.
