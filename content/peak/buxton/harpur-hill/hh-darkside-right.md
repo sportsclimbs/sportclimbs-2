@@ -6,6 +6,8 @@ placeholder: false
 columns: true
 ---
 
+![Dark Side Centre 2022](/img/peak/buxton/hh-darkside-centre-2022.jpg)
+
 <!-- Old topo is: ![Dark Side Righthand](/img/peak/buxton/hh-dark-side-rh.jpg "Dark Side Righthand") -->
 
 ![Dark Side Righthand](/img/peak/buxton/hh-darkside-right.jpg)

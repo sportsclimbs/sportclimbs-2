@@ -9,12 +9,12 @@ placeholder: false
 ## Introduction
 
 
-This crag was made famous in 2021 when Tom Cruise visited to use it for a train crash stunt in the film Mission Impossible 7. The quarry on the opposite side of the road to Stoney West. The main wall gives a number of tough wall climbs on generally good rock in a typical quarry setting. There are also a number of easy sport climbs on the opposite, south facing White Stripes Wall.
+This crag was made famous in 2021 when Tom Cruise visited to use it for a train crash stunt in the film *Mission Impossible 7*. The quarry is situated on the opposite side of the road to Stoney West. The main wall gives a number of tough wall climbs on generally good rock in a typical quarry setting. There are also a number of easy sport climbs on the opposite, south facing White Stripes Wall though the rock is less reliable here.
 
 
 ## Approach
 
-From the parking place for Stoney West, walk up back toward Stoney Middletona short way to an entrance to a small road on the right. Go past a barrier into a small 'loading bay'. Pass the fence and hop over the next fence - this point can also be gained from the public footpath directly below (limited parking) - and into the quarry. The main wall will be seen in the top left-hand corner of the quarry.
+From Stoney Middleton drive up The Dale and park on the left just past the turn off on the right for Eyam. This is the same parking place for Stoney West. Walk up back toward Stoney Middleton a short way to a small road on the right. Go past a barrier into a small 'loading bay'. Pass the fence and hop over the next fence - this point can also be gained from the public footpath directly below (limited parking) - and into the quarry. The main wall will be seen in the top left-hand corner of the quarry.
 
 No access has been granted so if asked to leave please do so courteously.
 

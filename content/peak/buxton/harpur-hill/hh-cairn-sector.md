@@ -40,11 +40,11 @@ placeholder: false
 
 **14. Cabin Fever (6b)** crack, roof and short wall to shared belay
 
-**15. Fred Flintstone (4+)** &starf; left-hand side of short wall with peculiar 'worm'feature.
+**15. Pebbles (6a+)**
 
-**16. Pebbles (5)**
+**16. Fred Flintstone (5)** &starf; left-hand side of short wall with peculiar 'worm'feature.
 
-**17. Barney Rubble (4)** crack direct.
+**17. Barney Rubble (5)** crack direct.
 
 **18. Yabba Dabba Doo (4)** direct line via large hole.
 
@@ -52,6 +52,8 @@ The fine compact wall to the right has several instense slab routes.
 
 ![Cairn slabs area topo](/img/peak/buxton/hh-cairn-topo-2.jpg)
 {.topo}
+
+**Mueslli (6b)** climbs the wall just left of route 19. 
 
 **19. Petit Dejeuner (4+)** left-hand line via faint scoop. Straight up from ledge. 
 

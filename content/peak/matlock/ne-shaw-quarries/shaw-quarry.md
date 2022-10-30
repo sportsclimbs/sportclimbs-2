@@ -1,7 +1,7 @@
 ---
 title: "Shaw Quarry"
 date: 2022-08-04T10:55:26+01:00
-draft: false
+draft: true
 placeholder: false
 ---
 

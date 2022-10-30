@@ -2,6 +2,7 @@
 title: Exclusion Sector
 draft: false
 placeholder: false
+columns: true
 ---
 
 This is on the upper tier to the right of Papacy Buttress and left of the Prophecy sector.

@@ -2,8 +2,8 @@
 title: "North East, Shaw & Fossil Wall"
 linktitle: "NE & Shaw"
 summary: Three little quarried walls close to Colehill Quarry in the Matlock area.
-date: 2022-08-06T20:24:39+01:00
-draft: false
+date: 2022-08-08T04:18:49+01:00
+draft: true
 map: [53.09306, -1.57142, 16]
 markers:
 - [53.09208, -1.57446, Fossil Wall]

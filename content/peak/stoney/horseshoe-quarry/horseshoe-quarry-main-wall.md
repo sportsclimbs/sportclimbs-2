@@ -1,18 +1,20 @@
 ---
-title: Horseshoe Main Wall
-linktitle: Main Wall
+title: Main Wall
+columns: true
 draft: false
+weight: 100
 placeholder: false
 ---
 
-Main Wall is defined sharply at the lefthand side by the obvious arete of *Pale Rider* and somewhat arbitarily by the thin crack of *Spring Awakening* on the right. It can be hard to find the routes at first. The most obvious lines are *The Leading Line*, a fracture line that runs the full height of the crag towards the left side, and the long borehole of *Shot Yer Bolt* on the right.
+Main Wall is defined sharply at the lefthand side by the obvious arete of *Pale Rider* and somewhat arbitarily by the thin crack of *Spring Awakening* on the right. It can be hard to find the routes at first but there are a few landmarks. A fracture line that runs the full height of the crag is obvious. This is  *The Leading Line* (route no. 8 on both topos), situated some way left of centre. At the righthand end is the very long borehole of *Shot Yer Bolt* . You might also see the remnants of *NO CLIMBING* signs towards the right end of the wall, recreated on the topos as landmarks.
 
-![Horseshoe Main Wall lefthand](/img/peak/stoney/Horseshoe-Main-LH_BIG.jpg)
+![Horseshoe Main Wall lefthand](/img/peak/stoney/horseshoe-main-wall-left.jpg)
 {.topo}
+
 
 **1. Pale Rider (6a)** &starf; The warm up. Keep to the arete, not the crack on the right.
 
-**2. Rain Dance (6c)** &starf;&starf; Tricky start then delicate above and rightwards. The two left-hand finishes are **Colostomy Finish (6c+)** and **Physical Fizz (6c+)**
+**2. Rain Dance (6c)** &starf;&starf; Tricky start then delicate above and rightwards. The two left-hand finishes are **Colostomy Finish (6c+)** which breaks out left lower down and the slightly easier **Physical Fizz (6c+)**.
 
 **3. School's Out (6a+)** &starf; New start and bouldery crux to excellent faint crackline
 
@@ -36,6 +38,9 @@ Main Wall is defined sharply at the lefthand side by the obvious arete of *Pale 
 
 **13. Litany Against Fear (6c)** &starf; Now climbed direct over the bulge. A superb and technical direct finish.
 
+![Horseshoe Main wall righthand](/img/peak/stoney/horseshoe-main-wall-right.jpg)
+{.topo}
+
 **Mega Shot (7a)** climbs the shothole L of Megalithic Man from the fourth bolt on that route and utilizing the last 2 bolts on that route too. The crux can be avoided by going further L at 6c.
 
 **14. Megalithic Man (6b+)** &starf;&starf; A fine route, bold low down finishing left and up from the 5th BR. The< **Super Direct Finish** is a fingery direct finish at 6c+ &starf;&starf;.
@@ -47,12 +52,9 @@ Main Wall is defined sharply at the lefthand side by the obvious arete of *Pale 
 **17. Demolition Man (7a)** &starf; A mixture of technical low down, easy middle and fluttery finish.
 
 
-![Horseshoe Main wall righthand](/img/peak/stoney/Horsseshoe-Main-RH.jpg)
-{.topo}
-
 **18. Shot Yer Bolt (6b+)** &starf;&starf; The obvious borehole with a tricky finish and rattling hold.
 
-**19. Southern Man (7b)** &starf;&starf; Superb route with blind and fingery finish. Hard since loss of holds and worth a flutter sign .
+**19. Southern Man (7b)** &starf;&starf; Superb route with blind and fingery finish. Hard since loss of holds and worth a flutter sign.
 
 **20. Nice Ledge, Shame about the Face (6c)** &starf; Awkward start. Difficult slab move and airy finish. 
 

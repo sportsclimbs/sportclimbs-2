@@ -2,7 +2,7 @@
 title: "North East Quarry"
 linktitle: "North East"
 date: 2022-08-04T11:22:37+01:00
-draft: false
+draft: true
 placeholder: false
 css:
 - ".content > p img.ulc {clear: both;}"

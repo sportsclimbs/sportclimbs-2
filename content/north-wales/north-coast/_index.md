@@ -1,5 +1,6 @@
 ---
 title: North Wales Coast
+linktitle: N Wales Coast
 placeholder: false
 ---
 
