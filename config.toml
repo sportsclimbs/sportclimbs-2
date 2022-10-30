@@ -10,6 +10,9 @@ disableKinds = ['taxonomy', 'term']
 snow = false # turn snow effect on/off for the front page.
 testFooter = false
 
+[outputs]
+   home = [ "HTML", "JSON" ]
+
 [menu]
 
   [[menu.regions]]

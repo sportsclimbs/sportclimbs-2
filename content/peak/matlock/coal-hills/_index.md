@@ -2,7 +2,7 @@
 title: "Coal Hills Quarry"
 linktitle: "Coal Hills"
 summary: Small walls just to the north of Colehill Quarry with a selection of routes up to 7a.
-date: 2022-10-18T15:05:50+01:00
+date: 2022-10-29T15:05:50+01:00
 draft: false
 placeholder: false
 map: [53.0931, -1.57215, 16]

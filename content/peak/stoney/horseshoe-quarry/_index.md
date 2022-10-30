@@ -2,8 +2,8 @@
 title: Horseshoe Quarry
 linktitle: Horseshoe
 draft: false
-date: 2022-08-08T18:27:02+01:00
-summary: New topos for the the Main Wall.
+date: 2022-10-30T22:11:29Z:00
+summary: New layout map and photo plus new topos for the Main Wall, Cave and Toilet areas and Gouranga Bay.
 weight: 9
 placeholder: false
 css:

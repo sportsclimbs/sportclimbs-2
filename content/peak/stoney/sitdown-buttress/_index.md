@@ -1,7 +1,7 @@
 ---
 title: "Sit Down Buttress"
 summary: New topo for the main wall
-date: 2022-10-18T20:30:16+01:00
+date: 2022-10-29T20:30:16+01:00
 draft: false
 placeholder: false
 map: [53.2785, -1.68233, 16]
