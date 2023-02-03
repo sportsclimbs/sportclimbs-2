@@ -477,10 +477,46 @@ section:after {
     margin-bottom: 0;
 }
 
+// ========= FOOTER ==========
+
 footer {
     clear: both;
     border-top: solid 1px var(--border-color);
     padding: 1em;
+}
+
+footer:not(.test) {
+    display: grid;
+    grid-template-columns: auto auto 1fr auto;
+    gap: 2em;
+    padding-top: 1.5em;
+    background-color: #2226;
+    font-size: 0.8em;
+}
+
+footer:not(.test) ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    white-space: nowrap;
+}
+
+.updated {
+    max-width: 22ch;
+}
+
+.copyright {
+    grid-column: 1 / -1;
+    text-align: center;
+}
+
+time {
+    white-space: pre;
+    font-style: italic;
+}
+
+abbr {
+    cursor: help;
 }
 
 /* --------- MEDIA QUERIES ----------- */
@@ -511,10 +547,12 @@ footer {
 
 @media (max-width: 1000px) {
     #container {
-        display: block;
-        /* not the preferred solution. Don't know while changing the columns won't work */
-        // grid-template-columns: 1fr;
-        /* grid-row-gap: 35px; */
+        display: flex;
+        flex-direction: column;
+    }
+
+    footer {
+        margin-top: auto;
     }
 
     #container>* {
@@ -530,8 +568,6 @@ footer {
     nav.cragnav {
         padding: 0 1rem;
         /* grid-row: 3/4;  Not needed w dispaly block */
-        /* outline: fuchsia 2px solid; */
-        /* background: #ccc; */
     }
 
     .cragnav ul {
@@ -539,7 +575,7 @@ footer {
         grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
         grid-column-gap: 5px;
         justify-content: space-around;
-        font-size: 2em;
+        font-size: 1.5em;
     }
 
     .cragnav ul a {
@@ -558,6 +594,17 @@ footer {
         font-size: 3rem;
     }
 
+}
+
+@media screen and (max-width: 800px) {
+    footer:not(.test) {
+        // display: block;
+        grid-template-columns: 1fr auto;
+    }
+
+    .updated {
+        max-width: initial;
+    }
 }
 
 /* This section is for Ban y Gor */
@@ -691,3 +738,5 @@ footer {
         // margin-top: 0.25em;
     }
 }
+
+// textarea and input are in the contact.scss file

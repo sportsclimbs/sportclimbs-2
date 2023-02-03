@@ -6,7 +6,8 @@
         {{ $currentPage := . }}
         <li><a href="/" {{ if .IsHome }}class="active"{{ end }}>Home</a></li>
         {{ range .Site.Menus.main }}
-        <li><a href="{{ .URL }}" {{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} class="active"{{end}}>{{ .Name }}</a></li>
+        <li class="{{ replace .Name " " "-" | lower }}"><a href="{{ .URL }}" {{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} class="active"{{end}}>{{ .Name }}</a></li>
         {{ end }}    
+        <li><a href="/search/" {{ if eq .Name "Search" }}class="active"{{ end }}>Search</a></li>
     </ul>
 </nav>

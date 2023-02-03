@@ -5,7 +5,19 @@ input {
     font-family: 'Open Sans', 'courier new';
     border: solid 1px #fff3;
     border-radius: 6px;
-    padding: 0.5em;
+    padding: 0.5rem;
+    max-width: 90%;
+}
+
+input[type="text"],
+input[type="email"],
+textarea {
+    font-size: 1.25em;
+}
+
+textarea:focus,
+input:focus {
+    outline: greenyellow 3px solid;
 }
 
 
@@ -20,11 +32,13 @@ body.contact {
     }
 
     label {
+        padding-top: 0.5em;
         text-align: right;
     }
 
     textarea {
         height: 15em;
+        width: 100%;
     }
 
     .submit {

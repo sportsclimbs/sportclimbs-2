@@ -40,7 +40,9 @@ placeholder: false
 
 **14. Cabin Fever (6b)** crack, roof and short wall to shared belay
 
-**15. Pebbles (6a+)**
+**15. Pebbles (6a+)** the first of 5 lines on the small buttress.
+
+**Wilmer (5)** takes second bolt line, just R of the crack.
 
 **16. Fred Flintstone (5)** &starf; left-hand side of short wall with peculiar 'worm'feature.
 
@@ -53,7 +55,7 @@ The fine compact wall to the right has several instense slab routes.
 ![Cairn slabs area topo](/img/peak/buxton/hh-cairn-topo-2.jpg)
 {.topo}
 
-**Mueslli (6b)** climbs the wall just left of route 19. 
+**Mueslli (6b)** climbs the wall just left of route and  19. 
 
 **19. Petit Dejeuner (4+)** left-hand line via faint scoop. Straight up from ledge. 
 
@@ -69,7 +71,11 @@ The fine compact wall to the right has several instense slab routes.
 
 **Full Set (6a+)** technical face climbing on the right-hand side of the wall. Just off topo. 
 
-**Short Sport (6b)** small face on right with 3 bolts and **BYGOF (6a)** takes the arete to its right using the same bolts.
+**Short Sport (6b)** small face on right with 3 bolts 
+
+**BYGOF (6a)** takes the arete to its right using the same bolts.
+
+**Granola (6a)** right again starting up the crack and block then veering L higher up to finish on the BB of Short Sport.
 
 ## Twilight Section
 

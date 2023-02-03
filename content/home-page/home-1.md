@@ -15,9 +15,6 @@ You can buy copies of my book from [Cordee](https://cordee.co.uk/Blood-Sweat-and
 
 ### Links
 
-Take a look into my brother's field of art. Superb illustrative art alongside other more traditional mediums.
-[www.philipgibson.co.uk](http://philipgibson.co.uk/)
-
 For all your bolting needs whether replacement or new, go to
 [www.bolt-products.com ](http://bolt-products.com/)
 

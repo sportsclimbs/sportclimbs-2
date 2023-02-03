@@ -45,6 +45,12 @@ testFooter = false
   url = "/south-wales/"
   weight = "40"
 
+  [[menu.regions]]
+  identifier = "search"
+  name = "Search"
+  url = "/search/"
+  weight = "100"
+
 [markup]
   [markup.goldmark.parser.attribute]
   block = true

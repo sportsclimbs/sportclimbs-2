@@ -28,6 +28,7 @@
     {{ $scss := resources.Get "scss/global2021.scss" }}
     {{ $thecss := $scss | toCSS | minify | fingerprint}}
     <link rel="stylesheet" href="{{ $thecss.RelPermalink }}">
+    
     {{ with .Params.css }}
     <style>
         {{ range . }}
