@@ -34,7 +34,7 @@ Other site sections or pages:
 The main regions could then acces the different areas directly. This is important since the addition of areas means an extra click to reach a crag. How would this work on mobile touch screens? Touch once for the dropdown and touch again to get the regional page?
 
 
-### Types of page
+## Types of page
 
 The main kind of pages are these. Though that doesn't mean they need separate templates. The `section` and page names are in lower case on the body class. Also is the content file extension. eg.
 

@@ -1,7 +1,7 @@
 ---
 title: "Fossil Wall"
 date: 2022-08-04T11:05:54+01:00
-draft: true
+draft: false
 placeholder: false
 ---
 

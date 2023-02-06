@@ -12,7 +12,6 @@ markers:
 
 
 **NOTE on names**  
-
 There are two big quarries on the hillside and several smaller ones between the two. The right hand of the big quarries (SH 395 467) contains a few trad routes that are described in Lleyn climbing guides, which call the quarry Gyrn Ddu, presumably because it lies on the flank of Gyrn Ddu mountain. In web literature about the history of quarrying in the area the left hand quarry is called Tyddyn Hywel and the right hand one is called Tan y Graig. The names Gyrn Ddu or Tan y Graig are sometimes used to refer to all the quarries on this hillside but this seems to be incorrect and confusing. I use Tyddyn Hywel to refer to the left hand of the two bigger quarries.
 {.float-box}
 

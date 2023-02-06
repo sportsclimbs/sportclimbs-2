@@ -39,20 +39,21 @@
 {{ end -}}   
 
         <li>
-{{- with .Parent -}}
-    {{ if eq $level 4 }}
-    <a href="{{ .Parent.RelPermalink }}">{{ .Parent.LinkTitle }}</a>
-    {{ else if eq $level 3 }}
-    <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
-    {{- end -}}
-{{- end -}}
+        {{- with .Parent -}}
+            {{ if eq $level 4 }}
+            <a href="{{ .Parent.RelPermalink }}">{{- .Parent.LinkTitle -}}</a>
+            {{- else if eq $level 3 -}}
+            <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+            {{- end -}}
+        {{- end -}}
+        </li>
         <li>
             {{- $thispage := . -}}
             {{- with .FirstSection -}}
-                {{ if ne $thispage . }}
+                {{- if ne $thispage . -}}
                 <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-                {{ end }}
-            {{ end }}
+                {{- end -}}
+            {{- end -}}
         </li>
         <li><a href="/search/">Search</a></li>
         <li><a href="/">Home</a></li>

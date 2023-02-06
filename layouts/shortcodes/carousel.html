@@ -9,7 +9,7 @@
 
 <div class="carousel">
     {{ range $carousel.Page.Resources.Match "carousel/*" }}
-    <figure>
+    <figure class="slide-image" >
         {{- $caption := replace .Name "-" " " -}}
         {{- $caption2 := trim $caption "/carousel" -}}
         <img src="{{.RelPermalink}}" alt="{{ trim $caption2 ".jpg" }}">
@@ -18,4 +18,3 @@
 
     {{- end -}}
 </div>
-

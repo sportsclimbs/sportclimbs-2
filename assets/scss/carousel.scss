@@ -2,31 +2,41 @@
     position: relative;
     height: calc(468px + 3em);
 }
+
 .carousel figure {
     position: absolute;
     /* outline: solid 1px fuchsia; */
     min-width: 100%;
     margin: 0;
     opacity: 0;
-    animation: change 35s infinite;
+    animation: change 70s infinite;
 }
+
 .carousel:hover figure {
     cursor: wait;
     animation-play-state: paused;
 }
+
 .carousel img {
     width: 100%;
     aspect-ratio: 350 / 468;
 }
+
 .carousel figcaption {
     background-color: #2B2B28;
     margin: 0 10px;
 }
+
 @keyframes change {
-    25% {
+    0% {
         opacity: 1;
     }
-    30% {
+
+    80% {
+        opacity: 1;
+    }
+
+    90% {
         opacity: 0;
     }
 }
@@ -34,21 +44,27 @@
 figure:nth-child(1) {
     animation-delay: 0s;
 }
+
 figure:nth-child(2) {
-    animation-delay: 5s;
-}
-figure:nth-child(3) {
     animation-delay: 10s;
 }
-figure:nth-child(4) {
-    animation-delay: 15s;
-}
-figure:nth-child(5) {
+
+figure:nth-child(3) {
     animation-delay: 20s;
 }
-figure:nth-child(6) {
-    animation-delay: 25s;
-}
-figure:nth-child(7) {
+
+figure:nth-child(4) {
     animation-delay: 30s;
+}
+
+figure:nth-child(5) {
+    animation-delay: 40s;
+}
+
+figure:nth-child(6) {
+    animation-delay: 50s;
+}
+
+figure:nth-child(7) {
+    animation-delay: 60s;
 }

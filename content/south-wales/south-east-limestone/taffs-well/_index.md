@@ -1,5 +1,6 @@
 ---
 title: Taffs Well Quarry
+linktitle: Taffs Well
 draft: false
 map: [51.53427035510597, -3.2468032836914067, 14]
 markers:

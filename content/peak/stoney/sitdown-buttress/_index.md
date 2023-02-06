@@ -1,5 +1,6 @@
 ---
 title: "Sit Down Buttress"
+linktitle: "Sit Down"
 summary: New topo for the main wall
 date: 2022-10-29T20:30:16+01:00
 draft: false

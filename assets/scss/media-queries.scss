@@ -1,0 +1,182 @@
+/* --------- MEDIA QUERIES ----------- */
+
+
+
+@media (max-width: 1000px) {
+
+    #container {
+        display: flex;
+        flex-direction: column;
+    }
+
+    #container>* {
+        width: 100%;
+    }
+
+    header {
+        margin-top: 4rem;
+    }
+
+    footer {
+        margin-top: auto;
+    }
+
+    .top_menu {
+        position: fixed;
+        top: 0;
+        left: 0;
+        height: 100vh;
+        width: 100vw;
+        margin: 0;
+        display: grid;
+        place-content: center;
+        z-index: 100;
+        background-color: #000000a3;
+        backdrop-filter: blur(4px);
+        transform: translateX(-100%);
+        transition: all 0.4s ease-out;
+    }
+
+    .show-menu {
+        transform: translate(0);
+    }
+
+    .top_menu ul {
+        grid-template-columns: 1fr;
+        place-content: center;
+        width: 50vw;
+        min-width: 15ch;
+        max-width: 98%;
+        margin-inline: auto;
+        font-size: 1.4em;
+    }
+
+    .top_menu li a {
+        display: block;
+        padding-inline: 1em;
+        background-color: #0007;
+    }
+
+    .hamburger-container {
+        display: block;
+        text-align: right;
+        position: absolute;
+        z-index: 200;
+        margin-right: 2em;
+        width: calc(100% - 2*(clamp(0.50rem, calc(-0.61rem + 3.56vw), 2.50rem))) !important;
+    }
+
+    .hamburger,
+    .hamburger:hover {
+        background-color: transparent;
+        padding-right: 0;
+    }
+
+    .hamburger-inner,
+    .hamburger-inner::before,
+    .hamburger-inner::after,
+    .hamburger.is-active .hamburger-inner,
+    .hamburger.is-active .hamburger-inner::before,
+    .hamburger.is-active .hamburger-inner::after {
+        background-color: #e2e2e2;
+        // background-color: var(--link);
+    }
+
+
+    nav.cragnav {
+        padding: 0 1rem;
+        /* grid-row: 3/4;  Not needed w dispaly block */
+    }
+
+    .cragnav ul {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+        grid-column-gap: 0.5em;
+        justify-content: space-around;
+        font-size: 1.25em;
+    }
+
+    .cragnav ul:last-of-type {
+        display: none;
+    }
+
+    .cragnav ul a {
+        height: 100%;
+    }
+
+    a[href="#"] {
+        background-color: var(--red);
+    }
+
+    section.content {
+        width: 100%;
+    }
+
+    h1 {
+        font-size: 3.3em;
+    }
+
+}
+
+
+
+@media screen and (max-width: 800px) {
+    footer:not(.test) {
+        grid-template-columns: 1fr auto min-content;
+        grid-template-rows: 1fr 1fr;
+        grid-template-areas:
+            "updated menu rss"
+            "bmc bmc bmc";
+        font-size: 0.9em;
+        column-gap: calc(2 * clamp(0.50rem, calc(-0.61rem + 3.56vw), 2.50rem));
+    }
+
+    footer:not(.test) .bmc {
+        // grid-column: 1 / -1;
+        grid-area: bmc;
+    }
+
+    .breadcrumbs li:first-child {
+        display: none;
+    }
+
+    .updated {
+        max-width: initial;
+    }
+
+    img {
+        max-width: 400px;
+        display: block;
+        margin: .5em 0;
+    }
+
+}
+
+
+
+
+/* The @media print is to hide menus when a page is printed out */
+
+@media print {
+    .top_menu {
+        display: none;
+    }
+
+    .cragnav {
+        display: none;
+    }
+
+    body:after {
+        display: none;
+    }
+
+    footer {
+        display: none;
+    }
+
+    section.content {
+        width: 100%;
+        box-sizing: border-box;
+        padding: 0;
+    }
+}

@@ -3,14 +3,15 @@
 body.home {
 
     #container {
-        display: block;
+        // display: block;
+        grid-template-columns: initial;
     }
 
     main {
         // grid-column: 1 / -1;
         display: grid;
-        grid-template-columns: 2.5fr minmax(220px, 350px) 1fr;
-        gap: 40px;
+        grid-template-columns: 2.5fr minmax(220px, 350px) minmax(180px, 1fr);
+        gap: clamp(0.81rem, calc(-1.12rem + 3.86vw), 2.50rem);
         padding: 1em;
     }
 
@@ -59,10 +60,11 @@ body.home {
     }
 
     .bolt-fund {
-        background-color: #393934;
-        border: solid 1px rgb(82, 82, 82);
-        border-radius: 15px;
+        background-color: #171714b3;
+        /* border: solid 1px #525252; */
+        border-radius: 5px;
         padding: .5em 1em;
+        font-size: 0.9em;
     }
 
     .bolt-fund p {
@@ -77,6 +79,12 @@ body.home {
     .home-1 :first-child,
     .home-2 :first-child {
         margin-top: 0;
+    }
+
+    h2 {
+        color: #aaa;
+        margin-top: 2em !important;
+        font-size: 1.8em;
     }
 
     p,
