@@ -10,10 +10,46 @@ columns: true
 
 <!-- Old topo is: ![Dark Side Righthand](/img/peak/buxton/hh-dark-side-rh.jpg "Dark Side Righthand") -->
 
+**1. The Dark Half (6b)** &starf;
+
+**2. Graveyard Blues (6a+)**
+
+**3. In Stark Contrast (6b+)** &starf;
+
+**Totally Stark (6b+)** Just R of *In Stark Contrast* to its belay
+
+**4. Ghost Writter (5+)**
+
+**5. Under the Lifeline (6b)**
+
+**6. Over the Deadline (6b)**
+
+**7. Automatic Writing (6a)**
+
+**8. Fools Stuffing (6a+)**
+
+**9. Pillars of Wisdom (6b)**
+
+**10. No Wisdom (6b+)**
+
+**11. The Invasion of the Creepazoids (6c)**
+
+**12. Later that Night (6b)**
+
+**13. Mourning Blues (6c+)**
+
+**14. Gashcombe (5)**
+
+**15. The Coming of the Sparrows (5+)** &starf;
+
+**16. The Flight of the Finches (6c)**
+
+
 ![Dark Side Righthand](/img/peak/buxton/hh-darkside-right.jpg)
 { .topo }
 
 
+**Flight of the Coming Sparrow (5+)** climbs the wall on the left edge of this topo.
 
 **1. Stop the Pigeon (6b+)**  
 Slabby and technical wall to blocky rib. <span class="new">New belay added.</span>

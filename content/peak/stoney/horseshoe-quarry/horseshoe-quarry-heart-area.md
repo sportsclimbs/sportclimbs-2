@@ -1,75 +1,15 @@
 ---
-title: Gouranga Bay
-subtitle: "& Heart Buttress"
-linktitle: Grnga & Heart
-weight: 50
+title: Heart Buttress
+weight: 55
 columns: true
 draft: false
 placeholder: false
 ---
 
-## Gouranga Wall
 
-![Gouranga Wall topo](/img/peak/stoney/horseshoe-quarry-gouranga-wall.jpg)
-{.topo}
+This is the steep buttress to the left of The Slabs. Facing NE it gets little sun and is good for a hot day though takes longer to dry out that other parts of the crag.
 
-**NYD (6a+)** is an isolated wall 30m to left.
-
-**1. Pig in a Poke (5)** &starf; pleasant shallow groove.
-
-**2. Bad Boys Ink (6a+)**.
-
-**3. Unruly Behavior (6a+)**
-
-**4. Treatment (6b)** face just left avoiding crack.
-
-**5. Therapy (6b+)** obvious black wall requiring long reaches.
-
-**6. Porgi Amor (6b)** left-hand groove after same start.
-
-**7. Foreign Tongues (6a)** obvious groove line to same belay.
-
-**8. Guoranga (6c)** &starf; very technical wall left of obvious crack. High in grade.
-
-**9. Minni-Grip (7a+)** short desperate face.
-
-
-
-
-## Gouranga Bay
-
-Five routes exist to the right Gouranga Wall:
-{.csa}
-
-![Gouranga wall Right side](/img/peak/stoney/Gouranga-right-wall.jpg)
-![Turkey Shooot](/img/peak/stoney/HQturkey.jpg)
-
-<!-- {.topo} -->
-
-
-**Top Gobbler (5+)** right-hand side of wall behind rose bed, **Chicken Feed (6a)** wall and wide crack, **The Farmer's Seed (6b)** left-hand side of wall with long pull at top.
-{.cb}
-
-**1. Turkey Shoot (6a+)** right-hand line on small wall. Fine Rock.
-
-**2. Steeping the Goose (6c)** the left-hand line
-
-**3. Christmas Presence (6c+)** right arete of Guoranga bay.
-
-**4. The Gobbler (5+)** rib and jamming crack above ledge.
-
-**5. Hang Fire (6a)** third pillar right of main angle of bay
-
-**6. The Fire Hang (6b)** second pillar right of the main angle of the bay
-
-**7. Unhung (6a+)** first pillar right of the angle of the bay.
-
-
-
-
-## Heart Buttress
-
-This is the steep buttress to the left of The Slabs.
+The routes on the right side start from ledges that you scramble up to via fixed ropes.
 
 ![Heart to Heart buttress](/img/peak/stoney/Horseshoe-Heart-2.jpg)
 {.topo}

@@ -123,7 +123,8 @@ section.content {
     display: flow-root;
 }
 
-section.columns {
+section.columns,
+div.columns {
     columns: 2 350px;
     column-gap: 2em;
 }
@@ -528,7 +529,8 @@ footer:not(.test) {
     padding-bottom: 2em;
     font-size: .8em;
     line-height: 1.6;
-    backdrop-filter: contrast(1.1);
+    background-color: #0002;
+    // backdrop-filter: contrast(1.1);
     border-radius: 5px 5px 0 0;
 }
 
@@ -603,6 +605,7 @@ abbr {
     border-radius: 12px;
     box-shadow: 0px 0px 2px #99d;
     clear: both;
+    column-span: all;
 }
 
 #map img {

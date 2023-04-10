@@ -45,5 +45,5 @@ To the left are **Arteaclism (6a+)** the sharp arete, **Wallaclism (6b)** a left
 
 **14. UK Subs (6a)**
 
-**15. UB Subs (6a)**
+**15. UK SUB Subs (6a)**
 

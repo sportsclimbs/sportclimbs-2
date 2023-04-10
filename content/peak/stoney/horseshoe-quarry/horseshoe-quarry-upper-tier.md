@@ -15,10 +15,12 @@ placeholder: false
 
 ## Upper Tier Far left-hand
 
-![Horseshoe Upper Tier far left](/img/peak/stoney/horseshoe-upper-tier-far-left.jpg)
-{.topo}
+
 
 _At the far left-hand of the terrace below the tier and almost where the two tiers of the cliff merges into one are a series of five new routes:_
+
+![Horseshoe Upper Tier far left](/img/peak/stoney/horseshoe-upper-tier-far-leftl.jpg)
+{.topo}
 
 **1. Brew Thyme (6a)** crackline right of arete
 
@@ -57,7 +59,7 @@ _At the far left-hand of the terrace below the tier and almost where the two tie
 ## Upper Tier Left-hand
 
 
-![Horseshoe Upper Tier left](/img/peak/stoney/horseshoe-upper-tier-leftl.jpg)
+![Horseshoe Upper Tier left](/img/peak/stoney/horseshoe-upper-tier-far-left.jpg)
 {.topo}
 
 **1. In the Jailhouse (6a)** tricky start from grassy ledge to easier ground and overlap
