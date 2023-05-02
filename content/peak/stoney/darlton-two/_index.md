@@ -15,7 +15,19 @@ placeholder: false
 
 ![Darlton 2](/img/peak/stoney/darlton-6b.jpg)Also known as *Hidden Quarry* this is another quarry with easy access and lots of routes. The main attraction is John Allen's wall, discovered and developed by the late, great gritstone legend John Allen. However there's worthwhile climbing in the other sectors, some of which can stay dry when the rest of the Peak district is wet.
 
-## Approach
+## Approaches
+
+{{< low-co2 bus-stop="stoney-middleton">}}
+
+The nearest railway station is Grindleford which is 5.8km or 24 mins by bike from the crag. 
+
+Leave the station and turn right (south) on Station Road. After 500m join the B6521 (New Road). Cross over the Derwent river and carry on through Grindleford. Follow this road for about 2.5km past a parking area on the right. Take the next right, about 200m past the parking, into Eyam. Follow the main road, The Dale (B6521) south out of Eyam to the A623. Turn R here and follow the main road to a sharp RH bend. Just past the bend take a small road, Farnsley Lane, on the left. Follow this past a parking area on the left until it is possible to hop over the fence onto a vague path. This leads through a meadow and into the quarry. Bear right into the trees and Chunky Buttress can soon be seen on the right. Continue along the path to gain the ledge that leads to Main Wall.
+
+The Eyam to Stoney Middleton bus service stops on the A623 where it meets The Dale. The crag is about 2km or 20 mins walk from here.
+
+{{< /low-co2 >}}
+
+### By car
 
 Drive up from Stoney Middleton past Stoney West and just after the sharp right hand bend&mdash;before Horseshoe Quarry (and just after Horse Thief Quarry)&mdash;make a sharp left turn back on yourself. Drive up here for 200m and there is parking available on the left - please park carefully to allow as many cars to park here as possible.
 

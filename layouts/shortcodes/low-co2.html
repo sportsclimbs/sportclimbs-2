@@ -1,0 +1,9 @@
+
+
+<h3>Low Carbon options</h3>
+
+{{ .Inner | markdownify }}
+
+{{ with .Get "bus-stop" }}
+    <p style="margin-top: 1em;">  Check <a href="https://bustimes.org/localities/{{ . }}">bus services and times</a> for {{ replace . "-" " " | title  }}.</p>
+{{ end }}

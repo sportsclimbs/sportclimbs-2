@@ -27,7 +27,19 @@ Deep Rake is often a victim of it's own success. The combination of close proxim
 
 The main wall (Stemple Wall) faces south and goes into the shade by 6pm at mid-summer. Hanging wall faces north so is shady all day. The crag dries out quickly after rain. The crag gets no sun in winter and can remain damp after sufficient rain. The crag can be sheltered from breezy weather though stronger winds from the wrong direction can still make the place quite chilly.
 
-## Approach
+## Approaches
+
+{{< low-co2 bus-stop="calver">}}
+
+The nearest railway station is Grindleford which is 6.2km away or 20 mins by bike from the crag. 
+
+Leave the station and turn right (south) on Station Road. After 500m join the B6521 (New Road). Cross over the Derwent river and carry on through Grindleford. Follow this road through the crossroads at Calver and carry on for another 1.3km to Bramley Lane on the left. The path to the crag is on the opposite side of the road and leads up the hillside and on to the crag after 700m.
+
+You can get a bus to Calver and walk down the road (1.3km) to the path opposite Bramley Lane.
+
+{{< /low-co2 >}}
+
+### By car
 
 From the Calver crossroads drive south on the B6001 towards Hassop. After 1km you reach the brow of the hill where there is parking on the left side of the road at a vague cross roads. 
 

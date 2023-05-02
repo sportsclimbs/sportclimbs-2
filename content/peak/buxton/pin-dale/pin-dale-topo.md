@@ -2,17 +2,21 @@
 title: "Pin Dale Topo"
 draft: false
 placeholder: false
+columns: true
 css:
-- "h2:not(first-of-type) {clear: both}"
+- "h3:not(first-of-type) {clear: both; column-span: all; margin-top: 2em;}"
 ---
 
 
-## Lower Tier - The Pinnacle
+## Lower Tier 
+
+### The Pinnacle
 
 This is situated at the far left-hand end of the quarry:
 
 
 ![Pin Dale Left](/img/peak/buxton/Pin-Dale-Left.jpg)
+{.topo}
 
 **1. Won't get Fooled Again (7a+)** &starf; the left-hand side of the arete with a sneaky finish using holds on the right.
 
@@ -23,11 +27,14 @@ This is situated at the far left-hand end of the quarry:
 **4. Substitute (6a)** branches off right onto a ramp.
 
 
-## Lower Tier - Pinstripe Wall 
-
-![Pinstripe Wall](/img/peak/buxton/Pin-Lower.jpg)
+### Pinstripe Wall 
 
 The open quarried wall with a series of small aretes and delicate features.
+{.csa}
+
+![Pinstripe Wall](/img/peak/buxton/Pin-Lower.jpg)
+{.topo}
+
 
 
 **1. Pinterest (5) &starf;**  the very pleasant arete.
@@ -49,11 +56,13 @@ The open quarried wall with a series of small aretes and delicate features.
 **9. Unpinned (6a)** a short technical wall on the right
 
 
-## Lower Tier -Moss Slab 
+### Moss Slab 
+
+Obvious by name with a small low-level cave off to the right.
 
 ![Moss Slabs](/img/peak/buxton/Moss-Slabs.jpg)
+{.topo}
 
-Obvious by name with a small low-level cave off to the right
 
 
 **1. Moss Edge (6b+)**  an easy start leads to a technical finale
@@ -74,8 +83,10 @@ Obvious by name with a small low-level cave off to the right
 ## The Upper Tier
 
 Gained by an obvious track at a higher level with a group of nondescript lines. 
+{.csa}
 
 ![The Upper Tier](/img/peak/buxton/Pin-Upper.jpg)
+{.topo}
 
 **1. One Year Older (4)** difficult to spot and needs lower off karabiner
 

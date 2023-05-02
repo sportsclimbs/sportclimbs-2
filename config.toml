@@ -1,58 +1,55 @@
-baseURL = "https://sportclimbs.uk/"
-languageCode = "en-us"
-title = "Sport Climbs UK"
+baseURL="https://sportclimbs.uk/"
+languageCode="en-us"
+title="Sport Climbs UK"
 sectionPagesMenu = "main"
-summaryLength = 4
+summaryLength = 4 
+disableKinds = ['taxonomy', 'term'] 
 
-disableKinds = ['taxonomy', 'term']
+[params] 
+snow = false # turn snow effect on/off for the front page. 
+testFooter = false 
 
-[params]
-snow = false # turn snow effect on/off for the front page.
-testFooter = false
+[outputs] 
+home=["HTML", "JSON"] 
 
-[outputs]
-   home = [ "HTML", "JSON" ]
+[menu] 
+[[menu.regions]] 
+identifier="home"
+name="Home"
+url="/"
+weight="1"
 
-[menu]
+[[menu.regions]] 
+identifier="peak"
+name="Peak District"
+url="/peak/"
+weight="10"
 
-  [[menu.regions]]
-    identifier = "home"
-    name = "Home"
-    url = "/"
-    weight = "1"
+[[menu.regions]] 
+identifier="yorkshire"
+name="Yorkshire"
+url="/yorkshire/"
+weight="20"
 
-  [[menu.regions]]
-    identifier = "peak"
-    name = "Peak District"
-    url = "/peak/"
-    weight = "10"
+[[menu.regions]] 
+identifier="N Wales"
+name="North Wales"
+url="/north-wales/"
+weight="30"
 
-  [[menu.regions]]
-  identifier = "yorkshire"
-  name = "Yorkshire"
-  url = "/yorkshire/"
-  weight = "20"
+[[menu.regions]] 
+identifier="south wales"
+name = "South Wales"
+url = "/south-wales/"
+weight = "40"
 
-  [[menu.regions]]
-  identifier = "N Wales"
-  name = "North Wales"
-  url = "/north-wales/"
-  weight = "30"
+[[menu.regions]] 
+identifier="search"
+name = "Search"
+url = "/search/"
+weight = "100"
 
-  [[menu.regions]]
-  identifier = "south wales"
-  name = "South Wales"
-  url = "/south-wales/"
-  weight = "40"
-
-  [[menu.regions]]
-  identifier = "search"
-  name = "Search"
-  url = "/search/"
-  weight = "100"
-
-[markup]
-  [markup.goldmark.parser.attribute]
-  block = true
-  title = true
-
+[markup] 
+[markup.goldmark.parser.attribute] 
+block = true 
+title = true

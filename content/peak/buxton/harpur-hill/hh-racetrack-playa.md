@@ -75,6 +75,8 @@ There are four routes over to the left: **Skid Pan Alley (5)** direct up a slabb
 
 **2\. Lap Times (5+)** pleasant arete with powerful bulge
 
+**Man on a Mission (6b+)** &starf; the thin crack and overlap just left of the next route
+
 **3\. Screaming Target E3 6a** ★ intricate and highly technical face
 
 **4\. Play de Las Americas (6a)** the crackline to the shared belay on the right
