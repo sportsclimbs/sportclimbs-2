@@ -2,22 +2,32 @@
 title: The Sidings
 draft: false
 placeholder: false
+columns: true
 ---
 
-            <div class="topo"><a href="/img/peak/cheedale/The-Sidings_hires.jpg" title="Click for hi res topo"><img src="/img/peak/cheedale/The-Sidings.jpg"></a></div>
+This is the first buttress reached on the left-hand side of the railway track when approaching from Topley Pike. It is situated just before the first railway tunnel and is reached by carefully hoping over the face. It takes any sun that's going and dries very quickly.
 
-            <p>This is the first buttress reached on the left-hand side of the railway track when approaching from Topley Pike. It is situated just before the first railway tunnel and is reached by carefully hoping over the face. It takes any sun that's going and dries very quickly.</p>
+[![The Sidings topo](/img/peak/cheedale/The-Sidings.jpg)](/img/peak/cheedale/The-Sidings_hires.jpg "Click for hi res topo")
+{.topo}
 
-            <p>The first trio of routes are situated on a barrel-shaped buttress 30m to the left of the main section of crag.</p>
 
-            <p><b>1. Hupster 7a </b>a desperate little sequence to the right despite its innocuous appearance.</p>
-            <p><b>2. Fizzy 6c+ </b>polished rock and small holds to the right</p>
-            <p><b>3. I Drink Therefore I Am E4 6b &starf; </b>the blank looking wall to the right gives a series of tricky moves. Clipping the PRs before climbing to their right is the key.</p>
-            <p><b>4. The Dukes of Hazzard E5 6c &starf; </b>an 'on-off' series of moves via the groove scoop to the right lead to a desperate finale. Note correct spelling!</p>
-            <p><b>5. County Time E4 5c </b>bold and intricate face climbing to the right with difficult to place small wire protection.</p>
-            <p><b>6. A Touch Too Much E1 5b </b>pleasant moves on the vague arete unfortunately soon peter out.</p>
-            <p><b>8</b> <b>. Sprint Start E1 5a &starf; </b>a prominent layback flake with difficult gear placements. Good holds above.</p>
-            <p><b>9. Lethal Dose E3 6a &starf; </b>classic old style. A thin crack and massive span for a flake and fine, easier climbing above.</p>
-            <p><b>10. Fame but no Fortune E2 5c </b>the face to the right aiming for a prominent flake and avoiding the tree as much as possible.</p>
+The first trio of routes are situated on a barrel-shaped buttress 30m to the left of the main section of crag.
 
+**1. Hupster 7a** a desperate little sequence to the right despite its innocuous appearance.
+
+**2. Fizzy 6c+** polished rock and small holds to the right
+
+**3. I Drink Therefore I Am E4 6b ★** the blank looking wall to the right gives a series of tricky moves. Clipping the PRs before climbing to their right is the key.
+
+**4. The Dukes of Hazzard E5 6c ★** an 'on-off' series of moves via the groove scoop to the right lead to a desperate finale. Note correct spelling!
+
+**5. County Time E4 5c** bold and intricate face climbing to the right with difficult to place small wire protection.
+
+**6. A Touch Too Much E1 5b** pleasant moves on the vague arete unfortunately soon peter out.
+
+**8** **. Sprint Start E1 5a ★** a prominent layback flake with difficult gear placements. Good holds above.
+
+**9. Lethal Dose E3 6a ★** classic old style. A thin crack and massive span for a flake and fine, easier climbing above.
+
+**10. Fame but no Fortune E2 5c** the face to the right aiming for a prominent flake and avoiding the tree as much as possible.
 

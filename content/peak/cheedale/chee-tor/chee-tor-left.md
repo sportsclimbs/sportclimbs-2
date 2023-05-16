@@ -2,6 +2,7 @@
 title: Left-Hand Walls
 draft: false
 placeholder: false
+weight: 30
 ---
 
 ![Chee Tor Left Hand](/img/peak/cheedale/CTLH.gif)

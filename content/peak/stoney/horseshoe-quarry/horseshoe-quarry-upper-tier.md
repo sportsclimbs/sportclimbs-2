@@ -4,6 +4,8 @@ draft: false
 weight: 40
 placeholder: false
 columns: true
+date: 2023-05-02T14:37:47+01:00
+summary: Horseshoe Quarry updated with new topos.
 ---
 
 
@@ -18,52 +20,52 @@ At the far left-hand of the terrace below the tier and almost where the two tier
 {.topo}
 
 **1. Brew Thyme (6a)**  
-crackline right of arete
+The crackline right of the arete.
 
 **2. Thyme Out (6a)**  
-wide crack and V niche
+A wide crack and V niche.
 
 **3. What's the Thyme (6a)**  
-next crackline just left of corner
+The next crackline just left of corner.
 
 **4. Bridge Over the River Thyme (5)**  
-corner line
+A corner line.
 
 **5. Bit of Spare Thyme (5+)**  
-wall right of corner, almost on the arete.
+The wall right of the corner, almost on the arete.
 
 **6. Fat Betty (4+)**  
-easy corner line
+Easy corner line.
 
 **7. Take Your Thyme(5+)**  
-right wall of corner
+Right wall of corner.
 
 **8. Porridge (4+)**  
-slim corner line just left of arete. Pleasant.
+Slim corner line just left of arete. Pleasant.
 
-**Crunch yer Nuts (4)**  
-★ fine wide crack system.
+**Crunch yer Nuts (4)** ★  
+Fine wide crack system.
 
-**9. Soggy Bottom Boys (6b+)**  
-★ vague arete from left-hand end of terrace. A couple of hard moves
+**9. Soggy Bottom Boys (6b+)** ★  
+Vague arete from left-hand end of terrace. A couple of hard moves
 
 **10. Man of Constant Sorrow (5+)**  
 left-hand side of arete via crack low down.
 
-**11. Big Rock Candy Mountain (6a)**  
-★ right-hand side of fine arete.
+**11. Big Rock Candy Mountain (6a)** ★  
+The right-hand side of fine arete.
 
 **12. Everett's Arete (5+)**  
-sharp arete on left-hand side.
+Takes the sharp arete on left-hand side.
 
 **Repulse (5)**  
-left-hand of two newly cleaned lines
+The left-hand of two newly cleaned lines.
 
 **Prince of Wales (5+)**  
-right-hand line.
+The right-hand line.
 
 **That Old DA Look (4)**  
-short wall, groove and bulge to right.
+A short wall, groove and bulge to right.
 
 **FOP (6a)**  
 Isolated face on right with tricky finish on slight nose.
@@ -75,51 +77,51 @@ Isolated face on right with tricky finish on slight nose.
 {.topo}
 
 **1. In the Jailhouse (6a)**  
-tricky start from grassy ledge to easier ground and overlap
+A tricky start from a grassy ledge leads to easier ground and and an overlap.
 
 **2. Po Lazarus (5+)**  
-straightforward jug-pulling and jamming with overhang above.
+Straightforward jug-pulling and jamming to an overhang above.
 
 **3. No Way is Patience a Virtue (6b)** &starf;  
 Stiff fingery start to easier ground on fine rock above
 
 **4. Whilst the Cat's Away E3 6b**
 
-**5. Oh Brother Where Art Thou' (6a)**  
-★ pleasant climbing with a tricky start from the obvious ledge
+**5. Oh Brother Where Art Thou' (6a)** ★  
+Pleasant climbing with a tricky start from the obvious ledge.
 
-**6. Dapper Dan (6a)**  
-★ the excellent arete to a tricky finale. Stretchy first clip from ledge.
+**6. Dapper Dan (6a)** ★  
+The excellent arete to a tricky finale. Stretchy first clip from ledge.
 
 **7. Babe the Blue Axe (6a)**  
-tricky starting wall to ledge then much easier climbing above.
+Tricky starting wall to ledge then much easier climbing above.
 
 **8. The Cretan (6b+)**  
-tricky arete taken on right-hand side to ledge. Easy above.
+The arete taken on right-hand side to ledge. Easy above.
 
 **9. Corinthian Spirit (6a)**  
-straightforward crack system with awkward move left onto ledge.
+Straightforward crack system with awkward move left onto ledge.
 
 **10. Theseus-Saurus (6c)**  
-easier lower wall to ledge then very tricky finale. Requires l-o-n-g reach!!!
+Easier lower wall to ledge then very tricky finale. Requires l-o-n-g reach!!!
 
 **11. It's all Greek to Me (6b)**  
-very pleasant bulging crackline to ledge to easier finale.
+Very pleasant bulging crackline to ledge to easier finale.
 
 **12. The Miner Tour (6c+)**  
 Hard start (throw) to ledge. Slabby wall is good. Start can be avoided on R
 
 **13. Olympiakus (6c)**  
-leftwards into hanging groove left of Her Aklion.
+Goes leftwards into hanging groove left of *Her Aklion*.
 
 **14. Her Aklion (6c)**  
-exits cave to gain hidden delights in hanging groove. Good when dry.
+Exits cave to gain hidden delights in hanging groove. Good when dry.
 
 **15. Almost There (5)**  
-right arete of cave system on incredible bubbly jugs.
+Climbs the right arete of the cave system on incredible bubbly jugs.
 
 **16. Into the Labyrinth (5+)** ★  
-front face of grey tower, recently retro-bolted (naughty but nice)
+The front face of grey tower, recently retro-bolted (naughty but nice).
 
 **17. By Zeus (6a+)**  ★   
 Right arete of grey tower with technical start.

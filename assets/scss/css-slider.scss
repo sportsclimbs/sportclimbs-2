@@ -23,6 +23,7 @@ $total_animation_time: $time_per_slide * $slides;
     animation:round #{$total_animation_time}s infinite;
     opacity: 0;
     width: 100%;
+    max-width: 100%;
 }
 
 .slide-image img {

@@ -20,12 +20,26 @@
     margin-top: 4em;
 }
 
+.mb0 {
+    margin-bottom: 0;
+}
+
+.ml25 {
+    margin-left: 0.25em;
+}
+
+.mauto {
+    margin-inline: auto;
+    width: fit-content;
+}
+
 .csa {
     column-span: all;
 }
 
 .w100 img {
     width: min(100%, 850px);
+    height: auto;
 }
 
 .debolted::after {

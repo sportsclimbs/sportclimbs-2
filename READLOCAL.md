@@ -1,5 +1,12 @@
 # Ideas for future updates
 
+Smooth images for clarity in reading the wall and reduced file size.
+
+Options include:
+- photoshop>filters>stylize> oil paint
+- Topaz Simplify
+- photoshop surface blur / smart blur?
+
 ## Basic heirarchy
 
 Region > Area > Crag > (topos)

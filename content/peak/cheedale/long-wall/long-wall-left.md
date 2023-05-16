@@ -1,30 +1,48 @@
 ---
-title: Long Wall Left-hand
+title: Long Wall Left
 linktitle: Long Wall LH
 draft: false
 placeholder: false
+columns: true
 ---
 
-            <div class="topo"><img src="/img/peak/cheedale/Long-Wall-LH.jpg"></div>
+![](/img/peak/cheedale/Long-Wall-LH.jpg)
+{.topo}
 
-            <p><b>20. Lucky Finger (7b) &starf;</b> vague arete with sustained climbing and the crux at the top. Well worth seeking out.</p>
-            <p><b>21. Fatal Attraction (7a) &starf;&starf;</b> initial bulge and crack/groove to overlap. Hard finish to ledge.</p>
-            <p><b>22. Some Things Change (7b+) &starf;</b> the bulge left again is harder. Immaculate, though short, wall leads to bulge on left.</p>
-            <p><b>23. Jungle Rock (7b) &starf;</b> another powerful bulge onto vague right-facing shallow groove.</p>
-            <p><b>24. Total Rock (7c) </b>a long-standing project with desperate moves. Not marked on topo.</p>
-            <p><b>25. Rouge Total (7b) </b>more desperate moves through the lower bulge.</p>
-            <p><b>26. Project (open)</b></p>
-            <p><b>27. Brothers in Arms (7b+) &starf;</b> the hanging scoop gain by the lower bulge. Suitable to a long-armed dwarf. Desperate.</p>
-            <p><b>28. Mouldwarp Wall (7c+) </b>very thin (and dirty) holds on the wall immediately to the left. First BR missing.</p>
-            <p><b>29. Demystified (7b+)</b> short intense pitch with very reach dependent bulge. Hard.</p>
-            <p><b>30. Kiss My Arcy (7b) &starf;&starf;</b> first of a fine trio. Fingery all the way to the upper break.</p>
-            <p><b>31. Kiss Me Hardy (7a+) &starf;&starf;&starf; </b>classic sustained fingery wall climbing just right of bush.</p>
-            <p><b>32. High Society (7a+) &starf;&starf;</b> above bush. Similar to Kiss Me Hardy but with a good rest at half-height.</p>
-            <p><b>33. Black Rights (7b) &starf;</b> a subtle technical line on the wall to the left. Hard and blind.</p>
-            <p><b>34. Berried (6c)</b> the right-hand of two to breach the upper roof. Intricate low down.</p>
-            <p><b>35. Orange Free State (6b+) &starf;</b> the left-hand line. Fine wall climbing to a jug-fest roof.</p>
-            <p><b>36. The Orange Order (6c)</b> fills the gap between Orange Free State and the groove.</p>
-            <p><b>37. Banana Republic E3 5c</b> the corner with a tricky entry and exit.</p>
-            <p><b>38. Columnus (7b+</b>) the innocuous-looking hanging arete.</p>
+**20\. Lucky Finger (7b) ★** vague arete with sustained climbing and the crux at the top. Well worth seeking out.
 
+**21\. Fatal Attraction (7a) ★★** initial bulge and crack/groove to overlap. Hard finish to ledge.
 
+**22\. Some Things Change (7b+) ★** the bulge left again is harder. Immaculate, though short, wall leads to bulge on left.
+
+**23\. Jungle Rock (7b) ★** another powerful bulge onto vague right-facing shallow groove.
+
+**24\. Total Rock (7c)** a long-standing project with desperate moves. Not marked on topo.
+
+**25\. Rouge Total (7b)** more desperate moves through the lower bulge.
+
+**26\. Project (open)**
+
+**27\. Brothers in Arms (7b+) ★** the hanging scoop gain by the lower bulge. Suitable to a long-armed dwarf. Desperate.
+
+**28\. Mouldwarp Wall (7c+)** very thin (and dirty) holds on the wall immediately to the left. First BR missing.
+
+**29\. Demystified (7b+)** short intense pitch with very reach dependent bulge. Hard.
+
+**30\. Kiss My Arcy (7b) ★★** first of a fine trio. Fingery all the way to the upper break.
+
+**31\. Kiss Me Hardy (7a+) ★★★** classic sustained fingery wall climbing just right of bush.
+
+**32\. High Society (7a+) ★★** above bush. Similar to Kiss Me Hardy but with a good rest at half-height.
+
+**33\. Black Rights (7b) ★** a subtle technical line on the wall to the left. Hard and blind.
+
+**34\. Berried (6c)** the right-hand of two to breach the upper roof. Intricate low down.
+
+**35\. Orange Free State (6b+) ★** the left-hand line. Fine wall climbing to a jug-fest roof.
+
+**36\. The Orange Order (6c)** fills the gap between Orange Free State and the groove.
+
+**37\. Banana Republic E3 5c** the corner with a tricky entry and exit.
+
+**38\. Columnus (7b+**) the innocuous-looking hanging arete.

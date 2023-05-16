@@ -3,36 +3,62 @@ title: Runyon’s Corner topo
 linktitle: Runyon’s topo
 draft: false
 placeholder: false
+columns: true
 ---
 
 
 
-<p><img src="/img/peak/cheedale/Runyons-RH-copy.jpg" WIDTH="451" HEIGHT="207" style="width: 100%;"></p>
+![](/img/peak/cheedale/Runyons-RH-copy.jpg)
+{.topo .w100}
 
-<p><b>1. I Had a Black Shirt (7a)</b> vague and slightly artificial line right of arete. Worthwhile.</p>
-<p><b>2. Never to Look Back (7b) &starf;&starf;</b> classic. Photogenic. Superb climbing on the arete.</p>
-<p><b>3. Stax a Time (7b)</b> hard moves on the left-hand side of the arete. Spaced BRs low down.</p>
-<p><b>4. In the Stox (7a)</b> A worthwhile pitch up the centre of the side wall.</p>
-<p><b>5. As Loose as This ? (6c+) &starf;</b> solid. A better route to the left. Fingery and sustained.</p>
-<p><b>6. No Intent (6b+)</b> wall and vague groove/flake on left-hand side of wall.</p>
-<p><b>7. Guilty (6c) </b>tricky start to easier ground above half-height ledge.</p>
-<p><b>8. The Plea (6a+) &starf;</b> a fine little route with pleasant face climbing.</p>
-<p><b>9. Witness This (6c+)</b> intense sequence on right-hand side of side wall. Perfect rock.</p>
-<p><b>10. For the Prosecution (6c+) </b>left-hand side of wall. Poor.</p>
-<p><b>11. The Fifth Amendment (6c) </b>technical start up front of pillar. Good.</p>
-<p><b>12. In the Defence (7a) </b>direct line via pillar with scary last clip followed by the crux.</p>
-<p><b>13. Open Verdict (7a+) &starf;</b> bouldery start with a mid-height crux. Top end of grade.</p>
-<p><b>14. Community Service (6c+) &starf;</b> good, sustained line to the left. A bit hollow low down.</p>
-<p><b>15. The Jury's Out (6c) &starf; </b>pillar at back right-hand corner. Boldish and technical. Good.</p>
 
-<p><img src="/img/peak/cheedale/Runyons-LH-copy.jpg" WIDTH="446" HEIGHT="219" style="width: 100%;"></p>
+**1\. I Had a Black Shirt (7a)** vague and slightly artificial line right of arete. Worthwhile.
 
-<p><b>16. Runyonectomy (6b)</b> short poor wall left of corner.</p>
-<p><b>17. Megaflapped (6c)</b> via overlap and difficult move on upper wall.</p>
-<p><b>18. Overclapped (7a+) </b>tough little cookie through the overlaps.</p>
-<p><b>19. Thundertrapped (7a)</b> short sharp shock via the overlap.</p>
-<p><b>20. Happy, Slappy, Chappy (7a) </b>powerful sequence through overlap.</p>
-<p><b>21. Overslapped (7a) &starf;</b> excellent technical face to left, no overlap! Best route on this wall.</p>
-<p><b>22. Kill the Bill (7b+)</b> very technical wall to left. Needs rebolting.</p>
-<p><b>23. Robert's Roberts (7a+) </b>hard sequence through bulge and short wall via undercut.</p>
-<p><b>24. Watch this Space (6c)</b> short technical face on left. Worthwhile.</p>
+**2\. Never to Look Back (7b) ★★** classic. Photogenic. Superb climbing on the arete.
+
+**3\. Stax a Time (7b)** hard moves on the left-hand side of the arete. Spaced BRs low down.
+
+**4\. In the Stox (7a)** A worthwhile pitch up the centre of the side wall.
+
+**5\. As Loose as This ? (6c+) ★** solid. A better route to the left. Fingery and sustained.
+
+**6\. No Intent (6b+)** wall and vague groove/flake on left-hand side of wall.
+
+**7\. Guilty (6c)** tricky start to easier ground above half-height ledge.
+
+**8\. The Plea (6a+) ★** a fine little route with pleasant face climbing.
+
+**9\. Witness This (6c+)** intense sequence on right-hand side of side wall. Perfect rock.
+
+**10\. For the Prosecution (6c+)** left-hand side of wall. Poor.
+
+**11\. The Fifth Amendment (6c)** technical start up front of pillar. Good.
+
+**12\. In the Defence (7a)** direct line via pillar with scary last clip followed by the crux.
+
+**13\. Open Verdict (7a+) ★** bouldery start with a mid-height crux. Top end of grade.
+
+**14\. Community Service (6c+) ★** good, sustained line to the left. A bit hollow low down.
+
+**15\. The Jury's Out (6c) ★** pillar at back right-hand corner. Boldish and technical. Good.
+
+![Runyons LH topo](/img/peak/cheedale/Runyons-LH-copy.jpg)
+{.topo .w100}
+
+**16\. Runyonectomy (6b)** short poor wall left of corner.
+
+**17\. Megaflapped (6c)** via overlap and difficult move on upper wall.
+
+**18\. Overclapped (7a+)** tough little cookie through the overlaps.
+
+**19\. Thundertrapped (7a)** short sharp shock via the overlap.
+
+**20\. Happy, Slappy, Chappy (7a)** powerful sequence through overlap.
+
+**21\. Overslapped (7a) ★** excellent technical face to left, no overlap! Best route on this wall.
+
+**22\. Kill the Bill (7b+)** very technical wall to left. Needs rebolting.
+
+**23\. Robert's Roberts (7a+)** hard sequence through bulge and short wall via undercut.
+
+**24\. Watch this Space (6c)** short technical face on left. Worthwhile.

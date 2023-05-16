@@ -3,6 +3,7 @@ title: Rhubarb Buttress topo
 linktitle: Rhubarb topo
 draft: false
 placeholder: false
+columns: true
 ---
 
 
@@ -14,37 +15,61 @@ placeholder: false
     }
 </style>
 
-            <div class="topo"> <img src="/img/peak/cheedale/rhutopo.gif" WIDTH="728" HEIGHT="474" style="width: min(100%, 850px);"></p>
-            </div>
+![](/img/peak/cheedale/rhutopo.gif)
+{.topo .w100}
 
-            <p><b>1. The Way of the Gone Wives (6b+)</b> easy lower wall followed by thin flake.</p>
-            <p><b>2. Custard pie in Your Eye (6c)</b> a shallow groove and bulge to tree belay.</p>
-            <p><b>3. Cry Havoc (6c) </b>short wall and obvious scooped groove.</p>
-            <p><b>4. Fallout Zone (6c) </b>wall with bulges at top.</p>
-            <p><b>5. Gaseous Exchange (6c+) &starf;</b> shallow groove. Technical wall leftwards above bulge. </p>
-            <p><b>6. Chemical Weapons (6c+) &starf; </b>delicate lower wall, difficult bulge and technical wall.</p>
-            <p><b>7. Rhubarb, Rhubarb, Rhubarb (6b+) &starf;</b>pleasant lower wall and rib.</p>
-            <p><b>8. Semolina Sunday (7a)</b> easy lower and very technical finish on wall left of groove.</p>
-            <p><b>9. The Garlic Twist (6b+)</b> direct line via slight bulge with difficulties. Airy.</p>
-            <p><b>10. Brief Camouflage (6c) &starf; </b>direct line which is technical from the break. Good.</p>
-            <p><b>11. The Day of the Long Knives (7b+) &starf;</b> technical wall climbing, slabby towards the top. No belay as yet.</p>
-            <p><b>12. Feline Fine (6c) &starf;</b> pleasant and technical face. Stainless hangers.</p>
-            <p><b>13. The Fat Ginger Cat (7a+) &starf;</b> more pleasant face climbing. Fingery</p>
-            <p><b>14. Turbo-Charged Monster Mouse (7a+) &starf;</b> direct and fine climbing, the best hereabouts. Hard after 2nd BR.</p>
-            <p><b>15. Thrash Your Woodie (7b) </b>fingery and technical moves above break. </p>
-            <p><b>16. Me Tarzan (7b+) &starf;</b> powerful bulge and desperate scoop. </p>
-            <p><b>17. Desire (8a+) &starf;</b> impressive bulge and scoop left of even more impressive ivy strand.</p>
+**1\. The Way of the Gone Wives (6b+)** easy lower wall followed by thin flake.
 
-            <p>The next series of routes are situated 30m to the right, at a slightly higher level. A prominent overlap guards entry to the upper walls.</p>
+**2\. Custard pie in Your Eye (6c)** a shallow groove and bulge to tree belay.
 
-            <p><b>Zebedee Visits the Clinic E6 6b</b> powerful bulge, BR and 2PRs to lower-off. Needs cleaning.</p>
-            <p><b>Blue Arsed Fly E6 6b &starf; </b>desperate bulge marked by long sling. </p>
-            <p><b>The Rainmaker (7b+)</b> desperate start leads to scoop and tree above.</p>
-            <p><b>Blood Transfusion E4 6b &starf;</b> hard start, crux past BR, then vague arete, TR, above.</p>
+**3\. Cry Havoc (6c)** short wall and obvious scooped groove.
 
-            <p>Further to the right and at a lower level close to the path are two more sport routes.</p>
+**4\. Fallout Zone (6c)** wall with bulges at top.
 
-            <p><b>Ladies Fingers (7b) &starf; </b>technical and fingery climbing up the left-hand side of the face. </p>
-            <p><b>The European Female (7a) &starf;</b> fine face with technical lower bulge. </p>
+**5\. Gaseous Exchange (6c+) ★** shallow groove. Technical wall leftwards above bulge.
+
+**6\. Chemical Weapons (6c+) ★** delicate lower wall, difficult bulge and technical wall.
+
+**7\. Rhubarb, Rhubarb, Rhubarb (6b+) ★**pleasant lower wall and rib.
+
+**8\. Semolina Sunday (7a)** easy lower and very technical finish on wall left of groove.
+
+**9\. The Garlic Twist (6b+)** direct line via slight bulge with difficulties. Airy.
+
+**10\. Brief Camouflage (6c) ★** direct line which is technical from the break. Good.
+
+**11\. The Day of the Long Knives (7b+) ★** technical wall climbing, slabby towards the top. No belay as yet.
+
+**12\. Feline Fine (6c) ★** pleasant and technical face. Stainless hangers.
+
+**13\. The Fat Ginger Cat (7a+) ★** more pleasant face climbing. Fingery
+
+**14\. Turbo-Charged Monster Mouse (7a+) ★** direct and fine climbing, the best hereabouts. Hard after 2nd BR.
+
+**15\. Thrash Your Woodie (7b)** fingery and technical moves above break.
+
+**16\. Me Tarzan (7b+) ★** powerful bulge and desperate scoop.
+
+**17\. Desire (8a+) ★** impressive bulge and scoop left of even more impressive ivy strand.
+
+The next series of routes are situated 30m to the right, at a slightly higher level. A prominent overlap guards entry to the upper walls.
+{.csa .mt2}
+
+**Zebedee Visits the Clinic E6 6b** powerful bulge, BR and 2PRs to lower-off. Needs cleaning.
+{.mt0}
+
+**Blue Arsed Fly E6 6b ★** desperate bulge marked by long sling.
+
+**The Rainmaker (7b+)** desperate start leads to scoop and tree above.
+
+**Blood Transfusion E4 6b ★** hard start, crux past BR, then vague arete, TR, above.
+
+Further to the right and at a lower level close to the path are two more sport routes.
+{.csa .mt2}
+
+**Ladies Fingers (7b) ★** technical and fingery climbing up the left-hand side of the face.
+{.mt0}
+
+**The European Female (7a) ★** fine face with technical lower bulge.
 
 

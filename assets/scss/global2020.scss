@@ -462,11 +462,6 @@ p.topo {
     min-width: 95%;
 }
 
-section.topo {
-    /* this is used on the Goddards plantation page */
-    margin-bottom: 7em;
-}
-
 .photo>p,
 .photo>p>em {
     font-size: 0.9rem;
@@ -474,12 +469,20 @@ section.topo {
 
 }
 
-figure {
-    float: right;
+
+// Figure element
+
+@media (min-width: 750px) {
+    figure {
+        max-width: 60%;
+        float: right;
+    }
 }
 
+
 figcaption p {
-    margin: 0;
+    margin: 0 0.25em;
+    font-size: 0.85em;
 }
 
 figure img,

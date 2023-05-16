@@ -3,49 +3,59 @@ title: Long Wall Right-Hand
 linktitle: Long Wall RH
 draft: false
 placeholder: false
+columns: true
 ---
 
 
 
-<style>
-    .topo {
-        width: 100%;
-    }
 
-    .topo img {
-        margin-left: 0;
-        max-width: 100%;
-    }
-</style>
+![Long Wall Right Hand topo](/img/peak/cheedale/Long-RH-BIG.jpg "Long Wall Right Hand topo")
+{.topo}
 
+About 50 feet or so to the right of the first route is a smooth wall with 3BRs. This is the line of **Skid Marks (6b+)**. Possibly harder since the loss of a hold.
+{.csa}
 
-            <div class="topo">
-                <img src="/img/peak/cheedale/Long-RH-BIG.jpg" title="Long Wall Right Hand topo" alt="Long Wall Right Hand topo">
-            </div>
+**1. Child's Play E4 6a** difficult to spot. Finger pockets on the left-hand side of a scoop with PR above.
+{.mt0}
 
-            <p>About 50 feet or so to the right of the first route is a smooth wall with 3BRs. This is the line of <b>Skid Marks (6b+)</b>. Possibly harder since the loss of a hold.</p>
+**2. Nookie Bear (7a)** three hard moves and 3BRs. Tinies and split fingers?
 
-            <p><b>1. Child's Play E4 6a</b> difficult to spot. Finger pockets on the left-hand side of a scoop with PR above.</p>
-            <p><b>2. Nookie Bear (7a)</b> three hard moves and 3BRs. Tinies and split fingers?</p>
-            <p><b>3. Hot Panties (7a) &starf;</b> another finger-ripping test piece for the grade.</p>
-            <p><b>4. Steaming Strides (7a+) &starf;</b> left-hand finish with slopers and crimps.</p>
-            <p><b>5. Child Lock (7a+) &starf;</b> exits right side of alcove and ploughs straight on up. Fingery again.</p>
-            <p><b>6. Multiplex E4 6b &starf;&starf;</b> the original route of the wall and still its best. Leftwards from alcove to ledge, then slab above. <b>Smutt E5 6c</b> is the direct start.</p>
-            <p><b>7. A Bout de Souffl&eacute; (7c) &starf;&starf;</b> hard moves on tiny pockets from a break with a useful stump. Slippery above.</p>
-            <p><b>8. Cathedral Taste (7b+) &starf;&starf;</b> more of the same to the left with blind moves low down. Pleasant and open above.</p>
-            <p><b>9. Breathless E6 6c &starf;&starf;</b> desperate moves on the intricate face to the left. Hard to clip some of the gear.</p>
-            <p><b>10. Meterol (7b+) &starf;&starf;</b> superb climbing left of the faint groove line. Desperate moves on a tiny spike.</p>
-            <p><b>11. Gob on the Mountain (7c) &starf;</b> just left again. Desperate moves on an ear of rock.</p>
-            <p><b>Gobstopper (7c) &starf;</b> adds an independent direct finish to Gob on the Mountain.</p>
-            <p><b>12. Atlantic Realm (7b+) &starf;&starf; </b>starts under the roof. Up and then right onto the headwall.</p>
-            <p><b>13. Big News Man Mouth Was 7b</b> but holds have come off. Unclimbable?</p>
-            <p>Project The overhanging wall</p>
-            <p><b>14. Freeway HVS 5a</b> the large corner line. A classic of its type and rarely climbed.</p>
-            <p><b>15. Macumba (7a+) &starf;</b> left out of Freeway and up to overlap. Hard finale. </p>
-            <p><b>16. Casamance (7a+) &starf;</b> direct via scoop to join Macumba. Harder but with a good rest at half height.</p>
-            <p><b>17. Trick Show (7b+) &starf; </b>desperate sequence on the lower wall leads to easier climbing to roof. Grope through to top.</p>
-            <p><b>18. The Balancing Act (7b) &starf;</b> a fine route, intricate lower down and an exciting juggy finish.</p>
-            <p><b>19. Rolling Stone E4 6b</b> just left and somewhat eliminated by The Balancing Act.</p>
-            <p><b>Monopedagogue E3 5c</b> the long slim corner line. Excellent but very bold low down.</p>
+**3. Hot Panties (7a) ★** another finger-ripping test piece for the grade.
 
+**4. Steaming Strides (7a+) ★** left-hand finish with slopers and crimps.
 
+**5. Child Lock (7a+) ★** exits right side of alcove and ploughs straight on up. Fingery again.
+
+**6. Multiplex E4 6b ★★** the original route of the wall and still its best. Leftwards from alcove to ledge, then slab above. **Smutt E5 6c** is the direct start.
+
+**7. A Bout de Soufflé (7c) ★★** hard moves on tiny pockets from a break with a useful stump. Slippery above.
+
+**8. Cathedral Taste (7b+) ★★** more of the same to the left with blind moves low down. Pleasant and open above.
+
+**9. Breathless E6 6c ★★** desperate moves on the intricate face to the left. Hard to clip some of the gear.
+
+**10. Meterol (7b+) ★★** superb climbing left of the faint groove line. Desperate moves on a tiny spike.
+
+**11. Gob on the Mountain (7c) ★** just left again. Desperate moves on an ear of rock.
+
+**Gobstopper (7c) ★** adds an independent direct finish to Gob on the Mountain.
+
+**12. Atlantic Realm (7b+) ★★** starts under the roof. Up and then right onto the headwall.
+
+**13. Big News Man Mouth Was 7b** but holds have come off. Unclimbable?
+
+**Project** The overhanging wall
+
+**14. Freeway HVS 5a** the large corner line. A classic of its type and rarely climbed.
+
+**15. Macumba (7a+) ★** left out of Freeway and up to overlap. Hard finale.
+
+**16. Casamance (7a+) ★** direct via scoop to join Macumba. Harder but with a good rest at half height.
+
+**17. Trick Show (7b+) ★** desperate sequence on the lower wall leads to easier climbing to roof. Grope through to top.
+
+**18. The Balancing Act (7b) ★** a fine route, intricate lower down and an exciting juggy finish.
+
+**19. Rolling Stone E4 6b** just left and somewhat eliminated by The Balancing Act.
+
+**Monopedagogue E3 5c** the long slim corner line. Excellent but very bold low down.

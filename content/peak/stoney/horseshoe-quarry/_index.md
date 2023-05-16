@@ -2,8 +2,6 @@
 title: Horseshoe Quarry
 linktitle: Horseshoe
 draft: false
-date: 2023-05-02T16:15:27+01:00
-summary: New topos for the Upper Tier. (April 2023) New layout map and photo plus new topos for the Main Wall, the Cave and Toilet areas and Gouranga Bay.
 weight: 9
 placeholder: false
 ---
