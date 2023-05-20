@@ -108,28 +108,35 @@ The wall to the right with awkward moves on the lower part. Keep on the left-han
 The line via wall to right with hard moves on right-hand of arete.
 
 **29. The Mexican Takes Lexicon (6a+)**  
-the slim wall to the right direct. Another route that has cleaned up.
+The slim wall to the right direct. Another route that has cleaned up.
+{.debolted}
 
 **30. Exceeding the Speed Limit (6b+)** &starf;  
 A very pleasant line on wall to the right and in the back of the bay. Just worth grade
+{.debolted}
 
 **31. Mind yer Head (6b)**  
-fragile line 2m left of slim corner line. Slowly improving.
+A fragile line 2m left of slim corner line. Slowly improving.
+{.debolted}
 
 **32. Desperate Housewives (6a)**  
-the slim corner line
+The slim corner line.
 
 **33. Collared (6a)**  
-the slim pillar to the right with straightforward but sustained moves
+The slim pillar to the right with straightforward but sustained moves
+{.debolted}
 
 **34. Spare Rib (6b)**  
-vague blunt rib to the right with a hard and devious start
+A vague blunt rib to the right with a hard and devious start.
+{.debolted}
 
 **35. Eddie McStiff (6a+)** &starf;  
 The shallow groove line exiting leftwards and up via easier ground. A good addition.
+{.debolted}
 
 **36. Pelvic Thrust (6b)**  
-tricky lower wall via small arete to face above
+A tricky lower wall via small arete to face above.
+{.debolted}
 
 **37. The Hippy, Hippy Shakes (6b)**  
 A long slim corner line leads to a high belay.
@@ -145,12 +152,14 @@ The obvious slim corner to a belay high up.
 
 **41. Austin Powers (6b)**  
 Climbs slim groove in arete and wall above. Can be combined with the next route.
+{.debolted}
 
 **42. The Big Fat Texan on a Corner (6a+ )** &starf;  
 The white wall to the right keeping as direct to the line of bolts as possible. Popular but harder than expected.
 
 **43. He Seems so Sumo (6a)**  
 The crakline/shothole to the right gives sustained climbing.
+{.debolted}
 
 **44. Olive Oil (5)**  
 The left wall of corner. Worthwhile.

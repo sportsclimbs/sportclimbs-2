@@ -2,6 +2,8 @@
 title: Goddard’s Quarry
 linktitle: Goddard’s
 draft: false
+date: 2023-05-20T10:07:10+01:00
+summary: New topos along with more routes for the Weasel and Sunshine areas.
 map: [53.2785901, -1.6741091, 15]
 markers:
 - [53.277179, -1.663098, Goddards Quarry]

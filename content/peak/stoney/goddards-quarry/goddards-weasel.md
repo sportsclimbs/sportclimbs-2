@@ -1,5 +1,6 @@
 ---
 title: Weasel Assassin Sector
+subtitle: aka Stoat Wall
 linktitle: Weasel Sector
 weight: 50
 draft: false
@@ -8,47 +9,49 @@ columns: true
 ---
 
 
-This area is approached by walking past the main wall. Pass a smaller wall on the left and high up on the left is this buttress. Access is by scrambling up the scree via a fixed rope and then back left to beneath the routes.
+This area is approached by walking past the main wall. Pass a smaller wall on the left and high up on the left is this buttress. Access is by scrambling up the scree to the right of the wall. A fixed rope marks the line. Then move back left to beneath the routes.
 
-![Goddards Stoat Walls](/img/peak/stoney/Goddards-Stoat-Walls.jpg)
+![Goddards Weasel sector](/img/peak/stoney/goddards-weasel-sector.jpg)
 {.topo}
 
-The corner around to the left is **Boy Better Know (6a)** ★
-{.csa}
+<!-- ![Goddards Stoat Walls](/img/peak/stoney/Goddards-Stoat-Walls.jpg)
+{.topo} -->
 
-**1. Weasel Assassin (7a)** ★  
+**1. Boy Better Know (6a)** ★  
+The corner around to the left. 
+
+**2. Weasel Assassin (7a)** ★  
 Technical and fingery face climbing on small holds on the left side of the wall.
-{.mt0}
 
-**2. Psycho Squirrel (7a)** ★  
+**3. Psycho Squirrel (7a)** ★  
 The harder right-hand line, particularly so around the overlaps at 8m. 4BRs.
 
-**3. Stoatily Obvious (6b+)**  
-Leftwards line from blocky start via corner and tricky finish above slab
+**4. Stoatily Obvious (6b+)**  
+Leftwards line from blocky start via corner and tricky finish above slab.
 
-**4. Weasily Identifiable (6b+)**  
+**5. Weasily Identifiable (6b+)**  
 The right-hand line starting the same. Pity about the start.
 
-![Plantation topo 2](/img/peak/stoney/plantation-2.jpg)
+![Weasel gully topo](/img/peak/stoney/goddards-weasel-gully.jpg)
 {.topo}
 
 Around to the right is a gully which can be gained via a fixed rope:
 {.csa}
 
-**1. Skyfall (6b+) ★**  
+**6. Skyfall (6b+) ★**  
 The big hanging arete and crack: very photogenic.
 {.mt0}
 
-**2. Buzzards Banquet (6a)**  
+**7. Buzzards Banquet (6a)**  
 The offwidth crack.
 
-**3. Billy Bunter (5)**  
+**8. Billy Bunter (5)**  
 The slab.
 
-**4. Architects Glasses (6a)**  
+**9. Architects Glasses (6a)**  
 Climb up the left-hand side of the rib.
 
-**5. Bon Marche (6a)**  
+**10. Bon Marche (6a)**  
 A strict eliminate but good climbing.
 
 Right again in the trees is a small wall:

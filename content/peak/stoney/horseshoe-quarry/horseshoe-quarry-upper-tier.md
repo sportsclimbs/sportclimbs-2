@@ -4,73 +4,94 @@ draft: false
 weight: 40
 placeholder: false
 columns: true
-date: 2023-05-02T14:37:47+01:00
-summary: Horseshoe Quarry updated with new topos.
+date: 2023-05-20T10:04:57+01:00
+summary: Horseshoe Quarry updated with even more new topos.
+css:
+- "h2 {margin-top: 2em;}"
 ---
 
+## Approach
 
-**Some routes here have been debolted due to unstable rock. These routes are marked with yellow dashed lines.**
+The Upper Tier is best approached by taking the high righthand path which splits off from the main path into the quarry before entering the quarry proper.
 
-## Upper Tier Far left-hand
-
-At the far left-hand of the terrace below the tier and almost where the two tiers of the cliff merges into one is a series of routes:
+There are 5 topos on this page listed in left to right order and numbered from 1 on the left to 5 on the far right. There are also a few more routes on the [Africa Buttress Upper](/peak/stoney/horseshoe-quarry/horseshoe-africa#africa-upper) section.
 {.csa}
 
-![Horseshoe Upper Tier far left](/img/peak/stoney/horseshoe-upper-tier-far-leftl.jpg)
+
+
+## 1. Upper Tier far left
+
+If you follow the Upper Tier terrace the continuous rock wall eventually runs out to a more vegetated and broken section. Carry on past this to where the rock is more continuous again with a series of slim walls and corners.
+{.csa}
+
+N.B. the very far left of the Upper Tier is covered by the [Africa Buttress](/peak/stoney/horseshoe-quarry/horseshoe-africa/) page. Some of the routes there are best approached by climbing up from below or abseiling in from above.
+{.csa}
+
+<!-- ![Horseshoe Upper Tier far left](/img/peak/stoney/horseshoe-upper-tier-far-leftl.jpg)
+{.topo} -->
+
+![Horseshoe Upper Tier far left 1](/img/peak/stoney/horseshoe-upper-tier-1a.jpg)
 {.topo}
 
-**1. Brew Thyme (6a)**  
+**1. Bird Island pitch 2 (6a)**  
+The second pitch climbs the pleasant arete. (See [Africa Buttress](/peak/stoney/horseshoe-quarry/horseshoe-africa/) for pitch 1)
+
+**2. Brew Thyme (6a)**  
 The crackline right of the arete.
 
-**2. Thyme Out (6a)**  
+**3. Thyme Out (6a)**  
 A wide crack and V niche.
 
-**3. What's the Thyme (6a)**  
+**4. What's the Thyme (6a)**  
 The next crackline just left of corner.
 
-**4. Bridge Over the River Thyme (5)**  
+**5. Bridge Over the River Thyme (5)**  
 A corner line.
 
-**5. Bit of Spare Thyme (5+)**  
+**6. Bit of Spare Thyme (5+)**  
 The wall right of the corner, almost on the arete.
 
-**6. Fat Betty (4+)**  
+**7. Fat Betty (4+)**  
 Easy corner line.
 
-**7. Take Your Thyme(5+)**  
+**Take Your Thyme(5+)**  
 Right wall of corner.
 
 **8. Porridge (4+)**  
 Slim corner line just left of arete. Pleasant.
 
-**Crunch yer Nuts (4)** ★  
+**9. Crunch yer Nuts (4)** ★  
 Fine wide crack system.
 
-**9. Soggy Bottom Boys (6b+)** ★  
+**10. Soggy Bottom Boys (6b+)** ★  
 Vague arete from left-hand end of terrace. A couple of hard moves
 
-**10. Man of Constant Sorrow (5+)**  
+**11. Man of Constant Sorrow (5+)**  
 left-hand side of arete via crack low down.
 
-**11. Big Rock Candy Mountain (6a)** ★  
+**12. Big Rock Candy Mountain (6a)** ★  
 The right-hand side of fine arete.
 
-**12. Everett's Arete (5+)**  
+
+![Horseshoe Upper tier far left](/img/peak/stoney/horseshoe-upper-tier-1b.jpg)
+{.topo}
+
+**13. Everett's Arete (5+)**  
 Takes the sharp arete on left-hand side.
 
-**Repulse (5)**  
-The left-hand of two newly cleaned lines.
+**14. Repulse (5)**  
+The left-hand line of the orange wall.
 
-**Prince of Wales (5+)**  
+**15. Prince of Wales (5+)**  
 The right-hand line.
 
-**That Old DA Look (4)**  
-A short wall, groove and bulge to right.
+**16. That Old DA Look (4)**  
+The short wall, groove and bulge just right of the orange wall.
 
-**FOP (6a)**  
-Isolated face on right with tricky finish on slight nose.
+**17. FOP (6a)**  
+Climbs the isolated face to the right with a tricky finish on a slight nose.
 
-## Upper Tier Left-hand
+## 2. Upper Tier Left
 
 
 ![Horseshoe Upper Tier left](/img/peak/stoney/horseshoe-upper-tier-2.jpg)
@@ -132,7 +153,7 @@ Pleasant face and tricky finish.
 **Commiseration (5)**  
 Slim groove to belay of *First Pryse*.
 
-## Upper Tier Central
+## 3. Upper Tier Central
 
 ![Horseshoe Upper Tier centreal](/img/peak/stoney/horseshoe-upper-tier-3.jpg)
 {.topo}
@@ -185,7 +206,11 @@ Right-hand side of slab. Two very tricky sections but short-lived.
 **33. Esso Blue HVS 5b**  
 Crackline to slabby finale
 
-## Upper Tier Right-hand
+## 4. Upper Tier Right
+
+
+**Some routes here have been debolted due to unstable rock. These routes are marked with yellow dashed lines.**
+{.csa}
 
 ![Horseshoe Upper Tier topo 4](/img/peak/stoney/horseshoe-upper-tier-4.jpg)
 {.topo}
@@ -228,7 +253,7 @@ Left wall of corner with some good technical moves. Short-lived.
 Right wall of corner with good moves on upper section.
 
 
-## Upper Tier Far Right
+## 5. Upper Tier Far Right
 ![Horseshoe Upper Tier topo 5](/img/peak/stoney/horseshoe-upper-tier-5.jpg)
 {.topo}
 
