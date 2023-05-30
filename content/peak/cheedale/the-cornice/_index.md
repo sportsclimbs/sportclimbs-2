@@ -9,7 +9,7 @@ placeholder: false
 
 ## Character
 
-Cheedale's most popular crag and one the Peak's best sport climbing venues. The steep bulging nature of the climbing combined with the fact that all the holds are upsided down makes this popular with harder climbers. The concentration of difficult routes is second only to Raven Tor however there are routes of every grade from 6a+ to 8c. Superb vertical walls in the centre of the crag are mixed with overlaps and shallow grooves give way to impressive overhanging walls and roofs on the wings to give a cliff popular with harder climbers. Almost every climb is now fully bolted.
+Cheedale's most popular crag and one the Peak's best sport climbing venues. The steep bulging nature of the climbing combined with the fact that most of the holds are upside down makes this popular with harder climbers. The concentration of difficult routes is second only to Raven Tor and it has the best collection of mid eight routes in the Peak District. However there are good routes of almost every grade here from 6a+ to 8c. Superb vertical walls in the centre of the crag are mixed with overlaps and shallow grooves give way to impressive overhanging walls and roofs on the wings to give a cliff popular with harder climbers. Almost every climb is now fully bolted.
 
 ## Conditions
 
@@ -28,8 +28,8 @@ The Cornice sectors are listed in order from left to right as one would usually 
 
 ### From Miller's Dale
 
-The simplest, easiest and most popular approach is from the Miller's Dale end. Follow the Monsal Trail westwards for 800 metres and enter a long tunnel. Exit the tunnel onto a viaduct and go through a gap in wall on the left. Follow the path down to the main path by the river. Turn sharp right here (heading downstream) and go under the viaduct. Cross a footbridge over the river and follow the path to square cut stepping stones. Follow these straight into the Armblaster sector of the crag.
+The simplest, easiest and most popular approach is from the Miller's Dale end. Follow the Monsal Trail westwards for 800 metres and enter a long tunnel. Exit the tunnel onto a viaduct and go through a gap in wall on the left. Follow the path and go down some stone steps to the main path along the river. Turn sharp right here (heading downstream) and go under the viaduct. Cross a footbridge over the river and follow the path to square cut stepping stones. These lead straight into the Armblaster sector of the crag.
 
 ### From Topley Pike
 
-When approaching from the Topley Pike end follow the Monsal Trail for 1.4km to Chee Tor tunnel no. 2. Go through the tunnel onto the viaduct then go through the gap in wall on the right just before the next tunnel. Follow the path down to the main path by the river. Turn sharp right here (heading downstream) and go under the viaduct. Cross a footbridge over the river and follow the path to square cut stepping stones. Follow these straight into the Armblaster sector of the crag.
+When approaching from the Topley Pike end follow the Monsal Trail for 1.4km to Chee Tor tunnel no. 2. Go through the tunnel onto the viaduct then go through the gap in wall on the right just before the next tunnel. Follow the path and go down some stone steps to the main path along the river. Turn sharp right here (heading downstream) and go under the viaduct. Cross a footbridge over the river and follow the path to square cut stepping stones. These lead straight into the Armblaster sector of the crag.

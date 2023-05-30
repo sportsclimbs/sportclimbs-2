@@ -17,28 +17,29 @@ The small wall 20m left of the next route.
 **1. Old Biddy Flogger (6a)**  
 Pleasant arete after hollow start.
 
-**2. Floggin' a Dead Horse (6b)** ★  
-Fine wall climbing on good rock 
+**2. Floggin' a Dead Horse (6b) *★***  
+Fine wall climbing on good rock.
 
-**3, The Crystal Maze (6c+)** ★  
+**3, The Crystal Maze (6c+) *★***  
 Better, escalating to a difficult finish.
 
 **4. Hollow Inside (6b)**  
 The central line via a flake and hard finale.
 
-**5. The Quartz Tricycle (6b+)** ★  
+**5. The Quartz Tricycle (6b+) *★***  
 Enjoyable face to finish via pillar. 
 
-**6\. Friezian (6b)**  
+**6. Friezian (6b)**  
 Technical face, easier above. 
 
-**7. Lady Luck (6b)** ★  
+**7. Lady Luck (6b) *★***  
 Fine route with hard start. 
 
-**8. Just Passing Through (6a+)** ★  
-Rough face to tricky finale. Rebolted. Extra bolt added.
+**8. Just Passing Through (6a+) *★***  
+Rough face to tricky finish. 
+{.rebolted}
 
-**9. Sock it to 'em (5)** ★★  
+**9. Sock it to 'em (5) *★★***  
 Excellent open face. 
 
 

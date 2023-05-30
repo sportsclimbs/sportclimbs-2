@@ -14,7 +14,7 @@ placeholder: false
     }
 </style>
 
-![Paul Harrison on Lowlands, Garage Buttress.](/img/peak/stoney/Lowlands.jpg)
+![Paul Harrison on Lowlands, Garage Buttress.](/img/peak/stoney/Lowlands.jpg)  
 Paul Harrison on Lowlands (6c+) Garage Buttress, Stoney Middleton.
 {.photo}
 

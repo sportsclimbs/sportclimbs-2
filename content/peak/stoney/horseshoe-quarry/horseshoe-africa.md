@@ -35,7 +35,7 @@ Climb the up the wall to gain the obvious corner. Climb this on to the Upper tie
 **4. Seychelles (6b)**  
 A good crack climb requiring traffic to clean it up a little more.
 
-**5. Rainbow Warrior (6c)** &starf;  
+**5. Rainbow Warrior (6c) *&starf;***    
 Climb the fine lower wall just left of arete to a difficult pull over the roof.
 
 **6. Weakened Warrior (6b)**  
@@ -82,10 +82,10 @@ The steep, thin crackline.
 **6. Zanzibar (6b)**  
 The slab on right. Step out of Kariba at 5m.
 
-**7. Simonstown (6c+)** &starf;  
+**7. Simonstown (6c+) *&starf;***    
 The last line starting from the ledge. The righthand line up the slab has one very trying move.
 
-**8. Ring Thane (6c+)** &starf;&starf;  
+**8. Ring Thane (6c+) *&starf;&starf;***  
 Climbs up the left side of the arete. Approach via *Rainbow Warrior* to make a good, 6c multipitch route.
 
 **9. Pretoria (6b+)**  

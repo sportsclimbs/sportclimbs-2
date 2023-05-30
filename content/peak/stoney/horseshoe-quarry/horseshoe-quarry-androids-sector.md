@@ -43,7 +43,7 @@ Contrived arete to right via new BRs. Two stiff pulls high up. Poor
 **9. Like Ice, Like Fire (6a)**  
 Shallow grooves on left-hand side of arete. 2 staple bolts.
 
-**10. Galening Crack HVS 5a** &starf;  
+**10. Galening Crack HVS 5a  *&starf;***  
 The prominent crack in back of a groove. The best trad line in quarry.
 
 **11. Compromise E2 5b**  
@@ -58,16 +58,16 @@ Line of staples to right. Hard and fingery low down. Finish on arete
 **14. Decaydance (6c)**  
 Follow the hangers left of prominent cracked pillar to fine open finish on headwall.
 
-**15. A Right Earful (6a+)** &starf;   
+**15. A Right Earful (6a+)  *&starf;** *  
 Start up prominent right facing corner and crack line. Swing left onto a ledge and continue to tricky finish.
 
-**16. Clean Your Mouth Out (6c+)** &starf;  
+**16. Clean Your Mouth Out (6c+)  *&starf;***  
 Climbs the yellow wall to the roof. Pass this and climb direct up the smooth headwall.
 
 **17. The Dust Bunnies (6c+)**  
 Climb above a hole via blunt rib to big move at the top to reach the belay.
 
-**18. Dalken Shield (6b)** &starf;  
+**18. Dalken Shield (6b)  *&starf;***  
 Climbs the vague arete mostly on its left side to gain the headwall.
 
 **19. Hardcore, You Know the Score (6b)**  
@@ -76,7 +76,7 @@ Shallow groove with half-height crux. Becoming polished.
 **20. The Director's Cut (6a+)**  
 Direct line via blunt rib formed by shothole. Pleasant. THe ring belay is out right.
 
-**21. Bladerunner (6a+)** &starf;  
+**21. Bladerunner (6a+)  *&starf;***  
 A fine bold route via the half-height groove.
 
 **22. Bruce's Bonus (6b)**  

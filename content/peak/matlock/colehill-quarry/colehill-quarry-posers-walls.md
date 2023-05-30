@@ -9,28 +9,40 @@ css:
 
 ![Colehill Posers LH](/img/peak/matlock/colehill-posers-wall-lh.jpg)
 
-**Posing Pouch (6a+)** tricky starting wall then easier
+**Posing Pouch (6a+)**  
+A tricky starting wall but easier above.
 
-**Voyeur (6a)** wall left of slim groove.
+**Voyeur (6a)**  
+The wall left of slim groove.
 
-**1. Posing till the End (5)** the left-hand arete of the wall.
+**1. Posing till the End (5)**  
+The left-hand arete of the wall.
 
-**2. I am a Poser and I Don't Care (5)** a direct line to the right keeping to the line of bolts
+**2. I am a Poser and I Don't Care (5)**  
+A direct line to the right keeping to the line of bolts
 
-**3. Garth was 'ere (6a)** pleasant face climbing, steep to start but gradually easing off.
+**3. Garth was 'ere (6a)**  
+Pleasant face climbing that's steep to start but gradually eases off.
 
-**4. In Vision (6a+) ★** a faint shallow groove with a technical central section.
+**4. In Vision (6a+) ★**  
+Climb the faint shallow groove with a technical central section.
 
-**5. Out-a-Sight, Out-a-Mind (6a+)** long slabby face climbing via shallow groove and scoop. Finish leftwards from last bolt runner
+**5. Out-a-Sight, Out-a-Mind (6a+)**  
+A long slabby face climbing via shallow groove and scoop. Finish leftwards from last bolt runner.
 
-**6. Pose On (6a)** right-hand branch off Out-a-Sight.
+**6. Pose On (6a)**  
+A right-hand branch off from *Out-a-Sight*.
 
 ![Colehill Above 30 wall](/img/peak/matlock/colehill-posers-wall-rh.jpg)
 
-**7. Above 30 (7b) ★** hard start and branches left from second 'ledge' to climb the very thin headwall. Easier for the tall.
+**7. Above 30 (7b) ★**  
+After a hard start and branch off left from the second 'ledge' to climb the very thin headwall. Easier for the tall.
 
-**8. Just this Side of 30 (7a) ★** from the second bolt runner, move right and fire up the wall with one more trying move.
+**8. Just this Side of 30 (7a) ★**  
+From the second bolt runner, move right and fire up the wall with one more trying move.
 
-**9. Taste the Grit (6b+) ★** the right-hand arete of the wall taken on its left-hand side. More grit than limestone.
+**9. Taste the Grit (6b+) ★**  
+The right-hand arete of the wall taken on its left-hand side. More grit than limestone.
 
 On the wall facing this wall is **Keep Sake** (6a).the left-hand line behind the tree and **Fail Safe (6b)** a brushed smooth-looking face.
+{.csa}

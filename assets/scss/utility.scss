@@ -1,7 +1,26 @@
 // Utility classes for the site - corresponds roughly to Emmet shortcuts.
 
-.cb {
+.cb,
+.clb {
     clear: both;
+}
+
+.clr {
+    clear: right
+}
+
+.cll {
+    clear: left
+}
+
+.fll {
+    float: left !important;
+    width: min-content;
+}
+
+.flr {
+    float: right;
+    width: min-content;
 }
 
 .mt0 {
@@ -23,6 +42,20 @@
 .mb0 {
     margin-bottom: 0;
 }
+
+.mb1 {
+    margin-bottom: 1em;
+}
+
+.mb2 {
+    margin-bottom: 2em;
+}
+
+.mb4 {
+    margin-bottom: 4em;
+}
+
+
 
 .ml25 {
     margin-left: 0.25em;

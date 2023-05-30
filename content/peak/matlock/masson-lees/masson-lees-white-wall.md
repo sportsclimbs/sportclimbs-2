@@ -12,67 +12,69 @@ This is the first wall on the right-hand side of the descent path.
 
 
 **Final Dregs (6a)**  
-short wall on right as you approach down the slope.
+The short wall on right as you approach down the slope.
 
 **Fill it In (6a)**  
-the short wall to a thin crack and belay above. Just about worthwhile.
+The short wall to a thin crack and belay above. Just about worthwhile.
 
-**1. Piano Fingers (7a) ★**  
-wall and shallow groove right of the prominent thin crack. Complex.
+**1. Piano Fingers (7a) *★***  
+Climb the wall and shallow groove right of the prominent thin crack. Complex.
 
-**2. Forefinger Exercise (7a)**  
-★ the thin crack with hard moves by the third bolt runner. Recleaned and rebolted.
+**2. Forefinger Exercise (7a) *★***  
+The thin crack with hard moves by the third bolt runner. 
+{.rebolted}
 
-**3. Hilti Sound System (7a) ★★**  
-wall between cracks gives fine sustained climbing. Fingery. Recleaned and rebolted.
+**3. Hilti Sound System (7a) *★★***  
+The wall between cracks gives fine sustained climbing. Fingery. 
+{.rebolted}
 
 **4. Elbowed Out (6b+)**  
-the impressive crackline gives a good pitch needing traffic. Easy for grade.
+The impressive crackline gives a good pitch needing traffic. Easy for grade.
 
-**5. Twist of Feet (7a+) ★**  
-another fine wall climb above the starting ledge. Again fingery with hard moves before and after the ledge. Recleaned and rebolted.
+**5. Twist of Feet (7a+) *★***  
+Another fine wall climb above the starting ledge. Again fingery with hard moves before and after the ledge. Recleaned and rebolted.
 
-**6. Bish, Bash, Bosch (6c) ★**  
-good climbing via the thin crackline.
+**6. Bish, Bash, Bosch (6c) *★***  
+Some good climbing via the thin crackline.
 
-**7. The Crash test Dummies (7a) ★**  
-the final of three fine sustained wall climbs. Long reach required at the top. Recleaned and rebolted.
+**7. The Crash test Dummies (7a) *★***  
+The final of three fine sustained wall climbs. Long reach required at the top. Recleaned and rebolted.
 
 **8. From Beer to Eternity (7a)**  
-wall to left with boulder problem move from flake.
+Climb the wall to the left with boulder problem move from flake.
 
 **9. Leffe and Out (6b+)**  
-front face of large flake. One or two good moves.
+The front face of the large flake. One or two good moves.
 
 ![White Wall topo](/img/peak/matlock/white-Wall-1-copy.jpg)
 {.topo}
 
 **10. Lager than Life (7b)**  
-boulder problem wall from ledge, only marginally easier above.
+Climb the boulder problem wall from ledge to marginally easier ground above.
 
 **11. Calling Time (7a+)**  
-fine technical face climbing above the ledge with an evil move to gain the belay.
+Fine technical face climbing above the ledge with an evil move to gain the belay.
 
 **12. Smear for yer Beer (7b)**  
 Hideously thin climbing past the final bolt. The hardest move on the crag but a poor route.
 
-**13. Last Orders (6c) ★**  
-technical starting moves from ledge lead to slabby face right of corner. Very pleasant.
+**13. Last Orders (6c) *★***  
+Technical starting moves from ledge lead to slabby face right of corner. Very pleasant.
 
 **14. Tapering Out (7a)**  
 The tapering corner with a difficult entry finishing via a wall and crack slightly right. Spooky.
 
 **15. Leap of Fete (7a)**  
-just that from the higher bolt runner, followed by a horrible, nose-grinding mantel!
+Just that from the higher bolt runner, followed by a horrible, nose-grinding mantel!
 
 **16. Four by Four (6c+)**  
-slim steep wall with good holds but one very frustrating move.
+A slim steep wall with good holds but one very frustrating move.
 
 **17, Major Dormo (5)**  
-the right-hand side of prominent arete at the end of the wall. Awkward start.
+The right-hand side of prominent arete at the end of the wall. Awkward start.
 
 **15. Maitre D'hotel (6a)**  
-keep to the left-hand side of the arete as close as possible.
+Keep to the left-hand side of the arete as close as possible.
 
 Three new routes have been added to the small cliff tucked into the 'hole' around to the right of the col before the descent is made under the White Walls:
 {.csa}
@@ -81,10 +83,10 @@ Three new routes have been added to the small cliff tucked into the 'hole' aroun
 ![The Doldrums section topo](/img/peak/matlock/Massontop.jpg)
 
 **The Doldrums (6b)**  
-left-hand line via starting pillar
+The left-hand line via starting pillar.
 
 **Hole in the Wall (6c+)**  
-central and best line through bulge.
+The central and best line through bulge.
 
 **Snapping Turtle (7a)**  
-boulder-problem right-hand line.
+The boulder-problem right-hand line.

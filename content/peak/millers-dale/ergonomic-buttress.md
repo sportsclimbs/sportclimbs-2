@@ -4,6 +4,7 @@ linktitle: Ergonomic
 weight: 40
 draft: false
 placeholder: false
+columns: true
 ---
 
 ## Character
@@ -17,6 +18,7 @@ Park as for Ravens Tor and walk down the road to the first bridge across the riv
 ## The Routes
 
 ![egonomic Butress](/img/peak/millers-dale/ergonomic-buttress.jpg)
+{.topo}
 
 Starting with the wall on the left.
 

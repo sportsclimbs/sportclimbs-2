@@ -24,13 +24,13 @@ Good moves up the left-hand side of the arete.
 **3. Tors Colon (6c+)**  
 The right-hand side of left arete.
 
-**4. Vent Your Spleen (7b)** &starf;  
+**4. Vent Your Spleen (7b) *&starf;***    
 A hard boulder problem low down leads to pumpy finale.
 
-**5. Heart to Heart (6c+)** &starf;  
+**5. Heart to Heart (6c+) *&starf;***    
 The left-hand crack, once a trad route, is now bolted.
 
-**6. Sliver (6c+)** &starf;  
+**6. Sliver (6c+) *&starf;***    
 The right-hand crack. Good when dry.
 
 **7. The Stomach Pump (7b)**  

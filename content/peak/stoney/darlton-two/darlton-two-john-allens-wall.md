@@ -21,19 +21,19 @@ The awkward wall the the right leads to a ledge with a crux crack finish.
 
 **Project**
 
-**2. Fuji (7a) ★★**  
+**2. Fuji (7a) *★★***  
 A climb of two distinct havles finishing up the thin crack in the headwall.
 
-**3. Superleggers (6c) ★★**  
+**3. Superleggers (6c) *★★***  
 A fine climb via the obvious cracklin with a difficult start.
 
-**4. Spirit of Ectasy (6b) ★★**  
+**4. Spirit of Ectasy (6b) *★★***  
 a bit of a 'pop' for a hold at the start and then superb pocket and jug pulling
 
-**5. Aperta (7a) ★★**  
+**5. Aperta (7a) *★★***  
 Varied face climbing with several tricky sections.
 
-**6. Superveloce (6c+) ★★**  
+**6. Superveloce (6c+) *★★***  
 another excellent route, reachy low down and with a diffcult/trying move on the upper wall.
 
 **7. Stoked for the Send (6b)**  

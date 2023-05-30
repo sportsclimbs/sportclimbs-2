@@ -15,7 +15,7 @@ placeholder: false
 ---
 
 
-## Approach
+## Approaches
 
 ![Cheedale map](/img/peak/cheedale/chee3.gif)The dale is very easily accessible by car but parking for the dale is a little more tricky. There are 3 main parking places and one minor one. On the west side is the Topley Pike car park and little furhter on the Topley Pike layby. Both usually have plenty of spaces. The car park is pay and display while and parking at the layby is free. At the opposite end of the dale, on the east side, is the Miller's Dale station car park which again has plenty of space but is pay and display. Finally there is limited parking at Wormhill.
 
@@ -25,13 +25,15 @@ If approaching from the west, take the A6 out of Buxton for 3 miles and locate a
 
 Alternatively at the top of this hill lies the free Topley Pike layby on the left. Both of these parking places allow access to the old railway track, The Monsal Trail, which runs the full length of the valley. This tracks runs directly out of the lower Topley car park. From the upper east end of the layby go through a gate in the wall and follow the path round and down the hill to join the Monsal Trail at the bottom. Turn right on this to head towards the the Cheedale crags.
 
-### Miller's Dale station car park
+### Miller's Dale
 
-From the bottom of a long hill on the B6049 pass through the hamlet of Millers Dale. After 500m turn sharp right on a small road signposted for Wormhill. Follow this steeply for 100m to a pay and display car park in an old station on the left. This can be reached from the A6 side, this time turning left for Wormhill. From the far (west) end of the car park take the Monsal Trail and follow it until it enters a tunnel. When the tunnel ends go through a gap in the wall on the left and follow the path to the river and the crags.
+When travelling west on the B6049 go down a long hill and pass through the hamlet of Millers Dale. After 500m there is a  sharp right on a small road signposted for Wormhill. Just beyond this there are a few parking places on the left of the road. Otherwise take the road for Wormhill and after 100m turn left into a pay and display car park in the old station. This can be reached from the A6 side, this time turning left for Wormhill. 
+
+From the far (west) end of the car park take the Monsal Trail and follow it for 800m to a long tunnel. When the tunnel ends go through a gap in the wall on the left and follow the path and stone steps down to the a path along the river. Turn right for The Cornice, Rhubarb Buttress and Chee Tor or left for most of the other crags.
 
 ### Wormhill
 
-An alternative option, less popular now, is to continue past the Miller Dale station and follow the Wormhill road for 1 mile until a small cottage is seen on the left, the first building on the left, in the tiny hamlet of Wormhill. A few parking spots can found nearby. Descend a small track past the cottage and follow a small right-hand branch into the dale at a small footbridge. The first buttress, Rhubarb Buttress, lies 200 yards beyond this.
+An alternative option, less popular now, is to continue past the Miller Dale station and follow the Wormhill road for 1 mile until a small cottage is seen on the left, the first building on the left, in the tiny hamlet of Wormhill. A few parking spots can found nearby. Descend a small track past the cottage and take the right-hand branch into the dale at a small footbridge. The first buttress, Rhubarb Buttress, lies 200 yards beyond this.
 
 ## Access
 

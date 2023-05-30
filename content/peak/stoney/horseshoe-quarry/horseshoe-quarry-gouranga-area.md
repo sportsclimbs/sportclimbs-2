@@ -16,23 +16,30 @@ columns: true
 
 **NYD (6a+)** is an isolated wall 30m to left.
 
-**1. Pig in a Poke (5)** &starf; pleasant shallow groove.
+**1. Pig in a Poke (5) *&starf;***  
+pleasant shallow groove.
 
 **2. Bad Boys Ink (6a+)**.
 
 **3. Unruly Behavior (6a+)**
 
-**4. Treatment (6b)** face just left avoiding crack.
+**4. Treatment (6b)**  
+The face just left avoiding crack.
 
-**5. Therapy (6b+)** obvious black wall requiring long reaches.
+**5. Therapy (6b+)**  
+The obvious black wall requires long reaches.
 
-**6. Porgi Amor (6b)** left-hand groove after same start.
+**6. Porgi Amor (6b)**  
+Obvious left-hand groove.
 
-**7. Foreign Tongues (6a)** obvious groove line to same belay.
+**7. Foreign Tongues (6a)**  
+Groove line after same start to same belay.
 
-**8. Guoranga (6c)** &starf; very technical wall left of obvious crack. High in grade.
+**8. Guoranga (6c) *&starf;***  
+very technical wall left of obvious crack. High in grade.
 
-**9. Minni-Grip (7a+)** short desperate face.
+**9. Minni-Grip (7a+)**  
+short desperate face.
 
 
 
@@ -45,24 +52,32 @@ Five routes exist to the right Gouranga Wall:
 {.topo}
 
 
-**1. Unhung (6a+)** first pillar right of the angle of the bay.
+**1. Unhung (6a+)**  
+The first pillar right of the angle of the bay.
 
-**2. The Fire Hang (6b)** second pillar right of the main angle of the bay
+**2. The Fire Hang (6b)**  
+The second pillar right of the main angle of the bay
 
-**3. Hang Fire (6a)** third pillar right of main angle of bay
+**3. Hang Fire (6a)**  
+The third pillar right of main angle of bay
 
-**4. The Gobbler (5+)** rib and jamming crack above ledge.
+**4. The Gobbler (5+)**  
+Climb the rib and jamming crack above ledge.
 
-**5. Christmas Presence (6c+)** right arete of Guoranga bay.
+**5. Christmas Presence (6c+)**  
+Takes the right arete of Guoranga bay.
 
 ![Gouranga Bay Right side](/img/peak/stoney/horseshoe-gouranga-bay-right.jpg)
 {.topo}
 
-**5. Christmas Presence (6c+)** right arete of Guoranga bay.
+**5. Christmas Presence (6c+)**  
+Takes the right arete of Guoranga bay.
 
-**6. Steeping the Goose (6c)** the left-hand line
+**6. Steeping the Goose (6c)**  
+The left-hand line
 
-**7. Turkey Shoot (6a+)** right-hand line on small wall. Fine Rock.
+**7. Turkey Shoot (6a+)**  
+A right-hand line on small wall. Fine Rock.
 
 
 There are 3 more routes not marked on the topos: **Top Gobbler (5+)** right-hand side of wall behind rose bed, **Chicken Feed (6a)** wall and wide crack, **The Farmer's Seed (6b)** left-hand side of wall with long pull at top.

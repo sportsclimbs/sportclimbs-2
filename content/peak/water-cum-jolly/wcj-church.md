@@ -26,12 +26,12 @@ From the left end of Central Buttress continue along the path past several small
 The right side of the roof is climbed via the obvious groove, **Vicar's Vertigo E2 5c ★**.
 {.csa}
 
-**1. More Tea Vicar (6b+) ★**  
+**1. More Tea Vicar (6b+) *★***  
 To the L of _Vicar's Vertigo_ a line up to the centre of the buttress to the roof past 4 BRs. BB on the L.
 {.mt0}
 
-**2. Let Rip (7b) ★**  
+**2. Let Rip (7b) *★***  
 Climb _More Tea Vicar_  then straight over the roof on the left side.
 
-**3. Rectal Revenge (7b)** ★  
+**3. Rectal Revenge (7b) *★***  
 From the top of *More Tea Vicar* move R and through the roof into the hanging corner above.

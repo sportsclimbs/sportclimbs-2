@@ -60,16 +60,16 @@ Right wall of corner.
 **8. Porridge (4+)**  
 Slim corner line just left of arete. Pleasant.
 
-**9. Crunch yer Nuts (4)** ★  
+**9. Crunch yer Nuts (4) *★***  
 Fine wide crack system.
 
-**10. Soggy Bottom Boys (6b+)** ★  
+**10. Soggy Bottom Boys (6b+) *★***  
 Vague arete from left-hand end of terrace. A couple of hard moves
 
 **11. Man of Constant Sorrow (5+)**  
-left-hand side of arete via crack low down.
+Climb left-hand side of arete via crack low down.
 
-**12. Big Rock Candy Mountain (6a)** ★  
+**12. Big Rock Candy Mountain (6a) *★***  
 The right-hand side of fine arete.
 
 
@@ -108,10 +108,10 @@ Stiff fingery start to easier ground on fine rock above
 
 **4. Whilst the Cat's Away E3 6b**
 
-**5. Oh Brother Where Art Thou' (6a)** ★  
+**5. Oh Brother Where Art Thou' (6a) *★***  
 Pleasant climbing with a tricky start from the obvious ledge.
 
-**6. Dapper Dan (6a)** ★  
+**6. Dapper Dan (6a) *★***  
 The excellent arete to a tricky finale. Stretchy first clip from ledge.
 
 **7. Babe the Blue Axe (6a)**  
@@ -141,13 +141,13 @@ Exits cave to gain hidden delights in hanging groove. Good when dry.
 **15. Almost There (5)**  
 Climbs the right arete of the cave system on incredible bubbly jugs.
 
-**16. Into the Labyrinth (5+)** ★  
+**16. Into the Labyrinth (5+) *★***  
 The front face of grey tower, recently retro-bolted (naughty but nice).
 
-**17. By Zeus (6a+)**  ★   
+**17. By Zeus (6a+) *★***     
 Right arete of grey tower with technical start.
 
-**18. Spiteful Rain (5+)** ★  
+**18. Spiteful Rain (5+) *★***  
 Pleasant face and tricky finish.
 
 **Commiseration (5)**  
@@ -167,7 +167,7 @@ Awkward, right-facing groove with leftwards exit.
 **21. The Owl (6c)**  
 Tight line on face to right with difficulties surrounding upper section.
 
-**22. White Dove E2 5c** ★  
+**22. White Dove E2 5c *★***  
 Excellent thin crack system (trad.). Use belays on left or right.
 
 **Two FLAT Whites Direct (6b)**  
@@ -182,13 +182,13 @@ Prominent shallow corner line to excavated finale.
 **25. A Liberal Smear (6c+)**  
 Contrived right of corner. Desperate finale.
 
-**26. Labour Relations (6c+)** ★  
+**26. Labour Relations (6c+) *★***  
 Slabby wall direct (no groove) and fine finish via overlap.
 
-**27. PM's Question Time E3 5c** ★  
+**27. PM's Question Time E3 5c *★***  
 Thin crack traversing right to avoid top wall and finish via bold scoop, BR.
 
-**28. Avoiding the Issue E4 6a** ★  
+**28. Avoiding the Issue E4 6a *★***  
 Direct finish to PMs via vague rib and BR. Technical.
 
 **29. Booker Prize (6a)**  
@@ -200,7 +200,7 @@ Slab with tricky strip roof at half height and fingery finale.
 **31. Oy Missus (6c)**  
 Left-hand side of slab. above ramp. Tricky if line adhered.
 
-**32. Mr. Blue Sky (7a)** ★  
+**32. Mr. Blue Sky (7a) *★***  
 Right-hand side of slab. Two very tricky sections but short-lived.
 
 **33. Esso Blue HVS 5b**  
@@ -215,7 +215,7 @@ Crackline to slabby finale
 ![Horseshoe Upper Tier topo 4](/img/peak/stoney/horseshoe-upper-tier-4.jpg)
 {.topo}
 
-**34. Smoke Gets in your Eyes (6b+)** ★  
+**34. Smoke Gets in your Eyes (6b+) *★***  
 Left-hand side of prominent arete with occasional move on right. Finish via thin crack.
 
 **35. Esso Extra (E1 5b)**  
@@ -224,13 +224,13 @@ Old trad route up a groove and slab and moving left to finish up the previous ro
 **36. Shell Super (6c)**  
 Hard boulder problem if taken direct on side wall.
 
-**37. Mumble Jumble (7a)** ★★  
+**37. Mumble Jumble (7a) *★★***  
 Slim pillar and difficult roof. Fine test-piece.
 
 **38. Fargo (6a+)**  
 Thin crack system with awkward moves. Can finish at belay of:
 
-**39. Blue Sunday (6a+)** ★  
+**39. Blue Sunday (6a+) *★***  
 Pleasant face climbing staring left of cave.
 {.debolted}
 
@@ -287,10 +287,10 @@ Slabby wall with fine climbing. Difficulties short-lived.
 Arete of wall. Hard on right (true line) **5+**  
 on left.
 
-**53. Cafe Bleu E3 5c** ★  
+**53. Cafe Bleu E3 5c *★***  
 The centre of pleasant face. RPs required.
 
-**54. Dinky Toy (6c)** ★  
+**54. Dinky Toy (6c) *★***  
 Thin crack and technical wall on right. Good.
 
 **55. Corgi Registered (6b)**  

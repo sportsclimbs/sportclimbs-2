@@ -37,7 +37,7 @@ A zig-zag line above prominent cleaned scoop.
 **7. African (6b)**  
 fine climbing up the twin, thin crack system with a tricky upper bulge
 
-**8. Bloodguard (6c)** &starf;  
+**8. Bloodguard (6c) *&starf;***    
 A direct line from just right. Excellent climbing and a hidden gem.
 
 **9. Grab Yer Mandrakes (6b)**  
@@ -70,7 +70,7 @@ Nice climbing with a tricky step right and dogleg back left.
 **18. Bootiful Bernard Matthews (6b)**  
 A slim pillar, short steep wall and overlap to a finishing crack.
 
-**19. Nowt Taken Out (6b)** &starf;  
+**19. Nowt Taken Out (6b) *&starf;***    
 The obvious corner to tricky finale. Excellent.
 
 **20. Fouls Bane (6a)**  
@@ -79,7 +79,7 @@ The first wall right of the long slim corner, actually uses corner on occasions.
 **21. Drool Rock Worm (6b)**  
 the wall to the left of the borehole to the right. Finish alongside tree.
 
-**22. Stonethroat (6b+)** &starf;  
+**22. Stonethroat (6b+) *&starf;***    
 Direct line just right of the borehole. Pleasant face climbing.
 
 **23. Slay the Gray (6b)**  
@@ -111,7 +111,7 @@ The line via wall to right with hard moves on right-hand of arete.
 The slim wall to the right direct. Another route that has cleaned up.
 {.debolted}
 
-**30. Exceeding the Speed Limit (6b+)** &starf;  
+**30. Exceeding the Speed Limit (6b+) *&starf;***    
 A very pleasant line on wall to the right and in the back of the bay. Just worth grade
 {.debolted}
 
@@ -130,7 +130,7 @@ The slim pillar to the right with straightforward but sustained moves
 A vague blunt rib to the right with a hard and devious start.
 {.debolted}
 
-**35. Eddie McStiff (6a+)** &starf;  
+**35. Eddie McStiff (6a+) *&starf;***    
 The shallow groove line exiting leftwards and up via easier ground. A good addition.
 {.debolted}
 
@@ -154,7 +154,7 @@ The obvious slim corner to a belay high up.
 Climbs slim groove in arete and wall above. Can be combined with the next route.
 {.debolted}
 
-**42. The Big Fat Texan on a Corner (6a+ )** &starf;  
+**42. The Big Fat Texan on a Corner (6a+ ) *&starf;***    
 The white wall to the right keeping as direct to the line of bolts as possible. Popular but harder than expected.
 
 **43. He Seems so Sumo (6a)**  

@@ -35,5 +35,5 @@ The left-hand side of the arete. Fingery
 **15\. A Drip off the Old Block (6a+)**  
 The shallow corner system to the right. Ends at half height.
 
-**16\. Cause Celebre (7b) ★**  
+**16\. Cause Celebre (7b) *★***  
 The blunt rib gives a taxing pitch.

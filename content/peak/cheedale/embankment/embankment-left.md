@@ -6,34 +6,56 @@ placeholder: false
 columns: true
 ---
 
-![Embankment Left](/img/peak/cheedale/Embankment-LH.jpg)
+![Embankment Lefthand topo](/img/peak/cheedale/embankment-left.jpg)
 {.topo}
 
-**1\. Hungry Eyes (7a+) ★** short wall, powerful flake and technical headwall. There is also a left-hand variant.
 
-**2\. Beef It (7b) ★** a short sharp shock of moves past the BR with a sling.
+**1. The World According to Tommy Trout (6c+)**  
+Best started up *Hungry Eyes*. Climb *Hungry Eyes* to a flake then move left around a bulge into a groove. At the top of the groove exit rightwards onto the headwall and follow this to the belay on *Hungry Eyes*.
 
-**3\. The Secret Gudgeon Society (7b) ★** rightwards by series of undercuts and layaways.
+**2. Hungry Eyes (7a+) *★***  
+A short wall, powerful flake and technical headwall. There is also a left-hand variant.
 
-**4\. Stone the Loach (7c) ★** takes the buttresses central line. Hard, fingery and sustained.
+**3. Beef It (7b) *★***  
+A short sharp shock of moves past the BR with a sling.
 
-**5\. Mind of a Turbot (7b) ★** the best route on this section. Intricate wall and shallow scoop.
+**4. Superbeef (7b+) *★***  
+An alternative and harder finish to *Beef It*. From the undercut on *Beef It* head up left over an overlap to the belay on *Hungry Eyes*.
 
-**6\. The Man Who Fell to Earth (6c+)** short wall and hard fingery moves above break.
+**5. The Secret Gudgeon Society (7b) *★***  
+Trend rightwards by series of undercuts and layaways.
 
-**7\. Arachnothera (6b+)** the open central groove with a short tricky finish.
+**6. Stone the Loach (7c) *★***  
+Takes the buttresses central line. Hard, fingery and sustained.
 
-**8\. Prawnography (6c)** direct and pleasant wall climbing, low in the grade.
+**7. Mind of a Turbot (7b) *★***  
+The best route on this section. Intricate wall and shallow scoop.
 
-**9\. Bream in Black (7a) ★** escalating difficulties to a difficult and polished rightwards exit.
+**8. The Man Who Fell to Earth (6c+)**  
+A short wall then hard and fingery moves above break.
 
-**10\. Breamtime (7a+)** ★ also becoming polished. The centre of the wall via a high undercut flake.
+**9. Arachnothera (6b+)**  
+The open central groove with a short tricky finish.
 
-**11\. The Barracuda Bass Sound (7a+) ★** a right-hand start to the same undercut. Not polished.
+**10. Prawnography (6c)**  
+Direct and pleasant wall climbing that's low in the grade.
 
-**12\. No Hiding Plaice (7a) ★** traditional climbing via a thin crack. Now bolted.
+**11. Bream in Black (7a) *★***  
+Escalating difficulties to a difficult and polished rightwards exit.
 
-**13\. Whiting on the Wall (7c)** direct from the start of Sturgeon. Fingery.
+**12. Breamtime (7a+)*★***  
+Also becoming polished. The centre of the wall via a high undercut flake.
 
-**14\. Sturgeon in the Cupboard (7c) ★★** the right-hand and best line on the wall. Sustained and fingery.
+**13. The Barracuda Bass Sound (7a+) *★***  
+The right-hand start to the same undercut. Not polished.
+
+**14. No Hiding Plaice (7a) *★***  
+Traditional climbing via a thin crack. Now bolted.
+
+**15. Whiting on the Wall (7c)**  
+Direct from the start of *Sturgeon*. Fingery.
+
+**16. Sturgeon in the Cupboard (7c+) *★★***  
+The right-hand and best line on the wall. Sustained, fingery and harder since the loss of holds.
+
 

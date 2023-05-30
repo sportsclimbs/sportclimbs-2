@@ -13,31 +13,31 @@ This is the usually first area you reach when walking through the woods and is t
 ![Going straight wall topo](/img/peak/buxton/smalldale-going-straight.jpg)
 {.topo}
 
-**1. Sock it to 'em (5) ★★**  
+**1. Sock it to 'em (5) *★★***  
 Excellent open face.
 
-**2. Stone the Crows (6b) ★**  
+**2. Stone the Crows (6b) *★***  
 Wall and cracks to final tower in fine positions.
 
 **3. Blockheads (6c)**  
 New line via edge of white streak.
 
-**4. Learn the Lingo (6c) ★★**  
+**4. Learn the Lingo (6c) *★★***  
 Long sustained face climb. 
 
-**5. Mr. Love Pants (6b+) ★★**  
-More of the same just right. 
+**5. Mr. Love Pants (6b+) *★★***  
+From the 2nd bolt on *Learn the Lingo* move up and right and follow the line of bolts to the BB just below the top.
 
-**6. Shanacie (6b) ★★**  
+**6. Shanacie (6b) *★★***  
 Now climbed with a direct start and central section. 
 
-**7. Riding the Bullet (6c) ★★**  
+**7. Riding the Bullet (6c) *★★***  
 Open face to excellent finish.  
 
-**8. Open Season (6a+) ★**  
+**8. Open Season (6a+) *★***  
 Steep start, then pleasant to crack finale.
 
-**9. More Chattery Teeth (6b) ★★**  
+**9. More Chattery Teeth (6b) *★★***  
 Tricky start to easier climbing right of crack. 
 
 **10. Upminster Kid (6b)**  
@@ -46,7 +46,7 @@ Steep face joining *Going Straight* near the top
 <!-- ![Going Straight topo](/img/peak/buxton/SMALL5.gif)
 {.topo .w100} -->
 
-**11. Going Straight (6b+) ★★**  
+**11. Going Straight (6b+) *★★***  
 Superb face climbing to finish via tower. 
 
 **12. Friend 15 (6b)**  
@@ -71,7 +71,7 @@ Easy wall to ledge and pillar above. Hollow central section.
 **More for Four (6b+)**  
 Easy lower wall to ledges and arete above.
 
-**Double Wammy (6b+) ★**  
+**Double Wammy (6b+) *★***  
 Terraced wall at right of crag.
 
 

@@ -25,7 +25,7 @@ The climbs are described from left to right:
 {.csa}
 
 **1. Recycle or Die (6b+)**  
-a short route even by Lammergeyer standards. A hard crux leads up to the top but there's no belay so climb or jump down the last bolt and lower off. The crag's easiest and probably worst route.
+A short route even by Lammergeyer standards. A hard crux leads up to the top but there's no belay so climb or jump down the last bolt and lower off. The crag's easiest and probably worst route.
 {.mt0}
 
 **2. Aquarian Warriors (E5 6b)**  
@@ -63,7 +63,7 @@ takes a steep line up the bulging wall via some hard to see rusty bolts. Another
 **The Amnicolist Spies on the Black Submarine (E5 6b)**  
 Start below and right of the large niche at half height. Climb the undercut flake line past a poor peg until it's possible to move leftwards into the niche. Continue leftwards to reach the belay of *The Ego has Landed*.No belay on any of these routes just trees.
 
-**Hard Torque (8a+)** &starf;&starf;  
+**Hard Torque (8a+) *&starf;&starf;***  
 Start below another line of undercuts leading up and slightly rightwards. Good bolts mark the line. Low in the grade.
 
 **Living with a Porcupine (7a?)**  
@@ -76,11 +76,11 @@ The wall between the nest hole and the tottering pillar. Pull leftwards into the
 **13.Once upon a Time (7b+)**  
 Bolted to force you away from the tottering pillar. From a similar starting position as Tree Surgeon make a hard pull rightwards into the bulge. At the second bolt make a big lockoff into a right-handed undercut to join the previous route at its last bolt. Take care not to touch the loose pillar.
 
-**The Fall (8a)** &starf;  
+**The Fall (8a) *&starf;***  
 Powerful and technical with awkward clips.
 
-**14. Vindicator (7c+)**  &starf;&starf;  
+**14. Vindicator (7c+)  *&starf;&starf;***  
 The most popular of the harder routes. A hard lock off from sloper leads to poweful undercut moves and sidepulls to an easier finish.
 
-**Sky Fall (7c+)**  &starf;&starf;   
+**Sky Fall (7c+) *&starf;&starf;***    
 Similar to Vindicator but with a steep tricky finish.

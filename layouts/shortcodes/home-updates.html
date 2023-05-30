@@ -2,7 +2,7 @@
         <div class="updates">
             <h2>Updates</h2>
             <ul>
-            {{- range first 25 (.Site.Pages.ByDate.Reverse) -}}
+            {{- range first 45 (.Site.Pages.ByDate.Reverse) -}}
                 {{- if isset .Params "summary" -}}
                 <li><b><a href="{{ .RelPermalink }}">{{ .Title }}</a></b> <time>({{ .Date.Format "2/1/06" }})</time> - {{ .Summary | truncate 152 }}</li>
                 {{- end }}

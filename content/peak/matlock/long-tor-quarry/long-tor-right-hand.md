@@ -1,0 +1,64 @@
+---
+title: Long Tor upper
+draft: false
+placeholder: false
+columns: true
+---
+
+
+![](/img/peak/matlock/Long-Tor-RH-(LH).jpg)
+{.topo}
+
+
+**1\. The Wrong Alto (6c)**  
+arete on left gained from route 3. Steep!
+
+**2\. Mezzo Forte (6b+)**  
+centre of leaning wall. Good.
+
+**3\. Pianissimo (6b+) *★***  
+unusual route via steep face and finishing ramp.
+
+**4\. Baritone Crime (6c+) *★***  
+steep face with good holds to ledge and powerful finishing sequence.
+
+![](/img/peak/matlock/Long-Tor-RH-RH.jpg)
+{.topo}
+
+**5\. Lend me Your Tenor (6c+)**  
+difficult lower wall with lunge to ledge. Technical corner finishing on right arete.
+
+**6\. Bass Crack (6b)**  
+obvious crackline with difficult entry and steep starting wall.
+
+**7\. Born to be a Bass Player (6a+) *★***  
+excellent delicate face to steep wall and prominent crack.
+
+**8\. Baseline (6a+) *★***  
+gentle lower wall to unusual corner and steep finale in crack on left
+
+**9\. Bass Race (6b) *★***  
+pleasant face to sharp arete and steep finale direct. Excellent.
+
+**10\. Don't Blame Me on it! (6c+) *★***  
+blank-looking face finishing in corner.
+
+**Ugle (7a+) *★***  
+technical face climbing up the white streak
+
+**11\. Human Capital (6c+)**  
+★★ excellent face climbing leading through a bulge to a final groove/overlap
+
+**12\. Scum Manifesto (7a+ )★★**  
+another fine climbing culminating in a hard finale on the final, smooth-looking wall.
+
+**13\. The Mud and the Blood and the Beer (5+)**  
+pleasant climbing on right-hand side of face.
+
+**Grimbles (5+)**  
+easy ledges to difficult slab finale.
+
+**Grime Time (5+)**  
+thin rib above ledge to the right.
+
+

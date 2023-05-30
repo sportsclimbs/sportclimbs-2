@@ -4,4 +4,5 @@ summary: has been added
 date: {{ .Date }}
 draft: true
 placeholder: false
+columns: true
 ---

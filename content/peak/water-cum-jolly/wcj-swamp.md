@@ -24,7 +24,7 @@ The short route on left.
 **2. Hombre (5+)**  
 The left side of wall with short tricky section.
 
-**3. Condom Nations (6b) ★**  
+**3. Condom Nations (6b) *★***  
 The centre of wall on good rock with a short tricky section.
 
 **4. Land Nodule (6a+)**  
@@ -33,7 +33,7 @@ The right-hand of trio with a good and somewhat bling sequence.
 **5. King Kane (5)**  
 The bulge and thin crack.
 
-**6. Friday Club (6a+) ★**  
+**6. Friday Club (6a+) *★***  
 The right-hand side of wall is very pleasant.
 
 **7. Anyday Club (6a)**  
@@ -45,13 +45,13 @@ The right-most route with a tricky finale.
 **1. Spiralling Out (6b+)**  
 A short undercut wall leads to a ledge. The upper wall is furnished with good holds and a span right to the belay
 
-**2. The Power Grab (7a+) ★**  
+**2. The Power Grab (7a+) *★***  
 A short wall and groove to a ledge. The upper wall has a very problematic finish on hidden holds.
 
-**3. Yard Sale (7a+) ★**  
+**3. Yard Sale (7a+) *★***  
 A straightforward start to a ledge and then a very bouldery bulge above.
 
-**4. Helter Skelter (6c+) ★**  
+**4. Helter Skelter (6c+) *★***  
 A steep and fingery start to a ledge then a series of big pulls through the bulges onto a flake. Good climbing
 
 The wall down and around to the right gives three short technical routes.
@@ -71,9 +71,9 @@ More of the same right again.
 **4. Gnat Attack (7a)**  
 An intense little test piece just right to a shared belay.
 
-**5. One Greenbottle (7a+) ★**  
+**5. One Greenbottle (7a+) *★***  
 The very difficult but short section on the line to the right to a shared belay.
 
-**6. Bluebottle Life (6c) ★**  
+**6. Bluebottle Life (6c) *★***  
 A leftwards line with a tough start past the first bolt and slightly easier climbing above.
 

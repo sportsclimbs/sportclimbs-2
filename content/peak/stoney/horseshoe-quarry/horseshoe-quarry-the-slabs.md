@@ -21,7 +21,7 @@ The left-hand of two long two pitch slab route.
 **3. Barney Rubble (5,5+)**  
 The right-hand two pitcher
 
-**4. Still Nacht (5+, 5)** &starf;  
+**4. Still Nacht (5+, 5) *&starf;***    
 The central line of the slab to the right with a one third height belay. It's new so take a helmet.
 
 **5. Neanderthal (5, 5+)**  
@@ -37,7 +37,7 @@ The long newly created massive corner line can be climbed in two pitches
 **8. The Quarrymen (6a)**  
 The set back wall and fine slab above taken on the line of the bolts.
 
-**9. Excavator (5+)** &starf;  
+**9. Excavator (5+) *&starf;***    
 The longest and best route. A 60m rope does not get you back to the ground.
 
 **10. Slab Cake (4+)**  

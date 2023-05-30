@@ -19,56 +19,56 @@ Short groove and wall around to left. Surprisingly worthwhile
 **1. Java Script (7a+)**  
 The arete. Hard moves to transfer onto the right-hand side and a long reach higher up. 
 
-**2. In the Pocket (6c+)** &starf;  
+**2. In the Pocket (6c+) *&starf;***  
 A series of good holds to a steep and reachy finale.  
 
-**3. Pocket Rocket (6c)** &starf;&starf;  
+**3. Pocket Rocket (6c) *&starf;&starf;***  
 Excellent pocket and edge pulling to the left of <em>Eye, Eye</em> via a left-facing flake. Steep.  
 
-**4. Eye, Eye (6b+)** &starf;&starf;  
+**4. Eye, Eye (6b+) *&starf;&starf;***  
 A superb pitch via a series of calcite encrusted pockets on the overhanging wall. Pure magic and the warm up for this wall.  
 
-**5. Exorcised (7b)**  &starf;&starf;  
+**5. Exorcised (7b)  *&starf;&starf;***  
 Excellent but very fingery face climbing via the centre of the orange streak. Sustained.  
 
-**6. Exo6 (7a+)** &starf;&starf;  
+**6. Exo6 (7a+) *&starf;&starf;***  
 Another fine sustained and fingery route straight up the orange wall. Recently lost a big hold making it harder and more sustained. A long quickdraw preplaced on the fourth bolt is now very helpful.  
 
-**7. Bison Fute (7a+)** &starf;  
+**7. Bison Fute (7a+) *&starf;***  
 The blunt rib on the edge of the crackline with a series of extending moves. 
 
-**8. Pierluigi Galena (7a)** &starf;  
+**8. Pierluigi Galena (7a) *&starf;***  
 The unusual-looking galena ridden groove line. Excellent, sustained climbing.  
 
-**9. Second Class Citizen (6c+)** &starf;&starf;  
+**9. Second Class Citizen (6c+) *&starf;&starf;***  
 Sustained and fingery face climbing straight up the flat orange-tinged face to an awkward finale. Often suffers seepage at the top.  
 
-**10. Quatrieme Quartier (7a)** &starf;&starf;  
+**10. Quatrieme Quartier (7a) *&starf;&starf;***  
 Another fine sustained pitch direct up the wall left of the last route.  
 
 
-**11. Handy Borehole (6c+)** &starf;&starf;  
+**11. Handy Borehole (6c+) *&starf;&starf;***  
 Another fine pitch starting up the last route before branching off right to climb up via the large undercut borehole and fine grey streak above.  
 
-**12. The Premier Club (7a+)** &starf;&starf;  
+**12. The Premier Club (7a+) *&starf;&starf;***  
 Takes the blank looking wall R of the Handy Borehole then joins that route for the 'borehole move'. Finish direct up the headwall L of the last route.  
 
-**13. The Masson Chronicles (7b)** &starf;&starf;  
+**13. The Masson Chronicles (7b) *&starf;&starf;***  
 Full on climbing crossing Pete Clark to rejoin it after a very fingery sequence. 
 
-**14. The Pete Clark Diaries (7a)** &starf;  
+**14. The Pete Clark Diaries (7a) *&starf;***  
 A difficult lower wall followed by a short hard section. The clipping hold for the fifth bolt has gone so a preplaced draw is now helpful here. 
 
-**15. Nice One Masson (7a)** &starf;&starf;&starf;  
+**15. Nice One Masson (7a) *&starf;&starf;&starf;***  
 The impressive overhanging wall to the left starting via a rock scar where a large flake once abode. Super sustained.  
 
 **16. New Start (7b)**  
 A desperate sequence involving a long reach to gain the start of Woof Justice from slightly to the left. <span class="new">Debolted by someone unknown.</span> 
 
-**17. Woof Justice (7a+)** &starf;&starf;  
+**17. Woof Justice (7a+) *&starf;&starf;***  
 Branches out left via an 'ear' followed by difficult moves to a ledge. Easier above.  
 
-**18. Grand Theft Auto (7a)** &starf;&starf;  
+**18. Grand Theft Auto (7a) *&starf;&starf;***  
 The prominent groove line finishing via the easier wall above. Another fine route with unusual bridging moves.  
 
 

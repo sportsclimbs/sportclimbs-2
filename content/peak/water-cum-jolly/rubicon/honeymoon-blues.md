@@ -14,7 +14,7 @@ The last part of the crag is Honeymoon Blues Buttress. It's just off the main pa
 ![Honeymood Blues topo](/img/peak/water-cum-jolly/honeymoon-blues-topo.jpg)
 {.topo}
 
-**1. Alimony (7b+) ★**  
+**1. Alimony (7b+) *★***  
 A short boulder problem bulge with a desperately fingery headwall.  
 *F.A. Malcolm Taylor 1994*
 
@@ -30,11 +30,11 @@ A direct finish to *The Honeymoon is Over* via the roof on the right.
 The route right of *The Honeymoon is Over* via the jug on Honeymoon Blues.  
 *F.A. Mark Pretty 2015*
 
-**3. Honeymoon Blues (E5 6b) ★★**  
+**3. Honeymoon Blues (E5 6b) *★★***  
 Eighties' classic with desperate lower bulge and fingery finale.  
 *F.A. Ron Fawcett 1981*
 
-**4. Salar (8a / 8a+) ★**  
+**4. Salar (8a / 8a+) *★***  
 A heinously fingery bulge, 8a on the left, 8a+ direct.  
 *F.A. Malcolm Taylor 1992*
 

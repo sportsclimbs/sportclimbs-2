@@ -18,58 +18,81 @@ columns: true
 ![](/img/peak/cheedale/rhutopo.gif)
 {.topo .w100}
 
-**1\. The Way of the Gone Wives (6b+)** easy lower wall followed by thin flake.
+**1. The Way of the Gone Wives (6b+)**  
+An easy lower wall leads to a thin flake.
 
-**2\. Custard pie in Your Eye (6c)** a shallow groove and bulge to tree belay.
+**2. Custard pie in Your Eye (6c)**  
+A shallow groove and bulge to tree belay.
 
-**3\. Cry Havoc (6c)** short wall and obvious scooped groove.
+**3. Cry Havoc (6c)**  
+A short wall up to the obvious scooped groove.
 
-**4\. Fallout Zone (6c)** wall with bulges at top.
+**4. Fallout Zone (6c)**  
+The wall with bulges at top.
 
-**5\. Gaseous Exchange (6c+) ★** shallow groove. Technical wall leftwards above bulge.
+**5. Gaseous Exchange (6c+) *★***  
+A shallow groove. Technical wall leftwards above bulge.
 
-**6\. Chemical Weapons (6c+) ★** delicate lower wall, difficult bulge and technical wall.
+**6. Chemical Weapons (6c+) *★***  
+Climb the delicate lower wall, difficult bulge and technical wall.
 
-**7\. Rhubarb, Rhubarb, Rhubarb (6b+) ★**pleasant lower wall and rib.
+**7. Rhubarb, Rhubarb, Rhubarb (6b+) *★***  
+A pleasant lower wall and rib.
 
-**8\. Semolina Sunday (7a)** easy lower and very technical finish on wall left of groove.
+**8. Semolina Sunday (7a)**  
+An easy lower and very technical finish on wall left of groove.
 
-**9\. The Garlic Twist (6b+)** direct line via slight bulge with difficulties. Airy.
+**9. The Garlic Twist (6b+)**  
+A direct line via a slight bulge with difficulties. Airy.
 
-**10\. Brief Camouflage (6c) ★** direct line which is technical from the break. Good.
+**10. Brief Camouflage (6c) *★***  
+Another direct line which is technical from the break. Good.
 
-**11\. The Day of the Long Knives (7b+) ★** technical wall climbing, slabby towards the top. No belay as yet.
+**11. The Day of the Long Knives (7b+) *★***  
+Technical wall climbing, slabby towards the top. No belay as yet.
 
-**12\. Feline Fine (6c) ★** pleasant and technical face. Stainless hangers.
+**12. Feline Fine (6c) *★***  
+A pleasant and technical face. Stainless hangers.
 
-**13\. The Fat Ginger Cat (7a+) ★** more pleasant face climbing. Fingery
+**13. The Fat Ginger Cat (7a+) *★***  
+More pleasant face climbing. Fingery.
 
-**14\. Turbo-Charged Monster Mouse (7a+) ★** direct and fine climbing, the best hereabouts. Hard after 2nd BR.
+**14. Turbo-Charged Monster Mouse (7a+) *★***  
+Direct and fine climbing, the best hereabouts. Hard after 2nd BR.
 
-**15\. Thrash Your Woodie (7b)** fingery and technical moves above break.
+**15. Thrash Your Woodie (7b)**  
+Fingery and technical moves above break.
 
-**16\. Me Tarzan (7b+) ★** powerful bulge and desperate scoop.
+**16. Me Tarzan (7b+) *★***  
+A powerful bulge and desperate scoop.
 
-**17\. Desire (8a+) ★** impressive bulge and scoop left of even more impressive ivy strand.
+**17. Desire (8a+) *★***  
+The impressive bulge and scoop left of even more impressive ivy strand.
 
 The next series of routes are situated 30m to the right, at a slightly higher level. A prominent overlap guards entry to the upper walls.
 {.csa .mt2}
 
-**Zebedee Visits the Clinic E6 6b** powerful bulge, BR and 2PRs to lower-off. Needs cleaning.
+**Zebedee Visits the Clinic E6 6b**  
+A powerful bulge, BR and 2PRs to lower-off. Needs cleaning.
 {.mt0}
 
-**Blue Arsed Fly E6 6b ★** desperate bulge marked by long sling.
+**Blue Arsed Fly E6 6b *★***  
+The desperate bulge is marked by long sling.
 
-**The Rainmaker (7b+)** desperate start leads to scoop and tree above.
+**The Rainmaker (7b+)**  
+A desperate start leads to scoop and tree above.
 
-**Blood Transfusion E4 6b ★** hard start, crux past BR, then vague arete, TR, above.
+**Blood Transfusion E4 6b *★***  
+A hard start, crux past BR, then vague arete, TR, above.
 
 Further to the right and at a lower level close to the path are two more sport routes.
 {.csa .mt2}
 
-**Ladies Fingers (7b) ★** technical and fingery climbing up the left-hand side of the face.
+**Ladies Fingers (7b) *★***  
+Technical and fingery climbing up the left-hand side of the face.
 {.mt0}
 
-**The European Female (7a) ★** fine face with technical lower bulge.
+**The European Female (7a) *★***  
+Fine face with technical lower bulge.
 
 

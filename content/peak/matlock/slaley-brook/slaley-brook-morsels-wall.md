@@ -33,7 +33,7 @@ Flake, short wall and steep finale.
 **6\. Soup (6a+)**  
 Pleasant face climbing with one long move.
 
-**7\. Succulent Rib (6c)** ★  
+**7\. Succulent Rib (6c) *★***  
 Blunt rib with tricky start and fingery finish.
 
 **8\. Tubby Tommy (6b)**  

@@ -19,18 +19,19 @@ The furthest left line on the wall. Start by scrambling up to the big tree. 4BRs
 **2. My Empire of Dirt (7a)**  
 finds a way up the wall via an intricate series of bouldery moves. 6BRs
 
-**3. Rhubarb (6c) ★**  
+**3. Rhubarb (6c) *★***  
 Another toughie. Branches L out of the right-hand line via a hueco. Powerful moves on good holds and perhaps the best on the wall. 5BRs
 
-**4. Custard (6b+) ★**the right-hand line has a tricky crux for all but the very tall. 5BRs
+**4. Custard (6b+) *★***  
+The right-hand line has a tricky crux for all but the very tall. 5BRs
 
 **5. There Will Be Crud (6b+)**  
-one tough move then it eases. Challenging. 4BRs
+One tough move then it eases. Challenging. 4BRs
 
 **6. Latin Lingo (6a+)**  
-a steep route starting up the obvious crack.
+A steep route starting up the obvious crack.
 
-The three routes R of here are part of Chunky Buttress and are from L to R:  
+The three routes to the right of here are part of Chunky Buttress. From left to right they are:  
 **Tower of Treats (6b)**  
 **Vlad (6a+)**  
 **Chunky (6b)**

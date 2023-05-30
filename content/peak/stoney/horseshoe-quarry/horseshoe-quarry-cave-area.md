@@ -11,7 +11,7 @@ The Cave area is the first main area seen when entering the quarry. This section
 {.topo}
 
 
-**1. Bladerunner (6a+)** &starf;   
+**1. Bladerunner (6a+)  *&starf;***   
 Fine bold route via half-height groove.Bold climbing
 
 **2. Bruce's Bonus (6b)**  
@@ -23,7 +23,7 @@ Takes the obvious corner to halfway then breaks out right and up the smooth wall
 **4. Direct finish E2 5b**  
 Climb the corner of *Androids* in it's entirety.
 
-**5. Rage (6b)** &starf;   
+**5. Rage (6b)  *&starf;***   
 Takes a direct line up the centre of the right wall of the groove. Worthwhile.
 
 **6. The Running Man (6b)**  
@@ -33,11 +33,11 @@ The thin crackline right again with a tricky overlap. Becoming polished.
 The left-hand side of arete has some sketchy moves low down and a good finale. Tight.
 {.debolted}
 
-**8. The Dark Tower (6b+)** &starf;   
+**8. The Dark Tower (6b+)  *&starf;***   
 Resurrected line of Gunslinger via vague pillar and overlap. Again worthwhile.
 {.debolted}
 
-**9. The Drawing of the Three (6b+)** &starf;   
+**9. The Drawing of the Three (6b+)  *&starf;***   
 Climb the easy lower wall to a difficult overlap and a spacy finish.
 
 **10. Willie the Kid (6a)**  

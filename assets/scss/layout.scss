@@ -1,0 +1,9 @@
+// For route paragraphs
+
+section.columns {
+    p strong:first-of-type em {
+        font-style: normal;
+        color: red;
+        float: right;
+    }
+}
