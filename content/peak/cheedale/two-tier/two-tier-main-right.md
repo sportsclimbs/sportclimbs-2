@@ -1,7 +1,7 @@
 ---
 title: "Main Wall Right"
 date: 2023-05-24T11:13:04+01:00
-draft: true
+draft: false
 placeholder: false
 columns: true
 weight: 50
