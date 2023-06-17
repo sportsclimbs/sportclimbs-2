@@ -47,15 +47,15 @@ The obvious S-shaped crack, PR.
 Climb the wall left of *The Godfather* to a shared ring lower off.
 
 **11. The Godfather (6a+) *★***  
-The left-hand arete of tower provides so airy climbing.
+The left-hand arête of tower provides so airy climbing.
 
 **12. Up Yours! (6a) *★★***  
-The right-hand arete proved superb, photogenic climbing.
+The right-hand arête proved superb, photogenic climbing.
 
 **13. Smoothie HVS 5c**  
 The tricky bulge and short wall.
 
-Further over to the right are a couple of pleasant routes: **Windy Edge (E1 5a)** is the obvious arete with a PR, **Mortar Life (6a)** is the bolt line to the right and **O Solo Mio (HVS 5a)** climbs a short wall on the opposite side of the gap. There a re a few other problems to sample in the area alongside these routes.
+Further over to the right are a couple of pleasant routes: **Windy Edge (E1 5a)** is the obvious arête with a PR, **Mortar Life (6a)** is the bolt line to the right and **O Solo Mio (HVS 5a)** climbs a short wall on the opposite side of the gap. There a re a few other problems to sample in the area alongside these routes.
 {.csa}
 
 

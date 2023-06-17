@@ -69,7 +69,7 @@ Easy wall to ledge and pillar above. Hollow central section.
 {.mt0}
 
 **More for Four (6b+)**  
-Easy lower wall to ledges and arete above.
+Easy lower wall to ledges and arête above.
 
 **Double Wammy (6b+) *★***  
 Terraced wall at right of crag.

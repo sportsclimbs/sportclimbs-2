@@ -17,13 +17,13 @@ This area is approached by walking past the main wall. Pass a smaller wall on th
 <!-- ![Goddards Stoat Walls](/img/peak/stoney/Goddards-Stoat-Walls.jpg)
 {.topo} -->
 
-**1. Boy Better Know (6a)** ★  
+**1. Boy Better Know (6a) *★***  
 The corner around to the left. 
 
-**2. Weasel Assassin (7a)** ★  
+**2. Weasel Assassin (7a) *★***  
 Technical and fingery face climbing on small holds on the left side of the wall.
 
-**3. Psycho Squirrel (7a)** ★  
+**3. Psycho Squirrel (7a) *★***  
 The harder right-hand line, particularly so around the overlaps at 8m. 4BRs.
 
 **4. Stoatily Obvious (6b+)**  
@@ -38,8 +38,8 @@ The right-hand line starting the same. Pity about the start.
 Around to the right is a gully which can be gained via a fixed rope:
 {.csa}
 
-**6. Skyfall (6b+) ★**  
-The big hanging arete and crack: very photogenic.
+**6. Skyfall (6b) *★***  
+The big hanging arête and crack. Very photogenic.
 {.mt0}
 
 **7. Buzzards Banquet (6a)**  
@@ -64,15 +64,15 @@ Climb up the front of the buttress.
 **Knuckle Fucker (6a)**  
 A right-hand variant of the last route.
 
-**Murmeration (6a)** ★  
+**Murmeration (6a) *★***  
 The diagonal line is 
 
 **Banana Boat (5+)**  
-is the cracks 
+Is the cracks. 
 
 **Pleather Madonna (6c)**  
 The slim pillar. 
 
 
-To the right is a poor route **Across the Crozzly Fac (6b)**. The back left-hand corner of the quarry on an arete are: **Taco Bell (6b)** the featured right-hand face is **Unnamed (6a+).** Right again is a **Project** with a very hard start and right again is **Top Knots and Tats (6a).** Further right is an orange tower with a grotty start, hence **Orange Tower (6c+)** a very testing final move.
+To the right is a poor route **Across the Crozzly Fac (6b)**. The back left-hand corner of the quarry on an arête are: **Taco Bell (6b)** the featured right-hand face is **Unnamed (6a+).** Right again is a **Project** with a very hard start and right again is **Top Knots and Tats (6a).** Further right is an orange tower with a grotty start, hence **Orange Tower (6c+)** a very testing final move.
 {.csa}

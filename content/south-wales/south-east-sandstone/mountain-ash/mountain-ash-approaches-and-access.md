@@ -8,4 +8,10 @@ placeholder: false
 
 Take the first right by a prominent red telephone box and then immediately left. Take the first right (Newton Villas) and either park here or continue up the dirt track directly ahead to park alongside an old bonfire site. A short path zigzags up and slightly to the left into the secluded quarry entrance where the first walls will be immediately apparent to the left.
 
-**WARNING:** It is advisable that all belongings are left undisplayed in the car since it may provoke any would-be junior criminals that pass your way. With this in mind, the best parking place remains in the side roads where cars remain a little more unobtrusive.
+**WARNING:**  
+It is advisable that all belongings are left undisplayed in the car since it may provoke any would-be junior criminals that pass your way. With this in mind, the best parking place remains in the side roads where cars remain a little more unobtrusive.
+
+## Layout {.mb1}
+
+![map](/img/south-wales/south-east-sandstone/M2.gif)
+{.topo}

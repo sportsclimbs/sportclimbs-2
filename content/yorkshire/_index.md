@@ -6,7 +6,7 @@ placeholder: false
 ---
 
 
-            <p>The Yorkshire area currently covers ... just Kilnsey and Malham. More crags will hopefully be added in the future.</p>
+The Yorkshire area currently covers ... just Kilnsey and Malham. More crags will hopefully be added in the future.
 
 
 

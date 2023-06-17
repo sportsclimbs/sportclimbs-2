@@ -6,10 +6,10 @@ placeholder: false
 
 The South Wales area currently covers:
 
-- The Gower Peninsula
-- South East Wales limestone
-- South East Wales sandstone
-- Ban-y-Gor (technically not in Wales but in Gloustershire; but it's right on the border).
+- [The Gower Peninsula](./the-gower/)
+- [South East Wales limestone](./south-east-limestone/)
+- [South East Wales sandstone](./south-east-sandstone/)
+- [Ban-y-Gor](./ban-y-gor/) (technically not in Wales but in Gloustershire; but it's right on the border).
 
 
 

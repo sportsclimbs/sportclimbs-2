@@ -2,34 +2,71 @@
 title: Pipeline Walls
 draft: false
 placeholder: false
+columns: true
 ---
 
 
-            <p>This is the first section of cliff seen on right-hand side of the quarry. Its orange colour and numerous crack and corner lines are clear identifying features. Two routes here require the dreaded ENP placement, in other words an RP5 stuffed into a hole. The routes are described from right to left beginning with the first wall reached when entering the right-hand side of the quarry. </p>
+This is the first section of cliff seen on right-hand side of the quarry. Its orange colour and numerous crack and corner lines are clear identifying features. Two routes here require the dreaded ENP placement, in other words an RP5 stuffed into a hole. The routes are described from right to left beginning with the first wall reached when entering the right-hand side of the quarry.
 
-            <p class="topo"><img src="/img/peak/matlock/caretaker-pipeline.jpg" WIDTH="400" HEIGHT="602"></p>
+![Pipeline Wall](/img/peak/matlock/caretaker-pipeline.jpg)
+{.topo }
 
-            <p><b>Unnamed (6a) </b>left arete of wall.</p>
-            <p><b>1. Unnamed (6c+) </b>short fingery wall.</p>
-            <p><b>2. Name not Known E4 6b</b> the wall via a crack, PR, and left-hand side of the overlap above</p>
-            <p><b>3. Swept Aside (7b) &starf; </b>fingery wall with three hard sections via overlap.</p>
-            <p><b>4. Predator 2 14m E3 5c &starf; </b>The thin crack in the right-hand side of the wall to the overlap. Pull through with difficulty and continue up the steep upper wall direct. BB.</p>
-            <p><b>5. D.I.Y. 15m VS 4b </b>the obvious corner line onto a ledge. A lower-off lies off to the right.</p>
-            <p><b>6. Unnamed 15m E1 5c </b>The crack and upper arete to the ledge, the crux being to commit to the arete.</p>
-            <p><b>7. Trunkline 15m (7a) &starf; </b>the obvious direct line via the smooth face and blunt arete. Very poor and rounded holds.</p>
-            <p><b>8. Acrobat 15m E1 5c &starf; </b>a short arete followed by the pleasant face above. 2ENPs! (RP5 placements)</p>
-            <p><b>9. Pipeline Arete (5) &starf; </b>steep start (wires?) to pleasing arete and easier face above. Belay out left.</p>
-            <p><b>10. Name not Known (6b) &starf; </b>the wall to the left gives a good pitch.</p>
-            <p><b>11. Imp 10m E1 5b </b>the wall at the top of the slope, just left of a prominent arete</p>
+**Unnamed (6a)**  
+Left arête of wall.
 
-            <p class="topo"><img src="/img/peak/matlock/caretaker-cairn.gif" WIDTH="315" HEIGHT="320"></p>
+**1. Unnamed (6c+)**  
+Short fingery wall.
 
-            <p>The next section of rock slightly beyond the first wall gives a slabby area of gray rock with few prominent features.</p>
-            <p><b>1. Arete I know (6b) </b>a worthwhile arete at a higher level <b>2. Slab I Knew (5), </b></p>
-            <p><b>3. Groove I Saw (4) </b></p>
-            <p><b>4. No I Cairn't (5) </b>short arete with one tricky move </p>
-            <p><b>5. Cairn you Believe It? (5) </b>the right-hand side of the slab</p>
-            <p><b>6. Yes I Cairn (6a) </b>the centre of the slab and </p>
-            <p><b>7. I Cairn, I Cairn't (6b) </b>the left-hand line</p>
+**2. Name not Known E4 6b**  
+The wall via a crack, PR, and left-hand side of the overlap above
 
+**3. Swept Aside (7b) *★***  
+Fingery wall with three hard sections via overlap.
 
+**4. Predator 2 14m E3 5c *★***  
+The thin crack in the right-hand side of the wall to the overlap. Pull through with difficulty and continue up the steep upper wall direct. BB.
+
+**5. D.I.Y. 15m VS 4b**  
+The obvious corner line onto a ledge. A lower-off lies off to the right.
+
+**6. Unnamed 15m E1 5c**  
+The crack and upper arête to the ledge, the crux being to commit to the arête.
+
+**7. Trunkline 15m (7a) *★***  
+The obvious direct line via the smooth face and blunt arête. Very poor and rounded holds.
+
+**8. Acrobat 15m E1 5c *★***  
+A short arête followed by the pleasant face above. 2ENPs! (RP5 placements)
+
+**9. Pipeline arête (5) *★***  
+Steep start (wires?) to pleasing arête and easier face above. Belay out left.
+
+**10. Name not Known (6b) *★***  
+The wall to the left gives a good pitch.
+
+**11. Imp 10m E1 5b**  
+The wall at the top of the slope, just left of a prominent arête
+
+![](/img/peak/matlock/caretaker-cairn.gif)
+{.topo .w100}
+
+The next section of rock slightly beyond the first wall gives a slabby area of gray rock with few prominent features.
+{.csa}
+
+**1. arête I know (6b)**  
+A worthwhile arête at a higher level **2. Slab I Knew (5),**
+{.mt0}
+
+**3. Groove I Saw (4)**
+
+**4. No I Cairn't (5)**  
+Short arête with one tricky move
+
+**5. Cairn you Believe It? (5)**  
+The right-hand side of the slab
+
+**6. Yes I Cairn (6a)**  
+The centre of the slab and
+
+**7. I Cairn, I Cairn't (6b)**  
+The left-hand line

@@ -14,25 +14,25 @@ The easier slab on left of recess.
 Climb into recess then swing left onto block and finish via cracks.
 
 **3. Thinking outside the Box E3 5c *★***  
-The right arete of recess, 2PRs, and finger cracks above.
+The right arête of recess, 2PRs, and finger cracks above.
 
 **4. X-Box HVS 5a *★***  
-The cracks starting at short arete.
+The cracks starting at short arête.
 
 **5. Open the Box HVS 5a *★***  
 The direct crack system to the right.
 
 **6. Little Boxes on a Hillside E1 5b *★***  
-Climb the face and crack past large flake to the finishing arete.
+Climb the face and crack past large flake to the finishing arête.
 
 **7. Box Number 7 E2 5c**  
-Up the steep face to wide cracks. Move right to finish on the arete.
+Up the steep face to wide cracks. Move right to finish on the arête.
 
 **8. Boxing Clever E1 5a *★***  
-The right-hand arete of wall with bold finish.
+The right-hand arête of wall with bold finish.
 
 **9. Forbidden Rib E2 5b *★***  
-The blunt bold arete and easier finish up slabs.
+The blunt bold arête and easier finish up slabs.
 
 **10. The Dead Parrot Sketch VS 4c**  
 The thin crack and slabs above.

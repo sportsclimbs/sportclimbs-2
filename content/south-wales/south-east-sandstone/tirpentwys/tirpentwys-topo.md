@@ -88,7 +88,7 @@ The wall above the raised platform.
 A short hard wall.
 
 **26. Unnamed (4)**  
-A pleasant arete.
+A pleasant arête.
 
 **27. You've had your Chicks (6b)**  
 An easy groove and problematic pull.
@@ -100,4 +100,4 @@ Climb the juggy wall from left-hand end of ledge.
 Climb the thin crack.
 
 **30. Crumlin at the Edges (6a)**  
-The arete.
+The arête.

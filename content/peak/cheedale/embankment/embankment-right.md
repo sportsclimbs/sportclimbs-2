@@ -26,7 +26,7 @@ A roof and blunt rib. Airy at the top but easy for the grade.
 The hanging blunt rib to the right of the hanging corner. Finish via overlap.
 
 **6. Red Snapper Meets the Dogfish (7a+) *★***  
-Climb the lower bulge and blunt arete marked by gold BRs.
+Climb the lower bulge and blunt arête marked by gold BRs.
 
 **7. Name that Tuna (7c)**  
 A desperate start and fingery finish.

@@ -30,7 +30,7 @@ A difficult start and good upper wall.
 {.rebolted}
 
 **6. Micro-Nurd (6b+)**  
-Hard start and left side of arete. 
+Hard start and left side of arête. 
 {.rebolted}  
 
 **7. Nerd the Absurd (6b)**  

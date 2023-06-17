@@ -24,10 +24,10 @@ The upper walls can be approached via the Upper tier approach or by climbing one
 {.topo}
 
 **1. Out of Africa (6b+)**  
-Takes the left-hand side of lower arete avoiding crack on left.
+Takes the left-hand side of lower arête avoiding crack on left.
 
 **2. Madagascar (6b)**  
-A one move wonder on right-hand side of arete.
+A one move wonder on right-hand side of arête.
 
 **3. Bird Island pitch 1 (6a)**  
 Climb the up the wall to gain the obvious corner. Climb this on to the Upper tier ledge and a belay. An easy way to gain access to this part of the Upper tier.
@@ -36,10 +36,10 @@ Climb the up the wall to gain the obvious corner. Climb this on to the Upper tie
 A good crack climb requiring traffic to clean it up a little more.
 
 **5. Rainbow Warrior (6c) *&starf;***    
-Climb the fine lower wall just left of arete to a difficult pull over the roof.
+Climb the fine lower wall just left of arête to a difficult pull over the roof.
 
 **6. Weakened Warrior (6b)**  
-The rounded arete right of Rainbow Warrior.
+The rounded arête right of Rainbow Warrior.
 
 **7. Sam in you Eye (6a+)**  
 The pleasant orange wall which will clean up with more ascents.
@@ -51,7 +51,7 @@ Climbs the wide crack left of the corner.
 The obvious corner.
 
 **10. Sahara (6b+)**  
-The arete in the back corner of the bay. Firable and unpopular.
+The arête in the back corner of the bay. Firable and unpopular.
 
 
 ## Africa Upper
@@ -86,10 +86,10 @@ The slab on right. Step out of Kariba at 5m.
 The last line starting from the ledge. The righthand line up the slab has one very trying move.
 
 **8. Ring Thane (6c+) *&starf;&starf;***  
-Climbs up the left side of the arete. Approach via *Rainbow Warrior* to make a good, 6c multipitch route.
+Climbs up the left side of the arête. Approach via *Rainbow Warrior* to make a good, 6c multipitch route.
 
 **9. Pretoria (6b+)**  
-This climbs the right side of the arete.
+This climbs the right side of the arête.
 
 **10. Mombassa (6a)**  
 Start as for *Pretoria* to gain the upper corner line.
@@ -98,10 +98,10 @@ Start as for *Pretoria* to gain the upper corner line.
 Start as *Mombassa* but climb the slab to the right of the corner. Contrived.
 
 **12. Bird Island pitch 2 (6a)**  
-The second pitch climbs the pleasant upper arete.
+The second pitch climbs the pleasant upper arête.
 
 **13. Brew Thyme (6a)**  
-A crackline just right of the arete.
+A crackline just right of the arête.
 
 **14. Thyme Out (6a)**  
 The wider crackline right again via an obvious niche.

@@ -26,7 +26,7 @@ css:
 
 
 
-**4. Turning Swords Into Ploughshares (6b)** The arete is very pleasant. 
+**4. Turning Swords Into Ploughshares (6b)** The arête is very pleasant. 
 *FA Geoff Hornby, Suzi Sammut.* 
 
 The right hand side is a Project.  
@@ -61,7 +61,7 @@ The right hand side is a Project.
 **10. Threadbare (6b+)** The right hand finish to the crack gives more enjoyable climbing.  
 *FA Geoff Hornby*  
 
-**11. Lukewarm Leatherette (6c+)** The arete and groove require a confident approach. The lower arete was **Slave to the Rhythm (E3 6a)** originally climbed by Geoff Hornby.
+**11. Lukewarm Leatherette (6c+)** The arête and groove require a confident approach. The lower arête was **Slave to the Rhythm (E3 6a)** originally climbed by Geoff Hornby.
 *FA Lucian Cottle, Geoff Hornby*  
 
 ![North East Left topo](/img/peak/matlock/north-east-5.jpg)
@@ -72,8 +72,8 @@ The right hand side is a Project.
 **12. Frustration (6a+)** The vague groove gives a good warm up.  
 *FA Geoff Hornby*    
 
-**13. Invisible String (6b)** The left arete.  
+**13. Invisible String (6b)** The left arête.  
 *FA Marc Bellingall, Simon Cundy*   
 
-**14. Crapulence (6b)** The face and arete climb well.  
+**14. Crapulence (6b)** The face and arête climb well.  
 *FA Lucian Cottle*  

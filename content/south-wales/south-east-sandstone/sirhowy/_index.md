@@ -23,5 +23,5 @@ In respect of this, the best time to climb here may prove to be in an evening wh
 
 …could not be simpler. Take a right turn at junction 28 on the M4 and follow the A467 dual carriageway north, initially signposted Risca, to the fourth roundabout. Take the first left (signposted Full Moon Industrial Estate) and the road leads directly into the Sirhowy Country Park. The wall is just beyond the final parking place. **Note: the barriers on the Park often close early but the times for closure are posted on the noticeboard at the entrance to the park.**
 
-![](/img/south-wales/south-east-sandstone/carnmap1.gif)![](/img/south-wales/south-east-sandstone/carnmap2.gif)
-{.topo}
+![Sirhowy car map 1](/img/south-wales/south-east-sandstone/carnmap1.gif)![Sirhowy car map 2](/img/south-wales/south-east-sandstone/carnmap2.gif)
+{.topo .mauto .mt4}

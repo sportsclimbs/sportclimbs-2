@@ -1,9 +1,9 @@
 ---
-Title: Two and a Half Sister
+title: Two and a Half Sister
 linktitle: 2.5 Sister
 draft: false
 date: 2023-05-20T10:03:28+01:00
-Summary: The Gower, has a new topo with new routes.
+summary: The Gower, has a new topo with new routes.
 placeholder: false
 columns: true
 ---
@@ -23,7 +23,7 @@ The first routes are on a short wall up and to the left. An ideal winter venue.
 {.csa}
 
 ![Page turner topo](/img/south-wales/the-gower/Page-Turner.jpg)
-{.topo}
+{.topo .w100}
 
 **1. Pot Boiler (4)**  
 pleasant climbing to a belay under the prow. Well bolted
@@ -31,10 +31,10 @@ pleasant climbing to a belay under the prow. Well bolted
 **2. Hot off the Press (5)**  
 worthwhile to the right. Well bolted
 
-**3. Page Turner (5) ★**  
+**3. Page Turner (5)  *★***  
 The left-hand of two on the central section of wall.
 
-**4. Final Draft (5) ★**  
+**4. Final Draft (5)  *★***  
 The excellent right-hand line
 
 **5. Bodice Ripper (5)**  
@@ -69,10 +69,10 @@ A steep start to a belay over the overhang.
 **4. They Killed Kenny (6a+)**  
 The brown crackline moving left to a shard belay above the roof.
 
-**5. Suffering Succotash (6b) ★**  
+**5. Suffering Succotash (6b)  *★***  
 A longer route heading for a slim groove high up. Tricky past second bolt.
 
-**6. Ridiculous is the Burden of Genius (6b+) ★**  
+**6. Ridiculous is the Burden of Genius (6b+)  *★***  
 Steady to the overlap and tougher above. Move left and up to a shared belay.
 
 **7. The Wettest April Since Records Began E3 5c**  
@@ -81,7 +81,7 @@ Cracks in the lower wall lead to a bulge and groove high up.
 **8. What's up Doc (6c)**  
 A series of off-balance side pulls lead to an easing at the next to last bolt.
 
-**9. Ay, Caramba (6c+) ★**  
+**9. Ay, Caramba (6c+)  *★***  
 Fingery moves up the wall lead to a problematic entry into a slim groove.
 
 **10. Sisterly Luv E5 6a**  
@@ -90,10 +90,10 @@ The bald wall, pegs since removed leads up and then into a rightwards crackline
 **11. The Beverly Sisters E3 5c**  
 Climb up into a niche, bold, and then go leftwards into the same crack as *Sisterly Luv*.
 
-**12. Heavens to Murgatroyd (6c+) ★**  
-bouldery moves onto the thin wall lead to a slab the belay is above the overlap.
+**12. Heavens to Murgatroyd (6c+)  *★***  
+Bouldery moves onto the thin wall lead to a slab the belay is above the overlap.
 
-**13. It Stinks (6c) ★**  
+**13. It Stinks (6c)  *★***  
 A desperate series of moves leads onto the easier but bald wall above. Belay above the overhang.
 
 **14. In Between Sisters E4 6a**  

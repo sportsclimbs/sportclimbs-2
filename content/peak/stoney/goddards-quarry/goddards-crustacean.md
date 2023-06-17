@@ -17,16 +17,16 @@ Pleasant wall with fingery finale from ledge.
 **2. Crustacean (7a+)**  
 The face to the right with desperate boulder problem crux. ([See photo](/img/peak/stoney/Stoney-South_Zippy.jpg))
 
-**3. Brachiopods Bite Back (6b) ★**  
+**3. Brachiopods Bite Back (6b) *★***  
 Excellent climbing up the face to the right with a hard start.
 
-**4. Pearls from the Shell (6a+) ★**  
+**4. Pearls from the Shell (6a+) *★***  
 The fine crack and corner line.
 
 **Blue Funk (7b+)**  
-An eliminate climbing the wall and arete L of *Red Mist*.
+An eliminate climbing the wall and arête L of *Red Mist*.
 
-**5. Red Mist (7a)** ★  
+**5. Red Mist (7a) *★***  
 The best route here climbing up the reddened tower to the right with a tough crux. ([See photo](/img/peak/stoney/Goddards-Wall_Red-Mist.jpg))
 
 **6. Corner, it is (6b)**  

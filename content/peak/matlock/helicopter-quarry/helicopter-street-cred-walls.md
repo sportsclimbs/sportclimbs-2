@@ -1,43 +1,69 @@
 ---
-title: Street Cred Walls
+title: Street Cred Area
 draft: false
 placeholder: false
+columns: true
 ---
 
-            <div class="topo"><img src="/img/peak/matlock/helicopter-hall4top.gif" WIDTH="706" HEIGHT="459"></div>
+![Helicopter Quarry topo](/img/peak/matlock/helicopter-hall4top.gif)
+{.topo}
 
+Street Cred Area is the collective name given to a group of buttresses in the right-hand corner of the quarry. There are number of pleasant routes worth seeking out for an evening or as a warm-up before visiting Spectre Sector.
+{.csa}
 
+Blowing Wind Sector
+-------------------
 
-            <p>Street Cred Area is the collective name given to a group of buttresses in the right-hand corner of the quarry. There are number of pleasant routes worth seeking out for an evening or as a warm-up before visiting Spectre Sector.</p>
+Situated on the right-hand side of the quarry this fine little wall lies above a prominent green carpet of Sphagnum Moss - an ideal place for a family picnic. Gets the sun until 11.30 am in the summer.
+{.csa}
 
-            <h2>Blowing Wind Sector</h2>
+![Helicopter Quarry topo](/img/peak/matlock/Halldale-Blowing-Wind-Walls.jpg)
+{.topo}
 
-            <p>Situated on the right-hand side of the quarry this fine little wall lies above a prominent green carpet of Sphagnum Moss - an ideal place for a family picnic. Gets the sun until 11.30 am in the summer.</p>
+**1. Back Draught (6b)**  
+Right-hand line on wall via tricky starting wall.
 
-            <div class="topo"><img src="/img/peak/matlock/Halldale-Blowing-Wind-Walls.jpg"></div>
+**2. Blowing Wind (6b)**  
+Central line via upper groove. A tricky start is rewarded with a tricky finish.
 
-            <p><b>1. Back Draught (6b)</b> right-hand line on wall via tricky starting wall. </p>
-            <p><b>2. Blowing Wind (6b)</b> central line via upper groove. A tricky start is rewarded with a tricky finish. </p>
-            <p><b>3. Guff it and See (6c)</b> short sharp wall direct to belay. Fingery.</p>
+**3. Guff it and See (6c)**  
+Short sharp wall direct to belay. Fingery.
 
-            <h2>Street Cred. Sector</h2>
+Street Cred. Sector
+-------------------
 
-            <p>The name given to the sandy-coloured walls in the top right-hand corner of the area. One classic in the making and a couple of easier routes. Watch out for the Cycle Path!</p>
+The name given to the sandy-coloured walls in the top right-hand corner of the area. One classic in the making and a couple of easier routes. Watch out for the Cycle Path!
+{.csa}
 
-            <div class="topo"><img src="/img/peak/matlock/Halldale-Street-Cred-Walls.jpg"></div>
+![Helicopter Quarry topo](/img/peak/matlock/Halldale-Street-Cred-Walls.jpg)
+{.topo}
 
-            <p><b>4. A Hard Shoulder to Cry On (5+)</b> obvious overlapped arete with a hard move to get onto it. </p>
-            <p><b>5. Road Rage (6c+)</b> completely innocuous finger crack. Much harder than it looks. </p>
-            <p><b>6. Totally Street Cred. (6c+) &starf;</b> centre of sandy-coloured wall gives its best route. Sustained but with no hard moves. </p>
-            <p><b>7. The Cycle Path (6a+)</b> pleasant arete above freestanding pinnacle. Much better than looks.</p>
+**4. A Hard Shoulder to Cry On (5+)**  
+Obvious overlapped arête with a hard move to get onto it.
 
-            <h2>Coldfish Sector</h2>
+**5. Road Rage (6c+)**  
+Completely innocuous finger crack. Much harder than it looks.
 
-            <p>Three isolated routes, much longer than anything else on these walls. Two very worthwhile and quite tough pitches, the hardest by far in the quarry.</p>
+**6. Totally Street Cred. (6c+) *★***  
+Centre of sandy-coloured wall gives its best route. Sustained but with no hard moves.
 
-            <div class="topo"><img src="/img/peak/matlock/Halldale-Coldfish-Walls.jpg"></div>
+**7. The Cycle Path (6a+)**  
+Pleasant arête above freestanding pinnacle. Much better than looks.
 
-            <p><b>8. Vertical Fish (6c)</b> long vague white pillar standing in isolation. A good long route requires a bit of traffic. </p>
-            <p><b>9. Gutted (7b) &starf;</b> very intense and fingery wall through overlap. High in the grade and moves left to join the Coldfish. Mean. </p>
-            <p><b>10. The Coldfish (7a+) &starf;&starf;</b> the centre of the wall via a hard and technical lower section, a thin crack through an overlap and a much easier upper wall. Well worth seeking out.</p>
+Coldfish Sector
+---------------
 
+Three isolated routes, much longer than anything else on these walls. Two very worthwhile and quite tough pitches, the hardest by far in the quarry.
+{.csa}
+
+![Helicopter Quarry topo](/img/peak/matlock/Halldale-Coldfish-Walls.jpg)
+{.topo}
+
+**8. Vertical Fish (6c)**  
+Long vague white pillar standing in isolation. A good long route requires a bit of traffic.
+
+**9. Gutted (7b) *★***  
+Very intense and fingery wall through overlap. High in the grade and moves left to join the Coldfish. Mean.
+
+**10. The Coldfish (7a+) *★★***  
+The centre of the wall via a hard and technical lower section, a thin crack through an overlap and a much easier upper wall. Well worth seeking out.

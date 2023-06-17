@@ -59,10 +59,10 @@ The right-hand line is a little more technical
 ![Ravens Foot Right](/img/peak/millers-dale/ravens-foot-rh.jpg)
 
 **9. Nice 'n' Sneazy (6a+)**  
-Climbs the vague arete via a shallow groove to a tree belay <span class="new">rebolted 2020</span>
+Climbs the vague arête via a shallow groove to a tree belay <span class="new">rebolted 2020</span>
 
 **10. Windy as (6c)** 
-On the right-hand side of the vague arete via technical moves <span class="new">rebolted 2020</span>
+On the right-hand side of the vague arête via technical moves <span class="new">rebolted 2020</span>
 
 **11. Get a Grippe (7a) &starf;**  
 The obvious pillar with hard moves through the overlap <span class="new">rebolted 2020</span>

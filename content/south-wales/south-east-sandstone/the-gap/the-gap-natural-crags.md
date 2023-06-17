@@ -12,11 +12,11 @@ columns: true
 {.topo .w100}
 
 
- A little down the hillside, towards the Lower Quarry, is a flat-faced buttress of around 9m in height. The two central routes offer well-protected climbing whilst the aretes are a bolder proposition. Good rock throughout with the odd peg runner here and there.
+ A little down the hillside, towards the Lower Quarry, is a flat-faced buttress of around 9m in height. The two central routes offer well-protected climbing whilst the arêtes are a bolder proposition. Good rock throughout with the odd peg runner here and there.
  {.csa}
 
 **1. First there is a Mountain E4 5c**  
-Bold climbing up the rounded arete. A pocket on the left may provide the key.
+Bold climbing up the rounded arête. A pocket on the left may provide the key.
 {.mt0}
 
 **2. Trouble at Mill E3 5c *★***  
@@ -26,7 +26,7 @@ The left-hand line on the front face is 'controversial'. PR.
 The right-hand line on the front face. Another controversial PR.
 
 **4. Then There is a Mountain E4 5c**  
-Yet more boldness up the right-hand side of the wall to reach the arete towards the top.
+Yet more boldness up the right-hand side of the wall to reach the arête towards the top.
 
 ## Right-Hand Buttress
 

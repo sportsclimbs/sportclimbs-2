@@ -2,6 +2,7 @@
 title: White Wall
 draft: false
 placeholder: false
+weight: 60
 columns: true
 ---
 
@@ -71,10 +72,10 @@ Just that from the higher bolt runner, followed by a horrible, nose-grinding man
 A slim steep wall with good holds but one very frustrating move.
 
 **17, Major Dormo (5)**  
-The right-hand side of prominent arete at the end of the wall. Awkward start.
+The right-hand side of prominent arête at the end of the wall. Awkward start.
 
 **15. Maitre D'hotel (6a)**  
-Keep to the left-hand side of the arete as close as possible.
+Keep to the left-hand side of the arête as close as possible.
 
 Three new routes have been added to the small cliff tucked into the 'hole' around to the right of the col before the descent is made under the White Walls:
 {.csa}

@@ -7,29 +7,18 @@ placeholder: false
 
 
 
-<style>
-    .tableless .photo {
-        margin-top: 0;
-    }
-
-    .content .topo {
-        margin-bottom: 2em;
-    }
-</style>
 
 
-            <div class="topo"><a href="../../../img/peak/cheedale/Chee-Tor-panorama-2560.jpg" title="Click for larger image"><img src="/img/peak/cheedale/Chee-Tor-panorama.jpg" alt="Chee Tor panorama"></a></div>
+![Chee Tor panorama](/img/peak/cheedale/Chee-Tor-panorama.jpg)
 
-            <div class="photo"><img src="/img/peak/cheedale/chee3.gif" alt="chee Tor layout" WIDTH="545" HEIGHT="802"></div>
+![Chee Tor layout](/img/peak/cheedale/chee3.gif)
 
-            <p>One of the true great limestone crags of the Peak District, Chee Tor has become a bit of an out-of-the-place crag in a sea of sport routes in Cheedale. Not precluding this it is well worth seeking out as its routes provide as good an area of traditional area of climbing as anywhere in the Peak.</p>
+One of the true great limestone crags of the Peak District, Chee Tor has become a bit of an out-of-the-place crag in a sea of sport routes in Cheedale. Not precluding this it is well worth seeking out as its routes provide as good an area of traditional area of climbing as anywhere in the Peak.
 
-            <p>Admittedly, due to its decreasing popularity, some of these have started to develop a degree of vegetation which is usually easily removed. Similarly some of the threads and pegs that remain are old and may at some point in the near future need replacing but this should not prevent a visit.</p>
+Admittedly, due to its decreasing popularity, some of these have started to develop a degree of vegetation which is usually easily removed. Similarly some of the threads and pegs that remain are old and may at some point in the near future need replacing but this should not prevent a visit.
 
-            <h2>Approach</h2>
+## Approach
 
-            <p>The best and quickest approach to the crag is from the Wormhill parking area (see Cheedale Access). Follow the paths down into the dale and one opposite to Chee Tor find an appropriate way to cross the river: these are usually at the downstream end via an obvious island or via a collapsed tree. </p>
+The best and quickest approach to the crag is from the Wormhill parking area (see Cheedale Access). Follow the paths down into the dale and one opposite to Chee Tor find an appropriate way to cross the river: these are usually at the downstream end via an obvious island or via a collapsed tree.
 
-            <p>Alternatively, continue past the Tor and under the Cornice to a foot bridge. Cross this, then walk back downstream, with a short step down in the path, to reach the upstream end of the Tor. This method of approach also suits those coming from the Topley Pike end of the Dale.</p>
-
-
+Alternatively, continue past the Tor and under the Cornice to a foot bridge. Cross this, then walk back downstream, with a short step down in the path, to reach the upstream end of the Tor. This method of approach also suits those coming from the Topley Pike end of the Dale.

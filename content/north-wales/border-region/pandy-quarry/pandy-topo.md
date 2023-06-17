@@ -46,7 +46,7 @@ Start from the top of the grass cone just right of Pale and Interesting where th
 An interesting climb up the groove and wall between The Needle and Honorary Horseshoe. Start directly below the groove. Gain the groove via a cleaned ledge in the shale band. Get stood on the big hold on the right rib then climb the rib and short crack to a ledge. Start the upper wall on the left, move right then up the wall directly to a finishing groove just left of Honorary Horseshoe.
 
 **10.  Honorary Horseshoe 6b  20m**  
- Start below a rib with prominent overlaps at the top of the crag. Pass the shale band carefully moving slightly to the left (clip the first bolt early, a good layaway in the pale patch helps) and climb the steep, intricate wall just left of a crack (occasional holds on the right can be useful) to gain the upper rib. Follow this on its left side to a lower-off on the left. (Many people seem to shuffle left just above the slab. It is better to climb the arete all the way to the final break to add a neat move up the nose.)
+ Start below a rib with prominent overlaps at the top of the crag. Pass the shale band carefully moving slightly to the left (clip the first bolt early, a good layaway in the pale patch helps) and climb the steep, intricate wall just left of a crack (occasional holds on the right can be useful) to gain the upper rib. Follow this on its left side to a lower-off on the left. (Many people seem to shuffle left just above the slab. It is better to climb the arête all the way to the final break to add a neat move up the nose.)
 
 **11.  Manhattan Project 6c 18m**  
  The pillar and wall between Honorary Horseshoe and  Colonel Mustard. Start just right of Honorary Horseshoe. From a good hold in the floor of the shale band climb the scoop and wall above past a half-height easing to a steep finish.  
@@ -102,13 +102,13 @@ Quite interesting. The first white stripe right of the orange drainage streak. G
 Climb the wall just right of Seven Nation Army with some difficulty to a ledge below a borehole/groove. Climb the groove and finish up the right edge of the headwall. 
 
 **25. Over and Out (6a) 12m**  
-The hairline crack and pod right of Dead Leaves. Climb the crack, pass a block to its left, continue up the pod or its left arete and surmount the left edge of the bulge to a lower-off above the ledge.
+The hairline crack and pod right of Dead Leaves. Climb the crack, pass a block to its left, continue up the pod or its left arête and surmount the left edge of the bulge to a lower-off above the ledge.
 
 **26. Silver Shadow (6b+) 11m**  
 Good technical climbing up the smooth silvery grey pillar/wall right of Over and Out. Climb the centre of the pillar/wall directly finishing with a long reach and an awkward adjustment.
 
 **27. Darth Maul (6c+) 11m**  
-Bouldery moves gain the centre of the initial overlap directly. If no clipstick, the right arete  may be used to clip the first bolt but it is out of bounds for the climbing. Continue up the groove a short way and finish steeply to the right (pumpy).
+Bouldery moves gain the centre of the initial overlap directly. If no clipstick, the right arête  may be used to clip the first bolt but it is out of bounds for the climbing. Continue up the groove a short way and finish steeply to the right (pumpy).
 
 **28. The Crawling Eye, (6a+) 11m**  
 A vague groove at the right end of the decent rock leads to a steep finish.

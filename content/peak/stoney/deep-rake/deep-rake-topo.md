@@ -55,7 +55,7 @@ Takes the line left of _Rake’s Progress_ via the short crack. Low in the grade
 The last line on the front face is now trickier since loss of holds.
 
 **12. Dirty Tow’d Man (6b+)**  
-Starts up and right of *Rake’s Progress* up the grey rock to R of the the arete.
+Starts up and right of *Rake’s Progress* up the grey rock to R of the the arête.
 
 **Exstemplary (6b+)**  
 A left to right traverse of the whole wall. Climb _Great British Rake Off_ to the 3rd bolt then head up rightwards to gain the obvious break. Follow this to _My Body is a Stemple_ and go up one bolt before continuing right into, and finishing up, _Dirty T’owd Man_.

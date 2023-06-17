@@ -12,7 +12,7 @@ columns: true
 A bold start leads to the excellent upper tower.
 
 **2. One Foot in the Cave E3 5c *★***  
-A bold lower slab and pleasant upper arete.
+A bold lower slab and pleasant upper arête.
 
 **3. Down to the Armpits E2 5b *★***  
 Climb the face to the wide crack.
@@ -30,4 +30,4 @@ Takes the obvious wide cracks.
 The straight thin crack.
 
 **8. Salactol E1 5b**  
-The right arete.           
+The right arête.           

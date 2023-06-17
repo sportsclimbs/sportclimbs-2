@@ -1,61 +1,119 @@
 ---
-title: Roadside Crag
+title: Roadside
 draft: false
 placeholder: false
+columns: true
+weight: 70
 ---
 
 
-    
-    <style>
-    p:nth-of-type(5),
-    p:nth-of-type(13) {
-        margin: 2em 0;
-    }
-    </style>
-
-            <div class="topo"><img src="/img/south-wales/south-east-limestone/DINROAD.gif" width="770" height="229"></div>
+![Dinas Rock Roadside  topo](/img/south-wales/south-east-limestone/DINROAD.gif)
+{.topo .w100}
 
 
+**1\. Fromage Frais (5)**  
+Pleasant warm up on left side of wall. 
+{.rebolted}
 
-            <p><b>1. Fromage Frais (5)</b> pleasant warm up on left side of wall. <span class="new">Rebolted</span> </p>
-            <p><b>2. Rob Roy (7a+) &starf; </b>left-hand line on first wall. Fingery to start. <span class="new">Rebolted</span> </p>
-            <p><b>3. Cheesy Rider (6c) &starf; </b>right-hand line. Short hard section from ledge.<span class="new">Rebolted</span> </p>
-            <p><b>Creme de Roquefort (6b+) </b>steep wall right of Cheesy Rider.</p>
+**2\. Rob Roy (7a+) *★***  
+Left-hand line on first wall. Fingery to start. 
+{.rebolted}
 
-            <p>On the short wall to the right lie two routes: <b>Scraping the Barrel (5+) </b> and <b>Tapping the Keg (6c)</b></p>
+**3\. Cheesy Rider (6c) *★***  
+Right-hand line. Short hard section from ledge.
+{.rebolted}
 
-            <p><b>4. Pinheads (6c)</b> left-hand side of the wall gets a fluttery sign. </p>
-            <p><b>5. Skin Ed (7c) &starf;&starf;</b> leftwards line up blackened wall. Technical and fingery. <span class="new">Rebolted</span> </p>
-            <p><b>6. The Inflated Roundhead (7a) &starf; </b>excellent face with hard central section. </p>
-            <p><b>7. Charlie's Rusks (6b+) &starf;</b> pleasant wall with hard start. <span class="new">Rebolted</span> </p>
-            <p><b>8. The Deflated Dickhead (6b) &starf;</b> good direct line with short crux.<span class="new">Rebolted</span> </p>
+**Creme de Roquefort (6b+)**  
+Steep wall right of Cheesy Rider.
 
-            <p><b>Pot Head (5) &starf; </b>pleasant face and slabs to right and just behind tree. </p>
+On the short wall to the right lie two routes: **Scraping the Barrel (5+)** and **Tapping the Keg (6c)**
 
-            <p><b>9. Confounded Dunderhead (6b)</b> hard start, a little scrappy above.<span class="new">Rebolted</span> </p>
+**4\. Pinheads (6c)**  
+Left-hand side of the wall gets a fluttery sign.
 
-            <p><b>Smeg Head (4) </b>LH line on pleasant 'waved' wall. <b>Bone Head (4) </b>central line. <b>Unnamed (4) </b>RH line </p>
+**5\. Skin Ed (7c) *★★***  
+Leftwards line up blackened wall. Technical and fingery. 
+{.rebolted}
 
-            <p><b>10. Connect One (6a)</b> short bulge. Finish rightwards from last BR. </p>
-            <p><b>11. South-West Guru (6b)</b> hard move over bulge, some say English 6a. </p>
-            <p><b>12. Deadly Nightshade (6c) &starf;</b> compact, technical face. Good. </p>
-            <p><b>13. Screaming Lampshades (6c+)</b> hard boulder problem. Left to belay. </p>
-            <p><b>14. Big Ears Goes Flying (6b+) </b>exit direct via left side of undercut. </p>
-            <p><b>15. The Wake (6b) &starf;</b> direct through undercut onto slab. </p>
-            <p><b>16. Bob's Birthday Party (6b) &starf;</b> face just right of ground-level hole. </p>
-            <p><b>17. Cujo (6c) &starf;</b> easy start then smooth face above flake. </p>
-            <p><b>18. Thinner (7a) </b>thin crack and face on left. </p>
-            <p><b>19. The Running Man (7a) &starf;</b> technical, slabby face after thin crack. </p>
-            <p><b>20. Miss Alto (6b) &starf;</b> pleasant slab and steep finish right of flake. </p>
-            <p><b>21. The Regulators (7c) &starf;&starf;</b> the arete. A short power-packed pitch. Airy finish. </p>
-            <p><b>22. The De-Regulators (7a+) &starf;&starf;</b> wall on left after the crux of Beware of Poachers. An excellent route, the best hereabouts. </p>
-            <p><b>23. Beware of Poachers (6c+)</b> direct via roof and technical move to flake. Avoiding the crux on the right brings it down to 6b+. </p>
-            <p><b>24. Open Roads (6b+)</b> slab and short wall. Direct through roof for crux. </p>
-            <p><b>25. Squash the Squadie (6b+) &starf;</b> pleasant face starting via thin crack. </p>
-            <p><b>26. Thousand Yard Stare (6c) &starf;</b> pleasant sustained face. </p>
-            <p><b>27. Pugsley (7a) &starf;</b> short, sharp crux low down. </p>
-            <p><b>28. Munsterosity (7a+)</b> surprisingly hard low down. </p>
-            <p><b>29. Morticia (6c+)</b> Final route on ochre-flecked wall. Well there was some charge left in the battery! </p>
+**6\. The Inflated Roundhead (7a) *★***  
+Excellent face with hard central section.
 
+**7\. Charlie's Rusks (6b+) *★***  
+Pleasant wall with hard start. 
+{.rebolted}
 
+**8\. The Deflated Dickhead (6b) *★***  
+Good direct line with short crux.
+{.rebolted}
 
+**Pot Head (5) *★***  
+Pleasant face and slabs to right and just behind tree.
+
+**9\. Confounded Dunderhead (6b)**  
+Hard start, a little scrappy above.
+{.rebolted}
+
+**Smeg Head (4)**  
+LH line on pleasant 'waved' wall. **Bone Head (4)**  
+Central line. **Unnamed (4)**  
+RH line
+
+**10\. Connect One (6a)**  
+Short bulge. Finish rightwards from last BR.
+
+**11\. South-West Guru (6b)**  
+Hard move over bulge, some say English 6a.
+
+**12\. Deadly Nightshade (6c) *★***  
+Compact, technical face. Good.
+
+**13\. Screaming Lampshades (6c+)**  
+Hard boulder problem. Left to belay.
+
+**14\. Big Ears Goes Flying (6b+)**  
+Exit direct via left side of undercut.
+
+**15\. The Wake (6b) *★***  
+Direct through undercut onto slab.
+
+**16\. Bob's Birthday Party (6b) *★***  
+Face just right of ground-level hole.
+
+**17\. Cujo (6c) *★***  
+Easy start then smooth face above flake.
+
+**18\. Thinner (7a)**  
+Thin crack and face on left.
+
+**19\. The Running Man (7a) *★***  
+Technical, slabby face after thin crack.
+
+**20\. Miss Alto (6b) *★***  
+Pleasant slab and steep finish right of flake.
+
+**21\. The Regulators (7c) *★★***  
+The arête. A short power-packed pitch. Airy finish.
+
+**22\. The De-Regulators (7a+) *★★***  
+Wall on left after the crux of Beware of Poachers. An excellent route, the best hereabouts.
+
+**23\. Beware of Poachers (6c+)**  
+Direct via roof and technical move to flake. Avoiding the crux on the right brings it down to 6b+.
+
+**24\. Open Roads (6b+)**  
+Slab and short wall. Direct through roof for crux.
+
+**25\. Squash the Squadie (6b+) *★***  
+Pleasant face starting via thin crack.
+
+**26\. Thousand Yard Stare (6c) *★***  
+Pleasant sustained face.
+
+**27\. Pugsley (7a) *★***  
+Short, sharp crux low down.
+
+**28\. Munsterosity (7a+)**  
+Surprisingly hard low down.
+
+**29\. Morticia (6c+)**  
+Final route on ochre-flecked wall. Well there was some charge left in the battery!

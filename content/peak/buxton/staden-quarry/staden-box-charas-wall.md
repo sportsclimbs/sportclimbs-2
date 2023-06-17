@@ -20,10 +20,10 @@ The left-hand of two thin cracks in the sidewall to the headwall above obvious n
 The right-hand thin crack to a ledge. Finish by moving right and up via cleaner rock above.
 
 **3. Silent Manoeuvres E4 5c *★***  
-The right-hand side of the left arete of the wall gives superb technical moves with no gear but, unfortunately, the possibility for escape.
+The right-hand side of the left arête of the wall gives superb technical moves with no gear but, unfortunately, the possibility for escape.
 
 **4. Telescopic Demand E3 6a *★***  
-Excellent technical climbing via the faint thin crackline 5m right of the arete uses a side runner off right and a very long reach. Finish more easily above.
+Excellent technical climbing via the faint thin crackline 5m right of the arête uses a side runner off right and a very long reach. Finish more easily above.
 
 **5. Swan Song E1 5b *★***  
 The vague right-trending rampline and a faint crack above leads to the TD finish.
@@ -56,4 +56,4 @@ The cracks in the obvious tower give a good route when clean.
 The wide crack and corner above.
 
 **15. Down She Goes E3 5c**  
-The right arete, bold, and easier cracks above.
+The right arête, bold, and easier cracks above.

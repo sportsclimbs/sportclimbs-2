@@ -1,24 +1,24 @@
 ---
 title: Access & Layout
-draft: false
+draft: true
 placeholder: false
 ---
 
-            <h2>Helicopter Quarry Approach, Access &amp; Layout</h2>
 
-            <h3>Approach</h3>
+## Approach
 
-            <p>This is relatively straightforward. When travelling down the A6 from Bakewell, turn right at the new roundabout in Matlock and take the first right into Sainsbury's. Turn immediately right before the petrol station and follow the road up the hill until the new tarmac disappears. The entrance to the quarry is just on the left beyond the obvious layby: an old board, now removed used to mark the quarry entrance.</p>
+This is relatively straightforward. When travelling down the A6 from Bakewell, turn right at the new roundabout in Matlock and take the first right into Sainsbury's. Turn immediately right before the petrol station and follow the road up the hill until the new tarmac disappears. The entrance to the quarry is just on the left beyond the obvious layby: an old board, now removed used to mark the quarry entrance.
 
-            <img src="/img/peak/matlock/hallmap1.gif">
-            <img src="/img/peak/matlock/HALLMAP2.gif">
+![Helicopter Quarry map 1](/img/peak/matlock/hallmap1.gif)
+{.topo .w50 .tac .mt2}
 
-            <h3>Quarry Layout</h3>
+## Quarry Layout
 
-            <p>The quarry is vast and contains a helicopter landing pad in its centre. To reach the second tier skirt left via a track on the left just before this landing pad and follow it round to the obvious wall with a strip overhang in its centre. Other routes are to be found in the close proximity to this and are described in text.</p>
+The quarry is vast and contains a helicopter landing pad in its centre. To reach the second tier skirt left via a track on the left just before this landing pad and follow it round to the obvious wall with a strip overhang in its centre. Other routes are to be found in the close proximity to this and are described in text.
 
-            <h3>Access</h3>
+![Helicopter Quarry map 2](/img/peak/matlock/HALLMAP2.gif)
+{.topo .w50 .tac .mt2}
 
-            <p>It should be made clear that Tarmac does not consent to any climbing activity on its property and that this site in no way encourages any climber to so do.</p>
+## Access
 
-
+It should be made clear that Tarmac does not consent to any climbing activity on its property and that this site in no way encourages any climber to so do.

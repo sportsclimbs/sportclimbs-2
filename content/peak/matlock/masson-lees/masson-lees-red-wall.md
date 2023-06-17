@@ -1,11 +1,13 @@
 ---
-title: Red Wall
+title: Wake Up & Red Walls
+linktitle: Red Wall Area
 draft: false
 placeholder: false
+weight: 30
 columns: true
 ---
 
-As you enter the quarry these are the walls on the left.
+As you enter the quarry these are the walls on the left. Despite lacking the stature of the walls opposite, the sunny, sheltered aspect combined with lower grades have meant these walls have remained popular.
 
 ## Wake Up Wall
 
@@ -22,63 +24,61 @@ Tricky start then easy to obvious corner.
 Tricky start then easy to difficult overlap.
 
 **4. Slumberland (5)**  
-straightforward climbing to twin cracks finish.
+Straightforward climbing to twin cracks finish.
 
 **5. Dawn's Chorus (4)**  
-left off block to awkward finish - long reach.
+Left off block to awkward finish - long reach.
 
-**6. Wake Me Up Before You Go Go (4) new belay required. Top fallen down. Avoid at moment**
+**6. Wake Me Up Before You Go Go (4)**  
+New belay required. The top has fallen down. Avoid at moment.
 
-**7. Oh to Lie In**  
-**(5)**  
-pleasant face to tricky finish.
+**7. Oh to Lie In (5)**  
+Pleasant face to tricky finish.
 
 **8. Sludge Money (4)**  
-easy climbing straight up the wall.
+Easy climbing straight up the wall.
 
 **9. Five Years and Waiting (4)**  
-easy wall to steeper finale.
+Easy wall to steeper finale.
 
-## The Red Wall
+## Red Wall
 
-The red wall further to the right gives four more routes.
-
-![Red Wall topo](/img/peak/matlock/red-wall-2-copy.jpg)
+![Red Wall topo](/img/peak/matlock/masson-lees-red-wall.jpg)
 {.topo}
 
 
-**1. Auto Pilot (6c)**  
+**10. Auto Pilot (6c)**  
 Trying move over overlap from cut out ledge
 
-**2. Moov Over (6b)**  
+**11. Moov Over (6b)**  
 The central of three routes with thuggy start.
 
-**3. Have a Cow (6a+)**  
+**12. Have a Cow (6a+)**  
 The right-hand line via faint rib and a few good moves.
 
-**4. Udderley (5+)**  
+**13. Udderley (5+)**  
 The obvious corner finishing leftwards into Have a Cow.
 
-**5. Featherlite Arete (6a)**  
-The arete of the wall taken on its right-hand side. Finish right tot he belay.
+**14. Featherlite arête (6a)**  
+The arête of the wall taken on its right-hand side. Finish right tot he belay.
 
-**6. Red and Ribbed for Your Pleasure (6c)**  
+**15. Red and Ribbed for Your Pleasure (6c)**  
 Tricky white wall and groove on left-hand side of face. Some good layaway moves.
 
-**7. Who Sat on my Satsuma? (6a)**  
+**16. Who Sat on my Satsuma? (6a)**  
 The left-hand side of the red wall on good positive holds.
 
-**8. A Life of Grime (6a)**  
+**17. A Life of Grime (6a)**  
 The centre of the wall with a couple of long stretches.
 
-**9. Fun in the Sun (6a+) *★***  
-The right-hand arete of the wall with a tricky finale. The cleanest of the three.
+**18. Fun in the Sun (6a+) *★***  
+The right-hand arête of the wall with a tricky finale. The cleanest of the three.
 
-**10. End o' Taffs Corner (4)**  
+**19. End o' Taffs Corner (4)**  
 The prominent corner gained from *Fun in the Sun*.
 
-**11. The Chemistry Mates (3)**  
+**20. The Chemistry Mates (3)**  
 Climb the easier right-hand side of wall.
 
-**12. Physics Too (6b+)**  
+**21. Physics Too (6b+)**  
 A long line up wall slightly higher and to the right with a hard finale.

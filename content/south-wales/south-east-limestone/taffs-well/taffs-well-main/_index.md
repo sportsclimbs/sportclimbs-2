@@ -2,6 +2,8 @@
 title: Taffs Well Main
 draft: false
 placeholder: false
+css:
+- ".content p.photo:not(:first-of-type) {float: left; margin: 2em 1em}"
 ---
 
     

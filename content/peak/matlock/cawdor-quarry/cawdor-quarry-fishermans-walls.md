@@ -2,18 +2,38 @@
 title: Fisherman's Walls
 draft: false
 placeholder: false
+columns: true
+weight: 70
 ---
 
-            <div class="topo"><img src="/img/peak/matlock/FISH.gif" WIDTH="543" HEIGHT="365"></div>
+![Fishermans Walls topo Cawdor Quarry](/img/peak/matlock/FISH.gif)
+{.topo .w100}
 
-            <p><b>1. Payback (7a) &starf;&starf;</b> tricky initial wall, short corner and superb headwall<b>. </b><span class="new">Rebolted and new belay added</span></p>
-            <p><b>2. No Friends Indeed (7a+) &starf; </b>thin crackline with hard moves to finish via next route.</p>
-            <p><b>3. Totally Wired (7a) &starf;</b> wall and grooves lead to ledge. Desperate wall leads to superb yellowy coloured finishing wall.High in grade. Left-hand variant is 6c.</p>
-            <p><b>4. Spectre Vs Rector (6b+) </b>Wall and groove lead to ledge. Thin crack leads to second ledge and open finishing groove. Classic stuff.</p>
-            <p><b>5. Agony Ant (6b) &starf; </b>Tricky overlap start, wall via groove to finish via prominent flake.</p>
-            <p><b>6. Flaked Out (6a+) &starf; </b>wall and difficult overlap to fine flake finale.</p>
-            <p><b>7. Dog Canute (6b) &starf; </b>Above fence. Pleasant arete to moves left into groove. Left wall of groove to belay.</p>
-            <p><b>8. Feeding Frenzy (6b) &starf;&starf; </b>Superb sustained climbing taking the wall 5m right of the fence. Surprisingly steep.<span class="new">Rebolted and new belay added</span></p>
-            <p><b>9. Fisherman's Finale (6c) </b>prominent pillar and fine upper arete. With hard finish.</p>
+**1. Payback (7a) *★★***  
+Tricky initial wall, short corner and superb headwall.  
+{.rebolted}
 
+**2. No Friends Indeed (7a+) *★***  
+Thin crackline with hard moves to finish via next route.
+
+**3. Totally Wired (7a) *★***  
+Wall and grooves lead to ledge. Desperate wall leads to superb yellowy coloured finishing wall.High in grade. Left-hand variant is 6c.
+
+**4. Spectre Vs Rector (6b+)**  
+Wall and groove lead to ledge. Thin crack leads to second ledge and open finishing groove. Classic stuff.
+
+**5. Agony Ant (6b) *★***  
+Tricky overlap start, wall via groove to finish via prominent flake.
+
+**6. Flaked Out (6a+) *★***  
+Wall and difficult overlap to fine flake finale.
+
+**7. Dog Canute (6b) *★***  
+Above fence. Pleasant arête to moves left into groove. Left wall of groove to belay.
+
+**8. Feeding Frenzy (6b) *★★***  
+Superb sustained climbing taking the wall 5m right of the fence. Surprisingly steep.Rebolted and new belay added
+
+**9. Fisherman's Finale (6c)**  
+Prominent pillar and fine upper arête. With hard finish.
 

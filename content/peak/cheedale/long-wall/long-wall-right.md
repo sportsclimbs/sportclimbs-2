@@ -32,7 +32,7 @@ The large corner line. A old classic that's rarely climbed nowadays.
 The obvious very overhanging wall is gained from the left. Harder for the short.
 
 **7. Big News Man Mouth (7b+) *★★***  
-Start up *Titanic* but move right around the arete onto the face to finish up the next route.
+Start up *Titanic* but move right around the arête onto the face to finish up the next route.
 
 **8. North Atlantic Drift (8a) *★★***  
 Climb *Atlantic Realm* up the corner and past the roof then head up leftwards up the face.

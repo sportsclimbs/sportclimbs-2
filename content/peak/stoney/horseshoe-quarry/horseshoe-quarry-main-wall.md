@@ -6,14 +6,14 @@ weight: 100
 placeholder: false
 ---
 
-Main Wall is defined sharply at the lefthand side by the obvious arete of *Pale Rider* and somewhat arbitarily by the thin crack of *Spring Awakening* on the right. It can be hard to find the routes at first but there are a few landmarks. A fracture line that runs the full height of the crag is obvious. This is  *The Leading Line* (route no. 8 on both topos), situated some way left of centre. At the righthand end is the very long borehole of *Shot Yer Bolt* . You might also see the remnants of *NO CLIMBING* signs towards the right end of the wall, recreated on the topos as landmarks.
+Main Wall is defined sharply at the lefthand side by the obvious arête of *Pale Rider* and somewhat arbitarily by the thin crack of *Spring Awakening* on the right. It can be hard to find the routes at first but there are a few landmarks. A fracture line that runs the full height of the crag is obvious. This is  *The Leading Line* (route no. 8 on both topos), situated some way left of centre. At the righthand end is the very long borehole of *Shot Yer Bolt* . You might also see the remnants of *NO CLIMBING* signs towards the right end of the wall, recreated on the topos as landmarks.
 
 ![Horseshoe Main Wall lefthand](/img/peak/stoney/horseshoe-main-wall-left.jpg)
 {.topo}
 
 
 **1. Pale Rider (6a) *&starf;***  
-The warm up. Keep to the arete, not the crack on the right.
+The warm up. Keep to the arête, not the crack on the right.
 
 **2. Rain Dance (6c) *&starf;&starf;***  
 Tricky start then delicate above and rightwards. The two left-hand finishes are **Colostomy Finish (6c+)**  

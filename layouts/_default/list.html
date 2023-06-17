@@ -7,7 +7,7 @@
 
 {{ partial "cragnav" . }}
 
-<section class="content">
+<section class="content {{ if .Params.columns }}columns{{ end }}">
     {{ .Content }}
     {{ partial "map" . }}
 </section>

@@ -47,7 +47,7 @@ The easiest on the wall is still not totally straigtforward.
 Climbs the narrow wall some 20m right of Sunshine Wall.
 
 **Tiddlebum (V)**  
-Further right again up a short square arete.
+Further right again up a short square arête.
 
 
 ### Chuckles Wall

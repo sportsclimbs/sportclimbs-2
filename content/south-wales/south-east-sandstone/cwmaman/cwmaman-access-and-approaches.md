@@ -1,7 +1,7 @@
 ---
 title: Cwmaman Approach
 linktitle: Cwmaman Apprch
-draft: false
+draft: true
 map: [51.68926575716258, -3.405246734619141, 14]
 markers:
 - [51.68355544061962, -3.4393912553787236, Cwmaman]

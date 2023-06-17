@@ -18,7 +18,7 @@ At the large roundabout on the A470 when travelling from Cardiff, turn right, si
 
 ## Character
 
-The majority of the routes take wall lines, the hardest a series of sustained moves on thin edges. There are plenty of routes in the lower 6’s of a similarly pleasant nature. There are also a number of excellent natural routes with a few cracklines and even a natural edge, somewhat gritstonesque, with a few bold offerings on rounded edges and aretes.
+The majority of the routes take wall lines, the hardest a series of sustained moves on thin edges. There are plenty of routes in the lower 6’s of a similarly pleasant nature. There are also a number of excellent natural routes with a few cracklines and even a natural edge, somewhat gritstonesque, with a few bold offerings on rounded edges and arêtes.
 
 ## Conditions
 
@@ -31,4 +31,4 @@ There are 61 routes: 5+ (1), 6a (1), 6a+ (2), 6b (8), 6b+ (5), 6c (4), 6c+ (1), 
 ## Which are the best routes?
 
 
-There are many routes to choose from but here are a few for starters: _So Uncool_ 6c ★★ a very pleasant wall _Sleeping Dogs_ 6b+ ★★★ a superb wall and roof _Mad at the Sun_ 7c ★★★ once thought to be the hardest on sandstone _Bear Running, Salmon Cunning_ 7a ★★ a vague arete and technical finish _Encore Magnifique_ 7b+ ★★★ a brilliant sustained wall _Controlled Emission_ 6b+ ★★ a fine sustained wall _Scrotum Oil_ 6c ★★ similar to last route _Scared Seal Banter_ 7a+ ★★★ a fine leaning wall _Up Yours_ E1 5b ★★ a photogenic arete.
+There are many routes to choose from but here are a few for starters: _So Uncool_ 6c ★★ a very pleasant wall _Sleeping Dogs_ 6b+ ★★★ a superb wall and roof _Mad at the Sun_ 7c ★★★ once thought to be the hardest on sandstone _Bear Running, Salmon Cunning_ 7a ★★ a vague arête and technical finish _Encore Magnifique_ 7b+ ★★★ a brilliant sustained wall _Controlled Emission_ 6b+ ★★ a fine sustained wall _Scrotum Oil_ 6c ★★ similar to last route _Scared Seal Banter_ 7a+ ★★★ a fine leaning wall _Up Yours_ E1 5b ★★ a photogenic arête.

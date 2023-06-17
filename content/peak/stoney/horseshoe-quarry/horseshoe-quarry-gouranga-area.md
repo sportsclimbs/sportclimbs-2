@@ -65,13 +65,13 @@ The third pillar right of main angle of bay
 Climb the rib and jamming crack above ledge.
 
 **5. Christmas Presence (6c+)**  
-Takes the right arete of Guoranga bay.
+Takes the right arête of Guoranga bay.
 
 ![Gouranga Bay Right side](/img/peak/stoney/horseshoe-gouranga-bay-right.jpg)
 {.topo}
 
 **5. Christmas Presence (6c+)**  
-Takes the right arete of Guoranga bay.
+Takes the right arête of Guoranga bay.
 
 **6. Steeping the Goose (6c)**  
 The left-hand line

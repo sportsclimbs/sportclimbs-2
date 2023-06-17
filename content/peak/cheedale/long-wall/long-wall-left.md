@@ -11,7 +11,7 @@ columns: true
 
 
 **1. Columnus (7b+)**  
-The innocuous-looking hanging arete.
+The innocuous-looking hanging arête.
 
 **2. Banana Republic E3 5c**  
 The corner with a tricky entry and exit.
@@ -64,4 +64,4 @@ The bulge left again is harder. The immaculate, though short wall leads to bulge
 Steep powerful pulls through the initial bulge lead to more of the same at the final overlap.
 
 **19. Lucky Finger (7b) *★***  
-Climbs the vague arete with sustained climbing and the crux at the top. Well worth seeking out.
+Climbs the vague arête with sustained climbing and the crux at the top. Well worth seeking out.

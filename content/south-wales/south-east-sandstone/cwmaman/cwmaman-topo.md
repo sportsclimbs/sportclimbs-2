@@ -5,8 +5,7 @@ placeholder: false
 columns: true
 ---
 
-The South Wall
---------------
+## The South Wall
 
 ![Cwmaman topo](/img/south-wales/south-east-sandstone/Cwmanen-main-wall1-copy.jpg)
 {.topo .w100}
@@ -31,7 +30,7 @@ Immaculate face climbing on the centre of the wall with a particularly fingery c
 Thin, scruffy crack on right-hand side of wall.
 
 **6. The World is my Lobster E4 6a**  
-The vague arete of the next compact wall to the right.
+The vague arête of the next compact wall to the right.
 
 **7. Propaganda (7a) *★★★***  
 The best route on the wall taking the first bolted line to the right. Sustained, fingery but not too technical.
@@ -48,7 +47,7 @@ The final route of the wall often suffers the dreaded seepage. Excellent when dr
 The walls to the right contain a couple of filler-in style routes with BRs for protection. **Zoo Time** and **Instead of This** are both graded 6a.
 {.csa}
 
-Arete Buttress
+arête Buttress
 --------------
 
 ![Cwmaman RH topo](/img/south-wales/south-east-sandstone/Cwmanon-right1-copy.jpg)
@@ -68,7 +67,7 @@ the crack which proves a little dirty
 more pleasant, technical face climbing.
 
 **4. Porc Sword (6b)**  
-right-hand side of the arete proves pleasant.
+right-hand side of the arête proves pleasant.
 
 **5. Anniversary Stroll (6a)**  
 wall via shallow cave, 3BRs.

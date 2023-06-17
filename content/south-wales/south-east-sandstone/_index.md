@@ -1,6 +1,6 @@
 ---
 title: South East Sandstone
-linktitle: SE Sandstone
+Linktitle: SE Sandstone
 draft: false
 placeholder: false
 ---

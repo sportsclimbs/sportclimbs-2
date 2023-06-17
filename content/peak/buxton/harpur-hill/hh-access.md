@@ -17,14 +17,18 @@ css:
      }"
 ---
 
+## Layout
+
+The crags are located on either the upper or lower tiers and these are separated by a broad grassy plateau in between. The upper tier can be accessed at either end. On the south west side a path leads up from the Cairn Sector. From the north east side a track to the left of College Buttress leads to various short scrambles to the top.
+
+There are a multitude of paths around the lower tier crags the choice will depend on which parking spot you use. See below for details.
 
 ![Harpur Hill layout](/img/peak/buxton/hh-layout-rotated.png)
-{.topo}
+{.topo .mauto}
 
 ## Approaches
 
-![](/img/peak/buxton/harmap2.gif)
-{.access}
+![Harpur Hill map](/img/peak/buxton/harmap2.gif)
 
 ### From the industrial estate 838m
 
@@ -34,11 +38,11 @@ Walk back down the road to the bend and go straight on here along a track down t
 
 ### From the village 722m
 
-Park in the village on Grinlow Road, just off Harpur Hill Road, by the cemetary. On the south side of the road a path leads up just to the right of The Parks Inn. You can also go up a parallel path from the top of Grinlow Close. Follow this up for about 300m until it meets a gravel track and from go either either left or right...
+Park in the village on either Grinlow Road or Harpur Hill Road, by the cemetary and St James church. On the south side of Grinlow road a path leads up just to the right of The Parks Inn. You can also go up a parallel path from the top of Grinlow Close. Follow this up for about 300m until it meets a gravel track and from go either either left or right...
 
-For the crags on the western side (Cairn, Sanctury, The Retreat) go right through to where the track narrows. After 200m go up left and then back left follow the tracks which leads to open ground and the lower tier. For Cairn and other areas go to the right side of the lower tier.
+For the crags on the western side (Cairn, The Sanctuary, The Retreat) go right through to where the track narrows. After 200m go up left and then back left follow the tracks which leads to open ground and the lower tier. For Cairn and other areas go to the right side of the lower tier.
 
-For the crags on the eastern side (College Butress, Pool Wall, Long Wall etc.) go left on the gravel track. After 200 metres an obvious a gap in the fencing lead via another track round to to College Buttress and the toxic Blue Lagoon.
+For the crags on the eastern side (College Butress, Pool Wall, Long Wall etc.) go left on the gravel track. After 200 metres go through an obvious a gap in the fencing and follow the path around to to College Buttress and then toxic Blue Lagoon below Long Wall. Pool Wall is just a little way further.
 
 
 

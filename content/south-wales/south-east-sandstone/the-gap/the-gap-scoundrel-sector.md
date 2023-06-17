@@ -14,7 +14,7 @@ The bay at the right-hand side of the quarry provides a liberal smattering of ro
 {.csa}
 
 **1. One Track Mind (6c+) *★***  
-A fine arete.
+A fine arête.
 {.mt0}
 
 **2. Greased Balls (6b+)**  
@@ -48,7 +48,7 @@ Pleasant climbing up the final slim wall. Back to BRs for this one.
 The less obvious crack in the right wall.
 
 **11. Perfect Scoundrels (6c) *★★***  
-An excellent roof and arete. It's pumpy through roof and pleasantly technical above providing a good mixture.
+An excellent roof and arête. It's pumpy through roof and pleasantly technical above providing a good mixture.
 
 **12. Butt Out (5+)**
 
@@ -58,7 +58,7 @@ Climbs up via the small tower.
 **Stool Sample (5)**
 
 **As it Is (5+)**  
-The final short arete with modern gear.
+The final short arête with modern gear.
 
 **Turd Strangler (6c+)**
 

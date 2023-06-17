@@ -13,7 +13,7 @@ These topos cover the area right of the prominent cave at half height. Now affec
 
 
 **1. Passage of Time (6b)**  
-Climb easily up to the cave, then go up the steep wall above. Harder when climbed direct. Use arete on left.
+Climb easily up to the cave, then go up the steep wall above. Harder when climbed direct. Use arête on left.
 
 **2. The Sewer (6a+)**  
 Go up the easy rib to a steep finish right of cave.

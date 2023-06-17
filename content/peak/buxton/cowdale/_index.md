@@ -9,12 +9,13 @@ css:
 - ".topo {display: flex; flex-wrap: wrap; gap: 1em;}"
 ---
 
+## History
 
-“Gary Gibson returned to the crag Chris Jackson drove past. Actually he drove past it twice: the second time was to check whether Gary had found the same crag.”—_Mike Browell 1984_
+> “Gary Gibson returned to the crag Chris Jackson drove past. Actually he drove past it twice: the second time was to check whether Gary had found the same crag.”—_Mike Browell 1984_
 
 Well its nice to get compliments from the magazines especially when the information is so well researched. It has to be said that original impressions can be misleading and due to its situation in what appears to be a dank little valley linking the A6 with Cowdale village, the parking area for Staden Quarry, this little cliff appears somewhat inconsequential. Closer inspection reveals quite the opposite and when the wind is cool and the cliff has dried out its bulging walls offer some of the best overhanging climbing around.
 
-The history of the cliff revolves around Gary Gibson’s obsession to pepper the face with enough routes to spell out the lyrics of a favourite song (e-mail me with your guesses). This initially involved using the occasional piece of in-situ gear with threads, pegs and the occasional bolt. The future however warranted a change in direction with the majority of the equipment rotting and in need of renewal. With a certain line begging to be climbed and a reappraisal of the situation, the existing routes were completely rebolted and a number of excellent new routes added to make the place a viable proposition.
+The history of the cliff revolves around Gary Gibson’s obsession to pepper the face with enough routes to spell out the lyrics of a favourite song. This initially involved using the occasional piece of in-situ gear with threads, pegs and the occasional bolt. The future however warranted a change in direction with the majority of the equipment rotting and in need of renewal. With a certain line begging to be climbed and a reappraisal of the situation, the existing routes were completely rebolted and a number of excellent new routes added to make the place a viable proposition.
 
 Relative popularity followed and a helping hand was given by Paul Ingham with the cliffs hardest route and a major test-piece for the future.
 

@@ -3,34 +3,77 @@ title: Twilight Tower Buttress
 linktitle: Twlght Twr Bttrss
 draft: false
 placeholder: false
+columns: true
 ---
 
-            <p><img src="/img/north-wales/border-region/clwyd-limestone/Twilight-copy.jpg" WIDTH="550" HEIGHT="251"></p>
+![Twilight Tower Buttress topo](/img/north-wales/border-region/clwyd-limestone/Twilight-copy.jpg)
+{.topo .w100}
 
-            <p><b>1. On Line (S) </b>A steep layback crack gains easier ground above.</p>
-            <p><b>2. Extension (VS 4c) </b>the barrell-shaped arete with a few brittle holds.</p>
-            <p><b>3. Funeral Corner (HS) &starf;&starf; </b>the superb corner line with an exciting finish around the top overhang.</p>
-            <p><b>4. Inter Digital Pause (HVS 5a) </b>the arete right of the corner with tricky moves past an old PR.</p>
-            <p><b>5. Penetration Factor (VS 4c) &starf; </b>another fine climb taking the thin crack and impressive layback flake above.</p>
-            <p><b>Sidestep (HVS 4c) </b>the thin crackline just right again and finishing via the right-hand fork and wider crack above.</p>
-            <p><b>6. Ruth's Ramble (VD) </b>the obvious broken crackline via two dead yew trees.</p>
-            <p><b>7. Loran (S) &starf; </b>another pleasant route via a flake crack, bulge and awkward moves past a yew tree.</p>
-            <p><b>Unnamed (7a+) &starf;</b> fierce tachnical face to right.</p>
-            <p><b>8. Sunday Driver (VS 4c) &starf; </b>another gem taking the wall and slab to the right.</p>
-            <p><b>9. Wood Pigeon Crack (VS 4b) </b>the groove right of the tree finishing right around the overhang.</p>
-            <p><b>10. Goin' to a Go Go (7b+) &starf; </b>super technical fingery climbing up the centre of the buttress with a frustrating start.</p>
-            <p><b>11. Go-a-Go-Go (E2 5b) &starf; </b>super. Climb the prominent groove to the roof, exit left and up via a Go-a-Go-Go flake.</p>
-            <p><b>12. High Impedance (E2 5c) &starf; </b>the direct finish to Go-a-Go-Go over the roof</p>
-            <p><b>13. Attenuation (VS 4c) </b>the rounded buttress to the right to a tricky finish.</p>
-            <p><b>Moncrieff (VD) </b>the leftwards leaning wide crack. Poor.</p>
-            <p><b>Ivy Tower Chimney (VD) </b>past the tree finishing leftwards.</p>
-            <p><b>Cow Parsley (VD) </b>the direct finish above the tree.</p>
-            <p><b>Skullion (VS 4b) &starf; </b>pleasant climbing above the flake and crack above.</p>
-            <p><b>The Clearout (VS 4b) </b>the crack with a serious of hollow blocks.</p>
-            <p><b>Helme's Highway (S) </b>the shallow corner and groove.</p>
-            <p><b>Eclipse (HVS 5a) </b>pleasant climbing via scoops on the slab.</p>
-            <p><b>13. Onegin (S) </b>the wide crack behind the tree.</p>
+**1. On Line (S)**  
+A steep layback crack gains easier ground above.
 
+**2. Extension (VS 4c)**  
+The barrell-shaped arête with a few brittle holds.
 
+**3. Funeral Corner (HS) *★★***  
+The superb corner line with an exciting finish around the top overhang.
 
+**4. Inter Digital Pause (HVS 5a)**  
+The arête right of the corner with tricky moves past an old PR.
 
+**5. Penetration Factor (VS 4c) *★***  
+Another fine climb taking the thin crack and impressive layback flake above.
+
+**Sidestep (HVS 4c)**  
+The thin crackline just right again and finishing via the right-hand fork and wider crack above.
+
+**6. Ruth's Ramble (VD)**  
+The obvious broken crackline via two dead yew trees.
+
+**7. Loran (S) *★***  
+Another pleasant route via a flake crack, bulge and awkward moves past a yew tree.
+
+**Unnamed (7a+) *★***  
+Fierce tachnical face to right.
+
+**8. Sunday Driver (VS 4c) *★***  
+Another gem taking the wall and slab to the right.
+
+**9. Wood Pigeon Crack (VS 4b)**  
+The groove right of the tree finishing right around the overhang.
+
+**10. Goin' to a Go Go (7b+) *★***  
+Super technical fingery climbing up the centre of the buttress with a frustrating start.
+
+**11. Go-a-Go-Go (E2 5b) *★***  
+Super. Climb the prominent groove to the roof, exit left and up via a Go-a-Go-Go flake.
+
+**12. High Impedance (E2 5c) *★***  
+The direct finish to Go-a-Go-Go over the roof
+
+**13. Attenuation (VS 4c)**  
+The rounded buttress to the right to a tricky finish.
+
+**Moncrieff (VD)**  
+The leftwards leaning wide crack. Poor.
+
+**Ivy Tower Chimney (VD)**  
+Past the tree finishing leftwards.
+
+**Cow Parsley (VD)**  
+The direct finish above the tree.
+
+**Skullion (VS 4b) *★***  
+Pleasant climbing above the flake and crack above.
+
+**The Clearout (VS 4b)**  
+The crack with a serious of hollow blocks.
+
+**Helme's Highway (S)**  
+The shallow corner and groove.
+
+**Eclipse (HVS 5a)**  
+Pleasant climbing via scoops on the slab.
+
+**13. Onegin (S)**  
+The wide crack behind the tree.

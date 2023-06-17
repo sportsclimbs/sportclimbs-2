@@ -21,7 +21,7 @@ The thin crack left of flake direct to angled overlap. Traverse right under this
 Straight up steep wall, PR to gain cleaned ledge. Climb the centre of the face above via a faint crack, cross the overlap and finish via a Sycamore sapling.
 
 **1. Xenophobia E1 5a**  
-The left-hand arete of the wall starting via a flake on its left-hand side. Bold and sadly neglected.
+The left-hand arête of the wall starting via a flake on its left-hand side. Bold and sadly neglected.
 
 **2. Suscipiat VS 4c *★***  
 The left edge of the wall leads steeply to fluted cracks and easier climbing slightly rightwards via the obvious cracks to the top.
@@ -60,7 +60,7 @@ Tackle the blunt pillar to the right of *Captain Reliable* without resorting to 
 A poor vegetated groove and crackline to the right leads into a scoop. Finish on good rock via some obvious calcite holds.
 
 **14. Clowning E2 5b *★***  
-The vague arete of the *Investal* depression and left of the prominent thin crackline of *Cathy's Clown* gives steep climbing requiring careful selection of protection.
+The vague arête of the *Investal* depression and left of the prominent thin crackline of *Cathy's Clown* gives steep climbing requiring careful selection of protection.
 
 **15. Cathy's Clown E2 5c *★★***  
 Superb. Climb the centre of the yellow wall via small calcite flutings and thin cracks to reach a bulge wherein the crux lies to reach an open groove above.

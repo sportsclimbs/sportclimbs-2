@@ -2,32 +2,59 @@
 title: Sumo Sector
 draft: false
 placeholder: false
+columns: true
 ---
 
-            <div class="topo"><img src="/img/peak/buxton/HHLT-RH.jpg" WIDTH="550" HEIGHT="329"></div>
+![Sumo sector left](/img/peak/buxton/HHLT-RH.jpg)
+{.topo}
 
-            <p>The Sumo sector is on the lower tier, just to the left of the Kamikaze sector.</p>
+The Sumo sector is on the lower tier, just to the left of the Kamikaze sector.
+{.csa}
 
-            <p><b>1. Riding Shogun(6b)) </b></p>
-            <p><b>2. Shang-Hai (6b) </b></p>
-            <p><b>3. Kamikaze Clone (6a+) </b></p>
-            <p><b>4. The Rising Sun (5) </b></p>
-            <p><b>5. Hong Kong Fewy (6a+)</b></p>
-            <p><b>6. The Golden Goose (6a)</b></p>
-            <p><b>7. Setting Sons (6a)</b></p>
-            <p><b>8. Saweno Gancho (6c) &starf; </b></p>
-            <p><b>9. Geisha Grooves (6a) </b></p>
-            <p><b>10. A Nip in the Air (6b) </b></p>
-            <p><b>11. Sumo (7a) &starf; </b></p>
-            <p><b>12. Nagasaki Grooves Two (6b) </b></p>
-            <p><b>13. Outside Tokyo (6b)</b></p>
-            <p><b>14. The Jap's Eyes are on You (6b+)</b></p>
+**1. Riding Shogun(6b)**
+{.mt0}
 
-            <div class="topo"><img src="/img/peak/buxton/HHLT-RH-RH.jpg" WIDTH="400" HEIGHT="296"></div>
+**2. Shang-Hai (6b)**
 
-            <p>Further right are three more routes. From R to L:</p>
+**3. Kamikaze Clone (6a+)**
 
-            <p><b>1. The Bullet (7a) </b>difficult wall.</p>
-            <p><b>2. Jokoharma VS (5a) </b>flake crack in scoop just left.</p>
-            <p><b>3. Picture This (6a) + </b>pleasant slim pillar. Worthwhile</p>
-            <p><b>4. Fuji Fantastic (6a) </b>steep slim wall</p>
+**4. The Rising Sun (5)**
+
+**5. Hong Kong Fewy (6a+)**
+
+**6. The Golden Goose (6a)**
+
+**7. Setting Sons (6a)**
+
+**8. Saweno Gancho (6c) *★***
+
+**9. Geisha Grooves (6a)**
+
+**10. A Nip in the Air (6b)**
+
+**11. Sumo (7a) *★***
+
+**12. Nagasaki Grooves Two (6b)**
+
+**13. Outside Tokyo (6b)**
+
+**14. The Jap's Eyes are on You (6b+)**
+
+![Sumo sector right](/img/peak/buxton/HHLT-RH-RH.jpg)
+{.topo}
+
+Further right are three more routes. From R to L:
+{.csa}
+
+**1. The Bullet (7a)**  
+A difficult wall.
+{.mt0}
+
+**2. Jokoharma VS (5a)**  
+Climb the flake crack in scoop just left.
+
+**3. Picture This (6a)**  
+Pleasant climbing up the slim pillar. Worthwhile.
+
+**4. Fuji Fantastic (6a)**  
+Takes the steep, slim wall.

@@ -34,10 +34,10 @@ N.B. the very far left of the Upper Tier is covered by the [Africa Buttress](/pe
 {.topo}
 
 **1. Bird Island pitch 2 (6a)**  
-The second pitch climbs the pleasant arete. (See [Africa Buttress](/peak/stoney/horseshoe-quarry/horseshoe-africa/) for pitch 1)
+The second pitch climbs the pleasant arête. (See [Africa Buttress](/peak/stoney/horseshoe-quarry/horseshoe-africa/) for pitch 1)
 
 **2. Brew Thyme (6a)**  
-The crackline right of the arete.
+The crackline right of the arête.
 
 **3. Thyme Out (6a)**  
 A wide crack and V niche.
@@ -49,7 +49,7 @@ The next crackline just left of corner.
 A corner line.
 
 **6. Bit of Spare Thyme (5+)**  
-The wall right of the corner, almost on the arete.
+The wall right of the corner, almost on the arête.
 
 **7. Fat Betty (4+)**  
 Easy corner line.
@@ -58,26 +58,26 @@ Easy corner line.
 Right wall of corner.
 
 **8. Porridge (4+)**  
-Slim corner line just left of arete. Pleasant.
+Slim corner line just left of arête. Pleasant.
 
 **9. Crunch yer Nuts (4) *★***  
 Fine wide crack system.
 
 **10. Soggy Bottom Boys (6b+) *★***  
-Vague arete from left-hand end of terrace. A couple of hard moves
+Vague arête from left-hand end of terrace. A couple of hard moves
 
 **11. Man of Constant Sorrow (5+)**  
-Climb left-hand side of arete via crack low down.
+Climb left-hand side of arête via crack low down.
 
 **12. Big Rock Candy Mountain (6a) *★***  
-The right-hand side of fine arete.
+The right-hand side of fine arête.
 
 
 ![Horseshoe Upper tier far left](/img/peak/stoney/horseshoe-upper-tier-1b.jpg)
 {.topo}
 
-**13. Everett's Arete (5+)**  
-Takes the sharp arete on left-hand side.
+**13. Everett's arête (5+)**  
+Takes the sharp arête on left-hand side.
 
 **14. Repulse (5)**  
 The left-hand line of the orange wall.
@@ -112,13 +112,13 @@ Stiff fingery start to easier ground on fine rock above
 Pleasant climbing with a tricky start from the obvious ledge.
 
 **6. Dapper Dan (6a) *★***  
-The excellent arete to a tricky finale. Stretchy first clip from ledge.
+The excellent arête to a tricky finale. Stretchy first clip from ledge.
 
 **7. Babe the Blue Axe (6a)**  
 Tricky starting wall to ledge then much easier climbing above.
 
 **8. The Cretan (6b+)**  
-The arete taken on right-hand side to ledge. Easy above.
+The arête taken on right-hand side to ledge. Easy above.
 
 **9. Corinthian Spirit (6a)**  
 Straightforward crack system with awkward move left onto ledge.
@@ -139,13 +139,13 @@ Goes leftwards into hanging groove left of *Her Aklion*.
 Exits cave to gain hidden delights in hanging groove. Good when dry.
 
 **15. Almost There (5)**  
-Climbs the right arete of the cave system on incredible bubbly jugs.
+Climbs the right arête of the cave system on incredible bubbly jugs.
 
 **16. Into the Labyrinth (5+) *★***  
 The front face of grey tower, recently retro-bolted (naughty but nice).
 
 **17. By Zeus (6a+) *★***     
-Right arete of grey tower with technical start.
+Right arête of grey tower with technical start.
 
 **18. Spiteful Rain (5+) *★***  
 Pleasant face and tricky finish.
@@ -174,7 +174,7 @@ Excellent thin crack system (trad.). Use belays on left or right.
 Start up Null and climb the crack through the bulges
 
 **23. Null in Mundo Pax Sincera (6c+)**  
-Tight line squeezed onto rounded arete to right.
+Tight line squeezed onto rounded arête to right.
 
 **24. Supplementary Question (4+)**  
 Prominent shallow corner line to excavated finale.
@@ -216,7 +216,7 @@ Crackline to slabby finale
 {.topo}
 
 **34. Smoke Gets in your Eyes (6b+) *★***  
-Left-hand side of prominent arete with occasional move on right. Finish via thin crack.
+Left-hand side of prominent arête with occasional move on right. Finish via thin crack.
 
 **35. Esso Extra (E1 5b)**  
 Old trad route up a groove and slab and moving left to finish up the previous route.
@@ -262,7 +262,7 @@ Right wall of corner with good moves on upper section.
 Crackline to steep finale.
 
 **46. Ma Marmalde (6a+)**  
-Arete to ledges and tricky finale.
+arête to ledges and tricky finale.
 {.debolted}
 
 **47. Slam the Jam (5+)**  
@@ -284,7 +284,7 @@ The corner line.
 Slabby wall with fine climbing. Difficulties short-lived.
 
 **52. Part Animal (6b)**  
-Arete of wall. Hard on right (true line) **5+**  
+arête of wall. Hard on right (true line) **5+**  
 on left.
 
 **53. Cafe Bleu E3 5c *★***  

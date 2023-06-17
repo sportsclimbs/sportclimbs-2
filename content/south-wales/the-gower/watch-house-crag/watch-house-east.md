@@ -12,7 +12,7 @@ columns: true
 {.topo}
 
 **1. Left Wing Rebolt (6b) *★*** 
-Climb up to a ledge then follow the arete above.
+Climb up to a ledge then follow the arête above.
 
 **2. Strain Drain (7a)**  
 Climb up onto a rail and over the bulges.
@@ -37,7 +37,7 @@ A superb little route via the red-stained groove with a crux exit. Easier slabs 
 The left-hand of two pumpy problems starting from behind the boulder and not touching it.
 
 **9. Too Many Fingers (7a) *★***  
-A leftwards line across the overhanging wall keeping just off its right-hand arete.
+A leftwards line across the overhanging wall keeping just off its right-hand arête.
 
 **Nia Miss (5+)**  
 The traverse. Long slings useful to avoid rope drag.

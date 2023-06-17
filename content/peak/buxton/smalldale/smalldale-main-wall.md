@@ -14,14 +14,14 @@ This the front face of the fine buttress a couple of hundred metres to the left 
 {.topo}
 
 **1. Reservoir Frogs (6c+) *★★***  
-A fine climb directly up the centre of the slim wall between the corner and the arete. Hard to read and with some committing moves near the top.
+A fine climb directly up the centre of the slim wall between the corner and the arête. Hard to read and with some committing moves near the top.
 {.mt0}
 
 **2. First Offense (6c+) *★★***  
-The left arete of the wall gives an excellent sustained exercise. Surprisingly balancy. 
+The left arête of the wall gives an excellent sustained exercise. Surprisingly balancy. 
 
 **3. When Reason Sleeps (7a+) *★★***  
-Start just right of the arete and climb the face via an overlap.
+Start just right of the arête and climb the face via an overlap.
 
 **4. Stainsby Girls (7a+) *★★***  
 Straight up via the obvious wide crack into awkward finishing groove. Tough. 

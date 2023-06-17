@@ -9,14 +9,13 @@ markers:
 placeholder: false
 ---
 
+![Ravenstor National Trust sign](/img/peak/millers-dale/Ravens-Tor-sign.jpg)
+## Access {.mt0}
 
-            <h3><img src="/img/peak/millers-dale/Ravens-Tor-sign.jpg" alt="Ravenstor National Trust sign">Access</h3>
+The land is owned by the National Trust and there are no access issues at present.
 
-            <p>The land is owned by the National Trust and there are no access issues at present. </p>
+## Approach
 
-            <h3>Approach</h3>
+When approaching from the North go South through Tideswell and turn left on to the B6049. Follow this past several sharp bends then down a long hill. At the bottom of the hill take the first left (180 degrees) into the small road that leads to Litton Mill. The crag is unmissable after about half a mile on the left hand side. There is parking directly below the crag or if full further down the road.
 
-            <p>When approaching from the North go South through Tideswell and turn left on to the B6049. Follow this past several sharp bends then down a long hill. At the bottom of the hill take the first left (180 degrees) into the small road that leads to Litton Mill. The crag is unmissable after about half a mile on the left hand side. There is parking directly below the crag or if full further down the road.</p>
-
-            <p>From the South turn off the A6 onto the B6049 signposted to Tideswell. At the bottom of a long hill go under a viaduct and take the first right towards Litton Mill. Continue as above.</p>
-
+From the South turn off the A6 onto the B6049 signposted to Tideswell. At the bottom of a long hill go under a viaduct and take the first right towards Litton Mill. Continue as above.

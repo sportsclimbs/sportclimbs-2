@@ -2,41 +2,94 @@
 title: The Sanctuary
 draft: false
 placeholder: false
+columns: true
 ---
 
 
 
-<style>
-    .topo:nth-of-type(2) {
-        margin-top: 3.1em
-    }
-</style>
-            <p> From below the right-hand end of Cairn Sector (Breakfast at Safeways etc.) drop down below the concrete posts and turn left to reach this very pleasant face. Towards its left-hand side are four relatively short routes. </p>
+## Left side
 
-            <div class="topo"><img src="/img/peak/buxton/harpur-hill-the-sanctuary-LH-2021.jpg"></div>
+From below the right-hand end of Cairn Sector (Breakfast at Safeways etc.) drop down below the concrete posts and turn left to reach this pleasant face. The Sancturary features some of the best quality rock for easy sport climbing in the Peak District. Towards its left-hand side are four relatively short routes.
 
+![The Sanctury topo 1](/img/peak/buxton/harpur-hill-the-sanctuary-LH-2021.jpg)
+{.topo}
 
-            <p><b>1. Ashford and Sons (6a), 2. 4Ben (5+), 3. By Caesarian (5), 4. New Arrivals (6a), 5. Expecting (5), 6. Induction Program(5), 7. Premature (6a) 8. unnamed (6a)</b></p>
+**1. Ashford and Sons (6a)**
 
-            <div class="topo"><img src="/img/peak/buxton/harpur-hill-the-sanctuary-2020.jpg"></div>
+**2. 4Ben (5+)**
 
-            <!-- 9/9/20 NEW LINES 20 AND 11 not marked on my topo -->
+**3. By Caesarian (5)**
 
-            <p><b>6. Safe Haven (5)</b> easier of two left-hand lines </p>
-            <p><b>7. The Hollow Man (5) </b>direct line with hollow flake. <span class="new">New belay added.</span></p>
+**4. New Arrivals (6a)**
 
-            <p><b>8. Christian Salvage Man (6a) &starf;</b> pleasant face, named after local security man! Rebolted and new belay added.</p>
-            <p><b>9. Which Depp-Artment (6a)</b> via bulge and then rightwards to belay. Rebolted, new low bolt and new belay added.</p>
-            <p><b>10. Ichabod (5+)</b> awkward finishing bulge. Rebolted, new low bolt and new belay added.</p>
-            <p><b>11. Haven sent (6a)</b> <span class="new">new</span></p>
-            <p><b>12. Sleepy Hollow (6a) &starf;</b> fine climbing via faint rib. Rebolted and new belay added.</p>
-            <p><b>13. Bonny Helena (5)</b> squeezed in but good just to the right. Rebolted and new belay added. </p>
-            <p><b>14. Gone for a Tim Burton (5)</b> just left of obvious flake/corner. Rebolted and new belay added.</p>
-            <p><b>15. The Height Below (5)</b> wall via brown streak. Rebolted and new belay added.</p>
-            <p><b>16. The Sanctuarian (6c)</b> hard through overlap with tricky wall below. Rebolted and new belay added.</p>
-            <p><b>17. For Haven's Sake (6b) &starf;</b> right side of overlap. Rebolted and new belay added.</p>
-            <p><b>18. Downtown (6b) &starf;</b> excellent shallow groove. Slightly bold. Rebolted and new belay added.</p>
-            <p><b>19. What Lies Beneath (6b) &starf;</b> tricky wall to finish. Rebolted and new belay added.</p>
-            <p><b>20. Haven Blessed (6a+)</b> <span class="new">new</span></p>
-            <p><b>21. Haven or Hell (6a+)</b> pillar at right-hand end of wall.</p>
+**5. Expecting (5)**
 
+**6. Induction Program(5)**
+
+**7. Premature (6a)**
+
+**8. unnamed (6a)**
+
+## Right side
+
+![The Sanctury topo 2](/img/peak/buxton/harpur-hill-the-sanctuary-2020.jpg)
+{.topo}
+
+**6. Safe Haven (5)**  
+Easier of two left-hand lines
+
+**7. The Hollow Man (5)**  
+Direct line with hollow flake. New belay added.
+
+**8. Christian Salvage Man (6a) *★***  
+Pleasant face, named after local security man! 
+{.rebolted}
+
+**9. Which Depp-Artment (6a)**  
+Via bulge and then rightwards to belay. 
+{.rebolted}
+
+**10. Ichabod (5+)**  
+Awkward finishing bulge. 
+{.rebolted}
+
+**11. Haven sent (6a)**  
+New
+
+**12. Sleepy Hollow (6a) *★***  
+Fine climbing via faint rib. 
+{.rebolted}
+
+**13. Bonny Helena (5)**  
+Squeezed in but good just to the right. 
+{.rebolted}
+
+**14. Gone for a Tim Burton (5)**  
+Just left of obvious flake/corner. 
+{.rebolted}
+
+**15. The Height Below (5)**  
+Climb the wall via brown streak. 
+{.rebolted}
+
+**16. The Sanctuarian (6c)**  
+Hard through overlap with tricky wall below. 
+{.rebolted}
+
+**17. For Haven's Sake (6b) *★***  
+Takes the right side of overlap. 
+{.rebolted}
+
+**18. Downtown (6b) *★***  
+Excellent shallow groove. Slightly bold. 
+{.rebolted}
+
+**19. What Lies Beneath (6b) *★***  
+Has a tricky wall to finish. 
+{.rebolted}
+
+**20. Haven Blessed (6a+)**  
+New
+
+**21. Haven or Hell (6a+)**  
+Pillar at right-hand end of wall.

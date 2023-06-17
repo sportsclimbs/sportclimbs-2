@@ -18,7 +18,7 @@ The central line of the slab gives a fine climb with intricate climbing from the
 The right-hand side of the slab with a scary third clip.
 
 **3. Burnt Offerings (6c+)**  
-The left-hand line of the wall just to the right of the arete requires three long pulls.
+The left-hand line of the wall just to the right of the arête requires three long pulls.
 
 **4. The Cinderbox (6c)**  
 The steep wall left of the shallow groove with a long move at the top.
@@ -36,5 +36,5 @@ The excellent wall to the right with a few intense moves.
 The centre of the wall is sustained and fingery.
 
 **9. The Hot Spot (6c)**  
-The right-hand arete with the crux situated in the final moves.
+The right-hand arête with the crux situated in the final moves.
 

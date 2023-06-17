@@ -10,7 +10,7 @@ Two sections at the far end of the lower quarry provide a handful of quality rou
 The Left-hand Walls
 -------------------
 
-These are characterised by a prominent arete and a superb clean sheet of wall.
+These are characterised by a prominent arête and a superb clean sheet of wall.
 {.csa}
 
 ![](/img/south-wales/south-east-sandstone/LLANLH1.gif)
@@ -23,10 +23,10 @@ Climb the groove and short wall above, BB.
 Climb a short overhang, a groove and then continue up centre of tower.
 
 **3. Bas Chevaliers E3 5c *★***  
-This line is based on the prominent arete reached via the lower roof and short smooth wall.
+This line is based on the prominent arête reached via the lower roof and short smooth wall.
 
 **4. Hush Money (7a+) *★***  
-Takes the left arete of the smooth-looking wall.
+Takes the left arête of the smooth-looking wall.
 
 **5. Contraband (7c) *★★★***  
 A brilliant technical face climb. Fingery and continuous.
@@ -50,7 +50,7 @@ The smooth-looking wall left of the corner from 6m up that route.
 Climb the centre of the right wall of the corner.
 
 **7. Balance Sheet E3 5c**  
-The short groove in lower wall is followed by the obvious groove in upper arete.
+The short groove in lower wall is followed by the obvious groove in upper arête.
 
 
 

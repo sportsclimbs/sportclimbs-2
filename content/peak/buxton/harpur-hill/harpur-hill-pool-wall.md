@@ -2,53 +2,80 @@
 title: Pool Wall
 draft: false
 placeholder: false
+columns: true
 ---
 
 
 
-<style>
-    .pinnacle {
-        margin-bottom: 3em;
-    }
+Pool Wall is on the lower tier of the dark side crags to the left of Long Wall.
 
-    .pinnacle+p {
-        clear: both;
-    }
+![Railway Pinnacle](/img/peak/buxton/hh-railway_pinnacle.jpg)
+{.topo .w50}
 
-    .pinnacle img {
-        float: left;
-        margin-right: 1em;
-    }
-</style>
+**1 Can't Pin it On Me (6a)**  
+This goes up the left-hand arête of pinnacle.
 
-            <p>Pool Wall is on the lower tier of the dark side crags to the left of Long Wall.</p>
+**2. The LaRK's SPUR (6b) *★***  
+The right-hand arête of the pinnacle is good.
 
-            <div class="pinnacle">
-                <img src="/img/peak/buxton/hh-railway_pinnacle.jpg" width="233" height="350" alt="Railway Pinnacle">
-                <p><b>1 Can't Pin it On Me (6a) </b> left-hand arete of pinnacle.</p>
-                <p><b>2. The LaRK's SPUR (6b) &starf;</b> The right-hand arete of the pinnacle is good.</p>
-            </div>
-            <p>&nbsp;</p>
-            <p>Left of the wall are three routes. From left to right<b>: In Isolation (6a) </b>slim face to rock scar, <b>Strange Concept (4) </b>easy but pleasant black face. </p>
-            <div class="topo"><img src="/img/peak/buxton/hh-pool-wall.jpg" width="1280" height="826"></div>
+Left of the wall are three routes. From left to right: **In Isolation (6a)** the slim face to rock scar. **Strange Concept (4)** takes the easy but pleasant black face.
+{.csa}
 
-            <p><b>A. Finn Macpool (6a)</b></p>
-            <p><b>1. Grow Fins E2 5b &starf; </b>the left-hand arete of the wall. Good moves, limited protection</p>
-            <p><b>2. Mirrios (6a+) </b>thin crackline with one or two technical moves</p>
-            <p><b>3. Cats 23 HVS 5a </b>the straight crackline</p>
-            <p><b>4. Tricycle Man Direct (6b+) &starf; </b>faint crackline with to a technical finale </p>
-            <p><b>4. Get Peddling (7a) &starf; </b>technical start on rib then direct via enjoyable face</p>
-            <p><b>6. Face Value (6b+) &starf;&starf; </b>the sentry box and thin crack above. Excellent.</p>
-            <p><b>7. A Dip in Turquoise Nonsense (6c) &starf; </b>direct up the face right of Face Value with a tricky start</p>
-            <p><b>8. Faces in the Mirror (6c) &starf; </b>a fine direct line left of the prominent crack</p>
-            <p><b>9. College Crack E1 5b </b>the obvious crack</p>
-            <p><b>10. More Permutations (6b) </b>a direct version of the original with a tricky finale</p>
-            <p><b>11. Balance of Probabilities (6c) &starf; </b>the arete taking the overlap on the left. The headwall is easier</p>
-            <p><b>12. Upthrutch HVS 5b </b>the corner crack and leftwards ramp</p>
-            <p><b>13. Pinch the Pane (6b+) </b>short tricky wall, difficult overlap and easy finale</p>
-            <p><b>14. Diamond Geiser (6a) </b>thin crack through overlap onto cleaned headwall</p>
-            <p><b>15. Diamond Wall E1 5b </b> the diagonal crackline</p>
-            <p><b>16. Pool Hand Fluke (6a+) </b>steep pull onto face with short technicalities</p>
-            <p><b>17. More Pool You (6b+) </b>steep pull onto wall then face above.</p>
-            <p><b>18. Pool Arete (6b)</b></p>
+![Pool Wall topo](/img/peak/buxton/hh-pool-wall.jpg)
+{.topo}
+
+**A. Finn Macpool (6a)**
+
+**1. Grow Fins E2 5b *★***  
+The left-hand arête of the wall. Good moves, limited protection.
+
+**2. Mirrios (6a+)**  
+Thin crackline with one or two technical moves.
+
+**3. Cats 23 HVS 5a**  
+The straight crackline
+
+**4. Tricycle Man Direct (6b+) *★***  
+faint crackline with to a technical finale.
+
+**4. Get Peddling (7a) *★***  
+Technical start on rib then direct via enjoyable face.
+
+**6. Face Value (6b+) *★★***  
+The sentry box and thin crack above. Excellent.
+
+**7. A Dip in Turquoise Nonsense (6c) *★***  
+Climb direct up the face right of Face Value with a tricky start.
+
+**8. Faces in the Mirror (6c) *★***  
+A fine direct line left of the prominent crack.
+
+**9. College Crack E1 5b**  
+The obvious crack
+
+**10. More Permutations (6b)**  
+A direct version of the original with a tricky finale.
+
+**11. Balance of Probabilities (6c) *★***  
+The arête taking the overlap on the left. The headwall is easier.
+
+**12. Upthrutch HVS 5b**  
+The corner crack and leftwards ramp.
+
+**13. Pinch the Pane (6b+)**  
+Short tricky wall, difficult overlap and easy finale.
+
+**14. Diamond Geiser (6a)**  
+Thin crack through overlap onto cleaned headwall.
+
+**15. Diamond Wall E1 5b**  
+The diagonal crackline.
+
+**16. Pool Hand Fluke (6a+)**  
+Steep pull onto face with short technicalities.
+
+**17. More Pool You (6b+)**  
+Steep pull onto wall then face above.
+
+**18. Pool Arête (6b)**
 

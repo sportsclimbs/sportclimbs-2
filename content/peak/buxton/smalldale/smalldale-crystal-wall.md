@@ -15,7 +15,7 @@ columns: true
 The small wall 20m left of the next route.
 
 **1. Old Biddy Flogger (6a)**  
-Pleasant arete after hollow start.
+Pleasant arête after hollow start.
 
 **2. Floggin' a Dead Horse (6b) *★***  
 Fine wall climbing on good rock.

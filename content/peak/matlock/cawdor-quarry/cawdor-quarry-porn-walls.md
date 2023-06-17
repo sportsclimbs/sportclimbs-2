@@ -2,33 +2,89 @@
 title: Porn Walls
 draft: false
 placeholder: false
+columns: true
+weight: 50
 ---
 
 
 
-            <div class="topo"><img src="/img/peak/matlock/CAWDOR4.gif"></div>
+![Porn Walls topo](/img/peak/matlock/CAWDOR4.gif)
+{.topo .w100}
+
+**1. Family Ties (6a) *★***  
+The long and slightly stepped corner line gives a classic little pitch. 
+{.rebolted}
+
+**2. Freaky Friday (6a+) *★***  
+Pleasant climbing to shallow corner and steep headwall on right.
+
+**3. Cawdor Nothing (6c+) *★★***  
+The centre of the fine wall to the right. Easy to begin, thin and fingery above. Just worth grade. 
+{.rebolted}
+
+**4. The Cutting Crew (7a) *★***  
+The right-hand side of wall starting via a vague rib to another fingery finale.
+
+**5. Virgin on Porn (6b)**  
+Tricky start, the up to ledges. Obvious sharp arête above.
+
+**Pornilicious (6a+) *★***  
+The long slim corner line gives a fine pitch.
+
+**6. Boobie Prize (6b) *★***  
+The first line on the wall to the right with pleasant sustained climbing and a short hard section. 
+{.rebolted}
+
+**7. Breast Stroke (6a+)*★***  
+Nice climbing up the shallow groove and crackline. 
+{.rebolted}
+
+**8. Breast is Best (6a+) *★***  
+The third line on the walls to the right. Very pleasant climbing with sustained interest. Rebolted and recleaned. New belay added
+
+**9. Porn to Run (6b) *★***  
+Straightforward climbing behind the large tree to a ledge. Fingery and airy exit. 
+{.rebolted}
+
+**10. The Porn Curtain (5)**  
+The obvious flake/groove line in the centre of the wall is gained from the right. 
+{.rebolted}
+
+**11. Porn Palace (6b+) *★***  
+Enjoyable face to ledge. Borehole and headwall provide fitting climax. 
+{.rebolted}
 
 
-            <p><b>1. Family Ties (6a) &starf;</b> the long and slightly stepped corner line gives a classic little pitch. <span class="new">Rebolted and new belay added</span></p>
-            <p><b>2. Freaky Friday (6a+) &starf; </b>pleasant climbing to shallow corner and steep headwall on right.</p>
-            <p><b>3. Cawdor Nothing (6c+) &starf;&starf; </b>The centre of the fine wall to the right. Easy to begin, thin and fingery above. Just worth grade. <span class="new">Rebolted and new belay added</span></p>
-            <p><b>4. The Cutting Crew (7a) &starf; </b>The right-hand side of wall starting via a vague rib to another fingery finale.</p>
-            <p><b>5. Virgin on Porn (6b) </b>Tricky start, the up to ledges. Obvious sharp arete above. </p>
-            <p><b>Pornilicious (6a+) </b>&starf; the long slim corner line gives a fine pitch.</p>
-            <p><b>6. Boobie Prize (6b) &starf; </b>the first line on the wall to the right with pleasant sustained climbing and a short hard section. <span class="new">Rebolted and recleaned. Extra bolts added and new belay added</span></p>
-            <p><b>7. Breast Stroke (6a+) </b>&starf; pleasant climbing via the shallow groove and crackline. <span class="new">Rebolted and recleaned. Extra bolts added.</span></p>
-            <p><b>8. Breast is Best (6a+) &starf;</b> the third line on the walls to the right. Very pleasant climbing with sustained interest. <span class="new">Rebolted and recleaned. New belay added</span></p>
-            <p><b>9. Porn to Run (6b) </b>&starf; straightforward climbing behind the large tree to a ledge. Fingery and airy exit. <span class="new">Rebolted and recleaned. Extra bolts added and new belay added</span></p>
-            <p><b>10. The Porn Curtain (5) </b>obvious flake/groove line in the centre of the wall gained from the right. <span class="new">Rebolted and recleaned. Extra bolts added and new belay added</span></p>
-            <p><b>11. Porn Palace (6b+) &starf; </b>enjoyable face to ledge. Borehole and headwall provide fitting climax. <span class="new">Rebolted and recleaned. Extra bolts added and new belay added</span></p>
-            <p><b>12. Vibrators (6a+)</b> poor route on right-hand side of wall direct via shallow groove and bulge. <span class="new">Rebolted and recleaned. Extra bolts added and new belay added</span></p>
-            <p><b>Porn Again (6a+)</b> the shattered corner to the right.</p>
-            <p><b>13. Five Alive (6a+) &starf; </b>right side of rib direct to belay. Fine sustained climbing.</p>
-            <p><b>14. Brazilian Style (6c+) &starf;&starf; </b>further right. The left-hand side of the obvious wall. Hard at 3rd BR and excellent above and below. <span class="new">Rebolted</span></p>
-            <p><b>15. All Mine (6c+) &starf;&starf; </b>Even better. Just right, a flake and superb sustained climbing up the wall above. Finish left from last BR. <span class="new">Rebolted</span></p>
-            <p><b>16. Yours Truly (6b+) &starf;</b>Fine sustained climbing up the wall to the right direct to the same belay of All Mine. <span class="new">Rebolted</span></p>
-            <p><b>17. Analyze This (6b) </b>The prominent crackline gives a steep and thuggy pitch.</p>
-            <p><b>18. Demon (6c+) &starf;&starf;</b> superb face climbing up the centre of the pillar to the right. <span class="new">Rebolted</span></p>
-            <p><b>19. Weakling (6b+) &starf;&starf; </b>the right-hand side of the face provides an equally fine route. <span class="new">Rebolted</span></p>
+**12. Vibrators (6a+)**  
+Poor route on right-hand side of wall direct via shallow groove and bulge. 
+{.rebolted}
 
+**Porn Again (6a+)**  
+The shattered corner to the right.
+
+**13. Five Alive (6a+) *★***  
+Right side of rib direct to belay. Fine sustained climbing.
+
+**14. Brazilian Style (6c+) *★★***  
+Further right. The left-hand side of the obvious wall. Hard at 3rd BR and excellent above and below. 
+{.rebolted}
+
+**15. All Mine (6c+) *★★***  
+Even better. Just right, a flake and superb sustained climbing up the wall above. Finish left from last BR. 
+{.rebolted}
+
+**16. Yours Truly (6b+) *★***  
+Fine sustained climbing up the wall to the right direct to the same belay of All Mine. 
+{.rebolted}
+
+**17. Analyze This (6b)**  
+The prominent crackline gives a steep and thuggy pitch.
+
+**18. Demon (6c+) *★★***  
+Superb face climbing up the centre of the pillar to the right. 
+{.rebolted}
+
+**19. Weakling (6b+) *★★***  
+The right-hand side of the face provides an equally fine route. 
+{.rebolted}
 

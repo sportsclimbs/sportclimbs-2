@@ -32,7 +32,7 @@ another touch lower wall with sustained moves to a hard finishing move onto a le
 good sustained face to a mean overlap.
 
 **8. Blue View (6c+)**  
-the vague blunt arete has a suprisingly tough sequence of moves.
+the vague blunt arête has a suprisingly tough sequence of moves.
 
 **9. The Knew (6c+) *&starf;***  
 the thin crackline with good moves and a hard finishing move to the belay.

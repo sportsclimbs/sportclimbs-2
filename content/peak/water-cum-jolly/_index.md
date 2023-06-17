@@ -2,6 +2,7 @@
 title: Water-Cum-Jolly
 linktitle: WCJ
 draft: false
+weight: 80
 map: [53.253403940418615, -1.7543363571166994]
 markers:
 - [53.25096151127931, -1.751224994659424, The Cornice]

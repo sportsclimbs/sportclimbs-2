@@ -16,7 +16,7 @@ The left-hand face with four worthwhile routes.
 {.mt0}
 
 **1. Sub-Contraction (7a)**  
-The left arete of wall. Single desperate move.
+The left arête of wall. Single desperate move.
 
 **2. Simple Addition (6c) *★★***  
 Climb the flat wall seamed with pockets. Sustained.

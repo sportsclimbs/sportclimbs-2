@@ -23,7 +23,7 @@ Not quite so fine to the right and tough through the bulges
 *F.A. Ian Dunn 1991*
 
 **16. The Bomb is Coming (7a) *★***  
-Powerful moves up the hanging arete. Vegetated exit to a bolt belay.  
+Powerful moves up the hanging arête. Vegetated exit to a bolt belay.  
 *F.A. Paul Mitchell 1983*
 
 **Direct Hit (7b) *★***  

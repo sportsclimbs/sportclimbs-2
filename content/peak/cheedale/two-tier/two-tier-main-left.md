@@ -12,7 +12,7 @@ css:
 ![Two Tier Main Wall left topo](/img/peak/cheedale/two-tier-main-left.jpg)
 
 **1. To Boltly Go (7b+) *&starf;***  
-Start up the groove and move right via a good hold onto the blunt arete. Climb this then over the slight bulge. Head leftwards to the bolt belay on *Hunger Strike*.  
+Start up the groove and move right via a good hold onto the blunt arête. Climb this then over the slight bulge. Head leftwards to the bolt belay on *Hunger Strike*.  
 *F.A. Mark Rankine 2021*
 
 **2. Stogumber Club (7c) *&starf;***  

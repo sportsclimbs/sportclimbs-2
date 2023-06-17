@@ -28,5 +28,5 @@ _Stray Cats_ rebolted at 7a ★: _Each Way Nudger_ rebolted at 6b+ ★★: _Spor
 
 ![Still Life (7b+) Main Cliff.](/img/south-wales/south-east-limestone/still-life.jpg)  
 Still Life (7b+) Main Cliff.
-{.photo}
+{.topo .mauto .mt4}
 

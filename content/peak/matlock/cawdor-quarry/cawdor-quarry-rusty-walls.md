@@ -2,27 +2,53 @@
 title: Rusty Walls
 draft: false
 placeholder: false
+columns: true
+weight: 40
 ---
 
 
 
-            <div class="topo">
-                <img src="/img/peak/matlock/CAWDOR3.gif" WIDTH="613" HEIGHT="362">
-            </div>
+![Rusty Walls topo Cawdor Quarry](/img/peak/matlock/CAWDOR3.gif)
+{.topo .w100}
 
-            <p><b>1.Twiddledinks (6a+) </b>easy lower wall to pleasant headwall.</p>
-            <p><b>2. Fiddlesticks (6b+) </b>left-hand side of good headwall.</p>
-            <p><b>3. Ta Nick (7a) </b>easy ledges to excellent and fingery final headwall.</p>
-            <p><b>4. Lady Luck (6a) &starf;</b> pleasant easy wall to steeper headwall finishing leftwards via crack.</p>
-            <p><b>5. Apologia (6a+) &starf; </b>sharp arete to good ledge. Pleasant face climbing directly above.</p>
-            <p><b>6. Rust Never Sleeps (6c) &starf;&starf; </b>side wall of arete. Start via 'rusty' cracks and swing right to 3rd BR. Fingery moves, then sustained climbing above. <span class="new">Rebolted</span></p>
-            <p><b>7. Willows Never Weep (6a+) &starf; </b>open corner line leading to fine steep finish on headwall</p>
-            <p><b>8. Trust Never Keeps (6c) </b>&starf; short wall and rib to steep finish on headwall. Hardest at top with good moves.</p>
-            <p><b>9. Encore Plus (6b) </b>left-hand side of walls right of vague corner. Easy at first, then fine steep climbing on headwall. Harder for short. <span class="new">Rebolted and new belay added</span></p>
-            <p><b>10. The Impulsive, Compulsive Beat (6b+) &starf; </b>right-hand side of wall. Easy at first, then fine sustained climbing above. <span class="new">Rebolted and new belay added</span></p>
-            <p><b>11 Triple X (6a+) &starf; </b>prominent crackline with short tricky section in middle. Steeper than it looks.</p>
-            <p><b>12. Double Cross-Over (7b) &starf;&starf; </b>superb climbing via the prominent pillar with a short desperate section above the overlap. High in grade.</p>
-            <p><b>13. New Face in Hell (6c) </b>desperate starting wall to face and easier groove.</p>
-            <p><b>14. Coward (6a+) </b>crack and short arete to ledge. Tight groove and arete above.</p>
+**1.Twiddledinks (6a+)**  
+Easy lower wall to pleasant headwall.
 
+**2. Fiddlesticks (6b+)**  
+Left-hand side of good headwall.
 
+**3. Ta Nick (7a)**  
+Easy ledges to excellent and fingery final headwall.
+
+**4. Lady Luck (6a) *★***  
+Pleasant easy wall to steeper headwall finishing leftwards via crack.
+
+**5. Apologia (6a+) *★***  
+Sharp arête to good ledge. Pleasant face climbing directly above.
+
+**6. Rust Never Sleeps (6c) *★★***  
+Side wall of arête. Start via 'rusty' cracks and swing right to 3rd BR. Fingery moves, then sustained climbing above. Rebolted
+
+**7. Willows Never Weep (6a+) *★***  
+Open corner line leading to fine steep finish on headwall
+
+**8. Trust Never Keeps (6c) *★***  
+ short wall and rib to steep finish on headwall. Hardest at top with good moves.
+
+**9. Encore Plus (6b)**  
+Left-hand side of walls right of vague corner. Easy at first, then fine steep climbing on headwall. Harder for short. Rebolted and new belay added
+
+**10. The Impulsive, Compulsive Beat (6b+) *★***  
+Right-hand side of wall. Easy at first, then fine sustained climbing above. Rebolted and new belay added
+
+**11 Triple X (6a+) *★***  
+Prominent crackline with short tricky section in middle. Steeper than it looks.
+
+**12. Double Cross-Over (7b) *★★***  
+Superb climbing via the prominent pillar with a short desperate section above the overlap. High in grade.
+
+**13. New Face in Hell (6c)**  
+Desperate starting wall to face and easier groove.
+
+**14. Coward (6a+)**  
+Crack and short arête to ledge. Tight groove and arête above.

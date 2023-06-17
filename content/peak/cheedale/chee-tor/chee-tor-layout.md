@@ -16,7 +16,7 @@ Chock block full of lower grade extremes mixed with the odd E5 and sport route, 
 
 ## Mortlock's Area
 
-Perhaps the showpiece area of the crag with some of the Peak District's milestone extreme's. Home to such classics as Mortlock's Arete, Apocalypse, Golden Mile and Tequila Mockingbird. Fingery and demanding routes throughout.
+Perhaps the showpiece area of the crag with some of the Peak District's milestone extreme's. Home to such classics as Mortlock's arête, Apocalypse, Golden Mile and Tequila Mockingbird. Fingery and demanding routes throughout.
 
 ## Central Area
 

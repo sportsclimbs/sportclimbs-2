@@ -20,10 +20,10 @@ Surprisingly pleasant and fingery wall.
 The final route taking the steep hidden wall around corner. Thuggy, direct and fine
 
 **3. Unstained (6b)**  
-Side wall of face into chimney exiting left and up onto arete.
+Side wall of face into chimney exiting left and up onto arête.
 
 **4. Calcite Consequence (6a+) *&starf;***  
-Short tricky arete, then groove in arete above. Good warm up. Belay renewed.
+Short tricky arête, then groove in arête above. Good warm up. Belay renewed.
 
 **5. The Calc Spur (6c+) *&starf;&starf;***  
 The shallow hanging scoop and wall above prominent flake. Belay renewed.

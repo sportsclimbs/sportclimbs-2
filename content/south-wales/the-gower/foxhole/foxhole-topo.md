@@ -60,10 +60,10 @@ Links *Palace..* into *Salva Mea* from the second bolt on the former.
 Powerful. Two vicious moves on the alarmingly overhanging wall.
 
 **11. Chicken Licken (6c+)**  
-A short, sharp shock up the overhanging arete.
+A short, sharp shock up the overhanging arête.
 
 **12. Foxy Lady (7a) *★★***  
-A magnificent route. Climb the left arete to a ledge then continue up lefthand line of bolts on the head wall. You can also start up *Chicken Licken* to get **Foxy Chicken (7a+)**.
+A magnificent route. Climb the left arête to a ledge then continue up lefthand line of bolts on the head wall. You can also start up *Chicken Licken* to get **Foxy Chicken (7a+)**.
 
 **13. No Epoxy Au Oxley (6b+)**  
 Climb *Foxy Lady* to grassy ledges and follow these leftwards to join *Pioneers of the Hypnotic Groove*. Finish up this.

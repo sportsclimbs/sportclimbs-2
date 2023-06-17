@@ -10,7 +10,7 @@ columns: true
 
 The first routes you come to in the quarry are part of Chunky Buttress. A little further left is the adjoining Sandy Wall.
 
-The first 3 routes are part of Sandy Wall (see [full topo](darlton-two-sandy-wall.htm))
+The first 3 routes are part of Sandy Wall (see [full topo](../darlton-two-sandy-wall/))
 {.csa}
 
 ![Chunky buttress topo](/img/peak/stoney/darlton2-Teapot.jpg)
@@ -36,7 +36,7 @@ The next routes are just around the corner of the buttress.
 
 
 **1. Bride of Chunky (6b+)**  
-The arete, difficult, to easier climbing.
+The arête, difficult, to easier climbing.
 
 **2. Lurid Persona (6b)**  
 A more balanced line.

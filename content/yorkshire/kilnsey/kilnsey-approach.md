@@ -9,14 +9,14 @@ markers:
 placeholder: false
 ---
 
-            <h3>Approach</h3>
+## Approach
 
-            <p>This roadside crag is unmissable when driving North on the B6160 from Skipton. </p>
+This roadside crag is unmissable when driving North on the B6160 from Skipton.
 
-            <p>There are a few small roadside laybys directly in front of the crag. If these are full there is more space in a layby about half a kilometre past the crag on the right.</p>
+There are a few small roadside laybys directly in front of the crag. If these are full there is more space in a layby about half a kilometre past the crag on the right.
 
-            <p>A stream prevents access to the cliff from point on the road. The usual crossing place is at the South end of the crag where a path leads up to the imposing roof capped Directissima wall.</p>
+A stream prevents access to the cliff from point on the road. The usual crossing place is at the South end of the crag where a path leads up to the imposing roof capped Directissima wall.
 
-            <h3>Access</h3>
+## Access
 
-            <p>The crag is on private land. The owner allows climbing but asks that no dogs be taken to the crag.</p>
+The crag is on private land. The owner allows climbing but asks that no dogs be taken to the crag.

@@ -2,9 +2,9 @@
 title: Black is Beautiful
 draft: true
 placeholder: false
+columns: true
 ---
 
+![Black is Beautiful](/img/north-wales/border-region/clwyd-limestone/Black-is-Beautiful.jpg)
 
-<div class="photo"><img src="/img/north-wales/border-region/clwyd-limestone/Black-is-Beautiful.jpg" WIDTH="350" HEIGHT="540">
-    <p>Black is Beautiful (E4 6b), Llanymynech.</p>
-</div>
+Black is Beautiful (E4 6b), Llanymynech.

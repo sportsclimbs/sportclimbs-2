@@ -9,7 +9,7 @@ placeholder: false
 
 
 ![First ascent of On the Stroke of 5000](/home-page/5000.jpg)
-Gary Gibson on the first ascent of [On the Stroke of 5000](/peak/buxton/harpur-hill/harpur-hill-nidges-wall/#perched-block-buttress), his 5000th new route.
+Gary Gibson on the first ascent of [On the Stroke of 5000](/peak/buxton/harpur-hill/perched-block-buttress/), his 5000th new route.
 
 
 

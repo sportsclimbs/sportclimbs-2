@@ -13,13 +13,13 @@ columns: true
 easy slab on right
 
 **2. Blandness (6a)**  
-face just right of arete.
+face just right of arête.
 
 **3. Sadness (5)**  
 faint groove system with PRs. Rebolted
 
 **4. Madness**  
-(6b) rounded arete and easy walls above
+(6b) rounded arête and easy walls above
 
 **5. Gladness (4)**  
 shallow groove and left exit.
@@ -31,7 +31,7 @@ right-hand line on first major wall. Pleasant.
 centre of wall above ledge. Surprisingly technical.
 
 **8. The Slap of Luxury (7a) *★***  
-right-hand side of arete and wall above ledge. Difficult, snatchy start and a technical finish.
+right-hand side of arête and wall above ledge. Difficult, snatchy start and a technical finish.
 
 **9. Slipping into Luxury (6b+) *★★***  
 technical face and dinks. Sustained and very pleasant.

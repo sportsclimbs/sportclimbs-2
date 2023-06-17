@@ -35,7 +35,7 @@ Climb the wall and move left into the flake crack of *Fey* and finish up this.
 *F.A. Gary Gibson 1983*
 
 **2. Succubus (7b+) *&starf;&starf;***  
-Takes the wall R of War Memorial up to and through the bulge to gain the arete above. A long sling is often used on the first bolt above the bulge to make clipping easier. Tough.  
+Takes the wall R of War Memorial up to and through the bulge to gain the arête above. A long sling is often used on the first bolt above the bulge to make clipping easier. Tough.  
 *F.A. Seb Grieve 1994*
 
 **Shazam E4 6a *&starf;***  

@@ -1,8 +1,11 @@
 ---
 title: Helicopter Quarry
-linktitle: Helicopter
+Linktitle: Helicopter
 draft: false
 placeholder: false
+Css:
+- ".helimaps {display: flex; flex-wrap: wrap; width: fit-content; margin: 4em auto;}"
+- ".content .helimaps img {margin: 0; max-width: 100%;}"
 ---
 
 
@@ -23,7 +26,22 @@ This crag, which is very easy to locate, is situated on the hillside above the r
 
 This is a very expansive quarry with a lot of poor rock. There is, however, a very compact wall on the middle tier complete with an overlap and good quality, high friction rock.
 
+
+
+## Approach
+
+This is relatively straightforward. When travelling down the A6 from Bakewell, turn right at the new roundabout in Matlock and take the first right into Sainsbury's. Turn immediately right before the petrol station and follow the road up the hill until the new tarmac disappears. The entrance to the quarry is just on the left beyond the obvious layby: an old board, now removed used to mark the quarry entrance.
+
+
+## Quarry Layout {.clb}
+
+The quarry is vast and contains a helicopter landing pad in its centre. To reach the second tier skirt left via a track on the left just before this landing pad and follow it round to the obvious wall with a strip overhang in its centre. Other routes are to be found in the close proximity to this and are described in text.
+
+NB. Blowing Wind, Street Cred and Coldfish sectors are all together on the [Street Cred Walls](/peak/matlock/helicopter-quarry/helicopter-street-cred-walls/) page.
+
+![Helicopter Quarry map 1](/img/peak/matlock/hallmap1.gif) ![Helicopter Quarry map 2](/img/peak/matlock/HALLMAP2.gif)
+{.helimaps}
+
 ## Access
 
-It should be made clear that Tarmac does not consent to any climbing activity on its property and that this site in no way aims to encourage climbers to participate in such activities there.
-
+It should be made clear that Tarmac does not consent to any climbing activity on its property and that this site in no way encourages any climber to so do.

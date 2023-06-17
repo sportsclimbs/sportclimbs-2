@@ -18,7 +18,7 @@ markers:
 
 ## Character 
 
-{{< figure src="/img/peak/stoney/Stand-Out-Arete.jpg"caption="Unknown climber on the classic 6b, Stand Out Arete">}}
+{{< figure src="/img/peak/stoney/Stand-Out-arête.jpg"caption="Unknown climber on the classic 6b, Stand Out arête">}}
 
 An open and exposed face known to the locals as the Sphinx, this impressive buttress is easily seen to the right of the horseshoe bend when travelling from the parking area of Horseshoe Quarry towards Stoney Middleton. It gives a handful of routes with ease of access, ideal for a summer's evening.
 

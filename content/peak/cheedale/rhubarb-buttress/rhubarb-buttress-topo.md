@@ -83,7 +83,7 @@ The desperate bulge is marked by long sling.
 A desperate start leads to scoop and tree above.
 
 **Blood Transfusion E4 6b *★***  
-A hard start, crux past BR, then vague arete, TR, above.
+A hard start, crux past BR, then vague arête, TR, above.
 
 Further to the right and at a lower level close to the path are two more sport routes.
 {.csa .mt2}

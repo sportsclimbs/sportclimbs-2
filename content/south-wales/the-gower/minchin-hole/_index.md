@@ -10,11 +10,12 @@ The crag became very popular as a secluded retreat for climbers and no other vis
 
 At this moment in time all of the bolts have been removed but there remains a fairly continuous debate as to whether they should be replaced. Watch this space!
 
-![Eugene Jones on The Raven.  ](/img/south-wales/the-gower/Raven-1.jpg)  
+
+![Eugene Jones on The Raven.](/img/south-wales/the-gower/Raven-1.jpg)
 Eugene Jones on The Raven.  
 _Photo Carl Ryan_
 {.photo .fll}
 
-![Gary Gibson on the first ascent of Crawling King Snake.](/img/south-wales/the-gower/King-Snake.jpg)  
+![Gary Gibson on the first ascent of Crawling King Snake.](/img/south-wales/the-gower/King-Snake.jpg)
 Gary Gibson on the first ascent of Crawling King Snake. _Photo Carl Ryan_
 {.photo .fll}

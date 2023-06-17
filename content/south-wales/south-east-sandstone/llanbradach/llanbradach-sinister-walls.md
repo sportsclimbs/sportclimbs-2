@@ -24,7 +24,7 @@ Excellent fingery wall climbing with a dynamic crux.
 Climb up cracks and the wall past 'eye' to a difficult slab. Good climbing, sometimes wet but still climbable.
 
 **5. Letters of Life (6c) *★***  
-The left side of blunt arete has one difficult move. Also gives access to the ledge for routes above. 
+The left side of blunt arête has one difficult move. Also gives access to the ledge for routes above. 
 {.rebolted}
 
 **6. Dreaming in Colour (7a) *★★***  

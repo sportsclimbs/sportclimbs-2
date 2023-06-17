@@ -3,50 +3,92 @@ title: Smalldale Left
 weight: 30
 draft: false
 placeholder: false
+columns: true
 ---
 
 
+This covers the crags up to the left of Main Wall including the routes on the left side of the Main Wall buttress.
 
-<style>
-    .floatright {
-        float: right;
-        width: calc(100% - 590px);
-    }
-</style>
+## Bosch Wall
 
-<p>This covers the crags up to the left of Main Wall including the routes on the left side of the Main Wall buttress.</p>
+![Smalldale topo 3](/img/peak/buxton/smalldale-bosch-wall.jpg)
+{.topo}
 
-            <h2>Bosch Walls</h2>
+On the upper left-hand side of the walls are four short but worthwhile routes.
+{.csa}
 
-            <div class="floatright">
-                <p><b>1. Bish, Bash, Bosch (6b)</b> one hard move.</p>
-                <p><b>2. Bolt 45 (6a+)</b> more like E2 5b!</p>
-                <p><b>3. Bosch Spice (6a+)</b> more like E3 5b!</p>
-                <p><b>4. Eight till Late (6a)</b> pleasant</p>
-            </div>
-            
-            <div class="topo"><img src="/img/peak/buxton/Bosch.jpg" width="400" height="268" style="width: min(100%, 550px);"></div>
-            
-            <h2>Obelix Walls</h2>
+**1. Bish, Bash, Bosch (6b)**  
+One hard move.
 
-            <div class="floatright">
-                <p>On the upper left-hand side of the walls are three worthwhile but short routes.</p>
+**2. Bolt 45 (6a+)**  
+Feels more like an E2 5b!
 
-                <p><b>1. Beastiality (6a)</b></p>
-                <p><b>2. Killer Bee (6c) &starf;</b></p>
-                <p><b>3. The Ladybird Killers (6c+)</b></p>
-                <p><b>4. Six Bee or Not Six Bee (6c+)</b></p>
-                <p><b>5. Bee Movie (6a+)</b></p>
-                <p><b>6. To Bee a Star (6a)</b> pleasant wall with steep finale</p>
-                <p><b>7. Terry and June (6c)</b> Wall to technical finish in thin crack.</p>
-                <p><b>8. Tawk the Squawk (7a)</b> Left-hand side of arete</p>
-                <p><b>9.. Squawkietawkie (7a)</b> Hanging arete with hard start through roofs.</p>
-                <p><b>10. Can'tgetmyfix (6c+)</b> thin crack and arete</p>
-                <p><b>11. Obelix (7b) &starf;</b> centre of fine tower with intricate fingery finish. <span class="new">Rebolted</span></p>
-                <p><b>12. Getafix (7b) &starf;</b> right arete of tower bold and fine. <span class="new">Rebolted</span></p>
-                <p><b>13. Play it Again Sam HVS 5a</b></p>
-                <p><b>14. Reservoir Frogs (6c+) &starf;&starf;</b> Centre of pillar wall gives a fine introduction route. <span class="new">Rebolted</span></p>
-            </div>
+**3. Bosch Spice (6a+)**  
+More like an E3 5b!
 
-            <div class="topo"><img src="/img/peak/buxton/Six-Bee.jpg" width="550" height="257"></div>
-            <div class="topo"><img src="/img/peak/buxton/Small-Side.jpg" width="550" height="643"></div>
+**4. Eight till Late (6a)**  
+Quite pleasant.
+
+
+## Six Bee Walls
+
+The Six Bee walls are notable for their total absence of 6b's. More short routes for the connoisseur that shouldn't be underestimated.
+{.csa}
+
+![Smalldale topo 3](/img/peak/buxton/smalldale-six-bee-wall.jpg)
+{.topo}
+
+**1. Beastiality (6a)**  
+The furthest left up a detached pillar of rock.
+
+**2. Killer Bee (6c) *★***  
+The best of the bunch here.
+
+**3. The Ladybird Killers (6c+)**
+
+**4. Six Bee or Not Six Bee? (6c+)**  
+Presumably not! Quite technical.
+
+**5. Bee Movie (6a+)**
+
+**6. To Bee a Star (6a)**  
+Pleasant wall with steep finish.
+
+**7. Terry and June (6c)**  
+On the first topo! Wall to technical finish in thin crack.
+
+The corner to the right is **Play it Again Sam (HVS 5a)**.
+{.csa}
+
+## Obelix Walls
+
+![Smalldale side wall topo 3](/img/peak/buxton/smalldale-side-wall.jpg)
+{.topo}
+
+These are just to the left of the Main Wall after it turns from the arête of *First Offence* (which is 6c+).
+{.csa}
+
+**8. Tawk the Squawk (7a)**  
+On the second topo. Left-hand side of arête.
+
+**9.. Squawkietawkie (7a)**  
+Hanging arête with hard start through roofs.
+
+**10. Can'tgetmyfix (6c+)**  
+Thin crack and arête.
+
+**11. Obelix (7b) *★***  
+Centre of fine tower with intricate fingery finish. 
+{.rebolted}
+
+**12. Getafix (7b) *★***  
+The right arête of tower is bold and fine. 
+{.rebolted}
+
+**13. Play it Again Sam HVS 5a**
+The obvious corner line right of the arête.
+
+**14. Reservoir Frogs (6c+) *★★***  
+A fine climb directly up the centre of the slim wall between the corner and the arête. Hard to read and with some committing moves near the top.
+{.rebolted}
+

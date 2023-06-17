@@ -25,7 +25,7 @@ css:
 The climbing is located in 3 areas: The Lower Quarry, The Natural Crags and The Upper Quarry. Most of the climbing here is located in the lower quarry which is subdivided into different sectors. The Natural Crags offer only traditional climbing while The Upper Quarry offers a mix of trad and sport.
 
  ![The Gap map 2](/img/south-wales/south-east-sandstone/GAPMAP2.gif "The Gap layout of the crags") ![The Gap Lower Quarry layout 3](/img/south-wales/south-east-sandstone/GAPMAP3.gif "The lower quarry")
- {.topo}
+ {.topo .mauto .mt4}
 
 
 

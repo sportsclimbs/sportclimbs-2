@@ -2,9 +2,8 @@
 title: Racetrack Playa
 draft: false
 placeholder: false
-date: 2023-05-20T10:05:55+01:00
-summary: Harpur Hill, has a new topo with new routes.
 columns: true
+date: 2023-05-20T10:05:55+01:00
 ---
 
 
@@ -27,15 +26,15 @@ A clean wall with bulge in the centre.
 Climbs the obvious crackline.
 
 **6. The Ant Hill mob (5+)**  
+ 
 The right-hand crackline.
 
 **7. Noise Annoys (6a)**
-
 The wall in the far right-hand corner of the quarry has four routes overlap and sharp edge to shared belay C.
 {.csa .mt4}
 
 ![Racetrack Far Corner](/img/peak/buxton/racetrack-far-corner.jpg)
-{.topo}
+{.topo .w50}
 
 **A. The Arkansas Chuggabug (6b)**  
 Climb the centre of the wall.
@@ -44,18 +43,19 @@ Climb the centre of the wall.
 NEW the sharp edge and wall to shared belay.
 
 **C. Sawtooth (6b)**  
-NEW the right arete.
+NEW the right arête.
 
 ![The line of Muttleys Slab](/img/peak/buxton/hh-racetrack-muttleys-slab.jpg)
 {.topo}
 
-**Muttley's Slab (4)** takes the slab line left of *Pat Pending*.
+**Muttley's Slab (4)**  
+Takes the slab line left of *Pat Pending*.
 
 
 ![Racetrack Playa 2](/img/peak/buxton/hh-racetrack-2.jpg)
 {.topo}
 
-**1. Pat Pending (6a)** 
+**1. Pat Pending (6a)**  
 
 **2. Pole Position (6a+)**  
 A straightforward slab and difficult overlap. 
@@ -65,47 +65,47 @@ A straightforward slab and difficult overlap.
 The crackline to a belay on the left. 
 {.rebolted}
 
-**4. Checkered Flag (5+)** ★  
+**4. Checkered Flag (5+) *★***  
 A pleasant sustained face.
 {.rebolted}
 
 **5. Peter Perfect (5)**  
-The easiest and best on the slab finishing up the arete.
+The easiest and best on the slab finishing up the arête.
 {.rebolted}
 
 ![Racetrack Playa 1](/img/peak/buxton/hh-racetrack-1.jpg)
 {.topo}
 
-**1. Turbo Terrific (5)** 
+**1. Turbo Terrific (5)**  
 
 **2. Dastardly (5+)**
 
 **3. Rock and Gravel (5+)**
 
 **4. The Whacky Races (5)**  
-A steep start on arete leads to a slabby finish.
+A steep start on arête leads to a slabby finish.
 
-**5. Compact Pussycat (5)** ★
+**5. Compact Pussycat (5) *★***  
 
-**6. The Silver Stone (6a)** ★  
-A pleasant arete with tricky start.
+**6. The Silver Stone (6a) *★***  
+A pleasant arête with tricky start.
 
-**7. Extended Playa (6b)** ★
+**7. Extended Playa (6b) *★***  
 
-**8. Long Playa (6a+)** ★★  
+**8. Long Playa (6a+) *★★***  
 An intricate face climb which starts on the rib.
 
-**9. Silvery Stone (6a)** ★  
+**9. Silvery Stone (6a) *★***  
 The fine thin crack, groove and short headwall.
 
-**10. Dodgem Central (6a+)** ★  
+**10. Dodgem Central (6a+) *★***  
 Climbs up the centre of overlap on buckets.
 
-**11. Drag Racing Central (5+)** ★  
+**11. Drag Racing Central (5+) *★***  
 Climb the short wall into a corner to an easier finish above.
 
-**12. Life's a Drag (6a+)** ★  
-The best route here via arete and overlap on jugs.
+**12. Life's a Drag (6a+) *★***  
+The best route here via arête and overlap on jugs.
 
 **13. TT Special (5)**  
 The short slabby face with a rib.
@@ -118,11 +118,11 @@ Thin face climbing with technical start.
 **16. Trick Cyclist (6b+)**  
 Takes the short slab to a technical finish above the scoop.
 
-**17. Speed Freak (6b)** ★  
+**17. Speed Freak (6b) *★***  
 The varied right-hand line.
 
 **18. The Creepy Coupe (6a)**  
-Takes the arete to the right.
+Takes the arête to the right.
 
 **19. Surplus Special (6a)**  
 Just right of Creepy Coupe.
@@ -131,28 +131,28 @@ Just right of Creepy Coupe.
 {.topo}
 
 **1. The Buzz Wagon (6a)**  
-THe short wall and arete above ledge.
+THe short wall and arête above ledge.
 
 **2. Lap Times (5+)**  
-A pleasant arete with a powerful bulge.
+A pleasant arête with a powerful bulge.
 
-**3. Man on a Mission (6b+)** &starf;  
+**3. Man on a Mission (6b+) *★***  
 The thin crack and overlap just left of the next route.
 
-**4. Screaming Target E3 6a** ★  
+**4. Screaming Target E3 6a *★***  
 An intricate and highly technical face.
 
 **5. Play de Las Americas (6a)**  
 The crackline to the shared belay on the right.
 
-**6. Brooklands (6a+)** ★  
+**6. Brooklands (6a+) *★***  
 Fine climbing via a groove slight overlap and technical headwall.
 
 **7. Bone-man Connection (E2 5c)**  
-The crack left of the arete and face above.
+The crack left of the arête and face above.
 
 **8. Fist to Fist is Done (VS 4c)**  
-The right arete of the face.
+The right arête of the face.
 
 **9. Mikey Dread (HVS 4c)**  
 Climb the corner with an overhang.
@@ -160,14 +160,14 @@ Climb the corner with an overhang.
 **10. Scientist (E1 5b)**  
 The corner/groove system right again.
 
-**11. Speed Trials (7a)** ★  
+**11. Speed Trials (7a) *★***  
 The technical slabby face with a powerful overlap sequence.
 
 **12. Hogs (6a)**  
 The short face has some good moves.
 
 **13. Quads (5)**  
-The right arete of the face.
+The right arête of the face.
 
 There are two more routes on the isolated face:
 {.csa .mt4}
@@ -178,5 +178,5 @@ There are two more routes on the isolated face:
 **29. High Impact (6a+)**  
 The centre of isolated face. Well worth doing.
 
-**30. Mean Machine(6a+)** ★  
-The wall to the right using the arete to reach the belay.
+**30. Mean Machine(6a+) *★***  
+The wall to the right using the arête to reach the belay.

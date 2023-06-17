@@ -1,8 +1,8 @@
 ---
 title: "Prophecy Sector"
-columns: true
 draft: false
 placeholder: false
+columns: true
 ---
 
             
@@ -11,60 +11,96 @@ placeholder: false
 {.topo}
 
 This is the first area on the upper tier when approaching from the steep path that leads up from the lower tier, L of the Cairn sector.
+{.csa}
 
-**1. Over the Hill (6c) &starf;&starf;** finger crack, bulge and very fine headwall. 
+**1. Over the Hill (6c) *★★***  
+Finger crack, bulge and very fine headwall. 
+{.mt0}
 
-**2. Nostalgia (E4 6a) &starf;&starf;** superb trad. route via sinuous thin crack. New belay added. 
+**2. Nostalgia (E4 6a) *★★***  
+Superb trad. route via sinuous thin crack. New belay added. 
 
-**3. The Omen (6b)** &starf;&starf; long crack and grooveline to right gives a fine outing. <b><span class="new">Rebolted.</span>** 
+**3. The Omen (6b) *★★***  
+Long crack and grooveline to right gives a fine outing. 
+{.rebolted}  
 
-**4. Yogi Bare (7a) &starf;** black face, technical, and fine finish left of BRs. <span class="new">Rebolted.</span>
 
-**5. Four Telling Tales (6c+) &starf;&starf;** thin crack and left-hand side of arete, technical. <span class="new">Rebolted.</span>
+**4. Yogi Bare (7a) *★***  
+Black face, technical, and fine finish left of BRs. 
+{.rebolted}
 
-**6. The Talisman (7a) &starf;** right-hand side of arete. Balancy. <span class="new">Rebolted.</span>
+**5. Four Telling Tales (6c+) *★★***  
+Thin crack and left-hand side of arête, technical. 
+{.rebolted}
 
-**7. Bleingassen (6c) &starf;** long shallow groove line finish via arete and a good sized ledge at the top. <span class="new">Rebolted.</span>
+**6. The Talisman (7a) *★***  
+Right-hand side of arête. Balancy. 
+{.rebolted}
 
-**8. The Oracle (7b+)** short technical test-piece up wall and blunt arete. Thin.
+**7. Bleingassen (6c) *★***  
+Long shallow groove line finish via arête and a good sized ledge at the top. 
+{.rebolted}
 
-**9. The Prophecy (7a)** &starf;&starf; long pitch with superb sustained climbing. Technical low down, airy above. No crack on right. <span class="new">Rebolted.</span>
+**8. The Oracle (7b+)**  
+Short technical test-piece up wall and blunt arête. Thin.
 
-**10. Supernatural (6a)** &starf;&starf; superb new addition taking the long thin crackline to a hard finish. Well worth seeking out. <span class="new">Rebolted.</span>
+**9. The Prophecy (7a) *★★***  
+Long pitch with superb sustained climbing. Technical low down, airy above. No crack on right. 
+{.rebolted}
 
-**11. The Indian Cottage (7a)** shorter route over series of 'blocks'.
+**10. Supernatural (6a) *★★***  
+Superb new addition taking the long thin crackline to a hard finish. Well worth seeking out. 
+{.rebolted}
 
-**12. What a Load of Roti (6a)** &starf; Long route following scoop and flying arete in upper half.
+**11. The Indian Cottage (7a)**  
+Shorter route over series of 'blocks'.
 
-**13. Aloo Gobi (6c)** short flake and technical wall. 
+**12. What a Load of Roti (6a) *★***  
+Long route following scoop and flying arête in upper half.
 
-**14. Z Victor 1 (HVS 5a)** short flake and technical wall. 
+**13. Aloo Gobi (6c)**  
+Short flake and technical wall. 
+
+**14. Z Victor 1 (HVS 5a)**  
+Short flake and technical wall. 
 
 
 ![Prophecy left hand topo](/img/peak/buxton/Harpur-Hill_Prophecy-Sector-LH.jpg)
 {.topo}
 
-**15. Pappadum Groove (6a)** Shallow groove line.
+**15. Pappadum Groove (6a)**  
+Shallow groove line.
 
-**16. Quartz Initial (6b)** another shorty up sharp arete.
+**16. Quartz Initial (6b)**  
+Another shorty up sharp arête.
 
-**17. Duma Key (6a)** blocky start to steep finger crack finale.
+**17. Duma Key (6a)**  
+Blocky start to steep finger crack finale.
 
-**18. Viagra Falls (6c+) &starf;** left-hand side of face with roofs above. Technical low down, tricky through the roof. Keep out of corner.
+**18. Viagra Falls (6c+) *★***  
+Left-hand side of face with roofs above. Technical low down, tricky through the roof. Keep out of corner.
 
-**19. Different Seasons (6b) &starf;** Thin crack up face with technical climbing at half height.
+**19. Different Seasons (6b) *★***  
+Thin crack up face with technical climbing at half height.
 
-**20. Apt Pupil (6c) &starf;** right-hand side of face with hard finish.
+**20. Apt Pupil (6c) *★***  
+Right-hand side of face with hard finish.
 
-**21. In the Gravy (6a+) &starf;** shallow groove on block, then wall above.
+**21. In the Gravy (6a+) *★***  
+Shallow groove on block, then wall above.
 
-**22. From Cradle to Grave (6c) &starf;** pleasant side wall of corner at higher level. Fingery.
+**22. From Cradle to Grave (6c) *★***  
+Pleasant side wall of corner at higher level. Fingery.
 
-**23. Inception (HS 4b)** The corner.
+**23. Inception (HS 4b)**  
+The corner.
 
-**24. Calcite Claws (6c)** unusual calcite arete. Excellent and tough.
+**24. Calcite Claws (6c)**  
+Unusual calcite arête. Excellent and tough.
 
-**25. So Veneer (6b)** just before rock scar, tricky at grade.
+**25. So Veneer (6b)**  
+Just before rock scar, tricky at grade.
 
-**26. The End (6a)** short wall with hard start.
+**26. The End (6a)**  
+Short wall with hard start.
 

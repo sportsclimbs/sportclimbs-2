@@ -30,7 +30,7 @@ Takes a direct line up the centre of the right wall of the groove. Worthwhile.
 The thin crackline right again with a tricky overlap. Becoming polished.
 
 **7 The Long Walk (6c)**  
-The left-hand side of arete has some sketchy moves low down and a good finale. Tight.
+The left-hand side of arête has some sketchy moves low down and a good finale. Tight.
 {.debolted}
 
 **8. The Dark Tower (6b+)  *&starf;***   
@@ -44,10 +44,10 @@ Climb the easy lower wall to a difficult overlap and a spacy finish.
 The large excavated corner exiting right. Belay further right.
 
 **11. Calamity Jane (6b+)**  
-The right wall of the corner keeping on the left-hand side of the arete.
+The right wall of the corner keeping on the left-hand side of the arête.
 
 **12. Jeff Garat (6a+)**  
-The wall just to the right of the arete.
+The wall just to the right of the arête.
 
 **13. The Dogs (6b)**  
 The central pillar. It's hard to keep to the line.

@@ -73,7 +73,7 @@ A short intense sequence above the break.
 A good warm up via a vague pillar.
 
 **19. Late at Night (6b+)**  
-A thin crack overlap followed by a short arete.
+A thin crack overlap followed by a short arête.
 
 **Root Cause Analysis (6b)**  
 A tricky lower wall leads to a crack and belay out left. 
@@ -132,7 +132,7 @@ A fingery bulge and good climbing via the obvious hole.
 To the R of the hole of *The State of the Nation* is an obvious roof. Climb the slab below the the overhang above.
 
 **28. A Timer and a Place (6a) &starf;**  
-A pleasant arete moving rightwards through bulge to belay.
+A pleasant arête moving rightwards through bulge to belay.
 
 **29. Deconstruction (6a)**  
 Pleasant face climbing leads to a final bulge.

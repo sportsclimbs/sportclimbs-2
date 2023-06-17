@@ -10,77 +10,106 @@ This is on the upper tier to the right of Papacy Buttress and left of the Prophe
 ![Harpur Hill Exclusion sector topo](/img/peak/buxton/hh-exclusion.jpg)
 { .topo }
 
-**1. Danny Cool (5)** slim rib with short pleasant and technical moves.
+**1. Danny Cool (5)**  
+Slim rib with short pleasant and technical moves.
 
-**2. Cool Danny (6b+)** enjoyable face climbing after a tricky start over the overlap. Slightly up the banking. 
+**2. Cool Danny (6b+)**  
+Enjoyable face climbing after a tricky start over the overlap. Slightly up the banking. 
 { .rebolted } 
 
-**3. Screaming Wheels (6b+) &starf;** the rounded arete of the buttress, direct past the BRs at the start. 
+**3. Screaming Wheels (6b+) *★***  
+The rounded arête of the buttress, direct past the BRs at the start. 
 
-**4. Swain's World (6b)** &starf; Fine exposed climbing just right of the arete of the buttress. Steep but juggy. 
+**4. Swain's World (6b) *★***  
+Fine exposed climbing just right of the arête of the buttress. Steep but juggy. 
 { .rebolted } 
 
-**5. No Man' Land (6c)** &starf; branches left out of Exclusion Zone to climb the face via a thin crack. Airy. 
+**5. No Man' Land (6c) *★***  
+Branches left out of Exclusion Zone to climb the face via a thin crack. Airy. 
 
-**6. Exclusion Zone (6c)** &starf;&starf; the centre of the fine face with a pumpy finale. Tricky first clip. 
+**6. Exclusion Zone (6c) *★★***  
+The centre of the fine face with a pumpy finale. Tricky first clip. 
 { .retrobolted } 
 
-**7. The Iron Curtain (6b) &starf;** Fine line via rib and shallow groove culminating in steep finale. 
+**7. The Iron Curtain (6b) *★***  
+Fine line via rib and shallow groove culminating in steep finale. 
 
-**8. Mouse Hunt (6c) &starf;** Fine lower wall leads to an open and superb finish. 
+**8. Mouse Hunt (6c) *★***  
+Fine lower wall leads to an open and superb finish. 
 { .retrobolted }
 
-**9. Slowly, Slowly Catch a Monkey (6a+)** &starf; groove follow by thin crack and protruding pillar. Very good. 
+**9. Slowly, Slowly Catch a Monkey (6a+) *★***  
+groove follow by thin crack and protruding pillar. Very good. 
 
-**10. Thing Thang (7a) &starf;** left-hand of two short routes up the hillside. Worthwhile. 
+**10. Thing Thang (7a) *★***  
+Left-hand of two short routes up the hillside. Worthwhile. 
 { .rebolted } 
 
-**11. Thang Thing (7a)** right-hand line. Keep to face as closely as possible for the grade. 
+**11. Thang Thing (7a)**  
+Right-hand line. Keep to face as closely as possible for the grade. 
 
-**12. Slab de Lune (6a)** pleasant intricate slab returning to moss, unfortunately. 
+**12. Slab de Lune (6a)**  
+Pleasant intricate slab returning to moss, unfortunately. 
 { .rebolted } 
 
-**Master of a lune (6b)** slim face to right proves worthwhile. 
+**Master of a lune (6b)**  
+Slim face to right proves worthwhile. 
 
-**13. Sack of Stones (6b) &starf;** left-hand of two excellent slabby face routes. Direct on line for grade, 6a+ using flake on left.. 
+**13. Sack of Stones (6b) *★***  
+Left-hand of two excellent slabby face routes. Direct on line for grade, 6a+ using flake on left.. 
 { .rebolted } 
 
-**14. Bag of Bones (6a+) &starf;&starf;** a little gem via a blunt rib left of a prominent block. 
+**14. Bag of Bones (6a+) *★★***  
+A little gem via a blunt rib left of a prominent block. 
 
-**15. Plate of Scones (6b+) &starf;** a surprising find with a trying crux from the ledge. Easier above. 
+**15. Plate of Scones (6b+) *★***  
+A surprising find with a trying crux from the ledge. Easier above. 
 { .rebolted } 
 
-**16. Sara Laughs (6b) &starf;** more pleasant intricate face climbing above ledges. 
+**16. Sara Laughs (6b) *★***  
+More pleasant intricate face climbing above ledges. 
 
-**17. Tenth Heaven (6b) &starf;** pleasant technical face leading to easy flake crack. 
+**17. Tenth Heaven (6b) *★***  
+Pleasant technical face leading to easy flake crack. 
 
-**18. Calci Mauve (6b+) &starf;&starf;** excellent climbing via a pillar, technical rib and superb upper wall. High quality. 
+**18. Calci Mauve (6b+) *★★***  
+Excellent climbing via a pillar, technical rib and superb upper wall. High quality. 
 { .rebolted } 
 
-**19. Glas Double (7a) &starf;** right-hand variant with some superb thin moves. 
+**19. Glas Double (7a) *★***  
+Right-hand variant with some superb thin moves. 
 
-**20. Flakey Pastry HVS 5a &starf;** the fine flake corner crack system to a lower off. Well worth seeking out. 
+**20. Flakey Pastry HVS 5a *★***  
+The fine flake corner crack system to a lower off. Well worth seeking out. 
 
-**21. Over the Hill (6c) &starf;&starf;** finger crack, bulge and very fine headwall. 
+**21. Over the Hill (6c) *★★***  
+Finger crack, bulge and very fine headwall. 
 
-**22. Nostalgia E4 6a &starf;&starf;** superb trad. route via sinuous thin crack. New belay added. 
+**22. Nostalgia E4 6a *★★***  
+Superb trad. route via sinuous thin crack. New belay added. 
 
-**23. The Omen (6b) &starf;&starf;** long crack and grooveline to right gives a fine outing.
+**23. The Omen (6b) *★★***  
+Long crack and grooveline to right gives a fine outing.
 { .rebolted } 
 
-**24. Yogi Bare (7a)**  &starf;black face, technical, and fine finish left of BRs.
+**24. Yogi Bare (7a) *★***  
+Black face, technical, and fine finish left of BRs.
 { .rebolted } 
 
 ![Four Telling Tales at Harpur Hill](/img/peak/buxton/Harpur-Hill_Four-Telling-Tales.jpg)
 { .topo }
 
-**25.  Four Telling Tales (6c+)** &starf;&starf; thin crack and left-hand side of arete, technical. 
+**25.  Four Telling Tales (6c+) *★★***  
+Thin crack and left-hand side of arête, technical. 
 { .rebolted }
 
-**26.  The Talisman (7a)** &starf; right-hand side of arete. Balancy. 
+**26.  The Talisman (7a) *★***  
+Right-hand side of arête. Balancy. 
 { .rebolted }
 
-**27.  Bleingassen (6c) &starf;** long shallow groove line finish via arete and a good sized ledge at the top. 
+**27.  Bleingassen (6c) *★***  
+Long shallow groove line finish via arête and a good sized ledge at the top. 
 { .rebolted }
 
-**28.  The Oracle (7b+)** short technical test-piece up wall and blunt arete. Thin.
+**28.  The Oracle (7b+)**  
+Short technical test-piece up wall and blunt arête. Thin.

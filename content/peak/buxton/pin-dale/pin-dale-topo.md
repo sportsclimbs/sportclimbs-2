@@ -19,10 +19,10 @@ This is situated at the far left-hand end of the quarry:
 {.topo}
 
 **1. Won't get Fooled Again (7a+) *&starf;***  
-The left-hand side of the arete with a sneaky finish using holds on the right.
+The left-hand side of the arête with a sneaky finish using holds on the right.
 
 **2. Pindale Wizard (6c+) *&starf;***  
-The excellent right-hand side of the arete with a stopper finish.
+The excellent right-hand side of the arête with a stopper finish.
 
 **3. Deaf, Dumb and Blind Kid (5+)**  
 The thin juggy crack on the right-hand side wall.
@@ -33,7 +33,7 @@ branches off right onto a ramp.
 
 ### Pinstripe Wall 
 
-The open quarried wall with a series of small aretes and delicate features.
+The open quarried wall with a series of small arêtes and delicate features.
 {.csa}
 
 ![Pinstripe Wall](/img/peak/buxton/Pin-Lower.jpg)
@@ -42,10 +42,10 @@ The open quarried wall with a series of small aretes and delicate features.
 
 
 **1. Pinterest (5) *&starf;***  
- The very pleasant arete.
+ The very pleasant arête.
 
 **2. Pins and Needles (6c)**  
-The right-hand side of the arete has some insecure moves.
+The right-hand side of the arête has some insecure moves.
 
 **3. Pinto (6b)**  
 The flat face above the ledge proves quite technical
@@ -57,13 +57,13 @@ The pleasant shallow groove
 A short route with a fingery finale
 
 **6. Pin Job(6b) *&starf;***  
-The vague arete with a technical wall.
+The vague arête with a technical wall.
 
 **7. Pinheads (6b) *&starf;***  
 The best route on this wall up the centre of the face
 
 **8. Pintail (5+)**  
-The right-hand arete with a short finishing wall.
+The right-hand arête with a short finishing wall.
 
 **9. Unpinned (6a)**  
 A short technical wall on the right
@@ -97,7 +97,7 @@ Tricky moves above the ledge via an incredible through hole.
 The technical corner line.
 
 **7. Pin Job (6c)**  
-The arete is very worthwhile.
+The arête is very worthwhile.
 
 
 ## The Upper Tier

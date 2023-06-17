@@ -37,20 +37,20 @@ The hanging groove is difficutl to enter.
 The sustained and friable front face. A spooky experience.
 
 **9. High Scream Sunday (6c+) *★★***  
-The very photogenic and worthwhile right-hand arete.
+The very photogenic and worthwhile right-hand arête.
 
 **10. The Siberian Hamster (7a) *★***  
-A technical and sustained arete with no belay as yet.
+A technical and sustained arête with no belay as yet.
 
 **11. All Made Up (7a+)**  
-Another technical arete on its right-hand side. Artificial but worthwhile.
+Another technical arête on its right-hand side. Artificial but worthwhile.
 
 **12. Powder Puff (6b)**  
 An easier line on the side wall.
 
-**13. Uninspired E3 6 *★a***  
+**13. Uninspired E3 6a *★***  
 The front face of pinnacle gives good traditional climbing.
 
 **14. Pinnaclised (6c)**  
-The right arete after start of *Uninpsired*.
+The right arête after start of *Uninpsired*.
 

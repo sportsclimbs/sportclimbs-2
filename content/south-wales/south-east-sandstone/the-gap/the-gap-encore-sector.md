@@ -23,7 +23,7 @@ Climbs the crack. Harder than it looks and a notable cleaning achievement in its
 **3. Momentary Lapse of Reason (7b+) *★★***  
 Superb, sustained climbing of the typically fingery nature sandstone lends itself to. Finish at the last BR, not the BB.
 
-**Enter Sandaman (7c+) *★★**  
+**Enter Sandaman (7c+) *★★***  
 An extension to the previous route past the roof to finish at an obvious jug. Better to jump back down than trust the old belay!
 
 **A Momentary Right-hand Treason (7b+)**  
@@ -39,7 +39,7 @@ One of the hardest routes on sandstone, first climbed in 1990. Start up *Leave i
 The shallow groove and short headwall above start of *Mad at the Sun*.
 
 **7. Salmon Running, Bear Cunning  (7a) *★★***  
-Climb the right-hand side of arete and the slab above with a difficult finish on the headwall. There is also a **Right-hand finish (7a)** &starf; and an extension **John West (7b)** that climbs past the BB to higher BB.
+Climb the right-hand side of arête and the slab above with a difficult finish on the headwall. There is also a **Right-hand finish (7a)** &starf; and an extension **John West (7b)** that climbs past the BB to higher BB.
 
 **8. Anything You Can Do (7b) *★★***  
 Excellent open wall climbing. A blind and fingery crux with an airy headwall above. The direct finish is **I Can Do Better (7b) ★★**.  

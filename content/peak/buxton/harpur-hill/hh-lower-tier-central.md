@@ -1,9 +1,10 @@
 ---
 title: Lower Tier Central
-linktitle: Candy Sector
-subtitle: aka Candy Sector
+Linktitle: Candy Sector
+Subtitle: aka Candy Sector
 draft: false
 placeholder: false
+columns: true
 css:
 - "h2#candy-sector {clear: both;}"
 ---
@@ -11,6 +12,7 @@ css:
 This area is towards the lefthand end of the lower tier, to the right of the Anarchy sector.
 
 ![Lower Tier Central RH](/img/peak/buxton/HHLT-Central-RH.jpg)
+{.topo .w50}
 
 ## Righthand section
 
@@ -28,12 +30,13 @@ This area is towards the lefthand end of the lower tier, to the right of the Ana
 
 
 ![Lower Tier Central - Candy Sector topo](/img/peak/buxton/hh-lower-tier-candy-sector.jpg)
+{.topo}
 
 
 
-**1. Flossy's Slab (6a+)** ★
+**1. Flossy's Slab (6a+) *★***  
 
-**2. The Candyman (6a+)** &starf;
+**2. The Candyman (6a+) *★***  
 
 **3. Toy Story (6a)**
 
@@ -49,7 +52,7 @@ This area is towards the lefthand end of the lower tier, to the right of the Ana
 
 **9. Tempting Children (6c+)**
 
-**10. Would You Like a Sweety (6c)** ★
+**10. Would You Like a Sweety (6c) *★***  
 
 **11. Bolts 'R Us (6a+)**
 
@@ -63,4 +66,5 @@ This area is towards the lefthand end of the lower tier, to the right of the Ana
 
 **16. Playground Bully (6b+)**
 
-**Totti for England (4)** not on topo - to R
+**Totti for England (4)**  
+Not on topo - to R

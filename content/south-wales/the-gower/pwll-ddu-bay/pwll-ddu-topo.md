@@ -2,53 +2,83 @@
 title: Pwll Ddu Bay Topo
 draft: false
 placeholder: false
+columns: true
 ---
 
 
-![](/img/south-wales/the-gower/Pwlldu.jpg)
+![Pwll Ddu Bay topo](/img/south-wales/the-gower/Pwlldu.jpg)
+{.topo .w100}
 
-**1\. Swept Away (6a+)** grubby left-hand line **2\. Clean Up (6a)** leftwards line.
+**1. Swept Away (6a+)**  
+Grubby left-hand line .
 
-**3\. **Ashes to Ashes (6c) ★★**** long shallow groove line
+**2. Clean Up (6a)**  
+Leftwards line.
 
-**4\. Decades Apart (6c) ★★** line of cracks up leaning wall.
+**3. **Ashes to Ashes (6c) *★★*****  
+Long shallow groove line.
 
-**5\. Fort for Three E5 6b (7b) ★** a single very technical move with difficult clips and off-balance climbing. Fingery.
+**4. Decades Apart (6c) *★★***  
+Line of cracks up leaning wall.
 
-**6\. Chimera (7c)** ★★ desperate continuation.
+**5. Fort for Three E5 6b (7b) *★***  
+A single very technical move with difficult clips and off-balance climbing. Fingery.
 
-**7\. Senser (part 1) (7b+) ★★** short, sharp shock treatment. Snatchy climbing for the fingery crux. **Senser (7c+) ★★★** the first claimed 8a in South East Wales but now 7c+. Sustained with a bad sixth clip. A magnificent sustained effort.
+**6. Chimera (7c) *★★***  
+Desperate continuation.
 
-**8\. Jezebel (7a+) ★★** an excellent introduction to the harder sport climbs. Easily up the groove with a fine, reachy finish.
+**7. Senser part 1 (7b+) *★★***  
+Short, sharp shock treatment. Snatchy climbing for the fingery crux. 
 
-**9\. Crock Block (6c) ★** Steep and relatively juggy.
+**Senser part 2 (7c+) *★★★***  
+The first claimed 8a in South East Wales but now 7c+. Sustained with a bad sixth clip. A magnificent sustained effort.
 
-**10\. Old Slapper (7a+)** a hideous little route with a desperate and very trying start.
+**8. Jezebel (7a+) *★★***  
+An excellent introduction to the harder sport climbs. Easily up the groove with a fine, reachy finish.
 
-**11\. Skedaddle (7a+)** desperate snatchy climbing.
+**9. Crock Block (6c) *★***  
+Steep and relatively juggy.
 
-**12\. The Flight of Icarus (6c) ★★** the prominent layback crack.
+**10. Old Slapper (7a+)**  
+A hideous little route with a desperate and very trying start.
 
-**13\. St Elmo's Fire (6a+)** links left across the wall from the next route.
+**11. Skedaddle (7a+)**  
+Desperate snatchy climbing.
 
-**14\. Cat Nap (6a+)** the groove above.
+**12. The Flight of Icarus (6c) *★★***  
+The prominent layback crack.
 
-**15\. Power Nap (7a)** technical climbing with a single bolt belay.
+**13. St Elmo's Fire (6a+)**  
+Links left across the wall from the next route.
 
-**16\. Snooze Control (5+)** leads into a short groove high up. The groove above is dirty.
+**14. Cat Nap (6a+)**  
+The groove above.
 
-**17\. Sleep Easy (7b)** hard high up since loss of hold.
+**15. Power Nap (7a)**  
+Technical climbing with a single bolt belay.
 
-**18\. R.E.M. Sleep (5+)** leads into a groove with a thread
+**16. Snooze Control (5+)**  
+Leads into a short groove high up. The groove above is dirty.
 
-**19\. White Slider (6a+)** the cleaned slab slinking rightwards.
+**17. Sleep Easy (7b)**  
+hard high up since loss of hold.
 
-**20\. Project**
+**18. R.E.M. Sleep (5+)**  
+Leads into a groove with a thread.
 
-**21\. Miami Vice (6b+)** Start from the right (6c direct) onto the slabby face.
+**19. White Slider (6a+)**  
+The cleaned slab slinking rightwards.
 
-**22\. Coronal Discharge (6a+)** Gains a square-cut niche
+**20. Project**
 
-**23\. Wakey Wakey (6a)** deceptively difficult climbing
+**21. Miami Vice (6b+)**  
+Start from the right (6c direct) onto the slabby face.
 
-**24\. Sleep Over (5)** the final wall on the right.
+**22. Coronal Discharge (6a+)**  
+Gains a square-cut niche.
+
+**23. Wakey Wakey (6a)**  
+Deceptively difficult climbing.
+
+**24. Sleep Over (5)**  
+The final wall on the right.

@@ -44,9 +44,9 @@ wall behind tree stump with fingery start and finale
 First line right of tree with trying start.
 
 **12. Hostility Sweet (6c)**  
-The wall just left of the prominent arete
+The wall just left of the prominent arête
 
-**13. Aedan's Arete (6a+)**  
-right-hand arete of wall.
+**13. Aedan's arête (6a+)**  
+Right-hand arête of wall.
 
 

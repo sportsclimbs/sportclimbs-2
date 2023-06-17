@@ -28,20 +28,20 @@ Tricky start to shallow groove system.
 The shallow groove and blunt rib to a technical finale.
 
 **5. Mice Breaker (6b+)**  
-Another shallow groove system left of an arete.
+Another shallow groove system left of an arête.
 {.debolted}
 
 **6. Finishing Off (6b+)**  
-Climb the left arete of groove.
+Climb the left arête of groove.
 
 **7. Spectrophotonomy E2 5b**  
 Obvious groove. Rarely climbed.
 
 **8. Fifty Bolts to the Gallon (6a+)**  
-Contrived arete to right via new BRs. Two stiff pulls high up. Poor
+Contrived arête to right via new BRs. Two stiff pulls high up. Poor
 
 **9. Like Ice, Like Fire (6a)**  
-Shallow grooves on left-hand side of arete. 2 staple bolts.
+Shallow grooves on left-hand side of arête. 2 staple bolts.
 
 **10. Galening Crack HVS 5a  *&starf;***  
 The prominent crack in back of a groove. The best trad line in quarry.
@@ -50,10 +50,10 @@ The prominent crack in back of a groove. The best trad line in quarry.
 The shallow groove, old BRs, and shallow finishing groove.
 
 **12. Promises (6a+)**  
-Start up vague arete and continue, with care, past prominent hollow flake.
+Start up vague arête and continue, with care, past prominent hollow flake.
 
 **13. The Rotten Word (6c+)**  
-Line of staples to right. Hard and fingery low down. Finish on arete
+Line of staples to right. Hard and fingery low down. Finish on arête
 
 **14. Decaydance (6c)**  
 Follow the hangers left of prominent cracked pillar to fine open finish on headwall.
@@ -68,7 +68,7 @@ Climbs the yellow wall to the roof. Pass this and climb direct up the smooth hea
 Climb above a hole via blunt rib to big move at the top to reach the belay.
 
 **18. Dalken Shield (6b)  *&starf;***  
-Climbs the vague arete mostly on its left side to gain the headwall.
+Climbs the vague arête mostly on its left side to gain the headwall.
 
 **19. Hardcore, You Know the Score (6b)**  
 Shallow groove with half-height crux. Becoming polished.

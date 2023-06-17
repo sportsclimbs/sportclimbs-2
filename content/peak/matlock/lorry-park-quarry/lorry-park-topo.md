@@ -12,7 +12,7 @@ columns: true
 The routes are easily located by their relation to the more obvious crack lines. At the base of crag is an old bench in front of the crack line of _Edge of Darkness_ (route 9). To the left of this is the thiner steeper crack of _Supercrack_ (7) and further right the long stepped corner of _On the Road_. To the right of the bench is the open corner of Shattered Air (13) and further right the prominent crack line of Thunder Road (17). At the righthand end of the crag look for the short wide corner of _Desolation Angels_ (22) as a landmark.
 {.csa}
 
-The first two routes have a shared start up the steep wall left of the arete of Wild Strawberries.
+The first two routes have a shared start up the steep wall left of the arête of Wild Strawberries.
 {.csa}
 
 **Give the Man a Rest (7a+)**  
@@ -23,13 +23,13 @@ Good climbing with long lock offs. Easier for the tall.
 Takes the righthand line of bolts.
 
 **1. Wild Strawberries (6c+) *★***  
-Left-hand arete of the corner of On the Road.
+Left-hand arête of the corner of On the Road.
 
 **2. On the Road (6c) *★★★***  
-the impressive stepped corner.
+The impressive stepped corner.
 
 **3. Ground Zero (7c+) *★★***  
-the superb blank-looking wall right of the corner.
+The superb blank-looking wall right of the corner.
 
 The hard and arguably unpleasant start of Ground Zero can be avoided by starting up either The Squealer, **Squealer Zero (7c+)**, or On the Road **On the Road to Ground Zero (7b)**  or 7b+ for the short, and couple of long slings useful.
 

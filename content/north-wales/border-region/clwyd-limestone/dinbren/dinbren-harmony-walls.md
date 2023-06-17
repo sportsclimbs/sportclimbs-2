@@ -2,24 +2,48 @@
 title: Harmony Area
 draft: false
 placeholder: false
+Weight: 90
+columns: true
 ---
 
 
-            <p><img src="/img/north-wales/border-region/clwyd-limestone/Harmony-copy.jpg" WIDTH="450" HEIGHT="289"></p>
+![Harmony Area topo](/img/north-wales/border-region/clwyd-limestone/Harmony-copy.jpg)
+{.topo}
 
-            <p><b>1. Backs to the Wall (7a+) &starf; </b>Intense sequence on white wall. Fingery.</p>
-            <p><b>2. Trailer Trash (6b) </b>a good little warm up</p>
-            <p><b>3. Driller Thriller (6b) &starf; </b>Sustained exercise through overlaps. Wires required low down?</p>
-            <p><b>4. Old Scores (E5 6a) </b>Bold exercise through bulge into vee groove. Little good gear. TRs.</p>
-            <p><b>5. The Royal Arch (E3 6a) &starf;&starf; </b>Classic climbing off end of flake via slabby and upper overlap.</p>
-            <p><b>6 Blue Nine (E4 6b) &starf; </b>Direct start to Royal Arch. Bold moves - E5?</p>
-            <p><b>7. Waltz in Black (E4 6b) &starf;&starf; </b>Classic climb via centre of slabby walls. PR and TRs above.</p>
-            <p><b>8. World in Harmony (E2 5b) &starf;&starf; </b>Another little gem taking the bold faint crackline.</p>
-            <p><b>9. Caught in the Crossfire (E4 6a) &starf; </b>The slim pillar between cracklines. Blinkers required.</p>
-            <p><b>10. Death on my Tongue (E3 5c) </b>Another bold little route taking the faint crackline.</p>
-            <p><b>11. Shadowplay (E1 5c) </b>Minor pitch via 2TRs on right edge of wall.</p>
-            <p><b>12. Return of the Gods (E3 5c) &starf; </b>The thin crack in the right wall of the corner. Good.</p>
+**1. Backs to the Wall (7a+) *★***  
+Intense sequence on white wall. Fingery.
 
+**2. Trailer Trash (6b)**  
+A good little warm up
 
+**3. Driller Thriller (6b) *★***  
+Sustained exercise through overlaps. Wires required low down?
+
+**4. Old Scores (E5 6a)**  
+Bold exercise through bulge into vee groove. Little good gear. TRs.
+
+**5. The Royal Arch (E3 6a) *★★***  
+Classic climbing off end of flake via slabby and upper overlap.
+
+**6 Blue Nine (E4 6b) *★***  
+Direct start to Royal Arch. Bold moves - E5?
+
+**7. Waltz in Black (E4 6b) *★★***  
+Classic climb via centre of slabby walls. PR and TRs above.
+
+**8. World in Harmony (E2 5b) *★★***  
+Another little gem taking the bold faint crackline.
+
+**9. Caught in the Crossfire (E4 6a) *★***  
+The slim pillar between cracklines. Blinkers required.
+
+**10. Death on my Tongue (E3 5c)**  
+Another bold little route taking the faint crackline.
+
+**11. Shadowplay (E1 5c)**  
+Minor pitch via 2TRs on right edge of wall.
+
+**12. Return of the Gods (E3 5c) *★***  
+The thin crack in the right wall of the corner. Good.
 
 

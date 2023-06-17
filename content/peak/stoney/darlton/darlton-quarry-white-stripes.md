@@ -57,7 +57,7 @@ a steep hold with good holds and a tricky finale on the headwall.
 Shallow groove and final rib.
 
 **13\. Unstriped (6c+)**  
-The arete after moving left from next route. Some good moves.
+The arête after moving left from next route. Some good moves.
 
 **14\. Striptease (6b+)**  
 The obvious line is the best route on these walls.

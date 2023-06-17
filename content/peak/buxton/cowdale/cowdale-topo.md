@@ -44,7 +44,7 @@ A great name but out of theme, if you the theme that is. A strenuous and quite a
 Very short and powerful bulge. High in grade.
 
 **12. Wet Yer Whistle (7b+) *★***  
-Very hard bulge after tricky start. Just plain strenuous.
+A very hard bulge after tricky start. Just plain strenuous.
 
 ![Cowdale Right topo](/img/peak/buxton/cowdale-right.jpg)
 {.topo .mt4}
@@ -56,39 +56,39 @@ The original classic of the crag. A difficult low crux and then just army. Bette
 Leaning wall, big roof and more to come.
 
 **15. Laughing at the Rain (7c) *★★★***  
-One of the best short routes in the Peak. A very hard start and then jugs and finger-locks to the top. Overhangs 6m. 
+One of the best short routes in the Peak. A very hard start and then jugs and finger-locks to the top. Overhangs by 6metres! 
 
 
 **Singing in the Rain (7b+)**  
-connect the start of Mesmerized with the upper section of Laughing at the Rain.
+This link up connects the start of *Mesmerized* to the upper section of *Laughing at the Rain*.
 
 **16. Mesmerized (7b) *★★***  
 The big hanging corner with a hard entry from the right. Regeared at start.
 
 **17. You Know UFOs (7a+) *★***  
-Direct from start of Mesmerized. Powerful. **The ET Extension**  
+Direct from start of Mesmerized. Powerful. **The ET Extension** 
 (7b+) climbs the final roof left of the UFO finish. Down aid to get the gear back.
 
 **18. Euphoric (7a)**  
 More powerful climbing but gentler above the roof.
 
 **19. Pneumatic (6c+)**  
-powerful bulge and extending moves leftwards and up.
+A powerful bulge and extending moves leftwards and up.
 
 **20. Ecstatic (6b)**  
-difficult bulge to easy crack.
+A difficult bulge is followed by an easy crack.
 
 **21. Fantastic (6b)**  
-long reach to juggy bulge and groove line. Worthwhile
+A long reach to reach the juggy bulge and groove line above. Worthwhile
 
 **22. Traumatic (6b+)**  
-slightly better with huge holds and one long pull.
+Slightly better with huge holds and one long pull.
 
 **23. Check Out (6a) *★***  
-awkward bulge to jugs, crack and fine leftwards finish. Excellent.
+An awkward bulge to jugs, crack and fine leftwards finish. Excellent.
 
-**24. New Nomad (6b+)**  
-★ tricky little bulge and crackline to overhang.
+**24. New Nomad (6b+) *★***  
+A tricky little bulge and crackline to overhang.
 
 **25. Napped a Nod (6a+)**  
 poor route on right. Needs traffic.

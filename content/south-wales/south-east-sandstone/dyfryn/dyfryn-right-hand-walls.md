@@ -7,9 +7,11 @@ columns: true
 ---
 
 
-![](/img/south-wales/south-east-sandstone/DYF2.gif)
+![Dyfryn RH Walls topo](/img/south-wales/south-east-sandstone/DYF2.gif)
+{.topo .w100}
 
 The walls to the right are a little more complex but the following list of routes should help:
+{.csa}
 
 **22. Off to Oz (5 )**  
 The short wall complete with two peg runners.
@@ -34,7 +36,7 @@ The second groove line passing a bed knob
 **29. Why did I bother (6b+)**  
 A fingery wall with hidden holds
 
-**30. Predictive Text (6b) ★**  
+**30. Predictive Text (6b) *★***  
 An excellent short steep wall.
 
 **31. Baggle Brook Affair (5)**  
@@ -46,7 +48,7 @@ Climb the wall, ledges and headwall above flake.
 **33. Lip Service (6a)**  
 Up the wall with bed-knob and steep headwall.
 
-**34. Family Day (6b) ★**  
+**34. Family Day (6b) *★***  
 Climbs the overlap and steep headwall.
 
 **35. Affairs of Man (6b)**  
@@ -73,7 +75,7 @@ Climb the wall right of chimney with a long reach to finish.
 **42. Ockers delight (6b)**  
 Start at a bulging nose and go up the wall to a fine finish over the overhang.
 
-**43. Nick to the Rescue (6c) ★**  
+**43. Nick to the Rescue (6c) *★***  
 The wall above the cave leads to a juggy finale.
 
 **44. Project**

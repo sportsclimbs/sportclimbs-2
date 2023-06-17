@@ -9,7 +9,7 @@ columns: true
 ![](/img/south-wales/south-east-sandstone/LLANUTLH.gif)
 {.topo .w100}
 
-Although it can be approached from the right or the left, the most common method leads from the left and hence the routes are described thus. In the first small bay are three routes: **Hedge of Time (VS 4c)** an arete, **Conan's Boil (VS 4c)** a short wall to its right and **The Lapse (E1 5c)** a small wall at right-angles to these.
+Although it can be approached from the right or the left, the most common method leads from the left and hence the routes are described thus. In the first small bay are three routes: **Hedge of Time (VS 4c)** an arête, **Conan's Boil (VS 4c)** a short wall to its right and **The Lapse (E1 5c)** a small wall at right-angles to these.
 {.csa}
 
 **1. Rorama (6c)**  
@@ -26,12 +26,12 @@ centre of wall. Pleasant after crux start from ledge.
 easier right-hand line on wall. Pleasant.
 
 **5. Hollow Feeling (6b) *★***  
-short arete above trees gives a gem of a route.
+short arête above trees gives a gem of a route.
 
 **6. Practice What You Preach E3 5b**bold traditional route up centre of wall.
 
 **7. Pampered (6b) *★***  
-at a lower level, the left arete of the next wall.
+at a lower level, the left arête of the next wall.
 
 **8. You Change Me (6c+) *★★***  
 direct line up the obvious wall. An excellent appetiser for the harder routes hereabouts.
@@ -54,7 +54,7 @@ impressive crackline with bolts!
 a sandstone classic. Sustained more than hard. Can be wet low down early in the season.
 
 **14. Twenty Second Chance (7a+) *★***  
-desperate start up the rounded arete.
+desperate start up the rounded arête.
 
 **15. Sixty Seconds Go See (7a) *★***  
 more hard starting moves with fine face climbing above.

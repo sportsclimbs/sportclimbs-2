@@ -19,10 +19,10 @@ The most prominent lines are the two left leaning crack lines of *Heart to Heart
 Climb the shallow groove to rightwards exit.
 
 **2. Seven Eleven (6b)**  
-Good moves up the left-hand side of the arete.
+Good moves up the left-hand side of the arête.
 
 **3. Tors Colon (6c+)**  
-The right-hand side of left arete.
+The right-hand side of left arête.
 
 **4. Vent Your Spleen (7b) *&starf;***    
 A hard boulder problem low down leads to pumpy finale.

@@ -2,7 +2,7 @@
 title: Third Sister
 draft: false
 placeholder: false
-css:
+css: 
 - "figure {float: left; margin: 2em 0; width: calc(50% - 1em); min-width: 350px; max-width: 500px;}"
 - "figure:first-of-type {margin-right: 2em;}"
 ---
@@ -32,8 +32,7 @@ The lower tier can be gained either by traversing along the path below Two and a
 {{< figure 
     src="/img/south-wales/the-gower/16kn-Working-Load.jpg" 
     alt="Roy Thomas on the first ascent of 16kn Working Load" 
-    caption="Roy Thomas on the first ascent of 16kn Working Load."
-    attr="Photo Carl Ryan." 
+    caption="Roy Thomas on the first ascent of 16kn Working Load. Photo Carl Ryan." 
     width="500" 
     height="753" >}}
             

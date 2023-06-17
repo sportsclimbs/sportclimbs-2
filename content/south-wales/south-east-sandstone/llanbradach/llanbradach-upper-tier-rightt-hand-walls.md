@@ -25,16 +25,16 @@ Pleasant shallow grooves and the wall above. A little fragile in places and suff
 Climb the wall just left of the main angle of the bay.
 
 **5. Blinded by Love (6c+) *★★***  
-Superb sustained climbing on the stepped arete.
+Superb sustained climbing on the stepped arête.
 
 **6. The Laughing Policeman (6b+) *★***  
 The crack and groove system starting via difficult rib. Suffers from seepage at the start of the route, hence climbing the rib on the right.
 
 **7. Fair Cop (6b+) *★***  
-The crack, wall and flying arete. A long sustained pitch with a technical start to the wall and an 'out there' finish.
+The crack, wall and flying arête. A long sustained pitch with a technical start to the wall and an 'out there' finish.
 
 **8. Aptitude Test (7a) *★***  
-The desperately technical, blunt, low-level arete.
+The desperately technical, blunt, low-level arête.
 
 **9. The Merthyr Infill (6c) *★***  
 A short technical and worthwhile wall.
@@ -52,7 +52,7 @@ Climb up the steep pink wall and bulge to a bold and rounded finish.
 Provides some technical climbing up the angled face.
 
 **14. Incidentally (6b+)**  
-Climb the arete of wall moving left to the belay.
+Climb the arête of wall moving left to the belay.
 
 **15. Cop the Lot (7a)**  
 This takes the blunt rib on other side of a dirty groove. It has a hard finish.
@@ -67,7 +67,7 @@ The left-hand of three longer routes this climbs a shallow groove and open face.
 The central line of open face with the hardest climbing at the start. Excellent.
 
 **19. Is it What You are That is? (6c+)★★**  
-Takes the arete of wall. The crux is lowdown and middle section is sportingly bolted.
+Takes the arête of wall. The crux is lowdown and middle section is sportingly bolted.
 
 **20. The Brush Down (7a) *★***  
 The left-hand line of two routes has a hard starting wall.

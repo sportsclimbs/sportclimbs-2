@@ -20,26 +20,26 @@ Pleasant to the ramp but passes close to some dodgy rock. Start at shallow groov
 *H. Walmsley, C. Calow, 21/05/2018.*
 
 **2. Pyramus, 19m, (5c)**  
-Climb the blunt pillar just right of Frisbee to a groove. Follow this to the bulge at a V notch. Gain the notch via the left arete (a couple of holds and, if needed, a bolt shared with Frisbee) and finish slightly rightwards.  
+Climb the blunt pillar just right of Frisbee to a groove. Follow this to the bulge at a V notch. Gain the notch via the left arête (a couple of holds and, if needed, a bolt shared with Frisbee) and finish slightly rightwards.  
 *C. Calow, H. Walmsley, 21/05/2018*
 
 The next six routes climb steeper rock in the centre section.
 {.clear-b}
 
 **3 Antiques Road Trip, 18m , (6b)** &starf;  
-An interesting route with good positions starting below a weakness in the initial bulges about 10 m left of Optimism.  Step off a block and climb the slabby wall. Cross the bulge leftward into a recess. Step airily round the left arete to reach a good jug above the next bulge. Make a long reach to stand above the bulge and continue up the broad depression right of the rib until a step left can be made onto the rib (choice of line). Finish directly to a lower-off below the big roof.  
+An interesting route with good positions starting below a weakness in the initial bulges about 10 m left of Optimism.  Step off a block and climb the slabby wall. Cross the bulge leftward into a recess. Step airily round the left arête to reach a good jug above the next bulge. Make a long reach to stand above the bulge and continue up the broad depression right of the rib until a step left can be made onto the rib (choice of line). Finish directly to a lower-off below the big roof.  
 *C. Calow, H. Walmsley, 17/05/2018*
 
 **4. Hope, 33m, (6c)** &starf;  
-A left hand variant to Optimism. Good climbing and positions but the line is devious: long slings are needed to avoid terminal rope drag. From the 4th bolt on Optimism bridge up and left to the arete. Break back right up a groove to a small ledge, mantle to better holds and a big ledge. From its right hand end move up and rightwards to re-join Optimism. Follow Optimism Direct Finish to below the move out to the arete and continue up the groove to a lower-off on the left (a 60 m rope gets you down).
+A left hand variant to Optimism. Good climbing and positions but the line is devious: long slings are needed to avoid terminal rope drag. From the 4th bolt on Optimism bridge up and left to the arête. Break back right up a groove to a small ledge, mantle to better holds and a big ledge. From its right hand end move up and rightwards to re-join Optimism. Follow Optimism Direct Finish to below the move out to the arête and continue up the groove to a lower-off on the left (a 60 m rope gets you down).
 *H. Walmsley, C. Calow, 29/05/2018 (most of the route. The final groove had been done previously as an alternative finish to Optimism Direct by D. Lyons on 25/05/2018.)* 
 
 **5. Optimism, 30m, (6c)** &starf;&starf;   
-An excellent and imposing route. Start below the right end of the large ¾ height roof. Gain the big groove by climbing the lower bulge to its left (crux 1, steep). Bridge out to the right arete and climb it on its left side (crux 2, delicate). Make a long reach over the bulge above (crux 3, reachy) and move up left to gain the hanging, left-facing, corner at the right end of the ¾ height roof. Exit the corner, move right to ledges and finish neatly up a narrow groove to the right of the arete. Short climbers may need an extended clipping device for the first bolt in the arete and will find crux 3 hard for grade: the reach can be avoided by a much harder move just left.  
+An excellent and imposing route. Start below the right end of the large ¾ height roof. Gain the big groove by climbing the lower bulge to its left (crux 1, steep). Bridge out to the right arête and climb it on its left side (crux 2, delicate). Make a long reach over the bulge above (crux 3, reachy) and move up left to gain the hanging, left-facing, corner at the right end of the ¾ height roof. Exit the corner, move right to ledges and finish neatly up a narrow groove to the right of the arête. Short climbers may need an extended clipping device for the first bolt in the arête and will find crux 3 hard for grade: the reach can be avoided by a much harder move just left.  
 *H. Walmsley, C. Calow, 29/08/2017*
 
 **5b. Optimism Direct Finish 6m (6b)**  
-Harder and less pleasant than the normal finish but a more natural line with less rope drag. From the ledges above the right hand end of the upper roof bridge up the right hand corner of the upper alcove. When the holds disappear, exit right via a high sloper in the right arete then a better hold to a jug.  
+Harder and less pleasant than the normal finish but a more natural line with less rope drag. From the ledges above the right hand end of the upper roof bridge up the right hand corner of the upper alcove. When the holds disappear, exit right via a high sloper in the right arête then a better hold to a jug.  
 *H. Walmsley, 24/05/2018 (led on soloist - finish only)*
 
 ![Tyddyn Hywel topo 2](/img/north-wales/north-wales-coast/tyddyn-topo-2.jpg)
@@ -49,7 +49,7 @@ An excellent and interesting route with a distinct crux. Start about 20 m right
 *H. Walmsley, C. Calow, 29/08/2017* 
 
 **7a. Straight Torquin’, 30m, (7a)** &starf;&starf;&starf;  
-A very good route that takes ribs, grooves and bulges immediately right of the left-hand of the two very prominent black streaks that are visible from the road. Start easily, for once, at a flake groove 5 m right of Persistence. Follow the slab/groove to a ledge on the right. Climb a short arete then a steepening groove to a big slanting handhold over the bulge. Make a very hard move to stand on it. Layback into the niche above and exit precariously rightwards to better holds and a bigger niche. Start the next bulge on the left, step slightly right below the upper roof and climb it remarkably easily on undercuts and jugs.  
+A very good route that takes ribs, grooves and bulges immediately right of the left-hand of the two very prominent black streaks that are visible from the road. Start easily, for once, at a flake groove 5 m right of Persistence. Follow the slab/groove to a ledge on the right. Climb a short arête then a steepening groove to a big slanting handhold over the bulge. Make a very hard move to stand on it. Layback into the niche above and exit precariously rightwards to better holds and a bigger niche. Start the next bulge on the left, step slightly right below the upper roof and climb it remarkably easily on undercuts and jugs.  
 *C. Calow  21/07/2018*
 
 **7b. Rover's Return, 30m, (6c)** &starf;&starf;&starf;  
@@ -63,7 +63,7 @@ The shallow groove between Rover’s Return and Last of the Summer Wine (no furt
 The final four routes take the slabbier rock on the right.
 
 **9. Last of the Summer Wine, 28m, (6c)** &starf;&starf;&starf;  
-Another excellent route, sustained at F6a to F6b with a crux on the top slab that may be just F6c. Start just right of a line of grooves and hairline cracks about 10 m right of Persistence. Balance up to holds by the crack. Make a tricky move into a groove. Continue using square-cut holds on either side to a pocket (actually a blind borehole) on the left. Make a difficult move to gain a jug and another to stand on it. Move up right to better holds at the foot of a steep rib. Climb the rib, avoiding the loose flakes in the overhang to the right, to jugs. Go up the slab above and rock right to a notch in the arete when the good holds run out. Climb the smooth slab and arete to a blunt ledge (crux) and mantle awkwardly. Move precariously up left to finish.  
+Another excellent route, sustained at F6a to F6b with a crux on the top slab that may be just F6c. Start just right of a line of grooves and hairline cracks about 10 m right of Persistence. Balance up to holds by the crack. Make a tricky move into a groove. Continue using square-cut holds on either side to a pocket (actually a blind borehole) on the left. Make a difficult move to gain a jug and another to stand on it. Move up right to better holds at the foot of a steep rib. Climb the rib, avoiding the loose flakes in the overhang to the right, to jugs. Go up the slab above and rock right to a notch in the arête when the good holds run out. Climb the smooth slab and arête to a blunt ledge (crux) and mantle awkwardly. Move precariously up left to finish.  
 *H. Walmsley, C. Calow, 17/05/2018*
 
 **10. Secret Steps, 27m (6b+)** &starf;   
@@ -71,7 +71,7 @@ Good climbing on the lower slab and in the final groove but the break is scruffy
 *H. Walmsley, C. Calow, 17/05/2018*
 
 **11. Exit Claws, 26m,  (6b+)** &starf;  
-A hard start and a wild sideways exit from the groove with plenty of interesting moves between. Start about 4 m right of Secret Steps. Make a hard starting move (crux) to gain a shallow right-facing groove. Continue in the line past a break to a flake. From the flake go up and right across the wall to the foot of the hanging groove. Follow this straightforwardly until a hard move gains the last good foothold. Make wild but surprisingly reasonable moves left to a ledge on the arete (after clipping the bolt on the underside of the arete, reaching back to unclip the previous bolt helps to keep the rope off the sharp arete). Make a final awkward move up the arete to finish.  
+A hard start and a wild sideways exit from the groove with plenty of interesting moves between. Start about 4 m right of Secret Steps. Make a hard starting move (crux) to gain a shallow right-facing groove. Continue in the line past a break to a flake. From the flake go up and right across the wall to the foot of the hanging groove. Follow this straightforwardly until a hard move gains the last good foothold. Make wild but surprisingly reasonable moves left to a ledge on the arête (after clipping the bolt on the underside of the arête, reaching back to unclip the previous bolt helps to keep the rope off the sharp arête). Make a final awkward move up the arête to finish.  
 *H. Walmsley, C. Calow, 26/05/2018*
 
 **12. Bluebirds Over, 18 m, (6b+)** &starf;  

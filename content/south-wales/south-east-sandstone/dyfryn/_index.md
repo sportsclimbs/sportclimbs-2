@@ -6,7 +6,12 @@ placeholder: false
 
 ## Introduction
 
-![Dyfryn map](/img/south-wales/south-east-sandstone/dyfryn-1st-but.jpg)![](/img/south-wales/south-east-sandstone/dyfren3.jpg)A new crag with fabulous views of Swansea bay and the Neath Valley. A good venue for the 6a/6b climber in a sunny woodland setting. Do not put the climbing at risk by driving on the Woodland Trust tracks but park up either behind the church or the farm and make the pleasant 15 min walk to the crag: this also saves wrecking your tyres and suspension.
+![Dyfryn](/img/south-wales/south-east-sandstone/dyfryn-1st-but.jpg)
+
+![Dyfryn 2](/img/south-wales/south-east-sandstone/dyfren3.jpg)
+{.photo .clr}
+
+A new crag with fabulous views of Swansea bay and the Neath Valley. A good venue for the 6a/6b climber in a sunny woodland setting. Do not put the climbing at risk by driving on the Woodland Trust tracks but park up either behind the church or the farm and make the pleasant 15 min walk to the crag: this also saves wrecking your tyres and suspension.
 
 The cliff faces south-east and receives only morning sunshine.
 

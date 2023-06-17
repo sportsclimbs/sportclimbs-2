@@ -12,7 +12,7 @@ The name given to the whole section of wall of which the lower section has been 
 {.csa}
 
 **1. The Caerphilly Contract (7b+) *★★★***  
-The magnificent upper arete. Fingery with long reaches in a great position. Gained via a pitch on the square-faced wall above the Subcontract wall (5c).
+The magnificent upper arête. Fingery with long reaches in a great position. Gained via a pitch on the square-faced wall above the Subcontract wall (5c).
 {.mt0}
 
 **2. Little White Lies (7a) *★★***  

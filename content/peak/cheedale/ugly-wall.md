@@ -27,31 +27,31 @@ From the upper car park at Topley Pike follow the path along the ridge into the 
 {.topo}
 
 **1. Muggle (6b)**  
-difficult move above second bolt.
+Difficult move above second bolt.
 
 **2. Ugg Land (6b) *★***  
-the left-hand wall of two routes on the far left.
+The left-hand wall of two routes on the far left.
 
 **3. Percentages of Ugliness (6b) *★***  
-the right-hand of the two routes on the far wall to a tree belay
+The right-hand of the two routes on the far wall to a tree belay
 
 **4. Your Ugliness (6a)**  
-the slabby wall to the right gives a worthwhile warm-up pitch
+The slabby wall to the right gives a worthwhile warm-up pitch
 
 **5. Ugg Boots (5)**  
-right-hand side of the slab moving left to shared belay
+Right-hand side of the slab moving left to shared belay
 
 **6. The Ugly Bug Ball (6b+)**  
-the hanging arete in the centre of the face to a bulging finale. Good
+The hanging arête in the centre of the face to a bulging finale. Good
 
 **7. Ugly is as Ugly Does? (6c)**  
-the hanging right arete of the right-hand groove with a hard entry
+The hanging right arête of the right-hand groove with a hard entry
 
 **8. Over the Ugg (6b) *★***  
-the right wall of the corner on the right-hand side of the buttress climbing just left of the bolts (direct 6b+). Good
+The right wall of the corner on the right-hand side of the buttress climbing just left of the bolts (direct 6b+). Good
 
 **9. Ugg, Ugg, Ugg (6c)**  
-the right arete of the wall with a desperate start (V5?)
+The right arête of the wall with a desperate start (V5?)
 
 ## Topley Pike Buttress
 
@@ -62,13 +62,13 @@ This is the buttress at the bottom of the hill on the right and contains a handf
 {.topo}
 
 **1. Topley and Out (6b)**  
-left of the shallow hanging groove. Bouldery
+Left of the shallow hanging groove. Bouldery
 
 **2. Project Topley (7a)**  
-right of the shallow hanging groove. Short and stiff.
+Right of the shallow hanging groove. Short and stiff.
 
 **3. Little Big Climb (7a+)**  
-just to the right and eases, only slightly, after a really bouldery start
+Just to the right and eases, only slightly, after a really bouldery start
 
 **4. Double Topley (7b)**  
 mean to the extreme up the centre of the face. High in the grade.

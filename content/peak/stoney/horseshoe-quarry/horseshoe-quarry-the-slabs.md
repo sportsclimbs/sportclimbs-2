@@ -13,7 +13,7 @@ These are obvious and situated at the back of the quarry, facing you as you walk
 {.topo}
 
 **1. Sharing Best Practice (6b)**  
-The prominent arete.
+The prominent arête.
 
 **2. Chauvi's Slab (5+,5+)**  
 The left-hand of two long two pitch slab route.
@@ -28,7 +28,7 @@ The central line of the slab to the right with a one third height belay. It's ne
 The left-hand line. Currently debolted
 
 **6. Trog (4, 5)**  
-The right-hand of two lines based on arete. Difficult moves just above belay on second pitch. Rebolted
+The right-hand of two lines based on arête. Difficult moves just above belay on second pitch. Rebolted
 
 **7. Men at Work (5)**  
 The long newly created massive corner line can be climbed in two pitches  

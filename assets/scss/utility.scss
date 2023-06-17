@@ -5,12 +5,15 @@
     clear: both;
 }
 
+.cll {
+    clear: left
+}
+
 .clr {
     clear: right
 }
-
-.cll {
-    clear: left
+.cln {
+    clear: none;
 }
 
 .fll {
@@ -21,6 +24,18 @@
 .flr {
     float: right;
     width: min-content;
+}
+
+.fln {
+    float: none;
+}
+
+.fln>img {
+    float: none;
+}
+
+.m0 {
+    margin: 0;
 }
 
 .mt0 {
@@ -55,10 +70,18 @@
     margin-bottom: 4em;
 }
 
+.mb8 {
+    margin-bottom: 8em;
+}
+
 
 
 .ml25 {
     margin-left: 0.25em;
+}
+
+.tac {
+    text-align: center;
 }
 
 .mauto {
@@ -70,17 +93,49 @@
     column-span: all;
 }
 
+.csa+p {
+    margin-top: 0;
+}
+
 .w100 img {
     width: min(100%, 850px);
     height: auto;
 }
 
+.w50 img {
+    width: min(100%, 500px);
+    height: auto;
+    object-fit: cover;
+}
+
+.h100 img {
+    height: min(90vh, 650px);
+    width: auto;
+    object-fit: contain;
+    object-position: center top;
+}
+
+.rebolted::after,
 .debolted::after {
-    display: inline-block;
-    margin-left: 0.5em;
-    content: 'debolted';
-    color: red;
+    content: " rebolted";
+    color: #eee;
     text-transform: uppercase;
+    font-size: .6em;
+    display: inline-block;
+    margin-left: .5em;
+    /* display: inline-block; */
+    background: #0A7C00;
+    line-height: 1.2;
+    padding: 0.125em 0.5em;
     font-weight: 600;
-    font-size: 0.7em;
+    margin-left: 1em;
+}
+
+.debolted {
+    color: #999;
+}
+
+.debolted::after {
+    content: 'debolted';
+    background-color: var(--heading-color);
 }

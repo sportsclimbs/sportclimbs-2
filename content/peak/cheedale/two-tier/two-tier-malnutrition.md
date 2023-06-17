@@ -41,4 +41,4 @@ Climb the same corner of *Ghee Force* but at the top follow the break for severa
 Climbs the wall just to the left of the next groove and pulls through the roof above.
 
 **10. To Boltly Go (7b+) *&starf;***  
-Start up the groove and move right via a good hold onto the blunt arete. Climb this then over the slight bulge. Head leftwards to the bolt belay on *Hunger Strike*. This is more direct and bolted version of the old trad/headpoint line **Nerefaun (E5 6c)**. Following the corner all the way is **Split Infinitive (E5 6c)**.
+Start up the groove and move right via a good hold onto the blunt arête. Climb this then over the slight bulge. Head leftwards to the bolt belay on *Hunger Strike*. This is more direct and bolted version of the old trad/headpoint line **Nerefaun (E5 6c)**. Following the corner all the way is **Split Infinitive (E5 6c)**.

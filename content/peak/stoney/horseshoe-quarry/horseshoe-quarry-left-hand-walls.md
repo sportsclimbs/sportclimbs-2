@@ -20,7 +20,7 @@ crack in left wall of corner.
 the left-hand of two prominent corner lines.
 
 **2. Sahara (6b+)**  
-arete in back corner of bay. Friable and unpopular.
+arête in back corner of bay. Friable and unpopular.
 
 **3. Union Jack (5)**  
 right-hand corner
@@ -41,7 +41,7 @@ fine climbing up the twin, thin crack system with a tricky upper bulge
 A direct line from just right. Excellent climbing and a hidden gem.
 
 **9. Grab Yer Mandrakes (6b)**  
-The arete, overhang and face on right above, beginning just to the right.
+The arête, overhang and face on right above, beginning just to the right.
 
 **10. Tirfin Mandrakes (6a+)**  
 A link pitch between the two. Good moves.
@@ -91,8 +91,8 @@ Slim pillar taken direct.
 The central section of the walls can be identified by an elder tree towards the top of the cliff with a prominent borehole beneath it.
 {.csa}
 
-**24. Mr. Cellulite's Arete (6a+)**  
-A short sharp arete to the right. Long reach at grade.
+**24. Mr. Cellulite's arête (6a+)**  
+A short sharp arête to the right. Long reach at grade.
 {.mt0}
 
 **25. Bandolier (6a)**  
@@ -102,10 +102,10 @@ Long corner line to the right, avoiding ledge on right, has cleaned up.
 The wall to the right has a low crux and sustained interest above ledge.
 
 **27. The Little Thin Mexican around the Border (6b)**  
-The wall to the right with awkward moves on the lower part. Keep on the left-hand side of the short arete.
+The wall to the right with awkward moves on the lower part. Keep on the left-hand side of the short arête.
 
 **28. Desperate Measures (6b)**  
-The line via wall to right with hard moves on right-hand of arete.
+The line via wall to right with hard moves on right-hand of arête.
 
 **29. The Mexican Takes Lexicon (6a+)**  
 The slim wall to the right direct. Another route that has cleaned up.
@@ -135,7 +135,7 @@ The shallow groove line exiting leftwards and up via easier ground. A good addit
 {.debolted}
 
 **36. Pelvic Thrust (6b)**  
-A tricky lower wall via small arete to face above.
+A tricky lower wall via small arête to face above.
 {.debolted}
 
 **37. The Hippy, Hippy Shakes (6b)**  
@@ -145,13 +145,13 @@ A long slim corner line leads to a high belay.
 The crack and slim groove with a new finish.
 
 **39. Any Old Iron (6a)**  
-Climb the left wall of the corner via flake and little arete. Climb as direct as possible.
+Climb the left wall of the corner via flake and little arête. Climb as direct as possible.
 
 **40. Sunday Sport (6b)**  
 The obvious slim corner to a belay high up.
 
 **41. Austin Powers (6b)**  
-Climbs slim groove in arete and wall above. Can be combined with the next route.
+Climbs slim groove in arête and wall above. Can be combined with the next route.
 {.debolted}
 
 **42. The Big Fat Texan on a Corner (6a+ ) *&starf;***    
@@ -171,6 +171,6 @@ The chimney in the corner.
 The rack in the right-hand side wall of the corner.
 
 **47. Sag Ponir (5)**  
-The first crack immediately left of arete.
+The first crack immediately left of arête.
 
 

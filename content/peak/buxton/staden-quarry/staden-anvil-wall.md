@@ -11,7 +11,7 @@ css:
 {.topo}
 
 **1. Tout Comprendre E1 5a** 
-The left-hand arete beginning part way up the slope. Poor gear.
+The left-hand arête beginning part way up the slope. Poor gear.
 
 **2. A Game of Chess E5 6b *★★*** 
 A superb technical feast on the blank-looking face via a vague crackline. Immaculate but tricky to work out.
@@ -32,5 +32,5 @@ The left-hand crack of two on the slab to the right.
 The right-hand crack. Care with the exit.
 
 **8. Beau Jest HVS 5a** 
-The right-hand arete of the wall.
+The right-hand arête of the wall.
 

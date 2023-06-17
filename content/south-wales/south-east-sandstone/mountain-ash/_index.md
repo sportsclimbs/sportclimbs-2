@@ -14,20 +14,16 @@ When approaching from the A470 Cardiff to Merthyr Tydfil Road, take a left turn 
 
 There is a good mixture of climbing styles in this quarry from the very short and desperate fingery test-pieces through to some long and slabbier walls which are no less technical. There are so many routes packed in here that it is possible to pack quite a lot into a short session. The faces get enough sunshine to make the cliff pleasant and it dries relatively quickly.
 
-When should I go there?
+## When should I go there?
 
 A great spring crag when you want to get a load done to get fit. It is also a very good joint venue in conjunction with Cwmaman. It can be full of midges, or kids, in the summer.
-
-## Route update:
-
-Outspan rebolted at 7a+ ★★: Ripe ‘n’ Ready rebolted at 7b+ ★, desperate for the small: Pastis on Ice rebolted and new direct start at 7a+ ★★: Ferndale Revisited rebolted at a desperate 7b ★: The Future Holds rebolted at 7b ★★: A Certain Peace rebolted at 6b ★: Whiter than White wall rebolted at 7a+ ★★: Valleys Initiative rebolted at 7a ★★★.
 
 ## Grades
 
 A lot to choose in the 43 routes beginning at 5 (2), 6a (1), 6a+ (4), 6b (4), 6c (7), 6c+ (2), 7a (2), 7a+ (4), 7b (3) through to 7b+ (2).
 
-## Which are the choice routes?
+## Which are the best routes?
 
 Hmm, where to start? In the easier grades go for _Rising Sap_ (6b★★) a long slabby line, _Sporting Supplement_ (6b★) a fine short pitch in a shallow scoop and _A Certain Peace_ (6b★) a  
-testament to the death of Bob Powell via a low level wall and arete.  
-In the higher grades there are lots to do: _Outspan_ (7a+ ★★), _Pastis on Ice_ (7a+ ★★) and _Cointreau_ (7a+ ★★★) are a trio of routes on the left-hand side of the quarry well worth seeking out: On the lower walls to the right, desperate test-pieces in the form of _the Future Holds_ (7b ★★) and _No Chips Round Here_ (7b ★★) are worth seeking: On the final slabbier walls lie the classic _Whiter than White Wall_ (7a+ ★★) and the brilliant _Valleys Initiative_ (7a★★★).
+Testament to the death of Bob Powell via a low level wall and arête.  
+In the higher grades there are lots to do: _Outspan_ (7a+ *★★), _Pastis on Ice_ (7a+ *★★) and _Cointreau_ (7a+ *★★★) are a trio of routes on the left-hand side of the quarry well worth seeking out: On the lower walls to the right, desperate test-pieces in the form of _the Future Holds_ (7b *★★) and _No Chips Round Here_ (7b *★★) are worth seeking: On the final slabbier walls lie the classic _Whiter than White Wall_ (7a+ *★★) and the brilliant _Valleys Initiative_ (7a★★★).
