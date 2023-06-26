@@ -26,7 +26,7 @@ Long crack and grooveline to right gives a fine outing.
 
 
 **4. Yogi Bare (7a) *★***  
-Black face, technical, and fine finish left of BRs. 
+This starts up the blank, black slab for 3 bolts to steeper climbing above. Technical and hard to read when unchalked. Finish left of BRs. 
 {.rebolted}
 
 **5. Four Telling Tales (6c+) *★★***  
@@ -56,7 +56,7 @@ Superb new addition taking the long thin crackline to a hard finish. Well worth 
 Shorter route over series of 'blocks'.
 
 **12. What a Load of Roti (6a) *★***  
-Long route following scoop and flying arête in upper half.
+Long route following the corner line and flying arête in upper half.
 
 **13. Aloo Gobi (6c)**  
 Short flake and technical wall. 

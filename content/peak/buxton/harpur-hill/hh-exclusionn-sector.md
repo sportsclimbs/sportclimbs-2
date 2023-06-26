@@ -7,7 +7,7 @@ columns: true
 
 This is on the upper tier to the right of Papacy Buttress and left of the Prophecy sector.
 
-![Harpur Hill Exclusion sector topo](/img/peak/buxton/hh-exclusion.jpg)
+![Harpur Hill Exclusion sector topo](/img/peak/buxton/hh-exclusion-left.jpg)
 { .topo }
 
 **1. Danny Cool (5)**  
@@ -51,6 +51,10 @@ Right-hand line. Keep to face as closely as possible for the grade.
 **12. Slab de Lune (6a)**  
 Pleasant intricate slab returning to moss, unfortunately. 
 { .rebolted } 
+
+![Harpur Hill Exclusion sector topo](/img/peak/buxton/hh-exclusion-right.jpg)
+{ .topo }
+
 
 **Master of a lune (6b)**  
 Slim face to right proves worthwhile. 
@@ -96,20 +100,4 @@ Long crack and grooveline to right gives a fine outing.
 Black face, technical, and fine finish left of BRs.
 { .rebolted } 
 
-![Four Telling Tales at Harpur Hill](/img/peak/buxton/Harpur-Hill_Four-Telling-Tales.jpg)
-{ .topo }
 
-**25.  Four Telling Tales (6c+) *★★***  
-Thin crack and left-hand side of arête, technical. 
-{ .rebolted }
-
-**26.  The Talisman (7a) *★***  
-Right-hand side of arête. Balancy. 
-{ .rebolted }
-
-**27.  Bleingassen (6c) *★***  
-Long shallow groove line finish via arête and a good sized ledge at the top. 
-{ .rebolted }
-
-**28.  The Oracle (7b+)**  
-Short technical test-piece up wall and blunt arête. Thin.

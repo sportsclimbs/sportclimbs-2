@@ -192,8 +192,9 @@ h1 {
     color: var(--heading-color);
     /* text-shadow: 2px 2px var(--container-bg), 3px 3px var(--heading-color); */
     font-weight: 700;
-    font-size: 4em;
+    font-size: 4.2em;
     line-height: 1;
+    letter-spacing: -0.05em;
     display: block;
     margin: 0;
 
@@ -201,6 +202,7 @@ h1 {
 
 h1>small {
     font-size: .5em;
+    letter-spacing: -0.025em;
 }
 
 h2 {

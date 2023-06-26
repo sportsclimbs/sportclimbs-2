@@ -7,6 +7,25 @@ Options include:
 - Topaz Simplify
 - photoshop surface blur / smart blur?
 
+## Harpur Hill
+
+Further split crags into separate sectors: 
+
+- upper tier and lower tier (2)
+- upper tier and lower tier, cairn area (3)
+- east, west, south (3)
+- darkside, plateau, darkside lower, lower, cairn vacinity. (5)
+
+**upper crags** 7
+darkside left, darkside right, perched block, papacy, exclusion, prophesy, playgournd?
+
+**lower** 11
+racetrack playa, pool wall, railway, long wall left, long wall right, college
+anarchy, candy, totty, sumo, kamakazi
+
+**cairn area**
+cairn, playground, sanctuary, retreat
+
 ## Basic heirarchy
 
 Region > Area > Crag > (topos)

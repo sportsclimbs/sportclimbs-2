@@ -54,8 +54,9 @@ The next section of rock slightly beyond the first wall gives a slabby area of g
 {.csa}
 
 **1. arête I know (6b)**  
-A worthwhile arête at a higher level **2. Slab I Knew (5),**
-{.mt0}
+A worthwhile arête at a higher level.
+
+ **2. Slab I Knew (5)**
 
 **3. Groove I Saw (4)**
 

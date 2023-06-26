@@ -1,21 +1,24 @@
 ---
 title: Long Wall
+subtitle: "& Railway Buttress"
 draft: false
 placeholder: false
 columns: true
-css:
-- "h2 {clear: both;}"
 ---
 
 
-![railway buttress 1 topo](/img/peak/buxton/hh-railway-lh.jpg)
-{.topo .w50}
 
-The first wall is set at a higher level.
+## Railway Buttress
+
+![Railway Buttress topo](/img/peak/buxton/hh-railway-buttress-2.jpg)
+{.topo}
+
+
+This is the wall left of the main part of Long Wall with a sleeper sticking out of its top on the right side and the obvious tree at its base.
 {.csa}
 
 **1. Express Decision (5)**  
-The arête.
+The left arête.
 
 **2. Virgin Crack VS 4c**  
 The crack.
@@ -27,38 +30,34 @@ Short but good
 Slightly easier to the right.
 
 
-## RAILWAY BUTTRESS
-
-This is the wall left of the main section with a sleeper sticking out of its top.
-{.csa}
-
-![Railway Buttress topo](/img/peak/buxton/hh-railway-buttress.jpg)
-{.topo .w50}
-
-**1. Sleeping Sickness (6b)**  
+**5. Sleeping Sickness (6b)**  
 Slim groove and short wall on left.
 {.rebolted}
 
-**2. My Bed's Downstairs (6b) *★***  
+**6. My Bed's Downstairs (6b) *★***  
 The pleasant face left of centre.
 {.rebolted}
 
-**3. Insomnia (6b) *★***  
-**4. Braking Bad (6b+) *★***  
+**7. Insomnia (6b) *★***  
+Climbs up the slab and through the left side of the overlap.
+
+**8. Braking Bad (6b+) *★***  
 NEW overlap and arête. Good.
 
-**5.Sleep On It (6b) *★***  
-Slim wall on the right with a tricky start and central section 
+**9.Sleep On It (6b) *★***  
+Slim wall on the right with a tricky start and central section and new belay.
 {.rebolted} 
-and new belay.
 
-**6. Moabi (6a)**  
+**10. Moabi (6a)**  
 NEW pillar to the right.
 
-**7. Waas it? (5+)**  
+**11. Waas it? (5+)**  
 NEW arête on the right.
 
-![](/img/peak/buxton/harpur-hill-long-wall-lh.jpg)
+
+## Long Wall Left
+
+![Long Wall left](/img/peak/buxton/harpur-hill-long-wall-lh.jpg)
 {.topo}
 
 **1. Regulo Mark 6 (6b+) *★***  
@@ -89,6 +88,8 @@ Begins just right of the addit cave. Easy at first with one tricky move at the t
 
 **9. Addit Pillar (6a+)**  
 The thin pillar face on the walls to the left after a dusty start.
+
+## Long Wall Right
 
 ![Long Wall RH topo](/img/peak/buxton/hh-long-rh.jpg)
 {.topo}

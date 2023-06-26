@@ -1,8 +1,8 @@
 ---
 title: Harpur Hill
 draft: false
-date: 2022-08-06T20:22:27+01:00
-summary: Various updates, new layout map, new topos, improved descriptions and approach map.
+date: 2023-06-26T09:40:23+01:00
+summary: has new topos for the Exclusion Sector on the upper tier and Railway Buttress (Long Wall).
 placeholder: false
 css:
 - ".photos { max-width: calc(700px + 0.5em); margin-inline: auto; display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: .5em; margin-top: 2em; } "

@@ -17,39 +17,31 @@ This is the section of cliff between Papacy Buttress and the Dark side. It was f
 {.topo}
 
 
-**1. What's the Paint? (5)**  
- 
+**1. What's the Paint? (5)**   
 Left-hand line with hardest moves low down.
 
 **2. Pity the Graffiti (5)**  
- 
 Pleasant long rib with steep pull through initial bulge.
 
 **3. Nidge, Nidge, Wink, Wink (5)**
 The next line right is a recent addition (2022).
 
 **4. Set Fred Free (6a)**  
- 
 The left-hand line from the high platform gives pleasant climbing to a steep finale.
 
 **5. Wilky's Revenge (5+) *★***  
- 
 The central line from the platform gives a very pleasant wall climb.
 
 **6. Making Plans for Nidge (6b) *★***  
- 
 Takes a line through the left-hand side of the alcove and past Nidge himself.
 
 **7. Helzapoppin' (7a) *★★***  
- 
 A superb stamina exercise through the centre of the alcove. Doesn't let up.
 
 **8. Right Said Fred (6b)**  
- 
 Climbs through the right-hand side of the roof on big holds and layaways.
 
 **9. Cotote Club (6a)**  
- 
 Takes the left-hand side of the low wall and can be used to gain routes 6 and 7.
 
 

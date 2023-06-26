@@ -5,7 +5,7 @@ placeholder: false
 columns: true
 ---
 
-![Quick Tick Walls topo](/img/north-wales/border-region/clwyd-limestone/Quick-Tick-Wall2-copy.jpg)
+![Quick Tick Walls topo](/img/north-wales/border-region/clwyd-limestone/quick-tick-wall.jpg)
 {.topo}
 
 **1. Waffle and Crackers E2 5c**  

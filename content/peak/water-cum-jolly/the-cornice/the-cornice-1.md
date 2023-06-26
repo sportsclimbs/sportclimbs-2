@@ -5,10 +5,13 @@ placeholder: false
 columns: true
 ---
 
-No topo yet, just a list of routes from left to right for now.
+Only one topo so far.
 
 Routes are listed from left to right.
 {.csa .mb4}
+
+![Central section of The Cornice in WCJ](/img/peak/water-cum-jolly/wcj-the-cornice-centre.jpg)
+{.topo}
 
 **1. Bandwagon on Direction (7a)**  
 The leftmost route on the crag.
