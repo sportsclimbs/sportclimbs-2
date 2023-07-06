@@ -29,7 +29,6 @@ Short but good
 **4. Timetable Failure (5)**  
 Slightly easier to the right.
 
-
 **5. Sleeping Sickness (6b)**  
 Slim groove and short wall on left.
 {.rebolted}
@@ -38,21 +37,24 @@ Slim groove and short wall on left.
 The pleasant face left of centre.
 {.rebolted}
 
-**7. Insomnia (6b) *★***  
-Climbs up the slab and through the left side of the overlap.
+**7. Braking Bad (6b+) *★***  
+The the overlap on the left side and up the arête. Good.
 
-**8. Braking Bad (6b+) *★***  
-NEW overlap and arête. Good.
+**8. Insomnia (6b) *★***  
+Climbs up the wall to the right of the hanging corner.
 
 **9.Sleep On It (6b) *★***  
 Slim wall on the right with a tricky start and central section and new belay.
 {.rebolted} 
 
-**10. Moabi (6a)**  
-NEW pillar to the right.
+**10. Just the Ticket (VS 4b)**  
+This is the obvious crack.
 
-**11. Waas it? (5+)**  
+**11. Was it? (5)**  
 NEW arête on the right.
+
+**Moabi (6a)**  
+NEW Not on the topo but climbs a line a little further right.
 
 
 ## Long Wall Left

@@ -58,5 +58,5 @@ Desperate past the 2nd BR. Start via groove.
 **27. Tippers (7a)**  
 A short desperate wall leads to easy ground and a BB above.
 
-**28. Tip Dollar (6b)**  
-The short and pleasant on rib.
+**28. Tip Dollar (6a+)**  
+The short and pleasant on rib. New belay added in 2023.

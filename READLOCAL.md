@@ -16,6 +16,8 @@ Further split crags into separate sectors:
 - east, west, south (3)
 - darkside, plateau, darkside lower, lower, cairn vacinity. (5)
 
+Upper and lower are probably the simplest to understand, especially for new visitors, although Sanctuary/The Retreat don't easily fit in. What about The Playground.
+
 **upper crags** 7
 darkside left, darkside right, perched block, papacy, exclusion, prophesy, playgournd?
 
