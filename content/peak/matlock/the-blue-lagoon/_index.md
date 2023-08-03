@@ -31,7 +31,7 @@ Facing south the wall gets any sun going, except in an evening, and gets very li
 
 ## Access
 
-Although used regularly by dog walkers, please remember that you are not supposed to be in the quarry. To ensure longevity of the climbing always keep a low profile.
+Access here is problematic and most of the routes on Generator Wall have had their bolts removed. Although used regularly by dog walkers, please remember that you are not supposed to be in the quarry so its best to always keep a low profile.
 
 
 

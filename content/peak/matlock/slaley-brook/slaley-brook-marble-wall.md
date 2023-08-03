@@ -16,8 +16,11 @@ Clean rock, sunshine and easy access make this the most popular of the Slaley cr
 **1. Dog Tooth Wall (6c)**  
 Surprisingly pleasant and fingery wall.
 
+**Shatterproof (6c+)**  
+First of two steep routes on the hidden wall around corner.
+
 **2. Shattered (6c+) *&starf;&starf;***  
-The final route taking the steep hidden wall around corner. Thuggy, direct and fine
+The second route up the bulging end wall. Steep and thuggy, direct and fine.
 
 **3. Unstained (6b)**  
 Side wall of face into chimney exiting left and up onto arête.
@@ -51,6 +54,9 @@ Black wall, hard low down and easy off towards the top.
 
 **13. Born Slippy (6c+) *&starf;***  
 Thin crack to bold upper wall. A good little face route.
+
+**Eye of Silence (7a+)**  
+An eliminate line up the wall right of *Born Slippy* utilizing the first 3 bolts on that route but climbing the wall to the right. Continue up the wall above past 2 more bolts.
 
 **14. That Shard (6a)**  
 Right-hand side of wall starting via wide crack to scoop. Exit left.

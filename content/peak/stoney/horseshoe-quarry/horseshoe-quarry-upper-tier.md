@@ -198,16 +198,16 @@ Front face of pillar to tricky exit on the headwall.
 Slab with tricky strip roof at half height and fingery finale.
 
 **31. Oy Missus (6c)**  
-Left-hand side of slab. above ramp. Tricky if line adhered.
+Takes the left-hand side of slab above ramp avoiding the corner on the left.
 
 **32. Mr. Blue Sky (7a) *★***  
-Right-hand side of slab. Two very tricky sections but short-lived.
+An eliminate requiring deft footwork up the right-hand side of slab. Climb the slab staying out of the blocky crackline to the right.
 
 **33. Esso Blue HVS 5b**  
 Crackline to slabby finale
 
-## 4. Upper Tier Right
 
+## 4. Upper Tier Right
 
 **Some routes here have been debolted due to unstable rock. These routes are marked with yellow dashed lines.**
 {.csa}
@@ -231,7 +231,7 @@ Slim pillar and difficult roof. Fine test-piece.
 Thin crack system with awkward moves. Can finish at belay of:
 
 **39. Blue Sunday (6a+) *★***  
-Pleasant face climbing staring left of cave.
+Pleasant face climbing starting left of the cave.
 {.debolted}
 
 **40. Do It Yourself (6c)**  

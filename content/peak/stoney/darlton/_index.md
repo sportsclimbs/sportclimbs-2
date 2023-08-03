@@ -13,7 +13,11 @@ placeholder: false
 ## Introduction {.mt2}
 
 
-This crag was made famous in 2021 when Tom Cruise visited to use it for a train crash stunt in the film *Mission Impossible 7*. The quarry is situated on the opposite side of the road to Stoney West. The main wall gives a number of tough wall climbs on generally good rock in a typical quarry setting. There are also a number of easy sport climbs on the opposite, south facing White Stripes Wall though the rock is less reliable here.
+This crag was made famous in 2021 when Tom Cruise visited to use it for a train crash stunt in the film *Mission Impossible 7*. The quarry is situated on the opposite side of the road to Stoney West. The main wall gives a number of tough wall climbs on generally good rock in a typical quarry setting. There are also a number of easy sport climbs on the opposite, south facing White Stripes Wall though the rock is less reliable here so care should be taken.
+
+## Conditions
+
+The rock generally dries quickly after rain. The Main Wall, also known as Shady Wall, faces north west and stays in the shade until late afternoon. The White Stipes Wall is the opposite and faces south east and is the sun most of the day.
 
 
 ## Approaches

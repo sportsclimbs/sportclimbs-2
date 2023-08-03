@@ -24,17 +24,17 @@ Takes the obvious corner to halfway then breaks out right and up the smooth wall
 Climb the corner of *Androids* in it's entirety.
 
 **5. Rage (6b)  *&starf;***   
-Takes a direct line up the centre of the right wall of the groove. Worthwhile.
+Start at a thick, blocky flake below a short corner with a roof. Climb up the corner and around the roof and move left onto the face above. 
 
-**6. The Running Man (6b)**  
-The thin crackline right again with a tricky overlap. Becoming polished.
+**6. The Running Man (6b) *&starf;***  
+The thin crackline right again gives good sustained climbing 
 
 **7 The Long Walk (6c)**  
 The left-hand side of arête has some sketchy moves low down and a good finale. Tight.
 {.debolted}
 
 **8. The Dark Tower (6b+)  *&starf;***   
-Resurrected line of Gunslinger via vague pillar and overlap. Again worthwhile.
+Another currently defunct route which climbed up via vague pillar and overlap.
 {.debolted}
 
 **9. The Drawing of the Three (6b+)  *&starf;***   

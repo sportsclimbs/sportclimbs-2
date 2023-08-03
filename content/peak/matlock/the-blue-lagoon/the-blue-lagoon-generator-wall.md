@@ -5,6 +5,10 @@ placeholder: false
 columns: true
 ---
 
+
+NB. Most of the routes here have had their bolts removed.
+{.alert}
+
 ![Generator Wall topo](/img/peak/matlock/generator.jpg)
 {.topo .w100}
 

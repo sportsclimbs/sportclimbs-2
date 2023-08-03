@@ -32,10 +32,19 @@ A mean wall pitch exiting the lower scoop from the left. Feels hard for the grad
 An absolute classic taking a reasonable lower wall to a very extending move from an undercut to a huge jug. The upper wall is superb. Recleaned, belay upgraded and new peg added.
 
 **32. Aliens E6 6c**  
-A right-hand variant to The Alien exiting right and up before its crux. Seems to share ground with the next route
+A right-hand variant to The Alien exiting right and up before its crux. Seems to share ground with the next route.
+
+**White Aliens 7b *&starf;***  
+Start up *White Fright* and finish up the rib of *Aliens*. 9 BRs. The route has been bolted to allow *Aliens* to be climbed in it's original form (ie with trad gear). Also known as *Aliens Direct Start*.
+
+**White Fright Direct Start (7b) *&starf;&starf;***  
+This starts 5 metres right of *The Alien*. Climb the wall right of a flake to a roof. Above the roof step left and go up to a small roof. Make a long reach then step right and climb the wall above using sidepulls. Sustained. 9 BRs.
 
 **33. White Fright E6 6b *★***  
 A bit of an enigma, crossing the lower overhang leftwards and tackling the headwall via an undercling and shallow groove complete with pegs.
+
+**Knock and Run (7c+) *&starf;&starf;***  
+Climbs the smooth white wall left of *Knuckle Knocker*. Start up *Knuckle Knocker* but pull over the short roof and move up a short rib. Make a long reach to gain the white wall and climb this on undercuts and sharp edges.
 
 **34. Knuckle Knocker E3 5c *★★***  
 A classic crossing the lower crux overhang for the superb jamming crack/corner above.

@@ -54,7 +54,7 @@ Another sparsely bolted route but can be lead with just the 3 bolts. As a trad r
 Climb the bulge to a break. Traverse right to a sidepull and use this to reach the headwall above.
 
 **14. I Should Coco (7a)**  
-Anothe worthwhile route.
+Another worthwhile route.
 {.rebolted}
 
 **15. Slow Horses (7a+) *★***  
