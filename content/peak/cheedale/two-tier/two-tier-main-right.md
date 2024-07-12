@@ -13,13 +13,13 @@ css:
 ![Two Tier Main Wall Right topo](/img/peak/cheedale/two-tier-main-right.jpg)
 
 **14. Ra E4 6a**  
-Tight V groove to left onto grassy ground.
+The prominent groove starting just left of the tree is rarely climbed and now overgrown at the start. Lower off the BB of the next route.
 
 **15. The Cruise Brothers (7a+)**  
-Another short and difficult test-piece.
+A short and difficult route starting behind the tree. Possibly harder since loss of holds. 3BR to a BB.
 
 **16. Luck be the Magic Number (7a+)**  
-Short and difficult test piece on rib..
+Short and difficult route up rib.
 
 **17. Some Coincidence (7a+) *★***  
 Left side of wall on superb rock. Finish rightwards. Excellent though blind moves.
@@ -30,27 +30,23 @@ Hard moves left of BRs from ledge, then flakes above. It's easier if you use the
 **19. Osiris (E1 5a)**  
 The rightward trending corner with poor protection.
 
-
 **20. Subterfuge (6c) *★***   
 Another tricky bulge and then the left edge of the scoop.
 
 **21. Quality Control (7a) *★★***   
-Over the bulge and via the right edge of the scoop. Exit left.
+Over the bulge and via the right edge of the scoop. At the top move left to the BB on Subterfuge.
 
 **22. Nogads (7b+) *★***  
-An unlikely looking start over bulge leads to an easier wall. Go leftwards or direct at 7c.
-
-
-
+An unlikely looking steep start (harder for the short) leads to an easier section. Go leftwards to finish up *Quality Control* (7b+) or direct via a sloper at 7c. 
 
 **23. Blockhead (7b) *★***  
-Start below a short groove that ends in a bulge. Climb up left to gain a good flake and continue up the right wall of the groove via two glued on holds.
+Start below a short groove that ends in a bulge. Climb up leftwards to gain a good flake then move back right up the left wall of the groove via two glued on holds. 4BR to BB.
 
 **24. Reasons to be Cheerful (7b+) *★***  
-Technical excellence via right edge of groove.
+Climb the wall of the right side of groove. Gain better holds in the bulge and then head up rightwards to the BB of the next route.
 
 **25. The Inbetweenies (7a+) *★***  
-An intense sequence to left over slight bulge.
+An intense sequence up the wall and through the bulge marked by staple bolts.
 
 **26. What a Waste (6c+)**  
 Desperate past the 2nd BR. Start via groove.

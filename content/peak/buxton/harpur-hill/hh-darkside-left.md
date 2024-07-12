@@ -66,7 +66,7 @@ Slim wall with tricky move at half height. Worthwhile.
 
 **15. Uncreased (VS 4c)**
 
-**16. The Mouth Wearers (6b+)**
+**16. The Mouth Waters (6b+)**
 
 **17. I'm a Port Vale Dribbler (6a)**  
 Slim pillar.

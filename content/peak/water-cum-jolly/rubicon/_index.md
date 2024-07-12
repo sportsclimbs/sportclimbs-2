@@ -5,6 +5,8 @@ summary: has had a history and first ascents added. The crag has been split into
 weight: 30
 draft: false
 placeholder: false
+css:
+- "blockquote {color: #e2e2e2; font-weight: 600;}"
 ---
 
 
@@ -47,8 +49,7 @@ The BMC sign reads:
 >
 > Thank you. British Mountaineering Council.
 
-In reality it's rare to see either anglers or bailiffs here. However the area is very popular with walkers and tourists. So more relevant advice is:
-
-> **Please be careful and considerate with your language as this is area is popular walkers and any inappropriate actions could cause access problems for the future.**
+In reality it's rare to see either anglers or bailiffs here. However the area is very popular with walkers and tourists. So more relevant advice is: 
+Please be careful and considerate with your language as this is area is popular walkers and any inappropriate actions could cause access problems for the future.
 
 

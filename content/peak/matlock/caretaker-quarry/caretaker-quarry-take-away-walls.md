@@ -10,6 +10,8 @@ columns: true
 ![Take Away Wall topo](/img/peak/matlock/caretaker-take-away-wall.jpg)
 {.topo .w100}
 
+Note the main part of this wall is now shrouded with trees now but this old photo shows the wall and the routes better.
+{.csa}
 
 15m to the left of the main Take Away wall is an isolated pillar above a short grassy slope. This is **Leaf Tea (6b)**.
 {.csa}

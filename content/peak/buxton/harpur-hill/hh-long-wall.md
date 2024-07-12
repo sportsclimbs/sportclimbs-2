@@ -93,7 +93,7 @@ The thin pillar face on the walls to the left after a dusty start.
 
 ## Long Wall Right
 
-![Long Wall RH topo](/img/peak/buxton/hh-long-rh.jpg)
+![Long Wall RH topo](/img/peak/buxton/hh-long-right.jpg)
 {.topo}
 
 **10. Novicok Stone (6a+)**  
@@ -147,7 +147,10 @@ New wall and bulge on the right. Pleasant.
 **24. Woo Hoo (5)**  
 The slabby wall at the right-hand side of the cliff.
 
-**25. Have Another Cow (4)**  
+**25. Tweety Pie (5)**  
+Start as for the previous route and climb the wall to its right.
+
+**26. Have Another Cow (4)**  
 Easy route on the right.
 
 

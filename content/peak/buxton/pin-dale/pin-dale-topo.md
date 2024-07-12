@@ -124,7 +124,7 @@ The best of the lot hereabouts.
 The left-hand of three past a ledge.
 
 **6. The Infamy (6a)**  
-The best of the right-hand trio.
+The best of the right-hand trio. Some loose rock in the final 2 metres.
 
 **7. The Industry (6a)**  
 The right hand line.

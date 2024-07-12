@@ -1,17 +1,17 @@
 ---
 title: "Lammergeyer Buttress"
 linktitle: "Lammergeyer"
-date: 2021-11-18T15:47:36Z
+date: 2023-09-18T12:47:36+01:00
 summary: this fingery, steep wall is popular for those who like short desperates.
 weight: 40
-draft: true
+draft: false
 placeholder: false
 columns: true
 ---
 
 ## Approach
 
-Park and approach as for Rubicon Wall. Walk past Rubicon Wall and continue upstream for several hundred metres until level with Moat Buttress on the other side of the water. Lammergeyer Buttress is up in the trees about 50 feet above the main path, clearly visible in winter but harder to spot when the leaves are on the trees. Two vague paths go up to the crag, one at either end.
+Park and approach as for [Rubicon Wall](../rubicon/index.html#approach). Walk past Rubicon Wall and continue upstream for several hundred metres until level with Moat Buttress on the other side of the water. Lammergeyer Buttress is up in the trees about 50 feet above the main path, clearly visible in winter but harder to spot when the leaves are on the trees. Two vague paths go up to the crag, one at either end.
 
 ## Character
 
