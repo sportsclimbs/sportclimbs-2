@@ -53,3 +53,8 @@ weight = "100"
 [markup.goldmark.parser.attribute] 
 block = true 
 title = true
+[markup.goldmark.renderer]
+      unsafe = true
+      xhtml = false
+
+

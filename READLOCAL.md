@@ -36,7 +36,7 @@ So the menu item on the second cragnav menu is for the area.
 
 ## Menu's
 
-The main menu is areas: 
+The main menu is by area. In the future it could be: 
 - peak
 - yorkshire
 - N Wales
@@ -46,7 +46,7 @@ The main menu is areas:
 
 Other site sections or pages: 
 
-- **home pag**e
+- **home page**
 - **about** - could go on the home page
 - **updates & news** - could go on the home page
 - blog, more of the above. A blog section could be used for everything else. Some things could be 'sticky' at the top like *How to Contribute*. They could also be directly linked to the home page, the footer etc.
@@ -103,7 +103,7 @@ Algolia, Duckduckgo embedded in an iframe,
 
 ## CMS
 
-How hard is it to self host Netlify CMS? Then have unlimited users.
+How hard is it to self host ~~Netlify~~ Decap CMS? Then have unlimited users.
 
 Can we use multiple CMS's? Might be confusing?
 
@@ -153,7 +153,7 @@ Can use:
 &#9733;
 
 &star; outline
-&starf;
+&starf; filled star
 &bigstar;
 
 
