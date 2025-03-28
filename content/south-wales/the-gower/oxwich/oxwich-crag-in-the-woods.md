@@ -9,8 +9,7 @@ columns: true
 ![Crag in the Woods topo](/img/south-wales/the-gower/OXTOP1.gif)
 {.topo .w100}
 
-Please note that the section of crag between *Red Leicester* and *Tump Jumper* has fallen down.
-{.csa}
+
 
 To the left of the descent is a small buttress with 5 routes. From left to right: **Unnamed (F6c+)** Desperate move past single BR, **Open Verdict(F6b+)** Start up tiny groove, **Swift Justice (VS 4c)** main groove, **Before the Beak (F7a+)** arête and **the Jury's Out (F7a)** right-most line. There are also other projects in between.
 {.csa .mb4}
@@ -60,6 +59,11 @@ Mega-overhanging flake. Awesome.
 **15. Project**  
 Impressive overhanging arête.
 
+<!--
+
+Please note that the section of crag between *Red Leicester* and *Tump Jumper* has fallen down.
+{.csa}
+
 **16. Red Leicester (6b)**  
 Prominent red groove. Difficult start. 4BRs.
 
@@ -104,3 +108,5 @@ Technical wall with small flake high up.
 
 **30. Tump Jumper (7a)**  
 Short intense wall of grassy mound. 3BRs to BB.
+
+-->

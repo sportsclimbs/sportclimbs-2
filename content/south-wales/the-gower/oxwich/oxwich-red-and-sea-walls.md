@@ -1,6 +1,9 @@
 ---
 title: Red & Sea Walls
 draft: false
+build:
+  render: never
+  list: never
 placeholder: false
 columns: true
 ---

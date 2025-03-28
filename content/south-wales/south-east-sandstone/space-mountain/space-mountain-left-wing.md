@@ -1,8 +1,6 @@
 ---
 title: "Space Mountain Left Wing"
 linktitle: "Left Wing"
-summary: has been added
-date: 2025-03-28T06:19:57Z
 draft: true
 placeholder: false
 columns: true

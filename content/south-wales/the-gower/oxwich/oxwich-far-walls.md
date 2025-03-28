@@ -1,6 +1,9 @@
 ---
 title: Far Walls
 draft: true
+build:
+  render: never
+  list: never
 placeholder: false
 ---
 

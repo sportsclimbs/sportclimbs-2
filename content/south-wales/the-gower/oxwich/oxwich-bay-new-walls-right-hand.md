@@ -2,6 +2,9 @@
 title: New Walls Right-hand
 linktitle: New Walls RH
 draft: false
+build:
+  render: never
+  list: never
 placeholder: false
 columns: true
 ---

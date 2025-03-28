@@ -1,6 +1,8 @@
 ---
 title: Horseshoe Quarry
 linktitle: Horseshoe
+date: 2025-03-28T10:41:05+01:00
+summary: Two new 6b+'s have been added to Main Wall
 draft: false
 weight: 9
 placeholder: false

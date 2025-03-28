@@ -56,10 +56,10 @@ Now climbed direct over the bulge. A superb and technical direct finish.
 {.topo}
 
 **Mega Shot (7a)**  
-climbs the shothole L of Megalithic Man from the fourth bolt on that route and utilizing the last 2 bolts on that route too. The crux can be avoided by going further L at 6c.
+Climbs the shothole L of Megalithic Man from the fourth bolt on that route and utilizing the last 2 bolts on that route too. The crux can be avoided by going further L at 6c.
 
 **14. Megalithic Man (6b+) *&starf;&starf;***  
-A fine route, bold low down finishing left and up from the 5th BR. The< **Super Direct Finish**  
+A fine route, bold low down finishing left and up from the 5th BR. The **Super Direct Finish**  
 is a fingery direct finish at 6c+ *&starf;&starf*;.
 
 **15. Poisonality (7a) *&starf;***  
@@ -72,9 +72,15 @@ connects Rhythm with Demolition Man
 **17. Demolition Man (7a) *&starf;***  
 A mixture of technical low down, easy middle and fluttery finish.
 
+**Shot the Comformist (6b+) *&starf;***  
+From the 5th bolt on *Shot Yer Bolt* breakout left to gain a steep juggy traverse leftwards. One more tricky move leads to easier ground and the belay on *Demolition Man*.
+
 
 **18. Shot Yer Bolt (6b+) *&starf;&starf;***  
 The obvious borehole with a tricky finish and rattling hold.
+
+**Bolt to Bolt (6b+) *&starf;***  
+Climbs the wall just R of *Shot Yer Bolt*. Start up that route or *Southern Man* and follow the bolts keeping R of *Shot Yer Bolt* to join that route just below the top.
 
 **19. Southern Man (7b) *&starf;&starf;***  
 Superb route with blind and fingery finish. Hard since loss of holds and worth a flutter sign.
