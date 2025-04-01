@@ -1,15 +1,15 @@
-@import "./global2020";
-@import "./layout";
+@use "./global2020";
+@use "./layout";
 
-@import "./home-page";
-@import "./utility";
+@use "./home-page";
+@use "./utility";
 
-@import "./css-slider";
+@use "./css-slider";
 
-@import "./contact";
+@use "./contact";
 
-@import "./snow";
+@use "./snow";
 
-@import "./hamburgers";
+@use "./hamburgers";
 
-@import "./media-queries";
+@use "./media-queries";
