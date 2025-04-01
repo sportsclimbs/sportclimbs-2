@@ -8,6 +8,9 @@ placeholder: false
 ![Lorry Park Quarry](/img/peak/matlock/Lorry-Park-Quarry.jpg)
 {.topo}
 
+NB. Most of the routes at Lorry Park are now inaccessible due to ongoing works (from June 2023).
+{.alert}
+
 ## Character
 
 

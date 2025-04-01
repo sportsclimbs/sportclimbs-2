@@ -48,7 +48,7 @@ In Vision (6a+) Posers Walls.
 
 ## Situation {.mt0}
 
-In the heart of Wirskworth Industrial Estate with ease of access and parking only 80m from the crag.
+In the heart of Wirksworth Industrial Estate with ease of access and parking only 80m from the crag.
 
 ## Character
 
@@ -60,7 +60,7 @@ The quarry is owned by the Stone Centre and there is now an agreed right of acce
 
 ## Approach
 
-From Cromford, turn off the A6 and head up the steep hill past Black Rocks and under the old railway bridge. Take the first major right when descending the hill, ominously named Ravenstor Road and at the roundabout/turning area, turn right up the obvious track on the right. The quarry lies straight ahead.
+From Cromford, turn off the A6 and head up the steep hill past Black Rocks and under the old railway bridge. Take the first major right when descending the hill, ominously named Ravenstor Road and park at the roundabout/turning area. From the right side of the road follow an obvious track through the trees for about 100 metres to the quarry.
 
 
 ## Quarry Layout
