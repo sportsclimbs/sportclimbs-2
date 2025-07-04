@@ -22,4 +22,4 @@ The main face overhangs ever so slightly and offers steep, sustained wall climbi
 
 This is not a place to visit in the winter months due to its north-west facing nature and openness. Except for Soft Centre, the face takes very little seepage and dries relatively quickly. The sun catches the face around 5pm. so once again this makes it a very good evening or hot weather venue.
 
-{{< yt "Q\_WgGg9UD6Y" >}}
+{{< yt "Q_WgGg9UD6Y" >}}
