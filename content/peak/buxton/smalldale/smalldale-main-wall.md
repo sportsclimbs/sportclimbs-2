@@ -10,7 +10,7 @@ columns: true
 This the front face of the fine buttress a couple of hundred metres to the left or east of Crystal Wall. The routes start from a narrow grassy ledge at the base of the wall. There is usually an in situ rope linking the belay bolts at the bottom to make access easier and safer.
 {.csa}
 
-![Smalldale Main wall topo](/img/peak/buxton/smalldale-main-wall.jpg)
+![Smalldale Main wall topo](/img/peak/buxton/smalldale-main-wall-new.jpg)
 {.topo}
 
 **1. Reservoir Frogs (6c+) *★★***  
@@ -37,6 +37,9 @@ An excellent lower wall, tough bulge and fingery moves to gain the final groove.
 
 **8. Summat Outanowt (7a) *★★***  
 The long slim groove, difficult overlap and fine headwall. A surprising find. 
+
+**8a. Summat Different (7a+) *&starf;***  
+A direct variation of the previous route. From the overlap pull up to get the good square pocket with the right hand. Continue straight up on side pulls and a long move to the thin break and next bolt.
 
 **9. Lost Contact (7a+) *★★★***  
 The shallow groove and thin crack in the headwall. Superb. 
