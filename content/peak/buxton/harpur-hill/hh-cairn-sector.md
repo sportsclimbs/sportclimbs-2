@@ -39,39 +39,45 @@ Direct through the overlap to join *Great White*.
 Slabby wall above overhang.
 
 **10. The Naked Spur(4+) *★***  
-very pleasant sharp arête.
+Very pleasant sharp arête.
 
-**11. Assault and Battery (6b+)**  
+**11 Driving Board (5)**
+
+**12. Assault and Battery (6b+)**  
 Short technical wall tucked in alcove. Gold BRs.
 
-**Ground and Pound (6a)**  
+**13. Ground and Pound (6a)**  
 The wide corner crack swing right into Trial and then moving up the thin crack before exiting left to its belay
 
-**12. Trial and Error (7a) *★***  
+**14. Trial and Error (7a) *★***  
 The short arête packs in an interesting variety of gritstone-esque moves and is best avoided on hot days. The route has now been extended to the full height of the cliff with the belay higher than is marked.
 
-**13. Senile Delinquents (5+)**  
+**15. Senile Delinquents (5+)**  
 Flake and wide crack via roof.
 
-**14. Cabin Fever (6b)**  
+**16. Cabin Fever (6b)**  
 Crack, roof and short wall to shared belay
 
-**15. Pebbles (6a+)**  
+**17. Pebbles (6a+)**  
 The first of 5 lines on the small buttress.
 
 **Wilmer (5)**  
 Takes second bolt line, just R of the crack.
 
-**16. Fred Flintstone (5) *★***  
+**18. Fred Flintstone (5) *★***  
 Left-hand side of short wall with peculiar 'worm' feature.
 
-**17. Barney Rubble (5)**  
+**19. Barney Rubble (5)**  
 Crack direct.
 
-**18. Yabba Dabba Doo (4)**  
+**20. Yabba Dabba Doo (4)**  
 Direct line via large hole.
 
 The fine compact wall to the right has several instense slab routes.
+{.csa}
+
+
+## Cairn Slabs area
 
 ![Cairn slabs area topo](/img/peak/buxton/hh-cairn-topo-2.jpg)
 {.topo}
@@ -79,21 +85,21 @@ The fine compact wall to the right has several instense slab routes.
 **Mueslli (6b)**  
 Climb the wall just left of *Petit Dejeuner*. 
 
-**19. Petit Dejeuner (4+)**  
+**22. Petit Dejeuner (4+)**  
 Left-hand line via faint scoop. Straight up from ledge. 
 
-**20. Breakfast at Safeways (6b+)**  
+**23. Breakfast at Safeways (6b+)**  
 Left-hand line via faint scoop. Straight up from ledge. 
 
-**21. 99p Special (6a+)**  
+**24. 99p Special (6a+)**  
 Thin crack from just left of toe of buttress, then rightwards. 
 
-**22. Food for Sport (6a)**  
+**25. Food for Sport (6a)**  
 The arête starting from the toe of the buttress.
 
-**23. Toast (5+)**
+**26. Toast (5+)**
 
-**24. Over Easy (6a+)**  
+**27. Over Easy (6a+)**  
 The right-hand side of the arête 
 
 **Full Set (6a+)**  

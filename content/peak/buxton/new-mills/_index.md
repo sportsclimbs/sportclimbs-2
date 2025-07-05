@@ -16,7 +16,7 @@ columns: false
 ![New Mills Torrs](/img/peak/buxton/new-mills-torrs.jpg)
 {.topo}
 
-On the western edge of the Peak district lies the small town of New Mills. In the heart of the town and some 30m below is the sandstone crag of New Mills Torrs. This offers a mixture of trad climbing up to E5, bouldering and seven bolted lines taking lines up the adjacent bridge supports.
+On the western edge of the Peak district lies the small town of New Mills. In the heart of the town and some 30m below is the sandstone crag of New Mills Torrs. This offers a mixture of trad climbing up to E5, bouldering and seven bolted lines up the adjacent bridge supports.
 
 ## Character
 
