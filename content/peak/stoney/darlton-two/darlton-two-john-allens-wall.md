@@ -5,7 +5,6 @@ columns: true
 weight: 20
 draft: false
 placeholder: false
-columns: true
 ---
 
 This popular and secluded wall was developed by the late great gritstone legend John Allen. It's at the far (left hand) end of the upper tier with routes around 20 metres long. Some of the routes contain a lot of bolts so make sure you have enough quickdraws (around 14 or 15 should suffice).

@@ -1,6 +1,5 @@
 ---  
 title: Layout & Parking
-weight: 30  
 draft: false
 weight: 3  
 placeholder: false

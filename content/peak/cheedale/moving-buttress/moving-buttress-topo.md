@@ -1,7 +1,6 @@
 ---
 title: Moving Buttress topo
 linktitle: Moving topo
-columns: true
 draft: false
 placeholder: false
 columns: true

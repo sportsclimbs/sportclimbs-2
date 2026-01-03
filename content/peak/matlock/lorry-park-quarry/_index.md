@@ -1,6 +1,6 @@
 ---
 title: Lorry Park Quarry
-title: Lorry Park
+linktitle: Lorry Park
 draft: false
 placeholder: false
 ---

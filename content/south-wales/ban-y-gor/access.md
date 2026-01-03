@@ -1,6 +1,5 @@
 ---
 title: Access & Approach
-weight: 20
 draft: false
 weight: 2
 map: [51.66241401847187, -2.6613521575927734, 14]

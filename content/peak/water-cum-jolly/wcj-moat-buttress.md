@@ -1,6 +1,5 @@
 ---
 title: "Moat Buttress"
-summary: some minor corrections
 date: 2022-05-31T20:13:48+01:00
 summary: New 8a added to this popular Peak crag.
 draft: false

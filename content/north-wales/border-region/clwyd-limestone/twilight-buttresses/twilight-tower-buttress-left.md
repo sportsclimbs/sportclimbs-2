@@ -1,6 +1,6 @@
 ---
 title: Twilight Tower Buttress Left 
-title: Twilight Left
+linktitle: Twilight Left
 draft: false
 placeholder: false
 columns: true

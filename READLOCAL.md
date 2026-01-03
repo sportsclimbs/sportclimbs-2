@@ -28,6 +28,10 @@ anarchy, candy, totty, sumo, kamakazi
 **cairn area**
 cairn, playground, sanctuary, retreat
 
+## CSS utility classes
+
+See the file `assets/scss/utility.scss`
+
 ## Basic heirarchy
 
 Region > Area > Crag > (topos)
