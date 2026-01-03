@@ -1,7 +1,7 @@
 ---
 title: "Space Mountain Left Wing"
 linktitle: "Left Wing"
-draft: true
+draft: false
 placeholder: false
 columns: true
 ---

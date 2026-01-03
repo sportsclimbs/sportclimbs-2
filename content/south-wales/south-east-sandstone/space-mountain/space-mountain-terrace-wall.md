@@ -2,7 +2,7 @@
 title: "Space Mountain Terrace Wall"
 linktitle: "Terrace Wall"
 summary: has been added
-draft: true
+draft: false
 placeholder: false
 columns: true
 ---

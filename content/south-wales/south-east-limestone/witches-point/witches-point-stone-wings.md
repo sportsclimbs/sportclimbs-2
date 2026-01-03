@@ -45,7 +45,7 @@ Classic. Sustained and fingery via the obvious thin crackline.
 **8. Masada (8a+) *★★★***  
 A desperate face route, the hardest in the area. The line goes directly up to the overlap without using the crack. 
 
-**9. Stone Wings (E5 6a) *★★***  
+**9. Stone Wings (7b) *★★***  
 The obvious jamming crack that splits the crag gives superb, traditional climbing.
 
 **10. The Uninvited Guest (7b) *★★***  

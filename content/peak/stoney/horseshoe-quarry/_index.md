@@ -1,8 +1,8 @@
 ---
 title: Horseshoe Quarry
 linktitle: Horseshoe
-date: 2025-03-28T10:41:05+01:00
-summary: Two new 6b+'s have been added to Main Wall
+date: 2026-01-03T08:41:05+01:00
+summary: Doodah buttress has been added to the Upper Tier section with routes from 4b to 6c.
 draft: false
 weight: 9
 placeholder: false

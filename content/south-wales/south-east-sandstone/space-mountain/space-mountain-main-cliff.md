@@ -2,7 +2,7 @@
 title: "Space Mountain Main Cliff"
 linktitle: "Main Cliff"
 summary: has been added
-draft: true
+draft: false
 placeholder: false
 columns: true
 ---
@@ -55,7 +55,7 @@ Great fun, leaping around on the wildly overhanging arête. Direct continuation 
 **Asthmanaut  (6b+/6c) *&starf;&starf;&starf;***  
 The arête and grooves above are pumpy. Mount the nose (au cheval) to finish. 18 m.
 
-**Celestial Annihilation  (7a)+**  
+**Celestial Annihilation  (7a+)**  
 Square corners to right side of nose. Awkward moves lead to a layback crack and then a delicate sequence through overhanging nose. Follow groove over easier ground until tricky section to L.O. 17 m.
 
 **Hands, Face...Space!  (6c+/7a) *&starf;&starf;***  

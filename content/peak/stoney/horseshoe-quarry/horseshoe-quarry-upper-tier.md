@@ -307,7 +307,7 @@ This is the obvious short, clean wall situated high up behind some trees. There 
 **Footprint (4b)**  
 The Broken crack line.
 
-**Ol’Dirty Bastard 6c**
+**Ol’Dirty Bastard (6c)**
 The narrow pillar. Only 6a if you use the right arête of the next route.
 
 **Ol’Dirty Tights (6a)**  
@@ -323,7 +323,11 @@ Start up *Pot washer's Wall* and climb to the belay of *Tequila Sunrise*.
 The central line of the wall, right of *Pot-washer's Wall*.
 
 **Tequila Sunrise 10m (6a)**  
-Start just right of *Lyin' Eyes*. Gain the crack (*Hot Zipperty* HVS 5a) and then swing right onto the cherty jugs to finish in the upper niche. 
+Start just right of *Lyin' Eyes*. Gain the crack (*Hot Zipperty* HVS 5a) and then swing right onto the cherty jugs to finish in the upper niche.  
+
+&nbsp;
+
+<!-- Last non breaking space is to fix a FF bug on Linux: the last route is placed a 3rd column  is sometimes created -->
 
 
 

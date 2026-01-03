@@ -1,8 +1,8 @@
 ---
 title: "Space Mountain"
-date: 2025-03-28T10:40:26+01:00
-summary: One of the biggest crags in the South Wales Sandstone area.
-draft: true
+date: 2026-01-03T09:09:19
+summary: "One of the biggest crags in the South Wales Sandstone area: from 6a+ to 7a+."
+draft: false
 placeholder: false
 columns: false
 map: [51.67966, -3.5637, 15]
