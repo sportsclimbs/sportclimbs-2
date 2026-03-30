@@ -8,7 +8,7 @@
 
 :root {
     --bgc: #433f32;
-    --container-bg: #1a1a1733;
+    --container-bg: #1a1a1757;
     --txt-color: #f0d176;
     --heading-color: hsl(0, 54%, 42%);
     --h3-color: #979797;
@@ -218,11 +218,18 @@ h2 {
     margin-top: 0;
 }
 
-h3 {
-    font-size: 1.35em;
+h3, 
+h3 > :is(a, a:link, a:visited) {
+    font-size: 1.5rem;
     padding-bottom: 0;
-    margin-bottom: .3em;
+    margin-bottom: .25rem;
     color: var(--h3-color);
+    font-weight: bold;
+
+    & a:hover {
+        color: var(--link);
+        background-color: transparent;
+    }
 }
 
 h3+p {

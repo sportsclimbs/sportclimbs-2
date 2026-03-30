@@ -5,6 +5,7 @@ placeholder: false
 css:
 - ".layouts {display: flex; flex-wrap: wrap; gap: 1em;}"
 - ".content > p.layouts img {float: none; margin: 0; width: min-content}"
+- ".alert {clear: initial; margin: 2em 0;}"
 ---
 
 
@@ -27,28 +28,31 @@ This is a perfect stopping off spot on or to North Wales, as a superb winter ven
 
 ## The Climbing 
 
+Please respect the **Nesting restrictions** on both Red Wall and Black Wall from 1st March to the 30th June.
+{.alert}
 
-### Red Wall
+### [Red Wall](llanymynech-red-wall/)
 
-A steep wall with very long sport pitches. Stays dry through rain and gets any sunshine until about 3pm. A superb winter venue.
+A steep wall with very long sport pitches. Stays dry through rain and gets any sunshine until about 3pm. A superb winter venue.  
 
-### Black Wall
+
+### [Black Wall](llanymynech-black-wall/)
 
 A black, off vertical wall with classic face climbing with trad. gear. Some fine technical climbing and Black Wall is not to be missed.
 
-### Grid Iron Wall
+### [Grid Iron Wall](llanymynech-grid-iron-wall/)
 
 A massive wall currently being bolted up to give some very long sport pitches. Face climbing throughout. Can take a little seepage after rain.
 
-### Nomad Wall
+### [Nomad Wall](llanymynech-nomad-wall/)
 
 A magnificent wall set high up above the quarry floor. Fine trad. Routes are said to be reminiscent of the famous Cromlech wall climb *Lord of the Flies*. Three major classics.
 
-### Bay Wall
+### [Bay Wall](llanymynech-bay-wall/)
 
 A pleasant new wall tucked away in the back of the quarry with a good selection of low to mid grade sport routes.
 
-### Cul-de-Sac
+### [Cul-de-Sac](llanymynech-cul-de-sac-quarry/)
 
 This short, smooth, steep wall sports the quarry's hardest routes with an 8a and several routes in the high 7s.
 

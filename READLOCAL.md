@@ -32,7 +32,12 @@ cairn, playground, sanctuary, retreat
 
 See the file `assets/scss/utility.scss`
 
-## Basic heirarchy
+## netlify.toml
+
+After editing this file in Windows the line endings will change to CRLF and cause a build error on Netlify. The solution is to run `dos2unix netlify.toml` after editing to fix this. See https://gohugo.io/host-and-deploy/host-on-netlify/ for guide to this file.
+
+
+## Basic hierarchy
 
 Region > Area > Crag > (topos)
 

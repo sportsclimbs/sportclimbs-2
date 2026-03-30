@@ -8,7 +8,7 @@ columns: true
 This sector situated in the large bay facing The Sanctuary. Drop down to The Sanctuary and then follow a vague path up the slight incline facing the Sanctuary into the open bay. The crag is shady most of the day. An ideal crag for warm sunny weather and a barbecue!
 
 
-![The Retreat LH side](/img/peak/buxton/Retreat-LH.jpg)
+![The Retreat LH side](/img/peak/buxton/hh-retreat-centre.jpg)
 {.topo}
 
 **1. Clean Team (5+)**  
@@ -20,39 +20,49 @@ Easy slab
 **3. Cart the Wheel (6a+) *★***  
 Fine grey wall with hard moves to second bolt
 
-**4. Jamma yer Hut (6a+)**  
+**4. Oh Weelie (6a+)**
+
+**5. Jamma yer Hut (6a+)**  
 Thin crackline with good moves
 
-**5. Slip yer Foot (6a+)**  
+**6. Slip yer Foot (6a+)**  
 Thin crackline with shallow groove start. Good.
 
-**6. Bust yer Gut (6b+)**  
+**7. Bust yer Gut (6b+)**  
 Sharp arête on right-hand side. Good moves.
 
-**7. Unfinished Business (7a+) *★***  
-Left-hand side of fine starting via layback crack. Very fingery from ledge.
+**8. Unfinished Business (7a+) *★***  
+Left-hand side of fin starting via layback crack. Very fingery from ledge.
 
-**Fintastic (7a)**  
+**9. Fintastic (7a)**  
 Straight up the front face of the fin.
 
-**8. Fin de Siecle (6c+) *★★***  
+**10. Fin de Siecle (6c+) *★★***  
 Classic on right-hand side of fin in great position.
 
-**9. Combien de Siecle (7a+) *★***  
+**11. Combien de Siecle (7a+) *★***  
 Short hard section up centre of side wall.
 
-**10. Irrational (7a+)**  
+**12. Pay Day (6c)**
+
+**13. Irrational (7a+)**  
 Tough looking face utilising left arête.
 
-**11. The Butch Master (6b+) *★***  
+**14. The Butch Master (6b+) *★***  
 Fine pitch with superb layback. The clue is in the name. 
 
-**12. Retro Rockets (6c+) *★***  
+**15. Retro Rockets (6c+) *★***  
 Short hard wall and superb calcite face above.
 
-**13. Let it Go (6c+) *★***  
+**16. Let it Go (6c+) *★***  
 Right-hand side of lower wall and arête above.
 
+
+**17. Let it Out (6c)**
+
+**18. Man on the Moon (6c+)**
+
+**19. Oh Dave (6c)**
 
 ![The Retreat RH](/img/peak/buxton/Retreat-RH.jpg)
 {.topo .w100}

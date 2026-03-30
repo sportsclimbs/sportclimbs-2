@@ -6,8 +6,9 @@ columns: true
 ---
 
 
-PLEASE NOTE: A bird restriction exists on this walll and runs from March 1st until June 30th. Look out for the signs.
-{.alert}
+NESTING RESTRICTION  
+No climbing on this wall from 1st March until 30th June.
+{.strong-alert}
 
 ![Black Wall topo](/img/north-wales/border-region/llanymynech/Black-Wall-copy.jpg)
 {.topo}

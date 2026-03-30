@@ -6,8 +6,10 @@ columns: true
 ---
 
 
-PLEASE NOTE: A bird restriction exists on this wall and runs from 1st March until 30th June. Also no climbing to the right of the arête of Clematis.
-{.alert}
+NESTING RESTRICTIONS  
+No climbing on this wall from 1st March until 30th June.  
+Also no climbing to the right of the arête of Clematis.
+{.strong-alert}
 
 ![Red Wall topo 1](/img/north-wales/border-region/llanymynech/red.gif)
 {.topo .w100}

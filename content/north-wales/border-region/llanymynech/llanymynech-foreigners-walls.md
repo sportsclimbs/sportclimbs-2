@@ -4,8 +4,9 @@ draft: false
 placeholder: false
 columns: true
 ---
+
 Please note that a number of routes have had their bolt runners removed on this wall by the Shropshire Wildlife Trust. The reason is that a number of rare plants exist below the wall and so they do not want climbing here. All the routes where bolts have been removed are marked accordingly.
-{.alert}
+{.strong-alert}
 
 ![Foreigner Wall topo](/img/north-wales/border-region/llanymynech/Foreigner-Walls-copy.jpg)
 {.topo .w100}

@@ -1,8 +1,10 @@
+# Run dos2unix on this file to fix line endings
+
 [build.environment]
-DART_SASS_VERSION = "1.97.0"
+DART_SASS_VERSION = "1.98.0"
 GO_VERSION = "1.25.5"
-HUGO_VERSION = "0.154.0"
-NODE_VERSION = "24.12.0"
+HUGO_VERSION = "0.159.1"
+NODE_VERSION = "24.14.1"
 TZ = "Europe/London"
 URL = "https://www.sportclimbs.uk/"
 

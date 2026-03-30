@@ -152,6 +152,33 @@
     font-weight: 600;
 }
 
+.strong-alert {
+	display: flex;
+	gap: 2em;
+	align-items: center;
+	padding: 2em;
+	font-weight: 600;
+	background-color: var(--heading-color);
+	background-image: linear-gradient(45deg,#3e0000,#710101);
+	color: #eee;
+	border-radius: 1rem;
+	border: solid 4px;
+}
+.strong-alert::before {
+	content: "!";
+    display: grid;
+    place-content: center;
+	aspect-ratio: 1/1;
+	font-size: 2em;
+	font-weight: bold;
+	font-family: georgia, serif;
+	border: solid 4px;
+	border-radius: 50%;
+    padding: 1em ;
+    line-height: 0;
+	text-align: center;
+}
+
 .notopmargin {
     margin-top: 0;
 }

@@ -304,6 +304,10 @@ This takes the steep wall with overlap 10m further right.
 This is the obvious short, clean wall situated high up behind some trees. There are various trad routes here from V Diff to E2 and the following sport routes.
 {.csa}
 
+
+![Doodah Buttress](/img/peak/stoney/horseshoe-upper-tier-doodah.jpg)
+{.topo}
+
 **Footprint (4b)**  
 The Broken crack line.
 
@@ -313,16 +317,16 @@ The narrow pillar. Only 6a if you use the right arête of the next route.
 **Ol’Dirty Tights (6a)**  
 Follow the previous route to the third bolt then layaway up a crack (Golden Tights, VS 4b) to reach a horizontal break. Move back left to the next bolt and finish direct.
 
-**Pot washer's Wall 10m (6a+)** 
+**1. Pot washer's Wall 10m (6a+)** 
 Cleaned of loose blocks and now bolted.
 
 **Doolin-Dalton Diagonal (6a+) 15m**  
 Start up *Pot washer's Wall* and climb to the belay of *Tequila Sunrise*.
 
-**Lyin' Eyes 10m (6a)**  
+**2. Lyin' Eyes 10m (6a)**  
 The central line of the wall, right of *Pot-washer's Wall*.
 
-**Tequila Sunrise 10m (6a)**  
+**3. Tequila Sunrise 10m (6a)**  
 Start just right of *Lyin' Eyes*. Gain the crack (*Hot Zipperty* HVS 5a) and then swing right onto the cherty jugs to finish in the upper niche.  
 
 &nbsp;
