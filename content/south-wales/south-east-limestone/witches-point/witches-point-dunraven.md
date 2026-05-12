@@ -73,6 +73,9 @@ A mega route through centre of bulges and roofs. Complicated lineage.
 **17. Pasty = Man Boobs (4)**  
 An easy access pitch up the slabs to The Gantry.
 
+**Witchcraft (8b+) *★★***  
+From the end of the previous route continue up through the roof via a crack to the top of the crag.
+
 **18. Young, Gifted and Beige (4)**  
 The right-hand easy access pitch to The Gantry.
 

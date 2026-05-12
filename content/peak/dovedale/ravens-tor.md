@@ -18,7 +18,7 @@ From the parking at Mill Dale, walk down the road towards the river and after 20
 ![Map to Raven Tor](/img/peak/dovedale/ravens-tor-map.png)
 {.topo .mauto}
 
-## Ravens Tor left
+## Raven's Tor left
 ![Ravens Tor LH](/img/peak/dovedale/Raven-Tor-LH.jpg)
 {.topo}
 
@@ -75,7 +75,7 @@ The slim wall between the two cracklines provides a meaty pitch with a number of
 **17. Parrot Face HVS 4b, 5a *★***  
 The right-hand crackline isn't quite as fine as its neighbour but deserves attention all the same.
 
-## Ravens Tor right
+## Raven's Tor right
 
 ![Ravens Tor RH topo](/img/peak/dovedale/ravens-tor-right.jpg)
 {.topo}

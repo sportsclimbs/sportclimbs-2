@@ -38,10 +38,10 @@ Climb the left arête of groove.
 Obvious groove. Rarely climbed.
 
 **8. Fifty Bolts to the Gallon (6a+)**  
-Contrived arête to right via new BRs. Two stiff pulls high up. Poor
+Good climbing up the L arête of the groove of *Like Ice, Like Fire*.
 
-**9. Like Ice, Like Fire (6a)**  
-Shallow grooves on left-hand side of arête. 2 staple bolts.
+**9. Like Ice, Like Fire (6a) *&starf;***  
+Shallow grooves on left-hand side of arête. 
 
 **10. Galening Crack HVS 5a  *&starf;***  
 The prominent crack in back of a groove. The best trad line in quarry.
@@ -53,12 +53,15 @@ The shallow groove, old BRs, and shallow finishing groove.
 Start up vague arête and continue, with care, past prominent hollow flake.
 
 **13. The Rotten Word (6c+)**  
-Line of staples to right. Hard and fingery low down. Finish on arête
+Hard and fingery low down. Finish on the arête.
 
 **14. Decaydance (6c)**  
-Follow the hangers left of prominent cracked pillar to fine open finish on headwall.
+Blind climbing in a fine position up the blank looking, grey headwall.  From the good break below the headwall make a long move up to an edge and reach R to a good hold.
 
-**15. A Right Earful (6a+)  *&starf;** *  
+**Order Number 59 (6b+)**  
+Retrobolted trad line climbing up the yellow headwall R of Decaydance. At the headwall move L to a line of flat holds leading up. It's also possible to pull up R at the start of the headwall which is slightly easier.
+
+**15. A Right Earful (6a+)  *&starf;***  
 Start up prominent right facing corner and crack line. Swing left onto a ledge and continue to tricky finish.
 
 **16. Clean Your Mouth Out (6c+)  *&starf;***  

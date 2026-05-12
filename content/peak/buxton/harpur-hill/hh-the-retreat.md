@@ -3,6 +3,7 @@ title: The Retreat
 draft: false
 placeholder: false
 columns: true
+summary: Six new routes added.
 ---
 
 This sector situated in the large bay facing The Sanctuary. Drop down to The Sanctuary and then follow a vague path up the slight incline facing the Sanctuary into the open bay. The crag is shady most of the day. An ideal crag for warm sunny weather and a barbecue!
